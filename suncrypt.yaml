@@ -1,0 +1,455 @@
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nPRP diagnostic imaging\nprpimaging.com.au\n __Info\nLock date  \nPhone\
+    \  \nAddress  \nFull dump No  \nDDOS No  \n __Content\nThe detailed updated will\
+    \ be available in a couple of hours and the full dump\nwithin 5 days.\nAbout 10%\
+    \ of the data is posted.\n __Files\nPassword:\n  * 1.tgz\n  * 2.tgz\n  * 3.tgz\n\
+    \  * 4.tgz\n  * 5.tgz\n"
+  hmac: 900d8a9dc6f0f469d76891a4f519fd547c0035a18af8eb9c75ea7613a5a41267
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=27
+  timestamp: 2021-06-03 20:29:49.371858
+  title: PRP diagnostic imaging
+  url: !!set
+    ? !!python/tuple [1.tgz, 'http://l4sd5qtsofedx7ss.onion/auZ1ts8Dojeoi/1.tgz']
+    : null
+    ? !!python/tuple [2.tgz, 'http://l4sd5qtsofedx7ss.onion/auZ1ts8Dojeoi/2.tgz']
+    : null
+    ? !!python/tuple [3.tgz, 'http://l4sd5qtsofedx7ss.onion/auZ1ts8Dojeoi/3.tgz']
+    : null
+    ? !!python/tuple [4.tgz, 'http://l4sd5qtsofedx7ss.onion/auZ1ts8Dojeoi/4.tgz']
+    : null
+    ? !!python/tuple [5.tgz, 'http://l4sd5qtsofedx7ss.onion/auZ1ts8Dojeoi/5.tgz']
+    : null
+    ? !!python/tuple [prpimaging.com.au, 'http://nbzzb6sa6xuura2z.onion/prpimaging.com.au']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nJSW Steel USA\nhttp://www.jswsteel.us\n __Info\nLock date 2020-09-29  \n\
+    Phone 1(281) 383-2525  \nAddress 5200 E McKinney Rd Ste 110 Baytown, TX, 77523-8291\
+    \  \nFull dump No  \nDDOS YES  \n __Content\n##  JSW Steel\nJsw Steel (usa) Inc.\
+    \ is located in TX, United States and is part of the Steel\nProduction Industry.\
+    \ Jsw Steel (usa) Inc. has 696 employees across all of its\nlocations. There are\
+    \ 256 companies in the Jsw Steel (usa) Inc. corporate\nfamily.\n  * EMPLOYEES\
+    \ (ALL SITES) 696\n  * REVENUE (MIL USD) 326.43\n  * INCORPORATED 2007\n  * FISCAL\
+    \ YEAR END SEP\n"
+  hmac: b715d391e2ba9d845a491e0de81f9c34e5dda68642559798f1cc731592af60eb
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=26
+  timestamp: 2021-06-03 20:29:49.371902
+  title: JSW Steel USA
+  url: !!set {'http://www.jswsteel.us': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nSB Zantal Markt\nhttps://www.sb-zentralmarkt.de/\n __Info\nLock date 2020-09-18\
+    \  \nPhone 06431 951-0  \nAddress Kapellenstr. 8, 65555 Limburg a.d. Lahn  \n\
+    Full dump No  \nDDOS YES  \n __Content\n"
+  hmac: 901235942d4911845bc98270ac14e7ffab5b10f168fd219b7ef2322e5dca3646
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=25
+  timestamp: 2021-06-03 20:29:49.371914
+  title: SB Zantal Markt
+  url: !!set {'https://www.sb-zentralmarkt.de/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nDean and Fulkerson\nhttps://www.dflaw.com/\n __Info\nLock date 2020-09-15\
+    \  \nPhone 1(248) 362-1300  \nAddress 801 W. Big Beaver Road, Suite 500 Troy,\
+    \ Michigan 48084  \nFull dump YES12 GB  \nDDOS No  \n __Content\nDean & Fulkerson\
+    \ was formed in 1988 to create a full-service corporate /\nmanagement / entrepreneurial\
+    \ law firm to serve the business, professional and\npersonal needs of each of\
+    \ its clients.\nDean & Fulkerson is dedicated to solving clients\u2019 legal problems\
+    \ in a prompt,\nefficient manner. It has assisted thousands of clients, including\
+    \ businesses,\ngovernmental bodies, school districts and individuals to effectively\
+    \ resolve\ntheir legal problems.\nThe firm\u2019s experienced lawyers work closely\
+    \ with each client and use a common-\nsense approach to find practical solutions\
+    \ to legal problems at a reasonable\ncost. The attorneys:\n  *   * Carefully analyze\
+    \ each client\u2019s objectives\n  * Evaluate and present a variety of solutions\n\
+    \  * Focus efforts to achieve the best possible result\n  * Utilize up-to-date\
+    \ technology\n  * Control costs\n  * Use appropriately experienced staff on all\
+    \ matters\n__Files\nPassword: shhxe32\n  * MjwkERSZ#dv-BHDqc997xvOkuzHqt3SJPrC-kLxpLd2nRW6g_ar8\n"
+  hmac: c8b3abc2b5509e8ed3d7dc454a6ea06da3f431b6b743cdab0a1368cef54fe1c5
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=24
+  timestamp: 2021-06-03 20:29:49.371922
+  title: Dean and Fulkerson
+  url: !!set
+    ? !!python/tuple [MjwkERSZ#dv-BHDqc997xvOkuzHqt3SJPrC-kLxpLd2nRW6g_ar8, 'https://mega.nz/file/MjwkERSZ#dv-BHDqc997xvOkuzHqt3SJPrC-kLxpLd2nRW6g_ar8']
+    : null
+    https://www.dflaw.com/: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nAGSO\nhttps://www.agsoknokke-heist.be/contact\n __Info\nLock date 2020-09-15\
+    \  \nPhone +32 50442500  \nAddress Walletje 104 bus 101 8300 Knokke-Heist BE \
+    \ \nFull dump No  \nDDOS No  \n __Content\nAGSO Knokke-Heist\nAGSO Knokke-Heist\
+    \ was founded by the municipality of Knokke-Heist with the aim\nof carrying out\
+    \ real estate transactions and concrete urban development\nprojects. Thanks to\
+    \ its business organization, the autonomous municipal\ncompany Knokke-Heist can\
+    \ respond quickly and flexibly to market developments .\nAGSO Knokke-Heist is\
+    \ responsible for the urban renewal and urban development\nprojects of the municipality\
+    \ of Knokke-Heist, the operation of the municipal\nwater company, management of\
+    \ the business park, municipal waste management and\nthe Duinenwater site.\nAGSO\
+    \ KNOKKE-HEIST REPELS CYBER ATTACK\nThe incident is under further investigation,\
+    \ but at present there are no\nindications that information has been stolen. The\
+    \ competent authorities were\ninformed of this occurrence.\nPlease view the following\
+    \ screenshots and data :\n__Files\nPassword: d564h23ss\n  * NwUAhRiA#kZvcvRkVY7-GYyW72ndZoJXqZKIX78aXsWlz7jsoqIs\n"
+  hmac: 8d05a936b8913c7ac9c975114e0fda4951c114aaa3a01e90604e3db8281a47d7
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=22
+  timestamp: 2021-06-03 20:29:49.371938
+  title: AGSO
+  url: !!set
+    ? !!python/tuple [NwUAhRiA#kZvcvRkVY7-GYyW72ndZoJXqZKIX78aXsWlz7jsoqIs, 'https://mega.nz/file/NwUAhRiA#kZvcvRkVY7-GYyW72ndZoJXqZKIX78aXsWlz7jsoqIs']
+    : null
+    https://www.agsoknokke-heist.be/contact: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nMark A. O'neal and Associates\nhttps://www.markaoneal.com/\n __Info\nLock\
+    \ date 2020-09-09  \nPhone 1(225) 389-1100  \nAddress 7732 Goodwood Boulevard,\
+    \ Suite 211, Baton Rouge, LA 70806  \nFull dump YES3 GB  \nDDOS No  \n __Content\n\
+    Mark A. O'Neal & Associates is a professional land services firm with\noperations\
+    \ in the Mid- Atlantic, Gulf Coast, Marcellus Shale, Mid-Continent\nand Rocky\
+    \ Mountain regions and a 40 year track record of success in the\nindustry. With\
+    \ a large team of professionals, cutting-edge technology and in-\ndepth industry\
+    \ experience, MAO offers comprehensive land services to the oil\nand gas industry.\n\
+    ####  \nEmployees : 73\n#### Revenue : 17 million\n__Files\nPassword: rgr145\n\
+    \  * kZ8hDQIC#JmRqQLFmxDFpsdyHcS2uroLrvfQEBngDh8_Ppl9usbQ\n"
+  hmac: 973f6b34f9f913cc5c4831f95d80fd2a26f6cdb984ace43c07c2f90da555af9a
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=21
+  timestamp: 2021-06-03 20:29:49.371949
+  title: Mark A. O'neal and Associates
+  url: !!set
+    ? !!python/tuple [kZ8hDQIC#JmRqQLFmxDFpsdyHcS2uroLrvfQEBngDh8_Ppl9usbQ, 'https://mega.nz/file/kZ8hDQIC#JmRqQLFmxDFpsdyHcS2uroLrvfQEBngDh8_Ppl9usbQ']
+    : null
+    https://www.markaoneal.com/: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nGrushwitz\nhttps://www.gruschwitz.com/en/\n __Info\nLock date 2020-09-27\
+    \  \nPhone +49 4975 6190980  \nAddress Memminger St 68, Leutkirch im Allgau, Baden-Wuerttemberg,\
+    \ 88299,\nGermany  \nFull dump No  \nDDOS No  \n __Content\nGruschwitz GmbH is\
+    \ located in Bayern, Germany and is part of the Professional\nServices Sector\
+    \ Industry. Gruschwitz GmbH has employees across all of its\nlocations. There\
+    \ are companies in the Gruschwitz GmbH corporate family.\nIn 2004, Gruschwitz\
+    \ Textilwerke AG also relocated, moving to the Leutkirch\nsite with its complete\
+    \ fleet of machines and most of its staff. The factory\nbuilding, which has been\
+    \ in use since the company's founding in Neu-Ulm, was\nsold on 1 October 2004.\
+    \ There were now three high-profile technical twisting\nmills at the site in Leutkirch,\
+    \ grouped under the umbrella of Gruschwitz\nTextilwerke AG as a holding company\
+    \ of Gruschwitz GmbH Tech-Twists.\nIn October 2015, Dr Philipp Daniel Merckle,\
+    \ the main shareholder of Gruschwitz\nTextilwerke AG, sold his shares (around\
+    \ 94%) to pdm Holding AG (Neu Ulm), and\ndecided to merge Gruschwitz Textilwerke\
+    \ AG with pdm Holding AG, while at the\nsame time excluding the minority shareholders.\
+    \ The Annual General Meeting\nadopted resolutions on 31 May 2016, which became\
+    \ final on 2 August 2016. This\nmarked the end of the \"old\" Gruschwitz Textilwerke\
+    \ AG. The only operative\nsubsidiary, Gruschwitz GmbH Tech-Twists, was transformed\
+    \ into the \u201Cnew\u201D\nGruschwitz Textilwerke AG in October 2016 and is now\
+    \ successfully continuing\nmore than 200 years of company history.\n"
+  hmac: b36e369044e6f19ff0796e0f716a98972e8fae7f74d53087affdf40eb38ba315
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=20
+  timestamp: 2021-06-03 20:29:49.371959
+  title: Grushwitz
+  url: !!set {'https://www.gruschwitz.com/en/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nGlen Dimplex Home Appliances\nhttps://www.gdha.com\n __Info\nLock date\
+    \ 2020-09-22  \nPhone +353 (0)1852 3400  \nAddress Stoney Lane, Prescot, Merseyside,\
+    \ L35 2XW  \nFull dump No  \nDDOS YES  \n __Content\n##  GlenDimplex\nGlenDimplex\
+    \ (formerly known as Glen Electric) is an Irish based consumer\nelectrical goods\
+    \ firm headquartered in Dublin, Ireland. The company is\nprivately held, with\
+    \ manufacturing and development centres in the Republic of\nIreland, the United\
+    \ Kingdom, China and many other locations around the world.\nThe company also\
+    \ has branches in North America, Germany, the Netherlands,\nJapan, Poland, Belgium,\
+    \ France, Australia and Scandinavia. The company was\nfounded by Martin Naughton,\
+    \ and is wholly owned by him after he bought out the\nother shareholders in 2003.\
+    \ Martin Naughton stepped down as president of Glen\nDimplex in 2016, replaced\
+    \ by group chief executive Sean O'Driscoll.\n###  **Company Perspectives**\nFounded\
+    \ in 1973, Glen Dimplex is now the world's largest electrical heating\nbusiness\
+    \ and holds significant market positions in the domestic appliance\nindustry worldwide.\
+    \ With an annual turnover of EUR 1.5 Billion, the Group\nemploys 8,500 people.\
+    \ Fundamental to its success is a policy of continuous\ninvestment in building\
+    \ brands, constant product innovation and providing its\ncustomers with the products\
+    \ which they aspire to.\n### Additional Information\n  *  **Private Company**\n\
+    \  *  **Incorporated:** 1977 as Glen Dimplex\n  *  **Employees:** 8,500\n  * \
+    \ **Sales:** EUR 1.5 billion $1.9 billion (2004)\n  *  **NAIC:** 335221 Household\
+    \ Cooking Appliance Manufacturing; 335211 Electric Houseware and Fan Manufacturing;\
+    \ 335222 Household Refrigerator and Home and Farm Freezer Manufacturing; 335224\
+    \ Household Laundry Equipment Manufacturing; 335228 Other Household Appliance\
+    \ Manufacturing\n"
+  hmac: 89349c86ad0561202ce02ae96ea5f379c3bc81fd017bf9a89de97316f73df114
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=19
+  timestamp: 2021-06-03 20:29:49.371972
+  title: Glen Dimplex Home Appliances
+  url: !!set {'https://www.gdha.com': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nTri-signal Intergration\nhttp://tri-signal.com\n __Info\nLock date 2020-09-10\
+    \  \nPhone 1818-566-8558  \nAddress 28110 Avenue Stanford Santa Clarita, CA 91355\
+    \  \nFull dump YES20 GB  \nDDOS No  \n __Content\n## Los Angeles, CA Alarm System\
+    \ Services\n **Tri-Signal Integration is a group of professionals that specialize\
+    \ in the\ndesign, installation, and servicing of customized low voltage systems.\
+    \ Our\nstaff of low voltage specialists can maintain and service your existing\n\
+    system, or provide an integrated, tailor made life safety and communication\n\
+    solution for your unique application.**\n**Revenue** $25M to $100M (USD)\n **Employees**\
+    \ 201 to 500\n __Files\nPassword:\n  * sl9nWCBQ#pjP_aSSeByUh6LILazLyqA\n"
+  hmac: 227bacff47b2b270c7b3e58e0d994dd72d097bff6923628c6b3d641095dc60f7
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=18
+  timestamp: 2021-06-03 20:29:49.371985
+  title: Tri-signal Intergration
+  url: !!set
+    ? !!python/tuple [sl9nWCBQ#pjP_aSSeByUh6LILazLyqA, 'https://mega.nz/folder/sl9nWCBQ#pjP_aSSeByUh6LILazLyqA']
+    : null
+    http://tri-signal.com: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nVisa Italia\nwww.visa.it\n __Info\nLock date 2020-09-10  \nPhone +39 0422\
+    \ 5091  \nAddress Via I Maggio, 55 31043 Fontanelle (TV) ITALY  \nFull dump No\
+    \  \nDDOS No  \n __Content\nVisa SpA is a leading Italian company that has been\
+    \ successfully present on\nthe market since 1960, planning and manufacturing high-tech\
+    \ generating sets\nand power stations.  \n\"ONIS VISA\" gensets and power stations,\
+    \ ranging from 9 to 3,000 kVA, are\ncompletely manufactured in Italy and offer\
+    \ the best in terms of quality and\ntechnology. The company has total control\
+    \ over every phase of production, from\nthe punching and cutting of metal sheets,\
+    \ to bending and automatic painting.\nEven the assembly phases and bench tests,\
+    \ which are carried out on every\nfinished item, are managed internally, as is\
+    \ packaging before final shipment.\n"
+  hmac: 943f32aefee143be85e57e6da1f70e1eec043e8a88cf4d8055fa0abf413890ea
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=15
+  timestamp: 2021-06-03 20:29:49.371994
+  title: Visa Italia
+  url: !!set
+    ? !!python/tuple [www.visa.it, 'http://nbzzb6sa6xuura2z.onion/www.visa.it']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nTrustTeam\nhttps://www.trustteam.be/\n __Info\nLock date 2020-08-25  \n\
+    Phone +32 56 23 46 09  \nAddress Pastoor Paquaylaan 184 3550 Heusden-Zolder  \n\
+    Full dump YES80 GB  \nDDOS No  \n __Content\n##  Trustteam NV\nTrustteam NV provides\
+    \ information technology services. The Company offers\ncloud computing, mail security,\
+    \ telephony, software development, storage, and\nnetwork and security audit services.\
+    \ Trustteam serves customers in France and\nBelgium.\n__Files\nPassword:\n  *\
+    \ oIUjzAqY#r2yrlfTw3zAqKFrquE5sFQ\n  * ktthHS7Y#I0RItav24quLt1uGr20X2w\n  * Jf4mBYgK#GG1G3d2col3nblFLKANbTg\n\
+    \  * BFVDVCAY#AGNUZI_rbLlqRfgtv6YZDQ\n  * Zu5iwA6A#zy3Ytnx7Uc1a1098dKMb4Q\n"
+  hmac: c682f3eb4c6a4f95f26f9d68d89906b479e34834fffc3aa3cafe72ad08e57132
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=12
+  timestamp: 2021-06-03 20:29:49.372003
+  title: TrustTeam
+  url: !!set
+    ? !!python/tuple [ktthHS7Y#I0RItav24quLt1uGr20X2w, 'https://mega.nz/folder/ktthHS7Y#I0RItav24quLt1uGr20X2w']
+    : null
+    ? !!python/tuple [BFVDVCAY#AGNUZI_rbLlqRfgtv6YZDQ, 'https://mega.nz/folder/BFVDVCAY#AGNUZI_rbLlqRfgtv6YZDQ']
+    : null
+    ? !!python/tuple [Jf4mBYgK#GG1G3d2col3nblFLKANbTg, 'https://mega.nz/folder/Jf4mBYgK#GG1G3d2col3nblFLKANbTg']
+    : null
+    ? !!python/tuple [oIUjzAqY#r2yrlfTw3zAqKFrquE5sFQ, 'https://mega.nz/folder/oIUjzAqY#r2yrlfTw3zAqKFrquE5sFQ']
+    : null
+    ? !!python/tuple [Zu5iwA6A#zy3Ytnx7Uc1a1098dKMb4Q, 'https://mega.nz/folder/Zu5iwA6A#zy3Ytnx7Uc1a1098dKMb4Q']
+    : null
+    https://www.trustteam.be/: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nHaywood County Schools Network\nhttps://www.haywood.k12.nc.us/\n __Info\n\
+    Lock date 2020-08-24  \nPhone +1.828.456.2400  \nAddress 1230 North Main Street\
+    \ Waynesville, NC 28786  \nFull dump No  \nDDOS No  \n __Content\n __Files\nPassword:\n\
+    \  * vlIj3AjB#Q3YesRe3LjvMVl8G441iuw\n"
+  hmac: 1e98b33c9642dc4b06d207cc5d3ea0b71b09560870d29f39d82a27e6abd1af5b
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=11
+  timestamp: 2021-06-03 20:29:49.372011
+  title: Haywood County Schools Network
+  url: !!set
+    https://www.haywood.k12.nc.us/: null
+    ? !!python/tuple [vlIj3AjB#Q3YesRe3LjvMVl8G441iuw, 'https://mega.nz/folder/vlIj3AjB#Q3YesRe3LjvMVl8G441iuw']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nTug Hill Operating\nhttps://tughilloperating.com/contact/\n __Info\nLock\
+    \ date 2020-08-26  \nPhone +1 (800) 921-9745  \nAddress 1320 S. University Drive,\
+    \ Suite 500 Fort Worth, TX 76107  \nFull dump YES120gb  \nDDOS No  \n __Content\n\
+    Tug Hill Operating is a privately held, independent oil & gas exploration\ncompany\
+    \ focused on drilling and producing oil and clean-burning natural gas in\nthe\
+    \ continental United States. We believe that ethical business practices,\nhigh\
+    \ safety standards, and an unwavering focus on preserving the environment.\nTug\
+    \ Hill Operating is focused on acquiring, exploring, developing and\nproducing\
+    \ oil and clean-burning natural gas in the onshore United States with\na primary\
+    \ focus on the Marcellus Shale in the Appalachia Basin (Southwest\nAppalachia\
+    \ and Northeast Appalachia), Eagle Ford Shale in South Texas,\nNiobrara Shale\
+    \ in the Rockies region, and other select basins and formations.\nThe Company\
+    \ currently operates a concentrated acreage position in a premier\nregion of the\
+    \ Appalachia basin in Marshall and Wetzel Counties, West Virginia,\nand South\
+    \ Texas. The Company plans to continue to grow in these areas through\nselect\
+    \ strategic acquisitions and leasing efforts. Additionally, the Company\nmaintains\
+    \ an extensive non-operated asset position in Northeast Pennsylvania\nin the tier\
+    \ 1 Marcellus where Tug Hill or its team have drilled and/or\nparticipated in\
+    \ over 850 wells since 2007. The majority of the Northeast\nPennsylvania non-op\
+    \ position is operated by Chief Oil & Gas, LLC.\nThe Tug Hill Operating team is\
+    \ highly experienced and entrepreneurial, with a\nlong history of working together.\
+    \ The Company focuses on operational\nexcellence and detailed analysis, with all\
+    \ decisions underpinned by deep\ntechnical and financial evaluation. The senior\
+    \ team has acquired, operated,\ndeveloped, and managed E&P assets in nearly every\
+    \ major US Domestic basin and\nhas a proven track record of managing large scale\
+    \ assets.\n __Files\nPassword:\n  * r9RBjArQ#qYNr9SkR4pzKup7pH4AV_Q\n  * YcJnFAiB#9yyGVKCRV4odBptDpeuTKA\n"
+  hmac: 5ffd2aefaccd34dc05d156cc067d7cf34410737ff5a0636048c0a81772e9e031
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=9
+  timestamp: 2021-06-03 20:29:49.372018
+  title: Tug Hill Operating
+  url: !!set
+    ? !!python/tuple [YcJnFAiB#9yyGVKCRV4odBptDpeuTKA, 'https://mega.nz/folder/YcJnFAiB#9yyGVKCRV4odBptDpeuTKA']
+    : null
+    https://tughilloperating.com/contact/: null
+    ? !!python/tuple [r9RBjArQ#qYNr9SkR4pzKup7pH4AV_Q, 'https://mega.nz/folder/r9RBjArQ#qYNr9SkR4pzKup7pH4AV_Q']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nStudio Architecture P.C\nhttps://studioarc.com\n __Info\nLock date 2020-08-21\
+    \  \nPhone +1 (405) 605-1044  \nAddress 816 N. Walker Avenue Suite 100 Oklahoma\
+    \ City, OK 73102  \nFull dump No  \nDDOS No  \n __Content\n###  **Studio Architecture**\n\
+    STUDIOARCHITECTURE really started simply as a college friendship between Jim,\n\
+    George and Jerry. And their story could have ended there. As each of the three\n\
+    friends graduated from college, they took jobs across the country. Luckily for\n\
+    everyone who now works at STUDIO, each of them eventually made their way back\n\
+    to Oklahoma, and a rekindled friendship lead to the dream of opening their own\n\
+    firm.\n"
+  hmac: cdb064677c6f25a5829fe974922b760007a958556e9518319cb58f059c923bab
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=8
+  timestamp: 2021-06-03 20:29:49.372032
+  title: Studio Architecture P.C
+  url: !!set {'https://studioarc.com': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nKarmsund.no\noffshore@kamos.no\n __Info\nLock date 2020-08-14  \nPhone\
+    \ +47 52 84 43 40  \nAddress Austre Karm\xF8yveg 76 N-4250 Kopervik NORWAY  \n\
+    Full dump No  \nDDOS No  \n __Content\n## Karmsund\nKarmsund Maritime Offshore\
+    \ Supply AS is a Norwegian technology company\nsituated at Haugalandet, the west\
+    \ coast of Norway.\nKaMOS\xAE specializes in developing and producing time, cost\
+    \ and safety efficient\nsolutions and products, serving both onshore and offshore\
+    \ industries\nworldwide.\nOur business is to continue our efforts to improve issues\
+    \ relating to health,\nenvironment and safety at the workplace and in connection\
+    \ with the goods and\nservices that we deliver.\n"
+  hmac: 1c6a17f3f379ce8818c8e26a2cec968703b2c0806363ca26db6382756ef3935d
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=7
+  timestamp: 2021-06-03 20:29:49.372040
+  title: Karmsund.no
+  url: !!set
+    ? !!python/tuple [offshore@kamos.no, 'http://nbzzb6sa6xuura2z.onion/offshore@kamos.no']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nFPI Management\nwww.fpimgt.com\n __Info\nLock date 2020-08-14  \nPhone\
+    \ 1(916) 357-5300  \nAddress 800 Iron Point Road  Ca 95630  \nFull dump YES103\
+    \ GB  \nDDOS No  \n __Content\n## FPI MANAGMENT\nFPI is a privately owned, exclusive\
+    \ third party, multifamily property manager.\nFPI currently manages just over\
+    \ 110,000 units located in 15 states with zero\nownership interest (Alaska, California,\
+    \ Colorado, Idaho, Minnesota, Montana,\nNevada, New Mexico, Ohio, Oklahoma, Oregon,\
+    \ Pennsylvania, Texas, Virginia, and\nWashington). FPI is the largest 100% fee-based\
+    \ property management company in\nthe nation. The portfolio consists of 60% market\
+    \ rate and 40% affordable\nunits.\n### To prevent data leak please contact us\
+    \ in 3 days term.\n### You will receive decrypts , full file tree and security\
+    \ analytics. Of\ncourse all data will be removed from our encrypted server with\
+    \ no methods of\nrestoration.\n __Files\nPassword: rxc121\n  * Tc03GZzR#PiQJDDQSQHaLcBstfsaSpFsc2N2hqHXJzx6An0lt2Qw\n\
+    \  * RUg3CKgY#bJREqixkE3Y1_x_PLiRRHA\n  * RM4XWCRC#r6Nbda4ZWwKol3IDE9qXLA\n  *\
+    \ EBpDWA6C#hua_5z-YrjQu2Y1mC45Vjg\n"
+  hmac: af7a1b686fdac1e6823c3351722f686909e960b627600c0bb5a4a513621c2ecb
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=6
+  timestamp: 2021-06-03 20:29:49.372050
+  title: FPI Management
+  url: !!set
+    ? !!python/tuple [EBpDWA6C#hua_5z-YrjQu2Y1mC45Vjg, 'https://mega.nz/folder/EBpDWA6C#hua_5z-YrjQu2Y1mC45Vjg']
+    : null
+    ? !!python/tuple [RM4XWCRC#r6Nbda4ZWwKol3IDE9qXLA, 'https://mega.nz/folder/RM4XWCRC#r6Nbda4ZWwKol3IDE9qXLA']
+    : null
+    ? !!python/tuple [RUg3CKgY#bJREqixkE3Y1_x_PLiRRHA, 'https://mega.nz/folder/RUg3CKgY#bJREqixkE3Y1_x_PLiRRHA']
+    : null
+    ? !!python/tuple [Tc03GZzR#PiQJDDQSQHaLcBstfsaSpFsc2N2hqHXJzx6An0lt2Qw, 'https://mega.nz/file/Tc03GZzR#PiQJDDQSQHaLcBstfsaSpFsc2N2hqHXJzx6An0lt2Qw']
+    : null
+    ? !!python/tuple [www.fpimgt.com, 'http://nbzzb6sa6xuura2z.onion/www.fpimgt.com']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nPhillips collection\nhttps://www.phillipscollection.com/\n __Info\nLock\
+    \ date 2020-08-01  \nPhone 1336-882-7400  \nAddress 916 Finch Avenue High Point,\
+    \ NC 27263  \nFull dump YES180 GB  \nDDOS No  \n __Content\n __Files\nPassword:\
+    \ qw1234\n  * CkgSnCTD\n"
+  hmac: 53af3f270283a1d786a46960b42d6e6d4476d48abe98a13aaeaf0b6a5233d800
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=5
+  timestamp: 2021-06-03 20:29:49.372060
+  title: Phillips collection
+  url: !!set
+    ? !!python/tuple [CkgSnCTD, 'https://mega.nz/file/CkgSnCTD']
+    : null
+    https://www.phillipscollection.com/: null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\nGlobal Union Canada\nhttp://globeunion.ca/\n __Info\nLock date 2020-08-08\
+    \  \nPhone 1-800-487-8372  \nAddress Montreal, QC 4610 Chemin du Bois-Franc Montreal,\
+    \ Quebec Canada, H4S 1\nA7  \nFull dump No  \nDDOS No  \n __Content\n## Globe\
+    \ Union Ca\nhas offices in Montreal and Toronto, as well as distribution centers\
+    \ in\nMontreal, QC & Richmond, BC.\nOur 10,000 associates pursue excellence world-wide.\n\
+    Globe Union is one of the world\u2019s largest suppliers of plumbing products\n\
+    operating over 5 million square feet of manufacturing, assembly, and\ndistribution\
+    \ facilities located on 3 Continents and in 9 countries. Our\nproducts are marketed\
+    \ through over a dozen company brands and scores of\nprivate brands. A publicly\
+    \ traded company, we are headquarted in Taichung,\nTaiwan; we sell products to\
+    \ customers in over 30 countries.\nOur mission is to be a positive force to the\
+    \ industry and communities, Globe\nUnion will delight consumers by delivering\
+    \ innovative and environmentally\nresponsible products and services that improve\
+    \ their quality of life. We will\ndelight our shareholders with above market financial\
+    \ returns while minimizing\nrisks. We will build an enterprise with strong foundation\
+    \ so it may prosper\nfor generations. We will empower our people, while creating\
+    \ a fair and\npleasant working environment which enables them to learn, to grow,\
+    \ and to\ndevelop their potential both personally and professionally.\n __Files\n\
+    Password: sss231\n  * L0BU3SyR\n"
+  hmac: 3d0f8ff58cbd4d75d30ebfd622582ff6b0c90f702ebd79adbac161eeaf57a6be
+  ltype: Shaming list
+  malware: Suncrypt
+  source: http://nbzzb6sa6xuura2z.onion/client.php?id=3
+  timestamp: 2021-06-03 20:29:49.372066
+  title: Global Union Canada
+  url: !!set
+    http://globeunion.ca/: null
+    ? !!python/tuple [L0BU3SyR, 'https://mega.nz/file/L0BU3SyR']
+    : null

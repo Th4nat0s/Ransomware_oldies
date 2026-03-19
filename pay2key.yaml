@@ -1,0 +1,264 @@
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # Portnox - Network Security Solutions
+
+    ![](images/portnox.png)
+
+    Dear friends!
+
+    '
+  hmac: 1b1e2424b79c34a49193ecd259b7d6cf4cdd3cef7c271f534ec94b3f3ba697dc
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/portnox.html
+  timestamp: 2021-06-03 20:27:18.162487
+  title: Portnox - Network Security Solutions
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # IAI - Israel Aerospace Industries
+
+    ![](images/iai.jpg)
+
+    Dear friends!
+
+    '
+  hmac: 90d9dae5f654ab343a8d39e22c89f8036363cdae5d2bf9394c40012055f78233
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/iai.html
+  timestamp: 2021-06-03 20:27:18.162526
+  title: IAI - Israel Aerospace Industries
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # Intel - Habana Labs
+
+    ![](images/habana.jpg)
+
+    Dear friends!
+
+    '
+  hmac: 57a9246bb1f45ffc4bfb6f43fcfee25e8b8b49726f473b9bd086828ad5312898
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/habana.html
+  timestamp: 2021-06-03 20:27:18.162645
+  title: Intel - Habana Labs
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # InfiApps - Joyvoo
+
+    ![](images/infiapps.png)
+
+    Dear friends!
+
+    '
+  hmac: d39aecc7f2f900255b23401692175bd31c511a7ea009e73d9737a64b76a7c6fb
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/infiapps.html
+  timestamp: 2021-06-03 20:27:18.162655
+  title: InfiApps - Joyvoo
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # INTER - Inter Industries
+
+    ![](images/interg.png)
+
+    Dear friends!
+
+    '
+  hmac: 81329571ee15d2d881be626cfb6e8576b3164e358cbbcdd11d1fdce4e78dc760
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/interg.html
+  timestamp: 2021-06-03 20:27:18.162660
+  title: INTER - Inter Industries
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Homepage
+
+    # MT-LAW [Markman & Tomashin Law Firm]
+
+    ![](images/mt-law.png)
+
+    Dear friends!
+
+    '
+  hmac: c54986750d9bb3c8dabcf901ba8e53ccaf30c8d7e5423fcddbb0e107e847cd0b
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/mt-law.html
+  timestamp: 2021-06-03 20:27:18.162667
+  title: MT-LAW [Markman & Tomashin Law Firm]
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Portnox - Network Security Solutions
+
+    ![](images/portnox.png)
+
+    Dear friends!
+
+    '
+  hmac: 6c3f670f987bbbf930b7a7b15a47a5a11d851f4b7b2387a2596561b9c1fcab09
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/portnox.html
+  timestamp: 2021-06-03 20:27:18.162672
+  title: Portnox - Network Security Solutions
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # IAI - Israel Aerospace Industries
+
+    ![](images/iai.jpg)
+
+    Dear friends!
+
+    '
+  hmac: 419f42ca8a39c464286c64330b335bd4a85f9dde3e2ab902316769438724061a
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/iai.html
+  timestamp: 2021-06-03 20:27:18.162679
+  title: IAI - Israel Aerospace Industries
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Intel - Habana Labs
+
+    ![](images/habana.jpg)
+
+    Dear friends!
+
+    '
+  hmac: 139e8276ede87fef0e0ff9d93cf47a663eb1225b211647010103bffe9658c444
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/habana.html
+  timestamp: 2021-06-03 20:27:18.162684
+  title: Intel - Habana Labs
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # InfiApps - Joyvoo
+
+    ![](images/infiapps.png)
+
+    Dear friends!
+
+    '
+  hmac: 41963f3b3183452e31f73f51d6cd7c84056515897342a165d257b547e2c23d9a
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/infiapps.html
+  timestamp: 2021-06-03 20:27:18.162691
+  title: InfiApps - Joyvoo
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # INTER - Inter Industries
+
+    ![](images/interg.png)
+
+    Dear friends!
+
+    '
+  hmac: c207b25ad676c533950fa978849c15920e543a39fef573816438e2a4062b5742
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/interg.html
+  timestamp: 2021-06-03 20:27:18.162696
+  title: INTER - Inter Industries
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # MT-LAW [Markman & Tomashin Law Firm]
+
+    ![](images/mt-law.png)
+
+    Dear friends!
+
+    '
+  hmac: e73d3fb97c29e98238cd20f5f767032d5bf314a44d404ae42b7716976510891d
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/mt-law.html
+  timestamp: 2021-06-03 20:27:18.162701
+  title: MT-LAW [Markman & Tomashin Law Firm]
+  url: !!set
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null

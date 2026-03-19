@@ -1,0 +1,124 @@
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Randstad USA
+
+    Part of data
+
+    Password for part of data will be available later
+
+    URL:
+
+    https://www.randstadusa.com/
+
+    Address:
+
+    One Overton Park, 3625 Cumberland Blvd SE
+
+    Atlanta, GA 30339
+
+    Part of data
+
+    ransomware'
+  hmac: 1cfa36799a352252934965120f2d140a4f90a2ebcc2946d963ab84625c8ac49e
+  ltype: Shaming list
+  malware: Egregor
+  source: https://egregornews.com/publish/randstad
+  timestamp: 2021-01-21 22:19:53.149009
+  title: Egregor News - Hall of shame
+  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/randstad1.7z',
+    'https://www.randstadusa.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'DSC Logistics
+
+    Part of data
+
+    Password for part of data will be available later
+
+    URL:
+
+    https://www.dsclogistics.com/
+
+    Address:
+
+    1750 South Wolf Road
+
+    Des Plaines, IL 60018
+
+    Part of data
+
+    ransomware'
+  hmac: cd17103f40b5771d62538882cf714933df5685dc9edd5d7417780e60650e1d7b
+  ltype: Shaming list
+  malware: Egregor
+  source: https://egregornews.com/publish/dsc_locked
+  timestamp: 2021-01-21 22:19:53.782790
+  title: Egregor News - Hall of shame
+  url: ['https://www.dsclogistics.com/', 'https://egregornews.com/tag/ransomware',
+    'https://egregornews.com/proofs/partial/dsclogistics10.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'RMB PRODUCTS
+
+    URL:
+
+    https://rmbproducts.com/
+
+    Address:
+
+    1201 RMB Court
+
+    Fountain, Colorado 80817
+
+    ransomware'
+  hmac: 6f99ac74eec5d82fa525924494e95579f917d7186b3fc9366e946850d305411a
+  ltype: Shaming list
+  malware: Egregor
+  source: https://egregornews.com/publish/rmbproducts_locked
+  timestamp: 2021-01-21 22:19:54.413378
+  title: Egregor News - Hall of shame
+  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/cos10.zip',
+    'https://rmbproducts.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Baxter, James
+
+    Rose, LLP
+
+    Part of data
+
+    Password for part of data will be available later
+
+    URL:
+
+    http://bjrlegal.com/
+
+    Address:
+
+    6602 E. 75th Street, Suite 115
+
+    Indianapolis, Indiana 46250
+
+    Part of data
+
+    ransomware'
+  hmac: 3b1159c4220402b87c88d2cd3224497d493552e15518d01ca6a990391519e4e0
+  ltype: Shaming list
+  malware: Egregor
+  source: https://egregornews.com/publish/bjr_locked
+  timestamp: 2021-01-21 22:19:55.048407
+  title: Egregor News - Hall of shame
+  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/bjrlegal1.7z',
+    'http://bjrlegal.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Clyde,\_Ferraro\_\n\_Co.,\_LLP\nPart of data\nPassword for part of data will\
+    \ be available later\nURL:\nhttp://cfc-cpa.com/\nAddress:\n75 Larsen Dr, DuBois,\n\
+    PA 15801, USA\nPart of data\nransomware"
+  hmac: f586445aa26fa9a7cc98aac7463290759f52e8bd4c87f0a76d27f1bf549fc3bc
+  ltype: Shaming list
+  malware: Egregor
+  source: https://egregornews.com/publish/cfccpa_locked
+  timestamp: 2021-01-21 22:19:55.695431
+  title: Egregor News - Hall of shame
+  url: ['https://egregornews.com/tag/ransomware', 'http://cfc-cpa.com/', 'https://egregornews.com/proofs/partial/cfccpa1.7z']

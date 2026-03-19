@@ -1,0 +1,1845 @@
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Clopay Ames True Temper Holding Corp.\nSome ThingsJust Belong Together\r\n\
+    Weve assembled collections of Ames files here. We have much more but we think\
+    \ there are interesting things already and no need to publish ~20GBs more. Maybe\
+    \ some day we'll share the rest somewhere else.\n- executive.7z.001 262144Kb\n\
+    - executive.7z.002 262144Kb\n- executive.7z.003 262144Kb\n- executive.7z.004 262144Kb\n\
+    - executive.7z.005 262144Kb\n- executive.7z.006 262144Kb\n- executive.7z.007 262144Kb\n\
+    - executive.7z.008 262144Kb\n- executive.7z.009 262144Kb\n- executive.7z.010 262144Kb\n\
+    - executive.7z.011 262144Kb\n- executive.7z.012 262144Kb\n- executive.7z.013 250953Kb\n\
+    - __IT.7z.001 262144Kb\n- __IT.7z.002 262144Kb\n- __IT.7z.003 262144Kb\n- __IT.7z.004\
+    \ 262144Kb\n- __IT.7z.005 262144Kb\n- __IT.7z.006 262144Kb\n- __IT.7z.007 199436Kb\n\
+    - accounting_Inf.7z 102367Kb\n- ATT Southern.zip 8588Kb\n- Dlp_events_export_cbarg_2018_07_23_01_32_50.zip\
+    \ 45704Kb\n- Dlp_events_export_spacheco_2018_07_23_01_39_57.zip 97817Kb\n- att_corp_share.7z.001\
+    \ 262144Kb\n- att_corp_share.7z.002 262144Kb\n- att_corp_share.7z.003 262144Kb\n\
+    - att_corp_share.7z.004 262144Kb\n- att_corp_share.7z.005 262144Kb\n- att_corp_share.7z.006\
+    \ 27373Kb\n- AMES.tar.7z 244017Kb"
+  hmac: bb3c4f7e54d4429214408b9ce8434d0bed2c926e4a5ce48043d120c5a19227a7
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Clopay-Ames-True-Temper-Holding-Corp.-la3azj
+  timestamp: 2020-05-20 21:54:13.637860
+  title: Hacked by Doppel Spider
+  url: ['https://www.true-temper.com/about/about-true-temper/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/302#executive.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/301#executive.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/300#executive.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/299#executive.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/298#executive.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/297#executive.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/296#executive.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/295#executive.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/294#executive.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/293#executive.7z.010',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/292#executive.7z.011',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/291#executive.7z.012',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/290#executive.7z.013',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/289#__IT.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/288#__IT.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/287#__IT.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/286#__IT.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/285#__IT.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/284#__IT.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/283#__IT.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/282#accounting_Inf.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/281#ATT
+      Southern.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/280#Dlp_events_export_cbarg_2018_07_23_01_32_50.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/279#Dlp_events_export_spacheco_2018_07_23_01_39_57.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/278#att_corp_share.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/277#att_corp_share.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/276#att_corp_share.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/275#att_corp_share.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/274#att_corp_share.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/273#att_corp_share.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Clopay-Ames-True-Temper-Holding-Corp.-la3azj/272#AMES.tar.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Roger Martin\n\r\n1895\r\n\r\nEugne MARTIN (1866-1949) fonde sa propre entreprise\
+    \ dasphaltage et de pavage. Cette dernire se dveloppe grce lentretien du rseau\
+    \ ferroviaire Paris-Lyon-Marseille (PLM), section Laroche-Migennes/Dijon. En 1911,\
+    \ elle simplante au 5 rue Montmartre Dijon.\r\n2020 - Data gone public.\r\n\r\n\
+    - USER.7z.001 262144Kb\n- USER.7z.002 255706Kb\n- misk.7z.001 262144Kb\n- misk.7z.002\
+    \ 228095Kb\n- FILES.7z.001 262144Kb\n- FILES.7z.002 88784Kb\n- backup_Volswagen.zip\
+    \ 5922Kb\n- backup_SCAN.zip 1827Kb\n- backup_RENAULT POUILLY.zip 3941Kb\n- backup_RACING\
+    \ MOTO.zip 291Kb\n- backup_QUETIGNY ARTEO.zip 666Kb\n- backup_Plans GILLY.zip\
+    \ 2839Kb\n- backup_PEUGEOT SAINT APOLLINAIRE.zip 25238Kb\n- backup_AGRONOV BRETENNIERE.zip\
+    \ 51472Kb\n- backup_AGIP AIRE JURA.zip 142921Kb\n- backup_89-MAGNY ENTREPOT.zip\
+    \ 46898Kb\n- backup_11.PARC SAINT APO.zip 22596Kb\n- backup_MASE.zip 175146Kb\n\
+    - documentation.zip 8647Kb\n- 1.zip 2358Kb"
+  hmac: ef772d9fbce21d27fd37e8c2d0bf49a5fe1339366811e94a41a3a36ad3522bba
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Roger-Martin-g85uqw
+  timestamp: 2020-05-20 21:54:16.458760
+  title: Hacked by Doppel Spider
+  url: ['https://www.rogermartinsa.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/271#USER.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/270#USER.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/269#misk.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/268#misk.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/267#FILES.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/266#FILES.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/265#backup_Volswagen.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/264#backup_SCAN.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/263#backup_RENAULT
+      POUILLY.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/262#backup_RACING
+      MOTO.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/261#backup_QUETIGNY
+      ARTEO.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/260#backup_Plans
+      GILLY.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/259#backup_PEUGEOT
+      SAINT APOLLINAIRE.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/258#backup_AGRONOV
+      BRETENNIERE.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/257#backup_AGIP
+      AIRE JURA.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/256#backup_89-MAGNY
+      ENTREPOT.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/255#backup_11.PARC
+      SAINT APO.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/254#backup_MASE.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/253#documentation.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Roger-Martin-g85uqw/252#1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Phipps Dickson Integria (PDI) Inc
+
+    In February 2007, Phipps Dickson and Integria, two of the most prominent and well
+    respected commercial printers in Quebec, merged to create the Phipps Dickson Integria
+    Group Inc. (PDI). And in March 2020 they decided to share some data.
+
+    - New folder.zip 57433Kb
+
+    - docs.zip 4008Kb'
+  hmac: 575ea9a714c92489744e42ff1f28d8bfd5d914498ff55d528a8a3add99911159
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Phipps-Dickson-Integria-(PDI)-Inc-srx8sl
+  timestamp: 2020-05-20 21:54:19.559786
+  title: Hacked by Doppel Spider
+  url: ['https://www.groupepdi.com/en/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Phipps-Dickson-Integria-(PDI)-Inc-srx8sl/251#New
+      folder.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Phipps-Dickson-Integria-(PDI)-Inc-srx8sl/250#docs.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'ICM - International Commerce & Marketing Corp
+
+    Hello, and thanks for stopping by www.postalproducts.com. We are proud to announce
+    weve been competitively awarded the contract for all United States Postal Service
+    purchases of Postal unique supplies and equipment! And also we don''t care about
+    data!
+
+    - icm_2.7z 296219Kb
+
+    - icm_1.7z 242545Kb
+
+    - ICM_userData.7z 55380Kb'
+  hmac: 4641ff4a79a9c4b8c8f7f7f907d62ac7b09b3115ed9da85ad108e8f7ef5de0d4
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/ICM---International-Commerce-&-Marketing-Corp-99umh7
+  timestamp: 2020-05-20 21:54:21.630441
+  title: Hacked by Doppel Spider
+  url: ['http://www.postalproducts.com', 'http://www.postalproducts.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/ICM---International-Commerce-&-Marketing-Corp-99umh7/249#icm_2.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/ICM---International-Commerce-&-Marketing-Corp-99umh7/248#icm_1.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/ICM---International-Commerce-&-Marketing-Corp-99umh7/247#ICM_userData.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Kent County Trading Ltd
+
+    Kent County Trading Ltd was founded in 2004. The company''s line of business includes
+    holding or owning securities of companies other than banks. Also they learning
+    web hacks and very bad in trolling.
+
+    - Finance.7z.001 262144Kb
+
+    - Finance.7z.002 262144Kb
+
+    - Finance.7z.003 262144Kb
+
+    - Finance.7z.004 262144Kb
+
+    - Finance.7z.005 262144Kb
+
+    - Finance.7z.006 89979Kb
+
+    - Accountants.7z 32592Kb
+
+    - CSD2.7z 3966Kb'
+  hmac: d95832d8b1143de3398fef4cd8e88aa406016e4ab9d08962c61538dde272dd41
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Kent-County-Trading-Ltd-qxrr5i
+  timestamp: 2020-05-20 21:54:24.629828
+  title: Hacked by Doppel Spider
+  url: ['https://beta.companieshouse.gov.uk/company/05242899', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/246#Finance.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/245#Finance.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/244#Finance.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/243#Finance.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/242#Finance.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/241#Finance.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/240#Accountants.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kent-County-Trading-Ltd-qxrr5i/239#CSD2.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Chris-Marine
+
+    For more than five decades, Chris-Marine has designed engine maintenance solutions
+    for 2-stroke 4-stroke diesel and gas engines. Here''s some info about it.
+
+    - Economy_Styrelse.7z.001 262144Kb
+
+    - Economy_Styrelse.7z.002 262144Kb
+
+    - Economy_Styrelse.7z.003 262144Kb
+
+    - Economy_Styrelse.7z.004 248063Kb
+
+    - Economy_M&A.7z.001 262144Kb
+
+    - Economy_M&A.7z.002 262144Kb
+
+    - Economy_M&A.7z.003 204036Kb
+
+    - KrisMa.7z 315662Kb
+
+    - Economy_Chris-Marine AB.7z 215762Kb
+
+    - Economy_Personal.7z 158582Kb
+
+    - Economy_Chris-Marine Germany.7z 9770Kb
+
+    - Economy.7z 63434Kb'
+  hmac: 9792c35662c7e65648fb28385e1cd81ddf25e2728c27892bde7f3e0e33377cc5
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Chris-Marine-b12fbu
+  timestamp: 2020-05-20 21:54:26.881519
+  title: Hacked by Doppel Spider
+  url: ['https://www.chris-marine.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/238#Economy_Styrelse.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/237#Economy_Styrelse.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/236#Economy_Styrelse.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/235#Economy_Styrelse.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/234#Economy_M&A.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/233#Economy_M&A.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/232#Economy_M&A.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/231#KrisMa.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/230#Economy_Chris-Marine
+      AB.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/229#Economy_Personal.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/228#Economy_Chris-Marine
+      Germany.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Chris-Marine-b12fbu/227#Economy.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "D'Asign Source\nOver 60 Years of Excellence in the Florida Keys\r\nthe Coastal\
+    \ Home Experts. but not the security experts ofcourse.\n- Financial_Backup_2020.7z.001\
+    \ 262144Kb\n- Financial_Backup_2020.7z.002 262144Kb\n- Financial_Backup_2020.7z.003\
+    \ 262144Kb\n- Financial_Backup_2020.7z.004 262144Kb\n- Financial_Backup_2020.7z.005\
+    \ 262144Kb\n- Financial_Backup_2020.7z.006 262144Kb\n- Financial_Backup_2020.7z.007\
+    \ 262144Kb\n- Financial_Backup_2020.7z.008 262144Kb\n- Financial_Backup_2020.7z.009\
+    \ 167674Kb\n- dasign.7z 1700Kb"
+  hmac: 490a2cf0d8219ac644419c9c50245230ecb3298a971567a6fbbbd9c8b1a1e1b9
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/D'Asign-Source-lbyp86
+  timestamp: 2020-05-20 21:54:29.030291
+  title: Hacked by Doppel Spider
+  url: ['https://dasignsource.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/226#Financial_Backup_2020.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/225#Financial_Backup_2020.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/224#Financial_Backup_2020.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/223#Financial_Backup_2020.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/222#Financial_Backup_2020.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/221#Financial_Backup_2020.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/220#Financial_Backup_2020.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/219#Financial_Backup_2020.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/218#Financial_Backup_2020.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/D''Asign-Source-lbyp86/217#dasign.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'City of Torrance, CA
+
+    Living with Urban Coyotes
+
+    - CityMgr.7z.001 262144Kb
+
+    - CityMgr.7z.002 262144Kb
+
+    - CityMgr.7z.003 262144Kb
+
+    - CityMgr.7z.004 262144Kb
+
+    - CityMgr.7z.005 213479Kb
+
+    - SalesTax.7z 294326Kb
+
+    - ScanJobs.7z.001 262144Kb
+
+    - ScanJobs.7z.002 262144Kb
+
+    - ScanJobs.7z.003 6963Kb
+
+    - temp.7z 25012Kb
+
+    - ADPGL.7z 20710Kb
+
+    - Budget Import.7z 2679Kb'
+  hmac: fe2464f4cc65a14299955ac34444c3b7f18538e779644ac4daf0ff57fe079e3d
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/City-of-Torrance,-CA-4bi5bi
+  timestamp: 2020-05-20 21:54:30.976578
+  title: Hacked by Doppel Spider
+  url: ['https://www.torranceca.gov/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/216#CityMgr.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/215#CityMgr.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/214#CityMgr.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/213#CityMgr.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/212#CityMgr.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/211#SalesTax.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/210#ScanJobs.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/209#ScanJobs.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/208#ScanJobs.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/207#temp.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/206#ADPGL.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/City-of-Torrance,-CA-4bi5bi/205#Budget
+      Import.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Banka Ekonomike
+
+    Banka Ekonomike sht licencuar m 28.05.2001, ndrsa punn e ka filluar n fillim t
+    qershorit t po ktij viti.
+
+    - TransfertatJashtme_backup_2020_02_29_180006_6147791.bak 77240Kb
+
+    - MISMembershipDB_backup_2020_02_29_180006_4272878.bak 1124Kb
+
+    - BEKClients_backup_2020_02_29_180006_2250297.bak 3416Kb
+
+    - ATM_backup_2020_02_29_180006_1928860.bak 6688Kb
+
+    - eod2020t.7z.001 262144Kb
+
+    - eod2020t.7z.002 262144Kb
+
+    - eod2020t.7z.003 262144Kb
+
+    - eod2020t.7z.004 262144Kb
+
+    - eod2020t.7z.005 262144Kb
+
+    - eod2020t.7z.006 262144Kb
+
+    - eod2020t.7z.007 262144Kb
+
+    - eod2020t.7z.008 262144Kb
+
+    - eod2020t.7z.009 262144Kb
+
+    - eod2020t.7z.010 103092Kb
+
+    - EOM 31.12.2019.7z 14959Kb
+
+    - Financa 566.7z 86820Kb
+
+    - BEK.7z 223538Kb'
+  hmac: 3883de6d2a31ff43d6667725f3fd0e8d51aa584471ad8190a96c41a6595f134d
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Banka-Ekonomike-xjwfyx
+  timestamp: 2020-05-20 21:54:33.024971
+  title: Hacked by Doppel Spider
+  url: ['https://www.bekonomike.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/204#TransfertatJashtme_backup_2020_02_29_180006_6147791.bak',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/203#MISMembershipDB_backup_2020_02_29_180006_4272878.bak',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/202#BEKClients_backup_2020_02_29_180006_2250297.bak',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/201#ATM_backup_2020_02_29_180006_1928860.bak',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/200#eod2020t.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/199#eod2020t.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/198#eod2020t.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/197#eod2020t.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/196#eod2020t.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/195#eod2020t.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/194#eod2020t.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/193#eod2020t.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/192#eod2020t.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/191#eod2020t.7z.010',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/190#EOM
+      31.12.2019.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/189#Financa
+      566.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Banka-Ekonomike-xjwfyx/183#BEK.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Boom Construction Company
+
+    Boom Construction Company promises to meet the requirements of each and every
+    client by using high-quality products and precise application methods... But not
+    really cares about data.
+
+    - Material Submittal.7z.001 262144Kb
+
+    - Material Submittal.7z.002 262144Kb
+
+    - Material Submittal.7z.003 262144Kb
+
+    - Material Submittal.7z.004 262144Kb
+
+    - Material Submittal.7z.005 262144Kb
+
+    - Material Submittal.7z.006 262144Kb
+
+    - Material Submittal.7z.007 262144Kb
+
+    - Material Submittal.7z.008 105366Kb
+
+    - Clients & projects.7z.001 262144Kb
+
+    - Clients & projects.7z.002 262144Kb
+
+    - Clients & projects.7z.003 262144Kb
+
+    - Clients & projects.7z.004 244616Kb
+
+    - EngineerSalesRapidline.7z 88929Kb'
+  hmac: 17b0162a119f23f19e90c6a5cd21f1080992a310b2c2b8dcae4d61714c556603
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Boom-Construction-Company-v6vefm
+  timestamp: 2020-05-20 21:54:35.891299
+  title: Hacked by Doppel Spider
+  url: ['https://www.boomconstruction.net/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/188#Material
+      Submittal.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/187#Material
+      Submittal.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/186#Material
+      Submittal.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/185#Material
+      Submittal.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/184#Material
+      Submittal.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/181#Material
+      Submittal.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/180#Material
+      Submittal.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/179#Material
+      Submittal.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/178#Clients
+      & projects.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/177#Clients
+      & projects.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/176#Clients
+      & projects.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/175#Clients
+      & projects.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Boom-Construction-Company-v6vefm/174#EngineerSalesRapidline.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Container Marketing, Inc
+
+    A second generation, family owned and operated furniture manufacturing company,
+    Container Marketing, Inc
+
+    - CMI.tar.gz 69708Kb'
+  hmac: 7dc5b1104b1477603344ecee18d4bdc374c428ff802573f834ab5139a7de41dd
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Container-Marketing,-Inc-aooo16
+  timestamp: 2020-05-20 21:54:38.568194
+  title: Hacked by Doppel Spider
+  url: ['http://iwantcmi.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Container-Marketing,-Inc-aooo16/182#CMI.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'AFPA
+
+    82,2 % de russite au titre professionnel85,4 % de stagiaires satisfaits69,4 %
+    d''accs l''emploi dans les 6 mois6000 entreprises clientes
+
+    - 01 ress complementaires.7z.001 262144Kb
+
+    - 01 ress complementaires.7z.002 262144Kb
+
+    - 01 ress complementaires.7z.003 262144Kb
+
+    - 01 ress complementaires.7z.004 262144Kb
+
+    - 01 ress complementaires.7z.005 262144Kb
+
+    - 01 ress complementaires.7z.006 262144Kb
+
+    - 01 ress complementaires.7z.007 262144Kb
+
+    - 01 ress complementaires.7z.008 262144Kb
+
+    - 01 ress complementaires.7z.009 161386Kb
+
+    - Reference_04_Tarifs.7z 508264Kb
+
+    - Reference_03_Doc tech 2019.7z 398044Kb
+
+    - Reference_00_Progression.7z 525228Kb
+
+    - Reference.7z 3640Kb
+
+    - Partage.7z 11035Kb
+
+    - Documentsa.7z 11165Kb
+
+    - Desktop.7z 13976Kb
+
+    - 68011-02-02.zip 2236Kb
+
+    - Documents.7z 530Kb
+
+    - inf-99064.zip 1063Kb
+
+    - Projets R&D SJV.zip 4201Kb
+
+    - Accueil.zip 34256Kb
+
+    - 1.7z 40404Kb'
+  hmac: 9c0bf10706491060b2441cea22db32e63c4e0cac2ec1653b0a3e90af807d1bf2
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/AFPA-jlviko
+  timestamp: 2020-05-20 21:54:42.712494
+  title: Hacked by Doppel Spider
+  url: ['https://www.afpa.fr/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/173#01
+      ress complementaires.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/172#01
+      ress complementaires.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/171#01
+      ress complementaires.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/170#01
+      ress complementaires.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/169#01
+      ress complementaires.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/168#01
+      ress complementaires.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/167#01
+      ress complementaires.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/166#01
+      ress complementaires.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/165#01
+      ress complementaires.7z.009', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/164#Reference_04_Tarifs.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/163#Reference_03_Doc
+      tech 2019.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/162#Reference_00_Progression.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/161#Reference.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/160#Partage.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/159#Documentsa.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/158#Desktop.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/157#68011-02-02.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/156#Documents.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/155#inf-99064.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/154#Projets
+      R&D SJV.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/153#Accueil.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AFPA-jlviko/152#1.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'LIWA NATIONAL ENGINEERING
+
+    Business Activity: Air Conditioning Engineers - Installation Maintenance, United
+    Arab Emirates
+
+    - QUOTATION.7z.001 262144Kb
+
+    - QUOTATION.7z.002 262144Kb
+
+    - QUOTATION.7z.003 262144Kb
+
+    - QUOTATION.7z.004 229732Kb
+
+    - estimation.7z 1173Kb'
+  hmac: c8c00d44ceb7fb6cd9a49fdd9391ba694d3e74fab2fcbcd724fbccbaf9a53e4a
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc
+  timestamp: 2020-05-20 21:54:45.106735
+  title: Hacked by Doppel Spider
+  url: ['http://www.uaecontact.com/company/liwa-engineering-services.htm', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc/151#QUOTATION.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc/150#QUOTATION.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc/149#QUOTATION.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc/148#QUOTATION.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/LIWA-NATIONAL-ENGINEERING-EST.-cp9vyc/147#estimation.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Go West Tours\nGo West Tours is a Destination Management Company/ Tour Operator\
+    \ specializing in quality travel. And don`t care about some data.\r\n#STAYHOME\
+    \ #distancelearning #StayHomeSaveLives\n- MKTG.7z.001 262144Kb\n- MKTG.7z.002\
+    \ 262144Kb\n- MKTG.7z.003 262144Kb\n- MKTG.7z.004 262144Kb\n- MKTG.7z.005 262144Kb\n\
+    - MKTG.7z.006 262144Kb\n- MKTG.7z.007 262144Kb\n- MKTG.7z.008 262144Kb\n- MKTG.7z.009\
+    \ 262144Kb\n- MKTG.7z.010 127317Kb\n- personal.7z.001 262144Kb\n- personal.7z.002\
+    \ 232957Kb\n- misc.7z 40628Kb"
+  hmac: 581c0d752a1b5bc349bbd0873646b77aecde38f9c2d1034f078e5e48465c9be7
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Go-West-Tours-aor3rp
+  timestamp: 2020-05-20 21:54:47.360782
+  title: Hacked by Doppel Spider
+  url: ['http://www.gowesttours.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/146#MKTG.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/145#MKTG.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/144#MKTG.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/143#MKTG.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/142#MKTG.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/141#MKTG.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/140#MKTG.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/139#MKTG.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/138#MKTG.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/136#MKTG.7z.010',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/134#personal.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/133#personal.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Go-West-Tours-aor3rp/132#misc.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Van Boxtel RV
+
+    Van Boxtel RV is Green Bay''s #1 rated new and used Wisconsin RV dealership. In
+    stock, at our Wisconsin based dealership, we have some data to share, while the
+    doors is closed data is here.
+
+    - SALES INVOICES.7z.001 262144Kb
+
+    - SALES INVOICES.7z.002 262144Kb
+
+    - SALES INVOICES.7z.003 262144Kb
+
+    - SALES INVOICES.7z.004 262144Kb
+
+    - SALES INVOICES.7z.005 262144Kb
+
+    - SALES INVOICES.7z.006 262144Kb
+
+    - SALES INVOICES.7z.007 262144Kb
+
+    - SALES INVOICES.7z.008 262144Kb
+
+    - SALES INVOICES.7z.009 6609Kb
+
+    - spring open house flyer.7z 1117Kb
+
+    - TSB & Factory Recalls.7z 3280Kb
+
+    - Old Signs.7z 24886Kb
+
+    - inf - VANBOXTELRV.zip 37255Kb'
+  hmac: 77230d003956f427ce0d4e48d5a5a292f3470e7293fc4029b5e036e1e8d3a7c0
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Van-Boxtel-RV-e347x4
+  timestamp: 2020-05-20 21:54:49.816390
+  title: Hacked by Doppel Spider
+  url: ['https://www.vanboxtelrv.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/131#SALES
+      INVOICES.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/130#SALES
+      INVOICES.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/129#SALES
+      INVOICES.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/128#SALES
+      INVOICES.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/127#SALES
+      INVOICES.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/126#SALES
+      INVOICES.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/125#SALES
+      INVOICES.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/124#SALES
+      INVOICES.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/123#SALES
+      INVOICES.7z.009', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/122#spring
+      open house flyer.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/121#TSB
+      & Factory Recalls.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/120#Old
+      Signs.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Van-Boxtel-RV-e347x4/119#inf
+      - VANBOXTELRV.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Commercial Development Company, Inc.\nCDC is a privately-held, diversified\
+    \ real estate acquisition and development company who don't care about any data\
+    \ breach.\r\nThey are not that rich, the website projects bigger than they are.\
+    \ They are a small company with basic services.\r\nWe've been told.\n- backup_12\
+    \ - Wells Fargo.zip 525932Kb\n- backup_BANK INFORMATION.zip 145709Kb\n- backup_2019\
+    \ CAM Recs.zip 822Kb\n- backup_Purchases.zip 772Kb\n- backup_BBLL Recons.zip 415Kb\n\
+    - backup_Simmons Bank.zip 6Kb\n- backup_Enterprise Bank.zip 2007Kb\n- backup_2018\
+    \ CAM Recs.zip 2202Kb\n- backup_99 - Month End Procedures.zip 16235Kb\n- backup_Sales.zip\
+    \ 1234Kb\n- backup_Augusta Liquidations, LLC.zip 3138Kb\n- backup_10 - Suntrust.zip\
+    \ 20692Kb\n- backup_06 - JP Morgan Chase.zip 8798Kb\n- backup_07 - Regions.zip\
+    \ 13127Kb\n- backup_04 - Delaware Trust Company.zip 966Kb"
+  hmac: 76c2d06450874893cc15bddf49e24be4a5e5fb8b645df462a91c763b57598dfb
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Commercial-Development-Company,-Inc.-z2gk5s
+  timestamp: 2020-05-20 21:54:52.244544
+  title: Hacked by Doppel Spider
+  url: ['http://www.cdcco.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/117#backup_12
+      - Wells Fargo.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/116#backup_BANK
+      INFORMATION.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/115#backup_2019
+      CAM Recs.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/114#backup_Purchases.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/113#backup_BBLL
+      Recons.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/112#backup_Simmons
+      Bank.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/111#backup_Enterprise
+      Bank.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/110#backup_2018
+      CAM Recs.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/108#backup_99
+      - Month End Procedures.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/107#backup_Sales.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/106#backup_Augusta
+      Liquidations, LLC.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/105#backup_10
+      - Suntrust.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/104#backup_06
+      - JP Morgan Chase.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/103#backup_07
+      - Regions.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Commercial-Development-Company,-Inc.-z2gk5s/102#backup_04
+      - Delaware Trust Company.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Furniture Row & Visser Precision (Tesla, Boening, Space-X, Lockheed Martin..)\n\
+    Stay tuned. LOT of to come by parts.\r\nVery interesting picture. Visser Precision\
+    \ have interesting customers...\r\nThat happens when you hire company to solve\
+    \ the problem, and they do everything to waste the time and your money...\r\n\u251C\
+    \u2500\u2500\u250011. Customer Information_setup\r\n\u2502 \u2502 ACH_Wire Info.docx\r\
+    \n\u2502 \u2502 New Account Form.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500ACC\r\n\u2502 \u2502 ACC credit app.pdf\r\n\u2502 \u2502 W-9 ACC Signed\
+    \ 2018-01-11.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Air Comm\
+    \ Corp\r\n\u2502 \u2502 3.1.11 Nondisclosure_RevB.PDF\r\n\u2502 \u2502 All Suppliers.zip\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Alcadyne LLC\r\n\u2502 \u2502\
+    \ VP_New Customer_Doc - Alcadyne.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500Bingham Engineering\r\n\u2502 \u2502 Visser Customer Credit App - Bingham.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Blue Origin\r\n\u2502 \u2502\
+    \ FW Please respond - Electronic payment info request.msg\r\n\u2502 \u2502 \r\n\
+    \u2502 \u251C\u2500\u2500\u2500Boeing\r\n\u2502 \u2502 BCA Supplier Profile_Signed.pdf\r\
+    \n\u2502 \u2502 Best Code for Boeing.msg\r\n\u2502 \u2502 F70102.pdf\r\n\u2502\
+    \ \u2502 F7010_Boeing_Supplier_Form_Completed.pdf\r\n\u2502 \u2502 \r\n\u2502\
+    \ \u251C\u2500\u2500\u2500Cardiff Scholl of Engineering\r\n\u2502 \u2502 Visser\
+    \ Precision New_Supplier_Account_Request_Form_14092015.xls\r\n\u2502 \u2502 \r\
+    \n\u2502 \u251C\u2500\u2500\u2500Custom Microwave\r\n\u2502 \u2502 VISSER PRECISION\
+    \ PO#1589 NEW ACCOUNT SET UP - RE VP W9 Customer Form.msg\r\n\u2502 \u2502 \r\n\
+    \u2502 \u251C\u2500\u2500\u2500De Vore Aviation\r\n\u2502 \u2502 Quality Survey\
+    \ to De Vore.msg\r\n\u2502 \u2502 Visser Precision quality survey.msg\r\n\u2502\
+    \ \u2502 VP_DeVore_QS.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    Desktop Metals\r\n\u2502 \u2502 E Bill pass .msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\
+    \u2500\u2500\u2500DME Co\r\n\u2502 \u2502 DME Co_New Account Form.pdf\r\n\u2502\
+    \ \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500EAP\r\n\u2502 \u2502 Form - Supplier\
+    \ Quality Survey.docx\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500FLIR\r\
+    \n\u2502 \u2502 CFSI_CMRT4-01b 2016-01-20 confirmation.pdf\r\n\u2502 \u2502 CFSI_CMRT4-01b\
+    \ 2016-01-20.xls\r\n\u2502 \u2502 FLIR Supplier Machining Form FINAL 09122014\
+    \ (2).doc\r\n\u2502 \u2502 FLIR supplier machining survey_VP.pdf\r\n\u2502 \u2502\
+    \ Visser Precision Supplier Information.msg\r\n\u2502 \u2502 VP Business Survey.docx\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Front Range Tooling\r\n\u2502\
+    \ \u2502 RE_ Invoice - 3255.msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500Garrison Root Cause Analysis\r\n\u2502 \u2502 \u2502 2014.09.22 Call notes\
+    \ w VPC LQMT.pdf\r\n\u2502 \u2502 \u2502 Data Sheet Materion Bulk Metallic Glass.pdf\r\
+    \n\u2502 \u2502 \u2502 Data Sheet MT555 TPE.pdf\r\n\u2502 \u2502 \u2502 Garrison\
+    \ Data Analysis.mvp\r\n\u2502 \u2502 \u2502 Garrison Data Analysis.sav\r\n\u2502\
+    \ \u2502 \u2502 Garrison Experimental Design.xlsx\r\n\u2502 \u2502 \u2502 Garrison\
+    \ Notes - 2014.docx\r\n\u2502 \u2502 \u2502 Garrison Root Cause Analysis 2014.docx\r\
+    \n\u2502 \u2502 \u2502 Garrison Test Samples Count 2014-10-29.xlsx\r\n\u2502 \u2502\
+    \ \u2502 Garrison_summary_3Oct2014.xlsx\r\n\u2502 \u2502 \u2502 image001.jpg\r\
+    \n\u2502 \u2502 \u2502 image002.jpg\r\n\u2502 \u2502 \u2502 Large Molars.x_t\r\
+    \n\u2502 \u2502 \u2502 Standard molar.x_t\r\n\u2502 \u2502 \u2502 Thumbs.db\r\n\
+    \u2502 \u2502 \u2502 Weibull Calculator v1.6 Garrison.xlsx\r\n\u2502 \u2502 \u2502\
+    \ \r\n\u2502 \u2502 \u251C\u2500\u2500\u25002015-01 SR rd-3B last test summary\
+    \ package\r\n\u2502 \u2502 \u2502 2015-01_SRS Rd-3B LM1B Rounded Parting Line_Fast\
+    \ Cycle Report - signed.pdf\r\n\u2502 \u2502 \u2502 2015-1-08 SRS Rd-3B Raw-NoBarbs_FastCycle_10mm\
+    \ - signed.pdf\r\n\u2502 \u2502 \u2502 Durability Data Table.xlsx\r\n\u2502 \u2502\
+    \ \u2502 Test Report - 5 Min Dwell - SR Single Rd-3B Extended Overmold with Barbs\
+    \ - Nov 2014 - signed.pdf\r\n\u2502 \u2502 \u2502 Test Report - Fast Cycle - SR\
+    \ Single Rd-3B with Extended Overmold and Barbs - Oct 2014.pdf\r\n\u2502 \u2502\
+    \ \u2502 Test Report - SR Dual Rd-3B No-overmold Fast Cycle - signed.pdf\r\n\u2502\
+    \ \u2502 \u2502 Test Report - SR Dual Rd-3B Overmold - Fast Cycle - Overmold Containment\
+    \ - Oct 2014 - signed.pdf\r\n\u2502 \u2502 \u2502 Test Report - SR Mix Rd-3B (LM105\
+    \ Mod) - 5 Min Dwell Cycle - Oct 2014 - signed.pdf\r\n\u2502 \u2502 \u2502 \r\n\
+    \u2502 \u2502 \u251C\u2500\u2500\u2500Coating Information\r\n\u2502 \u2502 \u2502\
+    \ National Polymer Brochure - Development Programs 1.docx\r\n\u2502 \u2502 \u2502\
+    \ National Polymer email.docx\r\n\u2502 \u2502 \u2502 National Polymer Medical\
+    \ Logos 2014.pdf\r\n\u2502 \u2502 \u2502 National Polymer PDF Brochure 2014.pdf\r\
+    \n\u2502 \u2502 \u2502 \r\n\u2502 \u2502 \u251C\u2500\u2500\u2500dwell cycle failures\
+    \ - overmolded\r\n\u2502 \u2502 \u2502 2014-09-19 07.32.40.jpg\r\n\u2502 \u2502\
+    \ \u2502 2014-09-19 07.33.18.jpg\r\n\u2502 \u2502 \u2502 2014-09-19 07.33.38.jpg\r\
+    \n\u2502 \u2502 \u2502 2014-09-19 07.34.01.jpg\r\n\u2502 \u2502 \u2502 2014-09-19\
+    \ 07.34.21.jpg\r\n\u2502 \u2502 \u2502 2014-09-19 07.34.46.jpg\r\n\u2502 \u2502\
+    \ \u2502 2014-09-19 07.35.36.jpg\r\n\u2502 \u2502 \u2502 2014-09-19 07.36.41.jpg\r\
+    \n\u2502 \u2502 \u2502 2014-09-19 07.37.08.jpg\r\n\u2502 \u2502 \u2502 2014-09-19\
+    \ 07.37.30.jpg\r\n\u2502 \u2502 \u2502 2014-09-19 07.37.54.jpg\r\n\u2502 \u2502\
+    \ \u2502 \r\n\u2502 \u2502 \u251C\u2500\u2500\u2500Garrison Reports\r\n\u2502\
+    \ \u2502 \u2502 2014.09.19 SP Microscope review.pdf\r\n\u2502 \u2502 \u2502 Test\
+    \ Report - Annealed sample durability test - 2014.09.24 update.pdf\r\n\u2502 \u2502\
+    \ \u2502 Test Report - Scorpion Ring - Dual Rd 3B - 2014.9.30 UPDATE.pdf\r\n\u2502\
+    \ \u2502 \u2502 Test Report - Scorpion Ring - Single Rd 3B - 2014.9.30 UPDATE.pdf\r\
+    \n\u2502 \u2502 \u2502 Test Report - Single Dual Fast Cycle with Overmold - Sept\
+    \ 2014 updated - 2014.9.30 UPDATE.pdf\r\n\u2502 \u2502 \u2502 Test Report - Single\
+    \ Dual Fast Cycle with Overmold 2014.9.30 UPDATE.pdf\r\n\u2502 \u2502 \u2502 Test\
+    \ Report - SR Dual Rd 3B - LM105 - 2014.9.30 UPDATE.pdf\r\n\u2502 \u2502 \u2502\
+    \ Test Report - SR Dual TPE vs Silicone - 204.9.30 UPDATE.pdf\r\n\u2502 \u2502\
+    \ \u2502 Test Report - SR Rd3B Dwell Cycles 09.2014.pdf\r\n\u2502 \u2502 \u2502\
+    \ Test Report -Single Dual Dwell Cycle - 2014.9.30 UPDATE.pdf\r\n\u2502 \u2502\
+    \ \u2502 \r\n\u2502 \u2502 \u251C\u2500\u2500\u2500Materion Reports\r\n\u2502\
+    \ \u2502 \u2502 Garrinson_Fracture Surface_Maps.pdf\r\n\u2502 \u2502 \u2502 Garrison_summary_18Oct2014.xlsx\r\
+    \n\u2502 \u2502 \u2502 \r\n\u2502 \u2502 \u2514\u2500\u2500\u2500Ring Cycle Machine\
+    \ Photos Video\r\n\u2502 \u2502 2014-09-22 16.10.19.jpg\r\n\u2502 \u2502 2014-09-22\
+    \ 16.10.32.jpg\r\n\u2502 \u2502 2014-09-22 16.10.45.jpg\r\n\u2502 \u2502 2014-09-22\
+    \ 16.11.48.mp4\r\n\u2502 \u2502 2014-09-22 16.12.17.jpg\r\n\u2502 \u2502 \r\n\u2502\
+    \ \u251C\u2500\u2500\u2500General Dynamics\r\n\u2502 \u2502 Copy of RMI_CMRT_5_11.xlsx\r\
+    \n\u2502 \u2502 New Supplier Set-Up (002).docx\r\n\u2502 \u2502 Visser Precision\
+    \ GDMS Reciprocal NDA.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    GMS\r\n\u2502 \u2502 Scanned Document %DEVICE_DATE_YYYYMMDD%.pdf\r\n\u2502 \u2502\
+    \ \r\n\u2502 \u251C\u2500\u2500\u2500Hexmag\r\n\u2502 \u2502 Hexmag.pdf\r\n\u2502\
+    \ \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Honeywell\r\n\u2502 \u2502 Additive\
+    \ Common Assessment_R2.xlsm\r\n\u2502 \u2502 AF-0155 One Source Quality Profile\
+    \ Request.doc\r\n\u2502 \u2502 Audit Visser Schedule 10-23-2018.xlsx\r\n\u2502\
+    \ \u2502 Visser Info _ Honeywell 1.1.pdf\r\n\u2502 \u2502 Visser Info _ Honeywell\
+    \ 1.2.pdf\r\n\u2502 \u2502 Visser Info _ Honeywell 1.3.pdf\r\n\u2502 \u2502 Visser\
+    \ Info _ Honeywell 1.4.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    Impresa\r\n\u2502 \u2502 Signed agreement for LTA with Visser - Tracks-signed.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Joe Gibbs Racing\r\n\u2502\
+    \ \u2502 Credit App_billing info.msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500JPL\r\n\u2502 \u2502 A-1 form.doc\r\n\u2502 \u2502 countersigned name change.pdf\r\
+    \n\u2502 \u2502 JPL_New Supplier Form.doc\r\n\u2502 \u2502 JPL_VPC_Supplier Form.pdf\r\
+    \n\u2502 \u2502 RE Name Change Agreement for Visser Precision Cast LLC.msg\r\n\
+    \u2502 \u2502 Visser Name Change Agreement.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\
+    \u2500\u2500\u2500LASP\r\n\u2502 \u2502 Visser Precision Working ECP Doc No 7\
+    \ - US Vendor Cert_v 1_final signed.pdf\r\n\u2502 \u2502 Visser Precision Working\
+    \ ECP Doc No 7 - US Vendor Cert_v 1_final.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\
+    \u2500\u2500\u2500Leavine Family Racing\r\n\u2502 \u2502 LFR W-9.pdf\r\n\u2502\
+    \ \u2502 LFRFinancial.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    Materion\r\n\u2502 \u2502 Card Payables System Setup Guide (2).pdf\r\n\u2502 \u2502\
+    \ \r\n\u2502 \u251C\u2500\u2500\u2500Milacron\r\n\u2502 \u2502 14000 credit.xlsx\r\
+    \n\u2502 \u2502 RE DME PO 553704 SQ 467685 SO 4186852 .msg\r\n\u2502 \u2502 \r\
+    \n\u2502 \u251C\u2500\u2500\u2500Nordson Medical\r\n\u2502 \u2502 [Untitled].pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Oculus\r\n\u2502 \u2502 Oculus\
+    \ VR Credit Sheet.pdf\r\n\u2502 \u2502 VP_Oculus_FB_supplier registration.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500RCR\r\n\u2502 \u2502 Credit\
+    \ App.msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Research Electro\
+    \ Optics Inc\r\n\u2502 \u2502 RE Quote Request Submission - aluminums mirrors.msg\r\
+    \n\u2502 \u2502 Trade References.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500Schlumberger Technology\r\n\u2502 \u2502 Electronic Pmt Form_pg1.pdf\r\n\
+    \u2502 \u2502 Electronic Pmt Form_pg2.pdf\r\n\u2502 \u2502 FW Request for information\
+    \ to get a Comprehensive Disclosure Agreement in place.msg\r\n\u2502 \u2502 Terms_Conditions.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Sharklet Technologies Inc\r\
+    \n\u2502 \u2502 Credit Ref Ltr 4 Visser Precision12152017.pdf\r\n\u2502 \u2502\
+    \ Scan171212172946-0001.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    Sikorsky\r\n\u2502 \u2502 3790_001.tif\r\n\u2502 \u2502 sa1721 corrected signed.pdf\r\
+    \n\u2502 \u2502 sa1721.docx\r\n\u2502 \u2502 Sikorsky NDA 3D printing.pdf\r\n\u2502\
+    \ \u2502 Sikorsky NDA fabrication.pdf\r\n\u2502 \u2502 Thumbs.db\r\n\u2502 \u2502\
+    \ \r\n\u2502 \u251C\u2500\u2500\u2500SimTech\r\n\u2502 \u2502 Vendor Code Creation\
+    \ - SIMTech (30042018) (002).pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\
+    \u2500Systima Technologies\r\n\u2502 \u2502 Self Survey rev_10-20-17.xlsx\r\n\u2502\
+    \ \u2502 VP doc-signed.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500\
+    Tesla\r\n\u2502 \u2502 FW_ Address For Overnight.msg\r\n\u2502 \u2502 No PO, No\
+    \ Pay Policy - Final(signed) (1).pdf\r\n\u2502 \u2502 Supplier Credential.msg\r\
+    \n\u2502 \u2502 Tesla shipping and invoicing requirements.msg\r\n\u2502 \u2502\
+    \ Visser New Account Form.pdf\r\n\u2502 \u2502 Visser-Precision-Aluminum-Print-NDA-20190606.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500TRS Therapeutic Rec Systems\r\
+    \n\u2502 \u2502 FW Purchase order for GRIP 3 Tool hand-load insert.msg\r\n\u2502\
+    \ \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Turtle Hughes\r\n\u2502 \u2502 Credit\
+    \ App.pdf\r\n\u2502 \u2502 FW Visser Precision Casting - New Vendor Form Tax Exempt\
+    \ Certs Credit Refererences on Turtle Hughes .msg\r\n\u2502 \u2502 RE Visser Precision\
+    \ Casting - New Vendor Form Tax Exempt Certs Credit Refererences on Turtle Hughes\
+    \ .msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500ULA\r\n\u2502 \u2502\
+    \ Copy of 110 F Rev 2.xlsx\r\n\u2502 \u2502 RE United Launch Alliance Confidentiality\
+    \ Agreement (CA).msg\r\n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500University\
+    \ of Colorado\r\n\u2502 \u2502 \u251C\u2500\u2500\u2500LASP\r\n\u2502 \u2502 \u2502\
+    \ FW Machine Shop Services Agreement for University of Colorado Boulder - LASP.msg\r\
+    \n\u2502 \u2502 \u2502 LASP order # L1501014.msg\r\n\u2502 \u2502 \u2502 PSC-S-152\
+    \ Solicitation-Exhibit 1 to Machine Shop Contracts for LASP.pdf\r\n\u2502 \u2502\
+    \ \u2502 Services Agreement.pdf\r\n\u2502 \u2502 \u2502 signature page.pdf\r\n\
+    \u2502 \u2502 \u2502 Visser Precision PSC-S-152 Cost Proposal-Attachment A to\
+    \ Agreement.pdf\r\n\u2502 \u2502 \u2502 Visser Precision Technical Response to\
+    \ PSC-S-152-Exhibit 2 to Agreement.pdf\r\n\u2502 \u2502 \u2502 Visser Precision15.doc\r\
+    \n\u2502 \u2502 \u2502 \r\n\u2502 \u2502 \u2514\u2500\u2500\u2500Open PO1000539322_LASP\r\
+    \n\u2502 \u2502 PO_Visser Precision LLC.html\r\n\u2502 \u2502 Visser Precision\
+    \ Agreement for Machine Shop Services fully signed 08-28-2015.pdf\r\n\u2502 \u2502\
+    \ \r\n\u2502 \u251C\u2500\u2500\u2500USRA\r\n\u2502 \u2502 18-05 TCs VP-URSA (1).pdf\r\
+    \n\u2502 \u2502 18-05 TCs VP-URSA.pdf\r\n\u2502 \u2502 UMT010_01.pdf\r\n\u2502\
+    \ \u2502 Ursa Major - Visser - Manufacturing Supply Agreement v2_Ryan C.doc\r\n\
+    \u2502 \u2502 USRA Major Tech LLC Credit App.pdf\r\n\u2502 \u2502 \r\n\u2502 \u251C\
+    \u2500\u2500\u2500Vallen\r\n\u2502 \u2502 POExported2019-7-15_17.16.50.pdf\r\n\
+    \u2502 \u2502 PurchaseOrderCoverSheet.rdlc2019-7-15_17.16.45.pdf\r\n\u2502 \u2502\
+    \ \r\n\u2502 \u251C\u2500\u2500\u2500VanDyne\r\n\u2502 \u2502 Visser Credit App.pdf\r\
+    \n\u2502 \u2502 \r\n\u2502 \u251C\u2500\u2500\u2500Vector\r\n\u2502 \u2502 img-103151359-0001.pdf\r\
+    \n\u2502 \u2502 img-Z18090653-0001.pdf\r\n\u2502 \u2502 In re_ Vector Launch Inc__\
+    \ et_ al_ - Case No_ 19-12670 (JTD) - Service by Debtors - Docket No_ 37 - First\
+    \ Day Service.msg\r\n\u2502 \u2502 SPAM_ In re_ Vector Launch Inc__ et_ al_ -\
+    \ Case No_ 19-12670 (JTD) - Service by Debtors - Docket No_ 6 10 - Bidding Procedures\
+    \ Motion Notice of First Day Motions and Hearing.msg\r\n\u2502 \u2502 Vector Fed\
+    \ Ex.msg\r\n\u2502 \u2502 \r\n\u2502 \u2514\u2500\u2500\u2500Woodward\r\n\u2502\
+    \ Document Release Notice_12-22-17.pdf\r\n\u2502 Important Highlights of the SEC\
+    \ Final Rule as of 150603.docx\r\n\u2502 RE VP supplier #.msg\r\n\u2502 VPC_ACH\
+    \ Form_Jan 2014.pdf\r\n\u2502 Woodward CFSI_CMRT 2016-04-05.xls\r\n\u2502 Woodward\
+    \ CFSI_CMRT3-02 (3).xls\r\n\u2502 Woodward CFSI_CMRTGuide_FINAL_Eng.pdf\r\n\u2502\
+    \ Woodward Invoicing Plant Contacts Information Addresses 20141016.docx\r\n\u2502\
+    \ Woodward_ACH_Form_VPC.PDF\r\n- 11. Customer Information_setup.7z 192790Kb\n\
+    - 12. Potential Technology.7z 2001Kb\n- 13. Shop Floor_Process.7z 20193Kb\n- 14.\
+    \ Safety.7z 3157Kb\n- 15. Customer Resources.7z 34103Kb\n- 15. Partner Resources.7z\
+    \ 18492Kb\n- Lockheed_and_Space_X.7z 83757Kb\n- 15. Supplier Resources.7z 117959Kb\n\
+    - 16. Stryke_VPC Registration Info.7z 22056Kb\n- 16. Work Comp_Vehicle Insurance.7z\
+    \ 1004Kb\n- 4. Potential Projects.7z 274641Kb\n- 19. Sales Leads.7z 36Kb\n- 18.\
+    \ Town Hall Presentations.7z 6320Kb\n- 3. Legal.7z 215457Kb\n- 2. Finance.7z 10032Kb\n\
+    - 20. JobBoss Drop folder.7z 26Kb\n- MW_Transfer.7z 427466Kb\n- startfile 1Kb\n\
+    - VPC DATA.7z 173620Kb\n- LH_nose.jpg 58Kb\n- Screenshot-2020.jpg 46Kb"
+  hmac: 7e2b52a6af15a47479a7ee9c7af095638d22a4715cff382d463d3b19bf58ad10
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Furniture-Row-&-Visser-Precision-wsoybx
+  timestamp: 2020-05-20 21:54:54.614242
+  title: Hacked by Doppel Spider
+  url: ['https://www.furniturerow.com', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/101#11.
+      Customer Information_setup.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/100#12.
+      Potential Technology.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/99#13.
+      Shop Floor_Process.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/98#14.
+      Safety.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/97#15.
+      Customer Resources.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/96#15.
+      Partner Resources.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/95#Lockheed_and_Space_X.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/66#15.
+      Supplier Resources.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/65#16.
+      Stryke_VPC Registration Info.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/64#16.
+      Work Comp_Vehicle Insurance.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/61#4.
+      Potential Projects.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/60#19.
+      Sales Leads.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/59#18.
+      Town Hall Presentations.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/57#3.
+      Legal.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/56#2.
+      Finance.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/55#20.
+      JobBoss Drop folder.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/54#MW_Transfer.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/53#startfile',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/50#VPC
+      DATA.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/49#LH_nose.jpg',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Furniture-Row-&-Visser-Precision-wsoybx/39#Screenshot-2020.jpg']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Kimchuk Inc.\nYour COMPLETE electronic manufacturing partner.\r\nDirectory\
+    \ of Lot Of Docs\r\n\r\n14/04/2005 09:09 57,768 903114_UPDATED_04-12-05.pdf\r\n\
+    23/10/2015 15:31 700,544 cb0359f_X3 - VMS Main Board with J1939 Analog IO and\
+    \ Gyro_Black-White.pdf\r\n23/10/2015 15:27 701,664 cb0359f_X3 - VMS Main Board\
+    \ with J1939 Analog IO and Gyro_Color.pdf\r\n05/03/2020 03:09 DIR Federal Protection\r\
+    \n05/03/2020 03:08 DIR Federal Protection ATM Test Box\r\n28/01/2011 09:49 51,242\
+    \ File System.pdf\r\n14/04/2005 09:09 3,531 Floorplan.pdf\r\n05/03/2020 02:59\
+    \ DIR ITC\r\n05/03/2020 03:06 DIR Kenny Marquis\r\n05/03/2020 03:05 DIR L R Manufacturing\r\
+    \n05/03/2020 03:10 DIR LASER STAR TECHNOLOGIES\r\n05/03/2020 03:08 DIR Oxford\
+    \ Science\r\n28/01/2011 09:20 66,144 PCB Design Process and Checklist.pdf\r\n\
+    05/03/2020 03:00 DIR Phil\r\n05/03/2020 03:11 DIR Photo Detection\r\n03/09/2009\
+    \ 15:55 2,754 PlotandPublishLog.CSV\r\n05/03/2020 02:59 DIR Rittal\r\n24/10/2013\
+    \ 08:34 25,617,374 SchickHydro5-fakey-assy.IGS\r\n05/03/2020 03:06 DIR Scientia\
+    \ Technologies 8351\r\n05/03/2020 02:59 DIR scsi\r\n05/03/2020 03:07 DIR Spirol\
+    \ International\r\n08/01/2007 13:37 20,480 Use of the ZZMASTER and Sub Folders.doc\r\
+    \n05/03/2020 02:58 DIR walter\r\n05/03/2020 02:58 DIR whilly\r\n- Lot Of Docs.7z.001\
+    \ 256000Kb\n- Lot Of Docs.7z.002 256000Kb\n- Lot Of Docs.7z.003 256000Kb\n- Lot\
+    \ Of Docs.7z.004 38786Kb\n- New folder.7z 62796Kb\n- 1.zip 6431Kb\n- arki.zip\
+    \ 107346Kb"
+  hmac: 7f21da744b06d7fed57dc62b3b73e457bbebe49c572a5b1b741a9da0560166dc
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Kimchuk-Inc.-blw2wn
+  timestamp: 2020-05-20 21:54:56.827168
+  title: Hacked by Doppel Spider
+  url: ['http://www.kimchuk.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/94#Lot
+      Of Docs.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/93#Lot
+      Of Docs.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/92#Lot
+      Of Docs.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/91#Lot
+      Of Docs.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/90#New
+      folder.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/89#1.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Kimchuk-Inc.-blw2wn/88#arki.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Hot Line Freight Systems\nHot Line Freight provides volume LTL direct shipments\
+    \ to all points in the contiguous United States.\r\nadmin adoni bellis\r\nckucera\
+    \ hotadmin hotlinesql\r\nljohnson pburgmeier rburgmeier\r\nservice_account veeambackup\r\
+    \n\r\n\r\nHOTLINE\\hotadmin HOTLINE\\hotadmin HOTLINE-FS7 h0tlin3g0\r\nhotlinefreight.local\
+    \ rburgmeier Hotline-EX1 burgy123\r\nhotlinefreight.local pburgmeier Hotline-EX1\
+    \ Shauna2020\r\n\r\n- 1.zip 169009Kb\n- AEP Industries -CANCELLED,part of Berry\
+    \ Plastics  AEP129.zip 12849Kb\n- infff.zip 31424Kb\n- New folder.zip 22539Kb"
+  hmac: 2781a503620912ad42f402ad3bcf0ca1311b5f70a9e66fc30c70758ee01fc5c4
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Hot-Line-Freight-Systems-8aetjj
+  timestamp: 2020-05-20 21:54:58.963278
+  title: Hacked by Doppel Spider
+  url: ['https://www.hotlinefreight.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hot-Line-Freight-Systems-8aetjj/87#1.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hot-Line-Freight-Systems-8aetjj/83#AEP
+      Industries -CANCELLED,part of Berry Plastics  AEP129.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hot-Line-Freight-Systems-8aetjj/82#infff.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hot-Line-Freight-Systems-8aetjj/81#New
+      folder.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Empire Communities Corp.\nEmpire Communities is one of North America's largest\
+    \ integrated master-planned community homebuilders...\r\nCOMMUNITY\\PLAdmin14#Pamgrey\r\
+    \nCOMMUNITY\\AdministratorGhbdrfujn6gb44!4\n- Master Sales Office.7z.001 256000Kb\n\
+    - Master Sales Office.7z.002 256000Kb\n- Master Sales Office.7z.003 247370Kb\n\
+    - Master Documents.7z.001 256000Kb\n- Master Documents.7z.002 256000Kb\n- Master\
+    \ Documents.7z.003 256000Kb\n- Master Documents.7z.004 256000Kb\n- Master Documents.7z.005\
+    \ 256000Kb\n- Master Documents.7z.006 256000Kb\n- Master Documents.7z.007 256000Kb\n\
+    - Master Documents.7z.008 126656Kb\n- backup_Citrix.zip 162704Kb\n- backup_COA-PDF's.zip\
+    \ 16468Kb\n- backup_Budgets.zip 4676Kb"
+  hmac: e23ee0ae87f2be93cdad3db98d6d8644c97e61f97ba592db97e4d99c6b2d2596
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Empire-Communities-Corp.-qsq14v
+  timestamp: 2020-05-20 21:55:01.634904
+  title: Hacked by Doppel Spider
+  url: ['https://www.empirecommunities.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/86#Master
+      Sales Office.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/85#Master
+      Sales Office.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/84#Master
+      Sales Office.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/80#Master
+      Documents.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/79#Master
+      Documents.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/78#Master
+      Documents.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/77#Master
+      Documents.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/76#Master
+      Documents.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/75#Master
+      Documents.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/74#Master
+      Documents.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/73#Master
+      Documents.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/72#backup_Citrix.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/71#backup_COA-PDF''s.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Empire-Communities-Corp.-qsq14v/70#backup_Budgets.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "NATIONAL AQUACULTURE GROUP (NAQUA)\nFish in desert.\r\nAdmins:\r\nazzam naqua1\
+    \ naqua2\r\nnaqua3 naqua4 naqua5\r\nnpcadmin SCDPM$\r\n- 1.zip 47602Kb\n- New\
+    \ folder.zip 178418Kb\n- Budget 2020.zip 93377Kb"
+  hmac: a7120682e342bc7ce724a4fb9598db9feba286c0fe8050b50017f0614d05c876
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/NATIONAL-AQUACULTURE-GROUP-(NAQUA)-ckkwea
+  timestamp: 2020-05-20 21:55:03.649814
+  title: Hacked by Doppel Spider
+  url: ['http://www.naqua.com.sa/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/NATIONAL-AQUACULTURE-GROUP-(NAQUA)-ckkwea/69#1.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/NATIONAL-AQUACULTURE-GROUP-(NAQUA)-ckkwea/68#New
+      folder.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/NATIONAL-AQUACULTURE-GROUP-(NAQUA)-ckkwea/67#Budget
+      2020.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Community Development Bank\nGood backups.\r\nOur apologies goes to CD Bank,\
+    \ a division of TBK Bank, SSB TBK Bank, SSB.\n- LOAN_2.7z 573031Kb\n- LOAN_1.7z\
+    \ 826251Kb\n- NODE0000.zip 84621Kb\n- SCM.zip 5381Kb\n- Year End Information.zip\
+    \ 3514Kb"
+  hmac: 9edefe521eba5ab8e31d6acd05930a3a5b3435cd59d11fb0e433cc1f9ec28d0c
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a
+  timestamp: 2020-05-20 21:55:06.114963
+  title: Hacked by Doppel Spider
+  url: ['https://www.comdevbank.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a/63#LOAN_2.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a/62#LOAN_1.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a/58#NODE0000.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a/52#SCM.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CD-Bank,-a-division-of-TBK-Bank,-SSB-mdts2a/51#Year
+      End Information.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'PEMEX
+
+    Here we start. Stay tuned, more info to come.
+
+    - Bases  PHD y configuracion.7z.001 256000Kb
+
+    - Bases  PHD y configuracion.7z.008 241099Kb
+
+    - Bases  PHD y configuracion.7z.007 256000Kb
+
+    - Bases  PHD y configuracion.7z.006 256000Kb
+
+    - Bases  PHD y configuracion.7z.005 256000Kb
+
+    - Bases  PHD y configuracion.7z.004 256000Kb
+
+    - Bases  PHD y configuracion.7z.003 256000Kb
+
+    - Bases  PHD y configuracion.7z.002 256000Kb
+
+    - Balances.7z 2985Kb
+
+    - 02 CONFIGURACIONES.7z 209478Kb
+
+    - Bombas_1.7z 166Kb'
+  hmac: 964a42489b60bfc063d39c1f3740322d7a5f16ef0ff4c59aa6dad6187b6e5f9c
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/PEMEX-8kugie
+  timestamp: 2020-05-20 21:55:09.749620
+  title: Hacked by Doppel Spider
+  url: ['https://www.pemex.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/48#Bases  PHD
+      y configuracion.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/47#Bases  PHD
+      y configuracion.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/46#Bases  PHD
+      y configuracion.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/45#Bases  PHD
+      y configuracion.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/44#Bases  PHD
+      y configuracion.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/43#Bases  PHD
+      y configuracion.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/42#Bases  PHD
+      y configuracion.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/41#Bases  PHD
+      y configuracion.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/36#Balances.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/35#02
+      CONFIGURACIONES.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PEMEX-8kugie/34#Bombas_1.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Valley Forge Fabrics, Inc.\nJust info\r\n* Username : veeambackupadmin\r\n\
+    * Domain : VALLEYFORGE\r\n* Password : )wRr4#^Qs@K\r\n\r\n\r\n\r\nadmin Administrator\
+    \ aluis\r\nangelak brianh brianha\r\ncpt danielr FrancisR\r\ngmcons nuxeo rasikaj\r\
+    \nSA_Crystal SA_Exchange SAdmin\r\nServices SLDA SLDU\r\nspadmin SPInstall sqldev\r\
+    \nsrv_exchange support sysproservice\r\ntedd unform veeambackupadmin\r\nvffcisco\
+    \ vffmail vmauth\r\n\r\n\r\nForest : valleyforge.com\r\nCurrentTime : 2/6/2020\
+    \ 8:43:49 PM\r\nHighestCommittedUsn : 105632095\r\nOSVersion : Windows Server\
+    \ 2008 R2 Standard\r\nRoles : {}\r\nDomain : valleyforge.com\r\nIPAddress : 192.168.77.204\r\
+    \nSiteName : FLL\r\nSyncFromAllServersCallback :\r\nInboundConnections : {0fb463c9-56b1-4b73-a277-f91ff278840f,\
+    \ e8bc9430-bc97-4cca-9f5d-dd89290ee768}\r\nOutboundConnections : {6e6894c5-983b-4644-83aa-3ccb4a11ad19}\r\
+    \nName : ZENAV.valleyforge.com\r\nPartitions : {DC=valleyforge,DC=com, CN=Configuration,DC=valleyforge,DC=com,\r\
+    \nCN=Schema,CN=Configuration,DC=valleyforge,DC=com,\r\nDC=ForestDnsZones,DC=valleyforge,DC=com...}\r\
+    \n\r\nForest : valleyforge.com\r\nCurrentTime : 2/6/2020 8:43:49 PM\r\nHighestCommittedUsn\
+    \ : 66790644\r\nOSVersion : Windows Server 2012 Standard\r\nRoles : {SchemaRole,\
+    \ NamingRole, PdcRole, RidRole...}\r\nDomain : valleyforge.com\r\nIPAddress :\
+    \ 192.168.76.211\r\nSiteName : FLL\r\nSyncFromAllServersCallback :\r\nInboundConnections\
+    \ : {6e6894c5-983b-4644-83aa-3ccb4a11ad19}\r\nOutboundConnections : {e8bc9430-bc97-4cca-9f5d-dd89290ee768}\r\
+    \nName : whiskeyv.valleyforge.com\r\nPartitions : {DC=valleyforge,DC=com, CN=Configuration,DC=valleyforge,DC=com,\r\
+    \nCN=Schema,CN=Configuration,DC=valleyforge,DC=com,\r\nDC=ForestDnsZones,DC=valleyforge,DC=com...}\r\
+    \n\r\nForest : valleyforge.com\r\nCurrentTime : 2/6/2020 8:43:50 PM\r\nHighestCommittedUsn\
+    \ : 16245486\r\nOSVersion : Windows Server 2012 R2 Standard\r\nRoles : {}\r\n\
+    Domain : valleyforge.com\r\nIPAddress : 192.168.10.8\r\nSiteName : QTS\r\nSyncFromAllServersCallback\
+    \ :\r\nInboundConnections : {062b2ff8-b2b2-40d9-8eb3-1b2f3128f846}\r\nOutboundConnections\
+    \ : {}\r\nName : VFF-QTSAD-01.valleyforge.com\r\nPartitions : {DC=valleyforge,DC=com,\
+    \ CN=Configuration,DC=valleyforge,DC=com,\r\nCN=Schema,CN=Configuration,DC=valleyforge,DC=com,\r\
+    \nDC=ForestDnsZones,DC=valleyforge,DC=com...}\r\n\r\nForest : valleyforge.com\r\
+    \nCurrentTime : 2/6/2020 8:43:52 PM\r\nHighestCommittedUsn : 6677727\r\nOSVersion\
+    \ : Windows Server 2016 Standard\r\nRoles : {}\r\nDomain : valleyforge.com\r\n\
+    IPAddress : 192.168.1.16\r\nSiteName : BST\r\nSyncFromAllServersCallback :\r\n\
+    InboundConnections : {63565b9f-d6a1-4673-8d0e-18c73f37d3f0, f7a8a5aa-5c3a-403a-8c11-293d2f6cbeda}\r\
+    \nOutboundConnections : {}\r\nName : VFF-ADBST-01.valleyforge.com\r\nPartitions\
+    \ : {DC=valleyforge,DC=com, CN=Configuration,DC=valleyforge,DC=com,\r\nCN=Schema,CN=Configuration,DC=valleyforge,DC=com,\r\
+    \nDC=ForestDnsZones,DC=valleyforge,DC=com...}\r\n- itdox.zip 22740Kb\n- email-contacts.txt\
+    \ 206Kb"
+  hmac: 3e125e698307ae90bec1ea0f574a69e0a252fa6740e015b30d6e857fbb8e6e89
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Valley-Forge-Fabrics,-Inc.-cho15b
+  timestamp: 2020-05-20 21:55:13.342598
+  title: Hacked by Doppel Spider
+  url: ['https://valleyforge.com', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Valley-Forge-Fabrics,-Inc.-cho15b/38#itdox.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Valley-Forge-Fabrics,-Inc.-cho15b/37#email-contacts.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Bidvest Panalpina Logistics
+
+    Just some files from this company. Pentested Jan, 20 2020
+
+    - TOYMOTO.zip 67300Kb
+
+    - Wrench Road Staff.csv 53Kb
+
+    - Credit Management.zip 6141Kb
+
+    - National Finance.zip 3604Kb
+
+    - Documents.zip 3037Kb
+
+    - New folder.zip 7364Kb
+
+    - zara.zip 5822Kb
+
+    - files.zip 9587Kb'
+  hmac: dd5e5b52eb8a8daeb0e178fda0420e1e3fd9b6bef298aa2c2d13529e8daaa8b3
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Bidvest-Panalpina-Logistics-syr9tf
+  timestamp: 2020-05-20 21:55:15.716744
+  title: Hacked by Doppel Spider
+  url: ['http://bpl.za.com', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/33#TOYMOTO.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/32#Wrench
+      Road Staff.csv', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/31#Credit
+      Management.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/30#National
+      Finance.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/29#Documents.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/28#New
+      folder.zip', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/27#zara.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Bidvest-Panalpina-Logistics-syr9tf/26#files.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "FOUSSIER \nFoussier is primarily engaged in the wholesale distribution of\
+    \ cutlery and general hardware, including handsaws; saw blades; brads, staples,\
+    \ and tacks; and bolts, nuts, rivets, and screws.\n- Contacts and etc pt1.7z.001\
+    \ 97656Kb\n- Contacts and etc pt1.7z.002 97656Kb\n- Contacts and etc pt1.7z.003\
+    \ 97656Kb\n- Contacts and etc pt1.7z.004 94065Kb\n- Contracts and etc pt2.7z.001\
+    \ 97656Kb\n- Contracts and etc pt2.7z.002 97656Kb\n- Contracts and etc pt2.7z.003\
+    \ 97656Kb\n- Contracts and etc pt2.7z.004 97656Kb\n- Contracts and etc pt2.7z.005\
+    \ 97656Kb\n- Contracts and etc pt2.7z.006 97656Kb\n- Contracts and etc pt2.7z.007\
+    \ 97656Kb\n- Contracts and etc pt2.7z.008 97656Kb\n- Contracts and etc pt2.7z.009\
+    \ 97656Kb\n- Contracts and etc pt2.7z.010 59831Kb\n- Other docs.7z.001 75257Kb"
+  hmac: 5c800ea7e52607afde5db222dcdeb844aa03fa66e50530eada8219dd8ee3c7f7
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/FOUSSIER-kgo583
+  timestamp: 2020-10-17 12:47:14.061421
+  title: Hacked by Doppel Spider
+  url: ['https://www.foussier.fr/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/805#Contacts
+      and etc pt1.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/804#Contacts
+      and etc pt1.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/803#Contacts
+      and etc pt1.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/802#Contacts
+      and etc pt1.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/801#Contracts
+      and etc pt2.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/800#Contracts
+      and etc pt2.7z.002', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/786#Contracts
+      and etc pt2.7z.003', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/785#Contracts
+      and etc pt2.7z.004', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/784#Contracts
+      and etc pt2.7z.005', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/783#Contracts
+      and etc pt2.7z.006', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/782#Contracts
+      and etc pt2.7z.007', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/781#Contracts
+      and etc pt2.7z.008', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/780#Contracts
+      and etc pt2.7z.009', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/779#Contracts
+      and etc pt2.7z.010', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/FOUSSIER-kgo583/778#Other
+      docs.7z.001']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Med-Care Infusion Services, Inc. \nMed-Care offers a state-of-the-artpharmacy\
+    \ with automated refills.\nwanna some drugs?\n- OXYGEN LICENSE 2018-202004302018115252.pdf\
+    \ 1729Kb\n- Medcare License.pdf 128Kb"
+  hmac: 3752c5cdd491593d247b1d98aca08351dee99057c583a68b12692818905e36cb
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Med-Care-Infusion-Services-Inc-a52g4m
+  timestamp: 2020-10-17 12:47:14.896707
+  title: Hacked by Doppel Spider
+  url: ['https://www.medcareinfusion.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Med-Care-Infusion-Services-Inc-a52g4m/799#OXYGEN
+      LICENSE 2018-202004302018115252.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Med-Care-Infusion-Services-Inc-a52g4m/798#Medcare
+      License.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'CNIJ inc
+
+    With over 20 years of solid experience in bringing innovative ideas to life, CNIJ
+    would be your partner of choice for any corporate events.
+
+    - autorizationtd.doc 20Kb
+
+    - advance2.doc 20Kb'
+  hmac: 17d36bc864d2311bfc1d8275ecc59c70a61222d3ee411feed60dbc8d34bcfa78
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/CNIJ-inc-rj4om3
+  timestamp: 2020-10-17 12:47:16.191256
+  title: Hacked by Doppel Spider
+  url: ['http://www.cnij.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CNIJ-inc-rj4om3/797#autorizationtd.doc',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CNIJ-inc-rj4om3/796#advance2.doc']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Anco Engineering, Inc.
+
+    Anco Engineering, Inc. is a family owned and operated company specializing in
+    metal fabrication.
+
+    - Quote 16 GA Galv Stl.pdf 57Kb
+
+    - Copy of RFQ  Customer Responsibility per Sales Engineer__06.07.2019 (MU).xlsx
+    12Kb'
+  hmac: a9bc1223d73ea8671b04fa86ff4c0f51f6d68a7829a9cf9b482b67d2161b79a1
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Anco-Engineering-Inc-asbt1j
+  timestamp: 2020-10-17 12:47:17.248596
+  title: Hacked by Doppel Spider
+  url: ['http://www.ancoeng.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Anco-Engineering-Inc-asbt1j/795#Quote
+      16 GA Galv Stl.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Anco-Engineering-Inc-asbt1j/794#Copy
+      of RFQ  Customer Responsibility per Sales Engineer__06.07.2019 (MU).xlsx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Hall County Government
+
+    Hall County roads closed due to flooding, storm damage
+
+    Please be advised of a number of road closures due to the storms Saturday night,
+    Oct. 10 and early Sunday morning Oct. 11.
+
+    - okwd_occ_cert.rpt.pdf 299Kb
+
+    - HSE2020-00092 PLAT.PDF 859Kb
+
+    - CV_COMMERCIAL PLAN REVIEW_THIRD.PDF 1517Kb'
+  hmac: 6bc3d746c60e5ed908d9e62199ac44e97f63f8aaaf956c05c5351861d22716db
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Hall-County-Government-qjyh5z
+  timestamp: 2020-10-17 12:47:18.178858
+  title: Hacked by Doppel Spider
+  url: ['https://www.hallcounty.org/CivicAlerts.aspx?AID=832', 'https://www.hallcounty.org/',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hall-County-Government-qjyh5z/793#okwd_occ_cert.rpt.pdf',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hall-County-Government-qjyh5z/792#HSE2020-00092
+      PLAT.PDF', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Hall-County-Government-qjyh5z/791#CV_COMMERCIAL
+      PLAN REVIEW_THIRD.PDF']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'STARRETT L. S. Starrett Company
+
+    STARRETT SERVER DOWN FOR MAINTENANCE
+
+    Online ordering is currently unavailable.
+
+    Hmm...
+
+    NYSE : SCX
+
+    - UPS Ev.xls 26Kb
+
+    - Flu Employee form.docx 13Kb'
+  hmac: 841a9e0c87b5e95bb92ff42ba7bc14532a76c5226ff67a817cd03b77bc7900db
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/STARRETT-L-S-Starrett-Company-zgym7k
+  timestamp: 2020-10-17 12:47:18.957269
+  title: Hacked by Doppel Spider
+  url: ['https://www.starrett.com/news/newsitem/2020/10/12/starrett-server-down-for-maintenance',
+    'https://www.starrett.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/STARRETT-L-S-Starrett-Company-zgym7k/790#UPS
+      Ev.xls', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/STARRETT-L-S-Starrett-Company-zgym7k/789#Flu
+      Employee form.docx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'TSI Consumer Goods GmbH
+
+    TSI Consumer Goods GmbH contributes to the fact that people can live well and
+    convenient. TSI develops, produces and sells private labels and private label
+    products in the food and non-food segment.
+
+    - Other Files.7z.001 19581Kb
+
+    - Invoices.7z.001 18761Kb
+
+    - Customer orders.7z.001 21355Kb'
+  hmac: 125074f8925abb4be97fda44d40cc56b0bffe17adb8b0ec64d81dcc4957edee8
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/TSI-Consumer-Goods-GmbH-956ywf
+  timestamp: 2020-10-17 12:47:20.085070
+  title: Hacked by Doppel Spider
+  url: ['https://www.tsi.de/en/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/TSI-Consumer-Goods-GmbH-956ywf/777#Other
+      Files.7z.001', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/TSI-Consumer-Goods-GmbH-956ywf/776#Invoices.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/TSI-Consumer-Goods-GmbH-956ywf/775#Customer
+      orders.7z.001']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Newcastle University
+
+    Newcastle University excels in a leading guide of global universities!
+
+    And how your educational year starts?
+
+    - BMS_2019-2020.7z.001 102400Kb
+
+    - BMS_2019-2020.7z.002 102400Kb
+
+    - BMS_2019-2020.7z.003 102400Kb
+
+    - BMS_2019-2020.7z.004 102400Kb
+
+    - BMS_2019-2020.7z.005 102400Kb
+
+    - BMS_2019-2020.7z.006 102400Kb
+
+    - BMS_2019-2020.7z.007 102400Kb
+
+    - BMS_2019-2020.7z.008 102400Kb
+
+    - BMS_2019-2020.7z.009 21206Kb
+
+    - NUMED_Research.7z.001 102400Kb
+
+    - NUMED_Research.7z.002 102400Kb
+
+    - NUMED_Research.7z.003 102400Kb
+
+    - NUMED_Research.7z.004 60177Kb
+
+    - NUMED_Admin.7z.001 102400Kb
+
+    - NUMED_Admin.7z.002 102400Kb
+
+    - NUMED_Admin.7z.003 15344Kb
+
+    - shared.7z.001 102400Kb
+
+    - shared.7z.002 102400Kb
+
+    - shared.7z.003 97578Kb
+
+    - NUMED_ITRC.7z 129805Kb
+
+    - NEWRIIS_Computing.7z 12026Kb
+
+    - NUMED_Security.7z 56810Kb
+
+    - NUMED_Finance.7z.001 102400Kb
+
+    - NUMED_Finance.7z.002 102400Kb
+
+    - NUMED_Finance.7z.003 102400Kb
+
+    - NUMED_Finance.7z.004 102400Kb
+
+    - NUMED_Finance.7z.005 102400Kb
+
+    - NUMED_Finance.7z.006 79746Kb
+
+    - BMS.7z.001 102400Kb
+
+    - BMS.7z.002 57227Kb
+
+    - global adress list.7z 3143Kb
+
+    - Admin.7z 13977Kb'
+  hmac: 98d0d01b3c0ddd0ad327db2ba9b94db2e1fea0c635b360fb4f8e55602cef0542
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Newcastle-University-shisi0
+  timestamp: 2020-10-17 12:47:22.694916
+  title: Hacked by Doppel Spider
+  url: ['https://www.ncl.ac.uk/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/774#BMS_2019-2020.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/773#BMS_2019-2020.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/772#BMS_2019-2020.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/771#BMS_2019-2020.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/770#BMS_2019-2020.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/769#BMS_2019-2020.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/768#BMS_2019-2020.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/767#BMS_2019-2020.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/766#BMS_2019-2020.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/765#NUMED_Research.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/764#NUMED_Research.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/763#NUMED_Research.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/762#NUMED_Research.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/761#NUMED_Admin.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/760#NUMED_Admin.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/759#NUMED_Admin.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/758#shared.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/757#shared.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/756#shared.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/755#NUMED_ITRC.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/754#NEWRIIS_Computing.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/753#NUMED_Security.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/752#NUMED_Finance.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/751#NUMED_Finance.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/750#NUMED_Finance.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/749#NUMED_Finance.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/748#NUMED_Finance.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/747#NUMED_Finance.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/746#BMS.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/745#BMS.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/744#global
+      adress list.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Newcastle-University-shisi0/743#Admin.7z']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Guilford Technical Community College
+
+    ** College Schedule Update **
+
+    Because of a continued cybersecurity investigation, the college has modified the
+    schedule of classes through Friday, Sept. 18, 2020.
+
+    We don''t need no
+
+    Education (c)
+
+    - GTCC.7z.001 102400Kb
+
+    - GTCC.7z.002 50370Kb
+
+    - Tonyas docs.7z 109677Kb
+
+    - Dr. Johnson-New VP Info.7z 125912Kb
+
+    - Student Life.7z 97574Kb
+
+    - Student Support Serv Staff List - Title Ph Loc.7z 88Kb
+
+    - Student Grievance Logs.7z 917Kb
+
+    - SSS.7z 4935Kb
+
+    - Finance.7z.001 102400Kb
+
+    - Finance.7z.002 102400Kb
+
+    - Finance.7z.003 102400Kb
+
+    - Finance.7z.004 102400Kb
+
+    - Finance.7z.005 102400Kb
+
+    - Finance.7z.006 102400Kb
+
+    - Finance.7z.007 102400Kb
+
+    - Finance.7z.008 102400Kb
+
+    - Finance.7z.009 75826Kb
+
+    - COVID Expenditures.7z 9293Kb
+
+    - Contract.zip 12075Kb
+
+    - 1.zip 31680Kb'
+  hmac: f922ab5f254cbc15ba1f48fd62ae528e727f9907821c2cfd3c60adf47f6b0278
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Guilford-Technical-Community-College-3n6ddw
+  timestamp: 2020-10-17 12:47:23.781354
+  title: Hacked by Doppel Spider
+  url: ['https://www.gtcc.edu/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/742#GTCC.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/741#GTCC.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/740#Tonyas
+      docs.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/739#Dr.
+      Johnson-New VP Info.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/738#Student
+      Life.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/737#Student
+      Support Serv Staff List - Title Ph Loc.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/736#Student
+      Grievance Logs.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/735#SSS.7z',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/715#Finance.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/714#Finance.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/713#Finance.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/712#Finance.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/711#Finance.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/710#Finance.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/709#Finance.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/708#Finance.7z.008',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/707#Finance.7z.009',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/696#COVID
+      Expenditures.7z', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/683#Contract.zip',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Guilford-Technical-Community-College-3n6ddw/682#1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'AMPLITUDE AUTOMOBILES
+
+    7 RUE BENJAMIN FRANKLIN, CHAMBRAY-LES-TOURS, 37170, France
+
+    - K18A20266N004127.pdf 77Kb
+
+    - 010 TATLIGUN OR 115707.xls 36Kb
+
+    - 0008WQVB.pdf 46Kb'
+  hmac: fb9280ffbaccc8434458076cb6a9c165905b6640f40e4f6ef1e07bf8a0faec29
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/AMPLITUDE-AUTOMOBILES-mpp5no
+  timestamp: 2020-10-17 12:47:24.617255
+  title: Hacked by Doppel Spider
+  url: ['https://www.amplitude-auto.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AMPLITUDE-AUTOMOBILES-mpp5no/729#K18A20266N004127.pdf',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AMPLITUDE-AUTOMOBILES-mpp5no/728#010
+      TATLIGUN OR 115707.xls', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AMPLITUDE-AUTOMOBILES-mpp5no/727#0008WQVB.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'MMC Materials, Inc.
+
+    Delivering ConcreteSolutionsSince 1927
+
+    - CDI software maintenance 2019.xls 95Kb
+
+    - MMC multi year lookback 2016.xlsx 139Kb'
+  hmac: 501b4e2af16ddf4e66b39b7351b050b6d6a331ff9bd89dc8e44adfde9ab57421
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/MMC-Materials-Inc-cekgec
+  timestamp: 2020-10-17 12:47:25.607506
+  title: Hacked by Doppel Spider
+  url: ['http://mmcmaterials.com/ ', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/MMC-Materials-Inc-cekgec/734#CDI
+      software maintenance 2019.xls', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/MMC-Materials-Inc-cekgec/733#MMC
+      multi year lookback 2016.xlsx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'HornerXpress (AquaCal)
+
+    HornerXpress is the premier independent distributor of pool equipment to pool
+    and spa professionals with 16 branches throughout Florida and New York.
+
+    - EE AND G ENVIRONMENTAL SERVICES.pdf 277Kb
+
+    - Matheson Gas.pdf 3246Kb
+
+    - COURTYARD MARRIOTT ST PETE 2016.pdf 97Kb'
+  hmac: a4482fa2d04c661985114eb084b215ca54c618ab8c29c47bdbe74698bdb50919
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/HornerXpress-AquaCal-0xkijy
+  timestamp: 2020-10-17 12:47:26.651686
+  title: Hacked by Doppel Spider
+  url: ['https://hornerxpress.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/HornerXpress-AquaCal-0xkijy/732#EE
+      AND G ENVIRONMENTAL SERVICES.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/HornerXpress-AquaCal-0xkijy/731#Matheson
+      Gas.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/HornerXpress-AquaCal-0xkijy/730#COURTYARD
+      MARRIOTT ST PETE 2016.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'CISEG GmbH
+
+    CIS Equipment Group CISEG provides premium equipment and fleet management solutions
+    for the agriculture, construction and mining industries.
+
+    - Glossary.pdf 3497Kb
+
+    - CISEG_Orders overview.xlsx 13Kb
+
+    - CG_Commercial invoices_2018.xlsx 32Kb'
+  hmac: ff52654f3913358cd3404c80c67a95ca5adecf3301d7fa82052250844d27ee26
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/CISEG-GmbH-6as707
+  timestamp: 2020-10-17 12:47:27.748793
+  title: Hacked by Doppel Spider
+  url: ['https://ciseg.eu/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CISEG-GmbH-6as707/726#Glossary.pdf',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CISEG-GmbH-6as707/725#CISEG_Orders
+      overview.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/CISEG-GmbH-6as707/724#CG_Commercial
+      invoices_2018.xlsx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "SPARFLEX FRANCE\nSparflex, lArt et la Matire\n- Model PDCA (English).xlsx\
+    \ 133Kb\n- GRP_IT_QUA02 (0) Liste des d\xCE\u02DCfauts muselets.pdf 212Kb"
+  hmac: b58621a16190f8d7942a2305cd595966f3dc97258ba15245cf22bfabd15b86f7
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/SPARFLEX-FRANCE-rcspdk
+  timestamp: 2020-10-17 12:47:28.833163
+  title: Hacked by Doppel Spider
+  url: ['https://www.sparflex.com/en/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/SPARFLEX-FRANCE-rcspdk/723#Model
+      PDCA (English).xlsx', "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/SPARFLEX-FRANCE-rcspdk/722#GRP_IT_QUA02\
+      \ (0) Liste des d\xCE\u02DCfauts muselets.pdf"]
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Almacenes Distribuidores de la Frontera
+
+    Almacenes Distribuidores de la Frontera
+
+    - LOGALM-003 RECIBO DE PROVEEDORES EN EL CENTRO DE DISTRIBUCION.doc 4661Kb
+
+    - FPROC-001 - SOLICITUD DE MODIFICACION A PROCEDIMIENTOS .xls 3609Kb'
+  hmac: 02a5d0579ced7b74aabc1f01e86b968619edffbb42637f970c2908b77bb0b450
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Almacenes-Distribuidores-de-la-Frontera-myiy2x
+  timestamp: 2020-10-17 12:47:29.913861
+  title: Hacked by Doppel Spider
+  url: ['http://adfsa.com.mx/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Almacenes-Distribuidores-de-la-Frontera-myiy2x/721#LOGALM-003
+      RECIBO DE PROVEEDORES EN EL CENTRO DE DISTRIBUCION.doc', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Almacenes-Distribuidores-de-la-Frontera-myiy2x/720#FPROC-001
+      - SOLICITUD DE MODIFICACION A PROCEDIMIENTOS .xls']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Electroform Company
+
+    Electroform is a leader in offering product development, injection molds, automation
+    and injection molding for the plastics industry.
+
+    - Electroform 401K ASP, Inc. Basic Plan Document.pdf 5456Kb
+
+    - 2020 xmas labels.doc 37Kb'
+  hmac: 371b16945aa6795a72b99ef1b5f1d0067f430556e3ec9fbda6b2bc08d709335c
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Electroform-Company-dwjkqg
+  timestamp: 2020-10-17 12:47:30.674057
+  title: Hacked by Doppel Spider
+  url: ['http://injectionmoldmaking.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Electroform-Company-dwjkqg/719#Electroform
+      401K ASP, Inc. Basic Plan Document.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Electroform-Company-dwjkqg/718#2020
+      xmas labels.doc']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '71 Construction
+
+    Some constructors
+
+    - COVID Pays April 13, 2020.docx 14Kb
+
+    - 2020 Price List.pdf 26Kb'
+  hmac: 6db3400a665b9571c706f94bf3f4a9e26b28b09762be04638f8c49c8cd21f544
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/71-Construction-yy8ou0
+  timestamp: 2020-10-17 12:47:31.635027
+  title: Hacked by Doppel Spider
+  url: ['https://www.71construction.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/71-Construction-yy8ou0/717#COVID
+      Pays April 13, 2020.docx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/71-Construction-yy8ou0/716#2020
+      Price List.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: ' COMMUNE MITRY MORY
+
+    Commune Mitry Mory is primarily engaged in providing general support for government,
+    which include personnel, auditing, procurement services, and building management
+    services, and other general government establishments which cannot be classified
+    in other industries.
+
+    - Finance001.7z.001 97656Kb
+
+    - Finance001.7z.002 97656Kb
+
+    - Finance001.7z.003 97656Kb
+
+    - Finance001.7z.004 97656Kb
+
+    - Finance001.7z.005 36293Kb
+
+    - Finance002.7z.001 97656Kb
+
+    - Finance002.7z.002 97656Kb
+
+    - Finance002.7z.003 97656Kb
+
+    - Finance002.7z.004 97656Kb
+
+    - Finance002.7z.005 77399Kb
+
+    - Finance003.7z.001 97656Kb
+
+    - Finance003.7z.002 97656Kb
+
+    - Finance003.7z.003 97656Kb
+
+    - Finance003.7z.004 18988Kb
+
+    - Finance004.7z.001 97656Kb
+
+    - Finance004.7z.002 72234Kb
+
+    - Finance005.7z.001 97656Kb
+
+    - Finance005.7z.002 97656Kb
+
+    - Finance005.7z.003 63899Kb
+
+    - Finance006.7z.001 97656Kb
+
+    - Finance006.7z.002 97656Kb
+
+    - Finance006.7z.003 97656Kb
+
+    - Finance006.7z.004 97656Kb
+
+    - Finance006.7z.005 97656Kb
+
+    - Finance006.7z.006 97656Kb
+
+    - Finance006.7z.007 5046Kb
+
+    - Finance007.7z.001 102400Kb
+
+    - Finance007.7z.002 102400Kb
+
+    - Finance007.7z.003 69335Kb
+
+    - MITRY.MORY.7z.001 97656Kb
+
+    - MITRY.MORY.7z.002 26166Kb'
+  hmac: 38690e9297254b03be12e2f5cf5085dd80db2ab2b7b97e0106cadb624644aaef
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/-COMMUNE-MITRY-MORY-6o9jkl
+  timestamp: 2020-10-17 12:47:32.939948
+  title: Hacked by Doppel Spider
+  url: ['https://www.mitry-mory.fr/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/706#Finance001.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/705#Finance001.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/704#Finance001.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/703#Finance001.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/702#Finance001.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/701#Finance002.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/700#Finance002.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/699#Finance002.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/698#Finance002.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/697#Finance002.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/695#Finance003.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/694#Finance003.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/693#Finance003.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/692#Finance003.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/691#Finance004.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/690#Finance004.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/689#Finance005.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/688#Finance005.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/687#Finance005.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/686#Finance006.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/685#Finance006.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/684#Finance006.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/676#Finance006.7z.004',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/675#Finance006.7z.005',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/674#Finance006.7z.006',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/673#Finance006.7z.007',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/672#Finance007.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/671#Finance007.7z.002',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/670#Finance007.7z.003',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/644#MITRY.MORY.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/-COMMUNE-MITRY-MORY-6o9jkl/643#MITRY.MORY.7z.002']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'PADT
+
+    PADT is a globally recognized provider ofNumerical Simulation, Product Development,
+    and 3D Printingproducts and services
+
+    - Revenue 2015 Sage & Dynamics.xlsx 31Kb
+
+    - Material Expense - Jan.xlsx 14Kb
+
+    - Fed & State #s.xlsx 9Kb
+
+    - EngSrv Metrics-2019.xlsx 162Kb
+
+    - Closed Project Info.xlsx 12Kb'
+  hmac: cd41434d3283972754478a45e607d3284d01e0f34fecfde2be09287f88cd1303
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/PADT-hvka1j
+  timestamp: 2020-10-17 12:47:34.009895
+  title: Hacked by Doppel Spider
+  url: ['http://www.padtinc.com/ ', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PADT-hvka1j/681#Revenue
+      2015 Sage & Dynamics.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PADT-hvka1j/680#Material
+      Expense - Jan.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PADT-hvka1j/679#Fed
+      & State #s.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PADT-hvka1j/678#EngSrv
+      Metrics-2019.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/PADT-hvka1j/677#Closed
+      Project Info.xlsx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'AIS INDUSTRIAL & CONSTRUCTION SUPPLY Co, Inc
+
+    Since 1945, AIS Industrial and Construction Supply has been building relationships
+    with the worlds premier Industrial and Construction product manufacturers to bring
+    you an extensive line card for value, convenience and variety.
+
+    - Contragents.7z.001 79872Kb
+
+    - Scans.7z.001 97656Kb
+
+    - Scans.7z.002 94048Kb'
+  hmac: c64516c2c99d4b82876bf967178a4aeb496497d9f954ec4c75853b843ebc41c3
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/AIS-INDUSTRIAL-CONSTRUCTION-SUPPLY-Co-Inc-1ix3xc
+  timestamp: 2020-10-17 13:20:42.908661
+  title: Hacked by Doppel Spider
+  url: ['https://aisind.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AIS-INDUSTRIAL-CONSTRUCTION-SUPPLY-Co-Inc-1ix3xc/619#Contragents.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AIS-INDUSTRIAL-CONSTRUCTION-SUPPLY-Co-Inc-1ix3xc/618#Scans.7z.001',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/AIS-INDUSTRIAL-CONSTRUCTION-SUPPLY-Co-Inc-1ix3xc/617#Scans.7z.002']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Andamios Atlas, S.A. de C.V.
+
+    Ms de 50 aos sosteniendo a Mxico!
+
+    - maltamirano.xml 5Kb
+
+    - maltamirano.pdf 6Kb'
+  hmac: 58c807543e2d1addb38173225db67112ee221752d0bbe40721b1bf601c1d6ef8
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Andamios-Atlas-S-A-de-C-V-zrmprs
+  timestamp: 2020-10-17 13:20:45.196877
+  title: Hacked by Doppel Spider
+  url: ['https://andamiosatlas.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Andamios-Atlas-S-A-de-C-V-zrmprs/642#maltamirano.xml',
+    'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Andamios-Atlas-S-A-de-C-V-zrmprs/641#maltamirano.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'The South African Judiciary
+
+    The Judicial authority of the Republic of South Africa is vested in the courts.
+    These provisions are contained in Section 165 of the Constitution of the Republic
+    of South Africa, 1996
+
+    - Risk Dashboard finance.docx 21Kb
+
+    - Act Against Fraud and Corruption (2).pdf 534Kb'
+  hmac: 55b08c3af1351865f61b9dd921d821cbc352486453d6cea0341fdbac5d0bab4b
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/The-South-African-Judiciary-yqswr4
+  timestamp: 2020-10-17 13:20:46.218551
+  title: Hacked by Doppel Spider
+  url: ['https://www.judiciary.org.za/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/The-South-African-Judiciary-yqswr4/640#Risk
+      Dashboard finance.docx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/The-South-African-Judiciary-yqswr4/639#Act
+      Against Fraud and Corruption (2).pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Unipoint software
+
+    ERP-Integrated Quality Management Software
+
+    - Signed referral agreement.pdf 1878Kb
+
+    - DonN Consulting signed Referral Partner Agreement.pdf 456Kb'
+  hmac: 985f5ae49e99aeb4c7bb24d7943e461fae8f4285ae27922414e96bf191b1e3f7
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Unipoint-software-38b2oq
+  timestamp: 2020-10-17 13:20:47.051088
+  title: Hacked by Doppel Spider
+  url: ['https://www.unipointsoftware.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Unipoint-software-38b2oq/638#Signed
+      referral agreement.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Unipoint-software-38b2oq/637#DonN
+      Consulting signed Referral Partner Agreement.pdf']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'American International Tooling, Inc.
+
+    Food Processing Equipment
+
+    - SALES ORDER A-15911.pdf 93Kb
+
+    - 2015 CASH DISC.xlsx 169Kb'
+  hmac: c4161409d330d6f629c4c248b17a417400ef56c1f546dbd16c04bec999f6e98c
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/American-International-Tooling-Inc-b51jbg
+  timestamp: 2020-10-17 13:20:47.874122
+  title: Hacked by Doppel Spider
+  url: ['http://www.seamertooling.com/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/American-International-Tooling-Inc-b51jbg/636#SALES
+      ORDER A-15911.pdf', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/American-International-Tooling-Inc-b51jbg/635#2015
+      CASH DISC.xlsx']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Walton Arts Center
+
+    We have also launched the Ghost Light Recovery Fund to cover the revenue shortfall
+    created by the loss of programming.
+
+    - Rate Sheet 7-2019.xlsx 15Kb
+
+    - Certificate of Attendance - Covid-19 and OSHA Requirements - Kelli Parker.pdf
+    222Kb'
+  hmac: 1e98f1571c00d2b8bae05d32d4bc68d16d0d56e9451e56b36bbec70976dd6cd4
+  ltype: Shaming list
+  malware: DoppelPaymer
+  source: http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/details/Walton-Arts-Center-yjvi89
+  timestamp: 2020-10-17 13:20:48.780676
+  title: Hacked by Doppel Spider
+  url: ['https://waltonartscenter.org/', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Walton-Arts-Center-yjvi89/632#Rate
+      Sheet 7-2019.xlsx', 'http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/api/file/Walton-Arts-Center-yjvi89/631#Certificate
+      of Attendance - Covid-19 and OSHA Requirements - Kelli Parker.pdf']

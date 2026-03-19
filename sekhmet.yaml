@@ -1,0 +1,43 @@
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data:
+
+    Download links
+
+    COMITE_DIRECCION.zip
+
+    Attacked on March 20, 2020.Sites: http://grupodamm.com/ and http://damm.es/Some
+    of their servers were encrypted with our software, 100 Gigabytes of their data
+    was leaked.We have posted only a part in order to make them contact us.Some of
+    their emails:jvillavecchia@dammcorporate.com
+
+    jvillavecchia@damm.es
+
+    gurriaf@dammcorporate.com
+
+    gurria@dammcorporate.com
+
+    fgurria@dammcorporate.com
+
+    fedegurria@dammcorporate.com
+
+    fedeg@dammcorporate.com
+
+    fede_gurria@dammcorporate.com
+
+    fede@dammcorporate.com
+
+    fede.gurria@dammcorporate.com
+
+    Feel free to download their files and wreak havoc on their emails and sites.
+
+    ]'
+  hmac: 81751c7b434f9fd6ed4c8bd2b5698524cc7cbba5995228d705e88c6cbd84da82
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://rlmuybcg5h5gaatr.onion/Grupo_Damm_Hit_By_Sekhmet
+  timestamp: 2020-05-20 22:39:37.756042
+  title: Leaks leaks and leaks
+  url: ['http://damm.es/', 'http://grupodamm.com/', 'http://damm.es/Some']

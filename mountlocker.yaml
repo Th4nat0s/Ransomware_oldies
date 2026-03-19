@@ -1,0 +1,412 @@
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Nachi America Inc.]
+    : null
+  data: "\n![](/u/l/a29a8b2a3d946da485234e39aa9fb312)\n**Client Information**\n**Client:**\
+    \ Nachi America Inc.  \n **Website:** https://nachiamerica.com  \nNachi is a worldwide\
+    \ manufacturer of innovative products: bearings, precision\ncutting tools, hydraulic\
+    \ equipment, machine tools, robots and high speed\nsteel. We are proud to deliver\
+    \ products manufactured to the highest possible\nstandards and maintain an ongoing\
+    \ commitment to incredible quality.\nAt Nachi, we develop technology for both\
+    \ product and process. Spanning from\nspecialty steels used in the manufacture\
+    \ of cutting tools and bearings to the\nequipment used in their manufacture and\
+    \ beyond, to the equipment that is used\nby our customers in their manufacturing\
+    \ facilities. Also, as an OEM supplier\nof bearings and hydraulics we touch directly\
+    \ to the ultimate end user of our\ncustomers products. We control every facet\
+    \ of the manufacturing processes and\nour manufacturing equipment and processes\
+    \ are utilized worldwide.\nFiles\n"
+  hmac: 4d161c4612eafd13b3b40f1b08640e1c87494a1aa604adb9332b38f8298832aa
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/nachiamerica
+  timestamp: 2021-06-03 20:26:45.692550
+  title: Nachi America Inc.
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, FAPS Inc.]
+    : null
+  data: "\n![](/u/l/9bab581d085e6487845b65567ece4021)\n**Client Information**\n**Client:**\
+    \ FAPS Inc.  \n **Website:** http://fapsinc.com  \n**Lock date:01.27.2021**\n\
+    \ **Total data:1TB**\n **Phone:** (973) 589-5656\n **Address:** **371 Craneway\
+    \ Street Port Newark, NJ 07114 PORTPOWER**\nFiles\n"
+  hmac: d44a03e8c9f1b1a14d866a915ec7bcea110a48be3d29c1be8d577d715684382e
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/fapsinc1
+  timestamp: 2021-06-03 20:26:45.692592
+  title: FAPS Inc.
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Homeland Title]
+    : null
+  data: "\n![](/u/l/b9db41ecec9f732fd0831ab97ae187ca)\n**Client Information**\n**Client:**\
+    \ Homeland Title  \n **Website:** http://homelandtco.com  \nFiles\nhomeland_5_percent.zip\
+    \  3GB \nhttp://ovn2v6uy3dizjtut.onion/homelandtco/homelandtco_5_percent.zip \
+    \ \n"
+  hmac: 03b3396ca351d604683a72daaecec6d9810d1d16b6cfaf44d72252f89d65de0b
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/HomelandTitle
+  timestamp: 2021-06-03 20:26:45.692599
+  title: Homeland Title
+  url: !!set
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+    http://ovn2v6uy3dizjtut.onion/homelandtco/homelandtco_5_percent.zip: null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Dassault Falcon Jet]
+    : null
+  data: "\n![](/u/l/df52223ee645fd692a6814530f19332e)\n**Client Information**\n**Client:**\
+    \ Dassault Falcon Jet  \n **Website:** http://dassaultfalcon.com  \n**This listing\
+    \ is from one of our partners.**\nAll relevant information can be found here:\n\
+    http://p6o7m73ujalhgkiv.onion/?t4Eb3TqV4Q\nFiles\n"
+  hmac: 9aad1a9f3b9b2cb3622a9ae704fce1eb0dda75e3bcad75639e94c6d3c304c326
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/dassaultfalcon
+  timestamp: 2021-06-03 20:26:45.692605
+  title: Dassault Falcon Jet
+  url: !!set
+    http://p6o7m73ujalhgkiv.onion/?t4Eb3TqV4Q: null
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Forrester Construction]
+    : null
+  data: "\n![](/u/l/f89ad712c43b6c05a73075fc12341e05)\n**Client Information**\n**Client:**\
+    \ Forrester Construction  \n **Website:** https://forresterconstruction.com  \n\
+    ### Office Location\n12231 Parklawn Drive\nRockville, MD 20852-1723\n **Voice:**\
+    \ (301) 816-1700\n **Fax:** (301) 816-1701\nFiles\n"
+  hmac: 49531b5ed1b8c83e1eb77379dfce1f5040d9495fe75386665cb4f87d9470bdaa
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/forresterconstruction
+  timestamp: 2021-06-03 20:26:45.692610
+  title: Forrester Construction
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Enerstar Rentals & Services]
+    : null
+  data: "\n![](/u/l/1625cd7a665580a3f013c6a69c5b6a4f)\n**Client Information**\n**Client:**\
+    \ Enerstar Rentals & Services  \n **Website:** https://enerstarrentals.com  \n\
+    Enerstar provides modern and fully equipped well-site trailers and\naccommodation\
+    \ solutions to both the oil and gas industries.\n\uFEFF\nFiles\n"
+  hmac: 9f386be76dd781d1653c4c1efc71f64271cee313ca82051293949e036ea6811d
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/enerstar
+  timestamp: 2021-06-03 20:26:45.692616
+  title: Enerstar Rentals & Services
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Gunnebo AB]
+    : null
+  data: "\n![](/u/l/b0964d6f85bc5f099784b3b6a125769c)\n**Client Information**\n**Client:**\
+    \ Gunnebo AB  \n **Website:** http://gunnebo.com  \n**Gunnnebo** , founded in\
+    \ 1764 and headquartered in Sweden, is a security\ncompany specializing in security\
+    \ products, services, and software solutions\n **Lock date:** 17 aug 2020\n **Phone:**\
+    \ +46 10 209 50 00\n **Address:** Johan pa Gardas Gata 7, Goeteborg, Vaestra Goetaland,\
+    \ 402 26,\nSweden 4200\n **Employees:** 4200\n **Revenue:** $860m\n **CEO:** Stefan\
+    \ Syren <Stefan.Syren@Gunnebo.com>\n **CFO:** Susanne Larsson <Susanne.Larsson@Gunnebo.com>\n\
+    \ **Stolen data description:**\n1\\. Internal corporate data from 86 fileservers:\
+    \ customer data, internal\nreports, invoices, financial data, forms, audits, bank\
+    \ documents\n2\\. Business applications with databases\n3\\. Cognos data\n4\\\
+    . Sales reports\n5\\. RFPS\n6\\. Banking data\n7\\. User's home folders with personal\
+    \ info\n8\\. All DB dumps\n9\\. Accounting data\n10\\. HR data\n11\\. Sources\
+    \ of company's internal software\n12\\. Internal IT documents, procedures, passwords\
+    \ and software\nFiles\npart1  23gb  http://ovn2v6uy3dizjtut.onion/gunnebo/gunnebo_10.14.3.10.7z\
+    \  \n"
+  hmac: 46c9439bf9cb81c2ba8911ea67cdb2841ed3eec1bedb90ad43300c5ff01154e3
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/gunnebo
+  timestamp: 2021-06-03 20:26:45.692623
+  title: Gunnebo AB
+  url: !!set
+    http://ovn2v6uy3dizjtut.onion/gunnebo/gunnebo_10.14.3.10.7z: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Makalot]
+    : null
+  data: "\n![](/u/l/a88f8c5edebae9432686d129483f4cd3)\n**Client Information**\n**Client:**\
+    \ Makalot  \n **Website:** http://makalot.com.tw  \n**Makalot is a leading garment\
+    \ manufacturer and the best partner of global\nfamous apparel brands and retailers.**\n\
+    The following data were uploaded: finance data from a server with financial\n\
+    reports, technologies, drawings, production method from servers by production,\n\
+    customer data.\nFiles\nmakalot  gb \nhttps://mega.nz/file/a9NWyaqI#7wH1uV1sNDCkzV3fbBu0jx4-6s0VpiBiQZUXyYttjIQ\
+    \  \n"
+  hmac: 28b413161b423a59c17e9990375eabefd7541b30ccce56ff28b02ee3c397f3cb
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/makalot
+  timestamp: 2021-06-03 20:26:45.692633
+  title: Makalot
+  url: !!set
+    https://mega.nz/file/a9NWyaqI#7wH1uV1sNDCkzV3fbBu0jx4-6s0VpiBiQZUXyYttjIQ: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, ECU Worldwide]
+    : null
+  data: "\n![](/u/l/ec5d042efcdd51ce49e230a8026cb245)\n**Client Information**\n**Client:**\
+    \ ECU Worldwide  \n **Website:** https://ecuworldwide.com  \n**_ECU Worldwide_**\
+    \ is one of the largest NVOCCs in the ocean freight\ntransportation industry,\
+    \ specializing in less-than-container load (LCL)\nfreight consolidation.\nImplementing\
+    \ complex transits is everyday work for us. It is a mark of our\nglobal leadership\
+    \ in LCL consolidation. Founded in 1987, we are one of the\nmajor players in multi-modal\
+    \ transport, we assure you a smooth, safe and end\nto end coordination for your\
+    \ cargo, no matter how far the destination is.\n\uFEFF\nFiles\npart1  250gb  http://ovn2v6uy3dizjtut.onion/ecu/ECU.7z.001\
+    \  \n"
+  hmac: 94ac0aceace674db46e675854c15d9c8660c47753df851c036dd641f91af03cc
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/ecuworldwide
+  timestamp: 2021-06-03 20:26:45.692640
+  title: ECU Worldwide
+  url: !!set
+    http://ovn2v6uy3dizjtut.onion/ecu/ECU.7z.001: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Laboratorios SMA S.A.C.]
+    : null
+  data: "\n![](/u/l/5462e599c213bf656408773c1f9b01ef)\n**Client Information**\n**Client:**\
+    \ Laboratorios SMA S.A.C.  \n **Website:** http://www.smasac.com  \n**Lock date:03/19/2021**\n\
+    \ **Total data: 30 GB**\n **Phone:**\n **Address:**\nhttp://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/laboratoriossmasac\n\
+    Files\nhttp://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/laboratoriossmasac\n"
+  hmac: b2e29fcd4bf7aa7de4e289844c2e4dad92d5e5b91d88a2043642641118d2cb7e
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/smasac
+  timestamp: 2021-06-03 20:26:45.692647
+  title: Laboratorios SMA S.A.C.
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Geotech Engineering and Testing]
+    : null
+  data: "\n![](/u/l/cbb4d679aefc2e6d5e081faa3ec6fbe2)\n**Client Information**\n**Client:**\
+    \ Geotech Engineering and Testing  \n **Website:** http://geotecheng.com  \n**Lock\
+    \ date:02/20/2021**\n **Total data: 10 GB**\n **Phone: +1** 713.699.4000\n **Address:**\
+    \ 17407 US Highway 59, Houston, TX 77396\nFounded in 1985, Geotech Engineering\
+    \ and Testing (GET) is a multi-disciplined\norganization of registered engineers,\
+    \ geologist, field and laboratory\ntechnicians, and clerical personnel who combine\
+    \ their technical capabilities,\npast experience, dedication, and enthusiasm to\
+    \ offer the finest service\nthrough integrated team effort. GET has a staff of\
+    \ about 70 engineers,\ngeologists, technicians, and support staff. GET\u2019s\
+    \ projects consist of public\ninfrastructure, residential developments, educational\
+    \ facilities, medical\nfacilities, petrochemical complexes, chain stores, transportation,\
+    \ commercial\ndevelopment, industrial facilities, port and harbor facilities,\
+    \ aviation, high\nrise and low rise buildings.\nFiles\nGeotechFullDump    http://rj5sxqyssybt5wkq.onion/8Wx5lbGqG4a3VC4/geotecheng/\
+    \  \n"
+  hmac: 13059bbf3f968c9375c03e3c4f3c7fc97fce6ffd13dcccec7c8b9faab17b67a9
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/geotecheng.com
+  timestamp: 2021-06-03 20:26:45.692653
+  title: Geotech Engineering and Testing
+  url: !!set
+    http://rj5sxqyssybt5wkq.onion/8Wx5lbGqG4a3VC4/geotecheng/: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, MERSEN]
+    : null
+  data: "\n![](/u/l/a955194a8def6405ce799b33f462db30)\n**Client Information**\n**Client:**\
+    \ MERSEN  \n**Website:** http://mersen.com  \n**Lock date: 02/25/2021**\n **Total\
+    \ data: 160 GB**\n **Phone:** +33 1 46 91 54 00\n **Address:** 2 avenue Gambetta,\
+    \ CS 10077, Paris La D\xE9fense, Ile-de-France,\n92066, France\nA global expert\
+    \ in electrical power and advanced materials, Mersen designs\ninnovative and tailored\
+    \ solutions that enable its clients to optimize their\nmanufacturing performance.\n\
+    With more than 50 industrial sites and 16 R&D centers in 35 countries around\n\
+    the world, Mersen develops customized solutions and delivers key products to\n\
+    its clients in order to meet the new technological challenges shaping\ntomorrow\u2019\
+    s world.\n160GB are available! Including confidential drawings and description,\n\
+    financial and business information.\nFiles\nMERSEN  160GB \nhttp://rj5sxqyssybt5wkq.onion/67H2rESHojtsB1F/by1zoehYq68bAIj/\
+    \  \n"
+  hmac: afbb885d75b801b889d54779b9eda8e1195510e6bb4dcfd0a0f18da43f4e3ac6
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/mersencom
+  timestamp: 2021-06-03 20:26:45.692663
+  title: MERSEN
+  url: !!set
+    http://rj5sxqyssybt5wkq.onion/67H2rESHojtsB1F/by1zoehYq68bAIj/: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Wasserstorm]
+    : null
+  data: "\n![](/u/l/44afc89535f4d29661bc728d6cd9f93a)\n**Client Information**\n**Client:**\
+    \ Wasserstorm  \n **Website:** http://wasserstrom.com  \n**Lock date:02.15.2021**\n\
+    \ **Total data: 130 GB**\n **Phone:** 1-866-634-8927\n **Address:** 4500 E. Broad\
+    \ St, Columbus, Ohio, 43213, United States\nSQL database (120GB) with accounting\
+    \ information, clients information,\npayrolls, employees tax forms etc.\nMutual\
+    \ Confidentiality and Non-Disclosure agreements, Distribution Agreements,\nCustom\
+    \ documents, Supplier invoices, Shipping documents etc.\nTax forms, financial\
+    \ documents, invoices, internal emails is a bonus for\nresearcher. But we think\
+    \ there could be something interesting.\nFiles\nWasserstorm  130GB  http://hwd4s666xgzuasyg.onion/5875489/643764537/\
+    \  \n"
+  hmac: c90bce319201b6789b346d7fc4098b68e2370a68fe6654bf10f3e285814813bd
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/wasserstorm
+  timestamp: 2021-06-03 20:26:45.692672
+  title: Wasserstorm
+  url: !!set
+    http://hwd4s666xgzuasyg.onion/5875489/643764537/: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Transtar1]
+    : null
+  data: "\n![](/u/l/17947b4a6e8acf9f35bb68db13aba148)\n**Client Information**\n**Client:**\
+    \ Transtar1  \n **Website:** http://transtar1.com  \nTranstar Industries is the\
+    \ global leader in transmission and driveline-related\nsolutions.\n **Employees:**\
+    \ 143\n **Sector:** Automotive, Parts and Services Retail\n **Headquarters:**\
+    \ Walton Hills, Ohio\nFiles\nTranstar_P1_Full_Dump_Part_1  100GB \nhttp://ovn2v6uy3dizjtut.onion/transtar/trans_1_2.7z.001\
+    \  \n"
+  hmac: 03f2082390f570a1ecd9cb270c6b23b27b75667d43fcb1caaf4ace8c709f6697
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/transtar
+  timestamp: 2021-06-03 20:26:45.692679
+  title: Transtar1
+  url: !!set
+    http://ovn2v6uy3dizjtut.onion/transtar/trans_1_2.7z.001: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Amey plc]
+    : null
+  data: "\n![](/u/l/abe233607468fc7bd41b65463eb542b4)\n**Client Information**\n**Client:**\
+    \ Amey plc  \n **Website:** https://amey.co.uk  \nAmey plc, previously known as\
+    \ Amey Ltd and Amey Roadstone Construction, is a\nUnited Kingdom-based infrastructure\
+    \ support service provider. Founded in 1921,\nAmey is a company that designs,\
+    \ manages, and maintains highways infrastructure\nthat offers highways asset management,\
+    \ professional services\n **Headquarters:**\nQueen Eleanor Rd, Northampton, Northamptonshire,\
+    \ NN4 8NN, United Kingdom\n **Phone:**\n+44 1865 713100\n **Website:**\nwww.amey.co.uk\n\
+    \ **Employees:**\n16,000\n **Revenue:**\n$2 Billion\nFiles\namey_full.7z  143GB\
+    \  http://ovn2v6uy3dizjtut.onion/amey/amey_full.7z  \n"
+  hmac: 36674c457ae91b72ca06c6d22124c75491dc0e9e986ec1e6b09e9380f2c19ccf
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/amey
+  timestamp: 2021-06-03 20:26:45.692684
+  title: Amey plc
+  url: !!set
+    http://ovn2v6uy3dizjtut.onion/amey/amey_full.7z: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+    ? !!python/tuple [www.amey.co.uk, 'https://www.amey.co.uk/']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, 'Century 3, Inc.']
+    : null
+  data: "\n![](/u/l/b2d00a6ac2844ea1ac87baf564c26ecf)\n**Client Information**\n**Client:**\
+    \ Century 3, Inc.  \n **Website:** http://century3inc.com  \nFounded in 1977,\
+    \ Century 3 Inc delivers value to its clients through\nconsulting, engineering,\
+    \ procurement, construction management and self-perform\nconstruction\n **Phone:**\
+    \ (864) 879-0123\n **Address:** 112 S Main St, Greer, South Carolina, 29650, United\
+    \ States\n **Employees:** 1,200\n **Revenue:** $580 Million\nFiles\nCentury_Full_Dump_Part_1\
+    \  105GB \nhttp://ovn2v6uy3dizjtut.onion/century/century.7z.001  \n"
+  hmac: dc0b2aba0982a7089fb7c3230e0217ee1fae38b3bfa1aaddf849c099cd83e998
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/century
+  timestamp: 2021-06-03 20:26:45.692691
+  title: Century 3, Inc.
+  url: !!set
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+    http://ovn2v6uy3dizjtut.onion/century/century.7z.001: null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, ThyssenKrupp System Engineering]
+    : null
+  data: "\n![](/u/l/8d1f3421728bf24c7c41a62c05907ded)\n**Client Information**\n**Client:**\
+    \ ThyssenKrupp System Engineering  \n **Website:** http://thyssenkrupp.com  \n\
+    **ThyssenKrupp** is a world top industrial corporation focusing on engineering\n\
+    and steel production\n **Lock date:** 10 aug 2020\n **Total data:** 400gb\n **Phone:**\
+    \ +1-248-377-3435 CEO\n **Address:**\n **Employees:** 160k\nFiles\n"
+  hmac: 5babaab55dd80f3b6b53104b142882198482036d2e4f272c7d96c56ab5cebca3
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/thyssen-krupp
+  timestamp: 2021-06-03 20:26:45.692697
+  title: ThyssenKrupp System Engineering
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [victim, Memry Corporation]
+    : null
+  data: "\n![](/u/l/93ab7d0567c1f1cf863bd222670f3160)\n**Client Information**\n**Client:**\
+    \ Memry Corporation  \n **Website:** http://memry.com  \n**Memry Corporation**\
+    \ is a global market and technology leader in Nitinol\ncomponents\n **Lock date:**\n\
+    \ **Total data:**\n **Phone:** +1 (203) 739-1100\n **Address:** 3 Berkshire Blvd,\
+    \ Bethel, CT 06801, US\n **Stolen data desciption:**\n  1. Corporate documents\
+    \ from file servers (Memry + SSM)\n  2. Internal financial system data\n  3. HR\
+    \ system data\n  4. Solidworks data\n  5. Nitinol production data\n  6. Customers'\
+    \ data\nFiles\n"
+  hmac: fe2c797a42e4e847aff97a71efdd9b3bc110090f847930e5ee9f5d01acf580d9
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://mountnewsokhwilx.onion/clients/memry
+  timestamp: 2021-06-03 20:26:45.692703
+  title: Memry Corporation
+  url: !!set
+    http://mountnewsokhwilx.onion: null
+    ? !!python/tuple [Files, 'javascript:void(0);']
+    : null

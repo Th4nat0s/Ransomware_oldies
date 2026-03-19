@@ -1,0 +1,3396 @@
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "This section of the site contains mostly fresh private \ndatabases, web shells,combo\
+    \ lists,ids and passports along with some \nother extra things. <b> This page\
+    \ will be updated every 1-3 days and the new things will be added at the bottom\
+    \ of the page. </b>\n Also these dbs and other stuff are meant only for \neducational/informational\
+    \ purposes. Dont do dumb stuff with the info \nprovided. Cheers"
+  hmac: 36c98d7e1ca0d8448f101a20f7a0b54836e7c868003309e1acd396125b5308bd
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888817
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Mexico city muncipality database: SQL: http://148.243.125.236/dif%20tlalnepantla/creg_dif_tlalnepantla.sql.zip'
+  hmac: 0e492a3a8d09b4a673c3e51d71bdad9ae2e3343e42ef84f5629b9922ed3d4368
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888865
+  title: Intel Repository
+  url: ['http://148.243.125.236/dif%20tlalnepantla/creg_dif_tlalnepantla.sql.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'bashgah.com DB: https://185.37.54.33/blogstage-2.sql'
+  hmac: f3a009cb9272b654109d87e8d4cf0e80019127b9df041a509de1403c1c23544f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888874
+  title: Intel Repository
+  url: ['https://185.37.54.33/blogstage-2.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.geiconsultants.com/ DB: http://13.59.116.13/gei_02-10-2017.sql
+    1.5 GB'
+  hmac: d8d65dc4dc4dae407758ce0670d06c96d6efec8e7859b37a2148fb614ca092c9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888881
+  title: Intel Repository
+  url: ['https://www.geiconsultants.com/', 'http://13.59.116.13/gei_02-10-2017.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'metlife.cl DB: http://54.213.78.6/archivos_enhan/  http://54.213.78.6/bu_produccion_11082015.sql'
+  hmac: f46155a6848c613cfa03f5550299fbee63aac719c8b17103f024a5ea406b87a5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888887
+  title: Intel Repository
+  url: ['http://54.213.78.6/bu_produccion_11082015.sql', 'http://54.213.78.6/archivos_enhan/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'northcountrynow.com DB: http://52.5.176.8/dump.sql (550MB) http://52.5.176.8/ncnow-16oct18.tar.gz
+    ( 1.2 GB)'
+  hmac: 3104d7bdffbeb684653a06f624a564991e7f9542e406ca6b3b9c67f0c664fa63
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888894
+  title: Intel Repository
+  url: ['http://52.5.176.8/dump.sql', 'http://52.5.176.8/ncnow-16oct18.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: " arval.cl DB:http://34.193.232.164/realhostdev.sql (149MB)  \nhttp://34.193.232.164/databases/\
+    \   \nhttp://34.193.232.164/databases/rh018/audittrails/"
+  hmac: 5e67ae436776cbef21001e65929a47686ed650c091a7d8a8c497f6d1080f2232
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888900
+  title: Intel Repository
+  url: ['http://34.193.232.164/databases/rh018/audittrails/', 'http://34.193.232.164/realhostdev.sql',
+    'http://34.193.232.164/databases/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' ksecureteam.com/order/kafetondb.zip (Shopping French)  ksecureteam.com/order/somosbilite.fr.zip  (Service
+    French)'
+  hmac: 5f9dcf7d9b77592f9882fe31c5472fa159e7d084a6edb55e831b2bbc201bbd67
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888907
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Priv Login: http://200.68.55.38:88/sgec/    user &amp; Password: '' or ''
+    ''='''
+  hmac: 3ed2983d1062431d93c8ac01caed8104ba6c5cf2a821b1ba9bbfaa6f7641988b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888913
+  title: Intel Repository
+  url: ['http://200.68.55.38:88/sgec/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "ksecureteam.com/order/v3/flipnpik.io.zip \n (BlockChain DB) ksecureteam.com/order/v3/UnisegurosVenezuela.zip\
+    \ (Insurance Database Venezuela SQL Injection) "
+  hmac: 580cc726f20ba4e9ffce7321428b2e15a244f227333d291419b419b8443a9800
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888919
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "ksecureteam.com/order/v3/DRUG_SHOP.zip \n ksecureteam.com/order/v3/DARKNET_IDS_ASU.zip\
+    \  (IDs ASU Airlines)"
+  hmac: b28ae6af3bdc42328b264cc256fe742afd6bf31d4c61a7ff9f6f7f06060736d3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888926
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Combolist: https://fex.net/765953630777 password: 9682233541'
+  hmac: 195056ed710194f8147c04d43a644edd7f8f052258a45cdfa87a6368644c0a8c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888932
+  title: Intel Repository
+  url: ['https://fex.net/765953630777']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ksecureteam.com/order/v3/monbeaucoussin.com (Shopping DB)  ksecureteam.com/order/v3/ffpjp.org.zip
+    (French Betting Site)
+  hmac: 5402965fc67a97418585ea4a0063a5b73ef2f7cbfa0e208811c2578a1f6dd37f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888939
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 614 Gmail Accounts 05/01/2019 https://anotepad.com/notes/kwnf7d
+  hmac: 4a1125fbd1d13203afc26910ab8c6d8ed50936510433f62a705be63100f9f89c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888945
+  title: Intel Repository
+  url: ['https://anotepad.com/notes/kwnf7d']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'drivemarketing.com DB: http://52.26.5.125/lrrh_02_02_2018.sql   http://52.26.5.125/lrrh.drivemarketing.com.tar.gz'
+  hmac: deeb2fe84b72d488b27813697216f4b668508832689592dceea1f59184301f5b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888951
+  title: Intel Repository
+  url: ['http://52.26.5.125/lrrh_02_02_2018.sql', 'http://52.26.5.125/lrrh.drivemarketing.com.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'shop.shipsst.com DB: http://52.26.5.125/shipsst_02_02_2018.sql'
+  hmac: e5c756fe75d85d1a48e35b2126551636656b09412ab7885adb9405c8b116afb7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888957
+  title: Intel Repository
+  url: ['http://52.26.5.125/shipsst_02_02_2018.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '[1.5K] Spotify Account Leaks: http://www.mediafire.com/file/d0b6aep154dgfyx/spotfiyemailpass.txt/file'
+  hmac: 253a657198e3ed405ec8b0776d55d07b319d8470e3afbc4c1f6a13ee7bb1f405
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888963
+  title: Intel Repository
+  url: ['http://www.mediafire.com/file/d0b6aep154dgfyx/spotfiyemailpass.txt/file']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://shadow888.com/  DB: http://210.213.238.87/sql/shadow_client_db_dec_26.sql  238MB'
+  hmac: 4a45331fba760caa857e47f4f7acf34c65293e46abc9c535fe39f886806a8028
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888969
+  title: Intel Repository
+  url: ['http://210.213.238.87/sql/shadow_client_db_dec_26.sql', 'https://shadow888.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'techtrial.co.uk  DB1: http://159.89.16.10/techtrial_new.sql.gz  DB2: http://159.89.16.10/backup_ves_92K_products.sql.gz'
+  hmac: db6893dfdf6678b36f14277427d30a030a2f818a5a06f3237bfc1bb37e799a33
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888976
+  title: Intel Repository
+  url: ['http://159.89.16.10/techtrial_new.sql.gz', 'http://159.89.16.10/backup_ves_92K_products.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Database of University of the Arab Emirates DB: ksecureteam.com/order/v3/ut.edu.sa.zip'
+  hmac: 35c1ea703459102596de45ce1bbf95f4ed3188966a29f7e21de8795ee2e02831
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888982
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Commerce Intranet + WebShell: ksecureteam.com/order/v3/apicspuebla_intranet.zip'
+  hmac: cecd8ab851424e17cd6bcd716c601089fb3a3e5ef950d82b84ab6d89fd8bfbb2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888988
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ksecureteam.com/order/v4/guifi.net.zip   ksecureteam.com/order/v4/mallplazashopping.zip
+  hmac: a19432f09a354651f50cac162337bef452fc4ea217c7fa3cd2ab68b083a048b5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.888994
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'DATABASES 75GB: magnet:?xt=urn:btih:025c2eb2ec4536eb55df232c48a4184964b632aa&amp;dn=Leaked%20Database%20Archive.7z'
+  hmac: 1ab145705ef242453e4818e692cc1eaaea3264ffab1ca257d7b506202ae5db3e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889000
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'mxn.co.kr DB: ksecureteam.com/order/v4/mxn.co.krDB.zip  '
+  hmac: 8b5764c43e661966341df920744dd1b8814c974065c03dbde47f1589650cf84e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889006
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'globalredltda.com DB: ksecureteam.com/order/v4/globalred.zip'
+  hmac: 8c394f79391c56f9e4837e33968bce6ceb2c08c24ab701e573c684af6820ac0b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889012
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'DUMP USA MIX [ 560K Full Private 100% ]: https://www.sendspace.com/file/qyl3gz'
+  hmac: d35c9da4cef9f22a534dbe3c10c1eeef6cdece0210fa44d2e6b12e89808c16d4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889018
+  title: Intel Repository
+  url: ['https://www.sendspace.com/file/qyl3gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.biovit.hr - Medical DB: http://52.29.60.123/biovit_stage_copy.sql
+    1.3 GB'
+  hmac: 284058fc45d8fd94a586cce46677015d087d6d70a020b642ee833a6153110dbe
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889024
+  title: Intel Repository
+  url: ['http://52.29.60.123/biovit_stage_copy.sql', 'http://www.biovit.hr']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.firstclasssailing.com DB: \nhttps://18.203.254.182/backup-16-07-18.tar.gz\
+    \ 1.0 GB  \nhttps://18.203.254.182/db_dump-16-07-27.sql 162 MB"
+  hmac: 035cc8288bf605338366066743e09f2dda68853ac327397a6d064ac238b6630c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889030
+  title: Intel Repository
+  url: ['https://18.203.254.182/backup-16-07-18.tar.gz', 'https://18.203.254.182/db_dump-16-07-27.sql',
+    'https://www.firstclasssailing.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Blockchain solutions DB : ksecureteam.com/order/blockchainsolutionsDB.zip'
+  hmac: 0b3fa91eba16a4bee9a5f692f60e93d0c0f4ca7f3c86ed1c2425664cbd77dd18
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889036
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'comsim.com DB: http://72.52.128.248/20161025-infinity.sql 1.9 GB Directory:
+    http://72.52.128.248/'
+  hmac: 7b769b6bf4e681c1c37e843d314f142fde765c2e35550db4f7ce8b40528f87d4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889042
+  title: Intel Repository
+  url: ['http://72.52.128.248/20161025-infinity.sql', 'http://72.52.128.248/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "5.3million combo |FRESH| Paypal, spotify, Amazon, Gmail, \nDominos, Steam:\
+    \ \nhttps://mega.nz/#!dkklCIbJ!Nx4jeqx92PSen3X-xUIR157CqbthxaXkEuy773ujsJI"
+  hmac: 12101d5aa36d8c5943641cc0ca5f9643c3c8bb07b18190f3f17f73d83b2dcab7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889048
+  title: Intel Repository
+  url: ['https://mega.nz/#!dkklCIbJ!Nx4jeqx92PSen3X-xUIR157CqbthxaXkEuy773ujsJI']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "WebShell Live: Insurance brokers: \nhttp://190.56.249.42/seguros/Documentos/seguros/caracteristica/7/wso_2.1_(web_shell_by_orb).php"
+  hmac: 3f755850b848cf70643942e63f90e9bd64fded9752f7d876a359543982616d57
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889054
+  title: Intel Repository
+  url: ['http://190.56.249.42/seguros/Documentos/seguros/caracteristica/7/wso_2.1_(web_shell_by_orb).php']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'US Insurance agents data 261855 lines: http://www.mediafire.com/file/6257m82y08e9a44/U.S._Insurance_Agents-261%2C855_Records.csv'
+  hmac: 9e8e5135d1a5fb465b4ff9df0c2a96ef28f4a5700f2d59b1d70eef56c0e9017e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889061
+  title: Intel Repository
+  url: ['http://www.mediafire.com/file/6257m82y08e9a44/U.S._Insurance_Agents-261%2C855_Records.csv']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: oktilli.com db:https://162.144.94.184/   https://162.144.94.184/oktilli.com-bak_20190207.zip
+  hmac: 9827ae524414d2142d8aa93bee02b70949b24a0fba8f323e9cbfd178f96e60ad
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889068
+  title: Intel Repository
+  url: ['https://162.144.94.184/', 'https://162.144.94.184/oktilli.com-bak_20190207.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Boodai Airline Disclosure IDs - Credit Cards - Confidential info:: http://hatim.website/ppt/'
+  hmac: 2820b2a55265936fa606a7ac2bd8748a095b40b116534059bfca79dc3c563ef9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889074
+  title: Intel Repository
+  url: ['http://hatim.website/ppt/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '400 DBs: https://mega.nz/#F!7VUHmI7C!AOFg1mDA9i9sDedafGlktQ'
+  hmac: 21baee4b2b32ccf1a78e30a832b6fd51fae17c3b58c117b11c509782766fc597
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889079
+  title: Intel Repository
+  url: ['https://mega.nz/#F!7VUHmI7C!AOFg1mDA9i9sDedafGlktQ']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'A few cool tools: https://nofile.io/f/aOFXjUq7Bk6/Tools.rar'
+  hmac: be95369c4d46499a6ef6dc61e89b36360e99075e1485c7e0648b9c6263b405c9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889086
+  title: Intel Repository
+  url: ['https://nofile.io/f/aOFXjUq7Bk6/Tools.rar']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'perfectneaker.club  SQL: https://104.149.227.162/perfectneaker0910.sql'
+  hmac: 851d09f51082baadf69fe99507a27473222340605760ed7dff3230488f04386f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889091
+  title: Intel Repository
+  url: ['https://104.149.227.162/perfectneaker0910.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'SQL: http://192.169.193.125/shopinla_20170219.sql '
+  hmac: 96eb5ce6bfe3cd151ddc3aa6dfbaf2bb918a24450e0be5bf7e51fd7b240c3018
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889098
+  title: Intel Repository
+  url: ['http://192.169.193.125/shopinla_20170219.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://hrbdjobs.com/ \n Backup Files: \n https://74.124.217.197/  \n  https://74.124.217.197/hrbdjobs.com.zip\
+    \  \n https://74.124.217.197/hrbd_jobs_21_8_2017.zip"
+  hmac: 9eb40491eb123f59792301095b1b1cf14f2a53bf79d339cd9556499df969cf4b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889103
+  title: Intel Repository
+  url: ['https://hrbdjobs.com/', 'https://74.124.217.197/hrbdjobs.com.zip', 'https://74.124.217.197/',
+    'https://74.124.217.197/hrbd_jobs_21_8_2017.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '500k emails Combolist: https://192.169.136.87/Desktop/'
+  hmac: 160235966cd8976ebe72dad28e1b10caa89cda2f569c2566c13a3e0652f96f0c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889110
+  title: Intel Repository
+  url: ['https://192.169.136.87/Desktop/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Passports: ksecureteam.com/order/passports.zip'
+  hmac: a0aea05d3db82d93fdfe35ede7efd5a4bf7ee351125121b767a39bca1d8fac6c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889116
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.khsilversmith.com/    SQL: http://66.171.242.157:8080/ALLDBs_104.sql'
+  hmac: 26da9b9d5b7f1a356db8a2bd17e271869e4de447613fdfafb5b40c13e8a57ef7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889122
+  title: Intel Repository
+  url: ['http://www.khsilversmith.com/', 'http://66.171.242.157:8080/ALLDBs_104.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'MAGNETO DB  SQL : http://104.237.6.195/magento2-db.sql'
+  hmac: 3ec1c97ebee39554ec4a6b6bedba3eea543df5e1810dd760d7620dca459bd7aa
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889128
+  title: Intel Repository
+  url: ['http://104.237.6.195/magento2-db.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://premioinnovare.com.br/   SQL(2.3 GB db): http://107.170.106.176/innovare/premioinnovare2017/premio_innovare.sql'
+  hmac: 780e46c3506423278434d7b6002f7323e7c016134e3a82016a7cd07ac4440679
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889134
+  title: Intel Repository
+  url: ['http://107.170.106.176/innovare/premioinnovare2017/premio_innovare.sql',
+    'https://premioinnovare.com.br/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://campus.turismo.gov.ar      SQL(4.4 GB db): http://186.33.221.215/campus_db_20160706.sql'
+  hmac: 6ff2be1b99a0fdfae574635e397bdd062aaa2a292c2cf23dce4179cec4169ff3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889140
+  title: Intel Repository
+  url: ['http://campus.turismo.gov.ar', 'http://186.33.221.215/campus_db_20160706.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.awbridal.com/         SQL: https://anonfiles.com/Rcf8Vdw2b5/awbridal_backup_2018_12_28_sql '
+  hmac: 6b0b8ee3292f175f3ed06423a3c5900a3259738fd2c7962ec430b3feba561c6a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889146
+  title: Intel Repository
+  url: ['https://www.awbridal.com/', 'https://anonfiles.com/Rcf8Vdw2b5/awbridal_backup_2018_12_28_sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.homestylingshop.nl/       SQL(4.4 GB db) : https://217.120.128.82/db_20181008.sql'
+  hmac: cf9ce64c92f23016474c5a767eaa24625ff007345662b52137ab1a006ca22117
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889153
+  title: Intel Repository
+  url: ['https://www.homestylingshop.nl/', 'https://217.120.128.82/db_20181008.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ksecureteam.com/order/v4/imprendoDB.zip
+  hmac: c3c1b705495d83248815ee1b66cbf1e8956d2686e953e7814e5416c8a6d76219
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889159
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: http://186.68.42.250:81/cap_wf_20180917.sql
+  hmac: 7e21e6653c857dc13971c017f3e636df8df2f0befad5e7502bdcb784ee6436da
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889164
+  title: Intel Repository
+  url: ['http://186.68.42.250:81/cap_wf_20180917.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'printez.com DB: ksecureteam.com/order/v4/printezDB.zip'
+  hmac: aa1e0edfbefc34411832f19effa15425cc033b192f31f1bb0110b16cf9d9af95
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889170
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'redlemon.com.mx DB: ksecureteam.com/order/v4/redlemonDB.zip'
+  hmac: f1525bdc899aaa621fd80568fc25960cc360ec3efd10772a953c009af2d5ef47
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889176
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ksecureteam.com/order/v4/pomarketDB.zip
+  hmac: 0ea3523104b9398bcd871bc38702fe6fd6e081d97401fc7f24bae5f768e5e838
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889182
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "NYSB Corporate Private Bank DB: https://200.74.240.236/nysbbank.com.zip\n\
+    \   https://200.74.240.236/nysbbank.com111.zip"
+  hmac: d5081c4bfd4d1c529dd2ec443681b57e9969beb83037deceed38b6679e6c51e4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889188
+  title: Intel Repository
+  url: ['https://200.74.240.236/nysbbank.com111.zip', 'https://200.74.240.236/nysbbank.com.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://marathireader.in/  SQL: http://52.77.175.103/marathir_prod
+
+    19-09-2016--06:42:58.sql'
+  hmac: 006eb5e05e0bd44e44f642e9814bba7d4f4f3de7892958bf586a80e39ff41830
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889194
+  title: Intel Repository
+  url: ['http://52.77.175.103/marathir_prod', 'http://marathireader.in/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Triwer.io DB - BlockChain DataBase: http://ksecureteam.com/order/v2/triwer.io.zip'
+  hmac: cab5927926cfea2b2d40e7c198d40573b4d9ad07c345ddb92e74cdbeea3ead1c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889200
+  title: Intel Repository
+  url: ['http://ksecureteam.com/order/v2/triwer.io.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.buonalavita.it/ \nDB:http://86.107.98.124/blv_stage_290216.sql.gz\
+    \    \nhttp://86.107.98.124/buonalavita-nutrikid-28092016.tgz"
+  hmac: efdb9c799b50372dd3e3331a272e8faea9c44b3547513d077e0fff37ca80604c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889206
+  title: Intel Repository
+  url: ['https://www.buonalavita.it/', 'http://86.107.98.124/buonalavita-nutrikid-28092016.tgz',
+    'http://86.107.98.124/blv_stage_290216.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "http://free001.timeweb.ru/ DB: http://188.225.57.210/sfira6.sql   http://104.248.124.202/database-dump.sql\n\
+    \ "
+  hmac: c1faa069c238c9c5195cf2effd300a4a705c6d237307fabff3d4c9d6a0622dd2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889212
+  title: Intel Repository
+  url: ['http://free001.timeweb.ru/', 'http://104.248.124.202/database-dump.sql',
+    'http://188.225.57.210/sfira6.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://www.eidicom.com/ SQL:http://190.15.194.212/Dump20181205.sql
+  hmac: 61ac0ee5f3232096cccb01b1cba7f4380a3d3c3337dfd0fb097bafff88ecb9e8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889218
+  title: Intel Repository
+  url: ['http://190.15.194.212/Dump20181205.sql', 'https://www.eidicom.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://clubtalleres.com.ar/ SQL: http://200.68.67.114/dbdesatienda20181001.sql'
+  hmac: 5ff81980c1d423949658784028ac5e0f5b0f551c53438fd8a6c56c3ecc5e911a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889225
+  title: Intel Repository
+  url: ['http://clubtalleres.com.ar/', 'http://200.68.67.114/dbdesatienda20181001.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'homestylingshop.nl SQL: https://217.120.128.82/db_20181008.sql'
+  hmac: 68e7f2a74a3380308c58435458b0c500bec2f1c4d9425a7fe5693f1fe7f4ed15
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889231
+  title: Intel Repository
+  url: ['https://217.120.128.82/db_20181008.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://lineargateopeners.com/store  SQL: https://173.249.151.25/magentodata_15.backup.sql'
+  hmac: 36a8890ec8c94553330a35fab99f7dbb07156b3584a951c9bd5c70d44ce6e219
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889237
+  title: Intel Repository
+  url: ['https://173.249.151.25/magentodata_15.backup.sql', 'https://lineargateopeners.com/store']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'passports: http://52.200.93.64/outgoing/sent/'
+  hmac: 51c4964093e2c28bab22664be26a3d05563f1be1558936a88d66d3bfff0d6faf
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889243
+  title: Intel Repository
+  url: ['http://52.200.93.64/outgoing/sent/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://www.actcorp.in/  DB:http://106.51.39.165:8080/hifabdb02102018.sql
+  hmac: 021f00acc0e9fb3114dabdbfbc5df495f50479c67533702e8941df94aaf4dfb1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889249
+  title: Intel Repository
+  url: ['https://www.actcorp.in/', 'http://106.51.39.165:8080/hifabdb02102018.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://www.regalix.com/  DB:http://54.163.247.181/wfmqc.sql
+  hmac: 22047fcb706aee19235ed04a600e08f4a85a00724d2dc1e19629772942d0f2c1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889255
+  title: Intel Repository
+  url: ['https://www.regalix.com/', 'http://54.163.247.181/wfmqc.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: mymedicarequestion.com  SQL https://52.26.58.130/backup/backup.sql
+  hmac: 5814cd092298e6d5dafa03898b74148365b5a645b8db12c6fc657d8e44afeb16
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889260
+  title: Intel Repository
+  url: ['https://52.26.58.130/backup/backup.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.checklistfacil.com/br \n \nDirectory: http://35.169.202.23/ \n\
+    \ \nSQL: http://35.169.202.23/checklist201803.sql"
+  hmac: 7aec20a919090cb63e35b8edf632a36261fc020fa465ae28c8ea3da8cce17344
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889266
+  title: Intel Repository
+  url: ['http://35.169.202.23/', 'http://35.169.202.23/checklist201803.sql', 'https://www.checklistfacil.com/br']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "http://it-universalzone.net:1500 \n\nlogin: araqich \n\npassword: AhsPx4dr\
+    \ \n"
+  hmac: bf639205a0e5bbafbed9af22e706c63b10ad0db3f30961c6d7adab5c4553d688
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889272
+  title: Intel Repository
+  url: ['http://it-universalzone.net:1500']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: " https://www.araqich.com\n Download_DB: https://www.sendspace.com/file/gcth6g"
+  hmac: 018b6c089ab0fbad93544a6ac860da434b2864d583f3bb59124b9bafe1ad4ef9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889278
+  title: Intel Repository
+  url: ['https://www.sendspace.com/file/gcth6g', 'https://www.araqich.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'nuovepaginebusiness.it  Download: http://www.filedropper.com/npbusiness '
+  hmac: 549139965cd0d14980d636751005469ab44fed76b763f3a99c60e7e4de448256
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889284
+  title: Intel Repository
+  url: ['http://www.filedropper.com/npbusiness']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'artcrafts.it    Download: https://www.filedropper.com/artcraftsit'
+  hmac: 3ab4d66c83dc0a72e047973f7459be9d860192f22ef26bff8c5ea49ff09b5a09
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889290
+  title: Intel Repository
+  url: ['https://www.filedropper.com/artcraftsit']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.bassolucearia.com/  SQL: http://80.20.92.38/basso07032018.sql'
+  hmac: 205ca91926f17e9c9f6c30fe92a117f7df423515a76e13d52eed21f850652f83
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889296
+  title: Intel Repository
+  url: ['http://80.20.92.38/basso07032018.sql', 'https://www.bassolucearia.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "unad.us \n\nSQL:https://64.150.181.176/bd.sql \n\nSQL:https://64.150.181.176/classroo_plataforma2018-04-11-03-00-02.SQL"
+  hmac: 7d7bec0f38bbeeeb8f671329bb09207d0fe4b9ad948911596c72fa78fc7d4ca8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889303
+  title: Intel Repository
+  url: ['https://64.150.181.176/classroo_plataforma2018-04-11-03-00-02.SQL', 'https://64.150.181.176/bd.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.beckerpinnacle.com/ \n\nhttp://104.239.229.153:8080/beckerbk_061018.zip\
+    \ \n\nhttp://104.239.229.153:8080/beckerdbbk_062018.sql"
+  hmac: 21a8ae3545c821bfacf171dd82c8ea08a6c21aaf2fa84500a897cc6d9b6cb3f8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889310
+  title: Intel Repository
+  url: ['https://www.beckerpinnacle.com/', 'http://104.239.229.153:8080/beckerdbbk_062018.sql',
+    'http://104.239.229.153:8080/beckerbk_061018.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.rundeautogroup.com/  SQL: https://74.127.59.229/rundeaut_stagingSEC2.sql'
+  hmac: 327cd45068b543fd18bbef530444ed744f5d6f0315459caf44bf0a081f99c0c3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889316
+  title: Intel Repository
+  url: ['https://www.rundeautogroup.com/', 'https://74.127.59.229/rundeaut_stagingSEC2.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "mldtrust.org \n\nDirectory: \n\nhttp://115.124.105.233/ \n\nhttp://115.124.105.233/PatientProfilePics/"
+  hmac: eceb33c3461b5e9dd5dbe2bce730008f96b3987c0b4ec8f457352ed1df52c3b9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889322
+  title: Intel Repository
+  url: ['http://115.124.105.233/', 'http://115.124.105.233/PatientProfilePics/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "portal.d-tv.tv/ \n\nSQL: http://149.202.215.96:88/staler_db_dtvtv_18072018.sql\
+    \ \n\nSQL: http://149.202.215.96:88/staler_billing_dtvtv_18072018.sql"
+  hmac: 7623f4b873456a0eb7ef2c9ed8401b4f9190e1572794eba89761e2b56644468f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889328
+  title: Intel Repository
+  url: ['http://149.202.215.96:88/staler_billing_dtvtv_18072018.sql', 'http://149.202.215.96:88/staler_db_dtvtv_18072018.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'advancedgamingzone.com Database: http://fugfbivp6ooqmp5z.onion/honk.gz'
+  hmac: 8c427f7cf2a5d8f8340bdbb41f153e51554d43eb587fbabf2a279e3244745ca3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889334
+  title: Intel Repository
+  url: ['http://fugfbivp6ooqmp5z.onion/honk.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://www.letusquoteyou.com/ DB:http://67.231.25.136/letusquoteyou.com-cleaned-2018-08.zip
+  hmac: 651b32ad31018232581c2b6e4ae9adeaa78286c429b29d7a5b7641a63791ad87
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889340
+  title: Intel Repository
+  url: ['http://67.231.25.136/letusquoteyou.com-cleaned-2018-08.zip', 'https://www.letusquoteyou.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://chambersinsurance.ca/ DB:http://67.231.25.136/chambersinsurance.ca-cleaned.zip
+  hmac: d21c097bc00161453cebfb24d0d4ff4d6e446be8db528f26a32b2e7d160942fe
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889346
+  title: Intel Repository
+  url: ['https://chambersinsurance.ca/', 'http://67.231.25.136/chambersinsurance.ca-cleaned.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '1.1M Gaming Combo.txt: https://anonfile.com/t4o582dfb0'
+  hmac: 1b08be71b868b0a14c3d0dab45c65b298ccc199f3bd222557061b06ecf97b956
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889352
+  title: Intel Repository
+  url: ['https://anonfile.com/t4o582dfb0']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'email:password combolist: https://anonfile.com/a8qfpekcb8'
+  hmac: f9c2378973d78dbc1b1ccecac61c054e67672ef4fda7a5800f6c5b801672e192
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889358
+  title: Intel Repository
+  url: ['https://anonfile.com/a8qfpekcb8']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: http://icompare.sg/ SQL:http://103.36.92.204/mydb_icompare_work.sql
+  hmac: 2582f2378abeae41b4b1ad2a3eb3ecb1f9b5de6a3428a9c7b6412798f56f4b9e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889364
+  title: Intel Repository
+  url: ['http://icompare.sg/', 'http://103.36.92.204/mydb_icompare_work.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'GAMING_200K combolist: https://anonfile.com/5cE9H8e1b4'
+  hmac: 22070f01e2dd736a13480fad927227bf0cb5e18b4ff556ec592da04f2577b932
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889370
+  title: Intel Repository
+  url: ['https://anonfile.com/5cE9H8e1b4']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '500k accounts comobolist: https://anonfile.com/mcx593d3b5'
+  hmac: 6d7ad63b4da87b9c17ea4b423d10ca1b0afdea911ceb3ae4d0df65243f1b5c28
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889376
+  title: Intel Repository
+  url: ['https://anonfile.com/mcx593d3b5']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '11k Spofity combolist: https://anonfile.com/e9mc28e5bb'
+  hmac: 29300706348b6befefa231609ba90a1568e1b951c4149a60e6a252d52e3bf5ea
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889382
+  title: Intel Repository
+  url: ['https://anonfile.com/e9mc28e5bb']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Netflix Combolist: https://anonfile.com/Kcm16ao5be'
+  hmac: 04d39f64fc8f016075bc25ef9dcde44961a1bca96aa7033c6341421b0adb6804
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889387
+  title: Intel Repository
+  url: ['https://anonfile.com/Kcm16ao5be']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'ACUTENIX PREMIUM download: https://mega.nz/#!n45T3DZT!yeXR6ZNB9YotZZ4QVQByqsAnYy7bYaA871pYzfNu5MA'
+  hmac: 6a21e32689972cbab7b918d6d1d7458198c55aa33513108ada0516f9e9149d73
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889393
+  title: Intel Repository
+  url: ['https://mega.nz/#!n45T3DZT!yeXR6ZNB9YotZZ4QVQByqsAnYy7bYaA871pYzfNu5MA']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'BURP SUITE PREMIUM download: https://drive.google.com/file/d/1UwgRrLzqCX5auzld-353CiwEG52wUbF6/view'
+  hmac: fdfd4bcdcd0aa69f6c5082ffe79c80872f7a11c8089e7a586f3b5723c34ae688
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889399
+  title: Intel Repository
+  url: ['https://drive.google.com/file/d/1UwgRrLzqCX5auzld-353CiwEG52wUbF6/view']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://vederehome.com SQL: http://23.253.57.15/magento1118.sql'
+  hmac: 7f5186f3d92b4983fcc1acfabdfd0e08aa074d8ce54a8c6ed24f2f40ce609106
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889406
+  title: Intel Repository
+  url: ['http://23.253.57.15/magento1118.sql', 'http://vederehome.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Bank Banplus Venezuela DB: http://www.filedropper.com/banplus'
+  hmac: 01df3167d54290dbf1fe77ab46506e9dc348bd73536e1936bcc8617b9d453f46
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889412
+  title: Intel Repository
+  url: ['http://www.filedropper.com/banplus']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'realhost.com.mx SQL: http://34.193.232.164/realhostdev.sql'
+  hmac: 78c65f3498d473ffb0decedcc746090e6f9e041fe0d2aa17e12a02ce8dde6684
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889418
+  title: Intel Repository
+  url: ['http://34.193.232.164/realhostdev.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "\nhttp://35.183.203.21/ \n\nusers: http://35.183.203.21/backups/users.json\
+    \ \n\norders: http://35.183.203.21/backups/orders.json"
+  hmac: b688fc8845bf48fd549708ace0366f326c90da38c9a3c20604e84360a541ebd0
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889424
+  title: Intel Repository
+  url: ['http://35.183.203.21/', 'http://35.183.203.21/backups/users.json', 'http://35.183.203.21/backups/orders.json']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'graymtics.com SQL: http://54.80.41.45/api_gryamatics_com.sql'
+  hmac: 8c20655a74d005d138428fbb196400c61a4c4be7bc41fef86079b315004fe1cc
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889430
+  title: Intel Repository
+  url: ['http://54.80.41.45/api_gryamatics_com.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.homepeel.com.au/  Backup: http://192.185.36.214:8080/STS/homepeel.com.au.zip'
+  hmac: 4add531c09ae5522f40e43a9d113ddc8e8ebea718c9e2a9f546c58183265785f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889435
+  title: Intel Repository
+  url: ['http://192.185.36.214:8080/STS/homepeel.com.au.zip', 'https://www.homepeel.com.au/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 60k Combolist(email:password):https://anonfile.com/V3XbZ8ecb1/_60K_combos__Email_Password__Privados_HQ.txt
+  hmac: 8e14e7d9bad9a93684da514192a96184f0eca7544284511109cd7538e5b9ba94
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889442
+  title: Intel Repository
+  url: ['https://anonfile.com/V3XbZ8ecb1/_60K_combos__Email_Password__Privados_HQ.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '25K Fortnite Accounts: https://anonfile.com/E3E6paedb8/25K_Fortnite_Accounts.txt'
+  hmac: 8842cfd50c57eb082eef534c13155861799795d2c57f099d751eb576d656556b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889448
+  title: Intel Repository
+  url: ['https://anonfile.com/E3E6paedb8/25K_Fortnite_Accounts.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '800 MB worth of DBs: https://anonfiles.com/BfwcY1S6m0/databases_zip '
+  hmac: ab4ec2a3d5a7b1d75c642b1c868e087b7bf532df83b9df3a60ac16b4286005a6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889454
+  title: Intel Repository
+  url: ['https://anonfiles.com/BfwcY1S6m0/databases_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    MasterCard DB: ksecureteam.com/order/v2/mastercard_order.zip'
+  hmac: 2744154a52da8e9cc468282f3276f5a4df9d480a79115c61fa121d48bd6ce651
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889460
+  title: Intel Repository
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Combolists: https://anonfile.com/r8i7O3d0be/17k_HQ_and_Private_Germany_-.DE_SQLi_Combolist_EmailPass.txt'
+  hmac: e911b24722951e3a895e753bd4bdfb51d648044f1f75a7d82f17848e8b027a58
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889466
+  title: Intel Repository
+  url: ['https://anonfile.com/r8i7O3d0be/17k_HQ_and_Private_Germany_-.DE_SQLi_Combolist_EmailPass.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://anonfile.com/HdF8O9Sfm3/150K_T_rk_Email-Pass_Combo_List_13_rar
+  hmac: 11a506c174659319ebfd307e66d27f0a8a9fd6962d9df8a94f160891cb23affe
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889472
+  title: Intel Repository
+  url: ['https://anonfile.com/HdF8O9Sfm3/150K_T_rk_Email-Pass_Combo_List_13_rar']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '6k combolist: https://anonfile.com/82e8o6n6b7'
+  hmac: 0e446cdef6150271f41d0d29ae76a94055a64f11d69e927bc0bdf701f5f3ef65
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889478
+  title: Intel Repository
+  url: ['https://anonfile.com/82e8o6n6b7']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Medical Records System:
+
+    https://anonfile.com/g645ZdU2md/Medical_Records_Systems_zip'
+  hmac: 8d1481a85cd45fc2ee29b4e7c1d1b0e87bc7d1eccdf7af6560bdf6a6438ecdd8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889484
+  title: Intel Repository
+  url: ['https://anonfile.com/g645ZdU2md/Medical_Records_Systems_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'nm.org Medical Records USA:
+
+    https://anonfile.com/kee6a3V6m1/org_kol_parsed_backup.sql_gz'
+  hmac: a8920876fbed66f80a25ef2e7c342cd4673e4950b5dc2d9d6afa84fb528c0d64
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889490
+  title: Intel Repository
+  url: ['https://anonfile.com/kee6a3V6m1/org_kol_parsed_backup.sql_gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '300 MB of databases: https://anonfiles.com/BfwcY1S6m0/databases_zip
+
+    '
+  hmac: 7b4a69d406f1283fd1f382ffe4d5b7b4e013d82bb634b92892092381002a6989
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889495
+  title: Intel Repository
+  url: ['https://anonfiles.com/BfwcY1S6m0/databases_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Runescape combolist: https://anonfile.com/Z6W5Y5efba'
+  hmac: 4baf35152409b2e430dacca6ab2a07827a2a617be49a6af6148dc822da5ccccd
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889502
+  title: Intel Repository
+  url: ['https://anonfile.com/Z6W5Y5efba']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '200k gaming accounts: https://anonfile.com/5cE9H8e1b4'
+  hmac: 055df6cbfedcf6593cd4467ef00c35f7a2bc96131de6a4e674db5d4756046fc2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889507
+  title: Intel Repository
+  url: ['https://anonfile.com/5cE9H8e1b4']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Medical Records Systems.zip: https://anonfile.com/q4V4JaXbm1/Medical_Records_Systems_zip'
+  hmac: 178a63f7dc6d2b2c4ba2e56ef9a74b4811f18c8ffb102239a76c6b70fd53a234
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889516
+  title: Intel Repository
+  url: ['https://anonfile.com/q4V4JaXbm1/Medical_Records_Systems_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "gtdollarbank.com - Bank DataBase: \n\nDESING: http://47.88.157.37/gtbank_live_website.zip\
+    \ \n\nSQL: http://47.88.157.37/gtdollar_bank_db_dump.sql"
+  hmac: c1915a5a7a6ae451ea027461132c5c396734be5a4c981361372c88ea39c4a95e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889522
+  title: Intel Repository
+  url: ['http://47.88.157.37/gtbank_live_website.zip', 'http://47.88.157.37/gtdollar_bank_db_dump.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Facebook Combolist: https://cdn-14.anonfile.com/Dd5ai2vcbf/52f0fc87-1553452762/9+facebook.txt'
+  hmac: 1a010ac71baf491809eba0d998795398ddef2ea30af13afb03cc132cf4603bb5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889528
+  title: Intel Repository
+  url: ['https://cdn-14.anonfile.com/Dd5ai2vcbf/52f0fc87-1553452762/9+facebook.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '100k game accounts: https://anonfile.com/7aL2q8eabd/100k_gamin.txt'
+  hmac: dd227169ee2783694379790081ce8a4239240a1cb3ec5733e54f6b830dc9b0d3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889534
+  title: Intel Repository
+  url: ['https://anonfile.com/7aL2q8eabd/100k_gamin.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' https://kayabike.nl/ - SQL: http://178.128.244.71/kayabike_db1-03-04-19.sql'
+  hmac: dc61aba14364923f37b464d0922d29f23318a83ca926e2b7291b2f936e71967c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889540
+  title: Intel Repository
+  url: ['http://178.128.244.71/kayabike_db1-03-04-19.sql', 'https://kayabike.nl/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'adotweewielers.nl/ - SQL: http://178.128.244.71/ado_db-03-04-19.sql'
+  hmac: 2a6467406a289db233d12b98ce213d7e98a143b7c02d99e9e474904b4502f96a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889546
+  title: Intel Repository
+  url: ['http://178.128.244.71/ado_db-03-04-19.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '900k Gmail Accounts: https://anonfile.com/O7zdecf0bd/967k_Combo_Gmail.com.txt'
+  hmac: e1741ad9d11bd6ec5aa17fa16adc38e04373fe44696e81e831f1edb53bce0d8e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889552
+  title: Intel Repository
+  url: ['https://anonfile.com/O7zdecf0bd/967k_Combo_Gmail.com.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '550k private accounts: https://cdn-04.anonfile.com/kdqddaf4be/975445d7-1553825776/550K+%5Bprivate%5D.txt'
+  hmac: 7e357628f2ff506fbe608c393466bba3de61c9575f0e9972d69bc81419b6b43b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889558
+  title: Intel Repository
+  url: ['https://cdn-04.anonfile.com/kdqddaf4be/975445d7-1553825776/550K+%5Bprivate%5D.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Server: smiledu.com SQL: http://54.187.103.120/backup/smiledu.sql'
+  hmac: a4ca3c2aab3e159bf2207d3e16fdeaa7068609340996a4015dea2f0688df3b42
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889564
+  title: Intel Repository
+  url: ['http://54.187.103.120/backup/smiledu.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    663k Shopping Accounts: https://anonfile.com/J006d8e3bb/663K_Combo_Email_Pass_Shopping.txt'
+  hmac: 898d43881397c18f89cabd3f80414f73cf14015ef77fc81a82b40403e2df697a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889570
+  title: Intel Repository
+  url: ['https://anonfile.com/J006d8e3bb/663K_Combo_Email_Pass_Shopping.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Netflix combolist: https://anonfile.com/Z8c9q4Tem8'
+  hmac: 1b7d4b0920af21b30f2136179f0637852da670f220718179728b8f4c9110a718
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889575
+  title: Intel Repository
+  url: ['https://anonfile.com/Z8c9q4Tem8']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Large DBs directory: http://52.25.47.112:8080/dbs/'
+  hmac: 79a5de9e2fdb3bd993c1e516bbdcf616bfbb12dac721b9937b8b902c84684207
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889581
+  title: Intel Repository
+  url: ['http://52.25.47.112:8080/dbs/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://electronicsally.com/ Backup file: http://162.241.140.198/APRIL%203%20BACKUP/backup-4.7.2019_07-49-24_mer2do2ovdrd.tar.gz'
+  hmac: 1f9b7b84c681e2c91d1d33cfbfa161ada1d90993ccca41da449306de3af701f1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889586
+  title: Intel Repository
+  url: ['https://electronicsally.com/', 'http://162.241.140.198/APRIL%203%20BACKUP/backup-4.7.2019_07-49-24_mer2do2ovdrd.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.eltima.com/ \n\nSQLs: \n\nhttps://69.16.255.201/backup/databases_bkp/\
+    \ \n\nhttps://69.16.255.201/backup/databases_bkp/db101071_pandora.sql"
+  hmac: 3c04caedb8d76b77cd4d17d2250b6d81d888d8b3f6b04e62adf37210ed8dbad0
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889592
+  title: Intel Repository
+  url: ['https://69.16.255.201/backup/databases_bkp/db101071_pandora.sql', 'https://69.16.255.201/backup/databases_bkp/',
+    'https://www.eltima.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Yahoo Accounts: https://cdn-14.anonfile.com/Uc06d7eeb5/f7dac097-1552450129/yahoo.txt'
+  hmac: b09483d76972b27dc6efe687ed47a5a11ba35b1663828ba97df85fb92cabdef6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889598
+  title: Intel Repository
+  url: ['https://cdn-14.anonfile.com/Uc06d7eeb5/f7dac097-1552450129/yahoo.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '10k fortnite accounts: https://cdn-11.anonfile.com/e5RcB2o1b9/5a3cba47-1552379090/10k+Fortnite+combo.txt'
+  hmac: 68ea79b057fb47ae186363879ea26bbd4b3410af59f26f80fc292030967b773e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889605
+  title: Intel Repository
+  url: ['https://cdn-11.anonfile.com/e5RcB2o1b9/5a3cba47-1552379090/10k+Fortnite+combo.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'wibdesign.de SQL Directory List: http://176.28.48.231:3128/backup/mysql/20190405_023001/'
+  hmac: eceffdde050f9d79912c31c86ea4172dd2382a574eed67e74e358e8fe4bdd806
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889611
+  title: Intel Repository
+  url: ['http://176.28.48.231:3128/backup/mysql/20190405_023001/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.saws.de SQL: https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz'
+  hmac: 89b98bf998a8b1456afa2fa5b6abdbc3b600bf0e63eff2437e3532812abe44d1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889618
+  title: Intel Repository
+  url: ['http://www.saws.de', 'https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '90k Accounts: https://cdn-14.anonfile.com/t8M452d9bd/e40a115e-1552601044/90k.txt'
+  hmac: fc2da014cc5958bcbfa5ccfe37841e41d27e6373f964319c64919af8a4b65e88
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889623
+  title: Intel Repository
+  url: ['https://cdn-14.anonfile.com/t8M452d9bd/e40a115e-1552601044/90k.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Combolist: https://anonfile.com/rb57O4d9b0/100K_PRIVATE_COMBO_NULLED_HQ_NETFLIX_PORNHUB_WWE_PAYPAL_AND_MORE.txt'
+  hmac: cc8082b58dcc19665545647dc8e7248f8014acf75d40a8158a58a20cfed37916
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889629
+  title: Intel Repository
+  url: ['https://anonfile.com/rb57O4d9b0/100K_PRIVATE_COMBO_NULLED_HQ_NETFLIX_PORNHUB_WWE_PAYPAL_AND_MORE.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://alvaelectronic.com SQL: http://51.38.135.179:8010/backup_2019-03-26.sql.gz '
+  hmac: c55e8b282c8907b3130f2290724b97b1663e98bcf11b164d1b9cc6e03630b55d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889636
+  title: Intel Repository
+  url: ['https://alvaelectronic.com', 'http://51.38.135.179:8010/backup_2019-03-26.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://38pokupok.ru/  SQL: http://188.168.26.53/db38pokupok.210319.sql.gz'
+  hmac: 30ff416148b7a827fb7b2eb7c3cc213612832357011cc7dbc3551e506b05b4aa
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889642
+  title: Intel Repository
+  url: ['http://188.168.26.53/db38pokupok.210319.sql.gz', 'https://38pokupok.ru/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    100k accounts: https://cdn-05.anonfile.com/R4g1pad6b1/f9c5d37c-1551772693/100K.txt
+
+    '
+  hmac: 8caa33ee02dd4df590264437fcd32ef4899df30f890eb0a8bd3405540639ad29
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889647
+  title: Intel Repository
+  url: ['https://cdn-05.anonfile.com/R4g1pad6b1/f9c5d37c-1551772693/100K.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    Priv Combolist: https://cdn-07.anonfile.com/J60cb1n3bb/7092b0f4-1554400769/Combos+Priv.txt'
+  hmac: 9b318fc4cc693cbe2d9199bbefa32abdbdfb13f2423f2c09493cf0ab44dcf9b1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889653
+  title: Intel Repository
+  url: ['https://cdn-07.anonfile.com/J60cb1n3bb/7092b0f4-1554400769/Combos+Priv.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' https://solankitextileagency.com/ SQL: http://173.249.27.45/solanki1.sql.gz'
+  hmac: a0d14fc8efa752c87c0e26b566b60521ebe034ab4d9b8714bc7ff5a0ac1a80df
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889659
+  title: Intel Repository
+  url: ['http://173.249.27.45/solanki1.sql.gz', 'https://solankitextileagency.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://soyinvencible.fit/ \n\nSQL: http://83.48.65.190:8080/tienda3.sql.gz\
+    \ \n\nSQL: http://83.48.65.190:8080/presta16.sql.gz"
+  hmac: cda006e7a30908a21dd4f57e29db93dd68a75f14fb093702dc49ca73364ad6b7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889664
+  title: Intel Repository
+  url: ['http://83.48.65.190:8080/presta16.sql.gz', 'https://soyinvencible.fit/',
+    'http://83.48.65.190:8080/tienda3.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://crm.beachhousesmauritius.com SQL: http://128.199.74.72/vtigercrm-2019-03-02-19h51m52.sql.gz'
+  hmac: 34bfdc5dafc313e64d2c26b27585f4032b2a4f10dc33eef354c4a24b2c122075
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889670
+  title: Intel Repository
+  url: ['https://crm.beachhousesmauritius.com', 'http://128.199.74.72/vtigercrm-2019-03-02-19h51m52.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://lactualite.com/ SQL: https://198.154.184.212/dump_lactualite-2017-03-23.sql.gz'
+  hmac: b398e740b2bd67031d4e31dbd0a10eb6a2de601031749077e31d83e9c930cd82
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889676
+  title: Intel Repository
+  url: ['https://198.154.184.212/dump_lactualite-2017-03-23.sql.gz', 'https://lactualite.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'ComboPasswords: https://cdn-02.anonfile.com/s8U5L8keb2/423fb4b7-1551084121/Part14.txt
+
+    '
+  hmac: e70befb7e40866142fa0ded6280b216b9a344b1c3671185a48ffba291c241f0f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889681
+  title: Intel Repository
+  url: ['https://cdn-02.anonfile.com/s8U5L8keb2/423fb4b7-1551084121/Part14.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.orlane.com/  SQL: http://54.194.179.190/dumparecuporlane.sql'
+  hmac: 8c2124295de7c8c932f66e8217d718d7df644524d291898bc31c889f8a309513
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889687
+  title: Intel Repository
+  url: ['http://54.194.179.190/dumparecuporlane.sql', 'https://www.orlane.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'authenticisrael.net  SQL : http://104.131.16.206/backup/authisbackup07_17_18_1129.sql'
+  hmac: 53b146f8c0fab689372a254cc7f7c5af19e3909117f50caff108420bd9c4610e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889692
+  title: Intel Repository
+  url: ['http://104.131.16.206/backup/authisbackup07_17_18_1129.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Sodexo DB: \n\nhttps://13.250.177.168/quiz/quiz-user.json \n\nhttps://13.250.177.168/quiz/student.json\
+    \ \n\nhttps://13.250.177.168/quiz/student2.json"
+  hmac: 51823d58aa8c450523eba6e5be0536718627d6b15f93d76b95bf31c3e5508038
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889698
+  title: Intel Repository
+  url: ['https://13.250.177.168/quiz/quiz-user.json', 'https://13.250.177.168/quiz/student.json',
+    'https://13.250.177.168/quiz/student2.json']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.tktoursinc.com/ \n\nSQL: https://69.16.254.168/lisadori_tktours.sql\
+    \ \n \nSQL: https://69.16.254.168/promotingimage_tktoursinc.sql "
+  hmac: 15fe29c5523a9db350318088a2506ee1d7deaf54fa3b9ebc3c2a1e72d710cbc2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889704
+  title: Intel Repository
+  url: ['https://69.16.254.168/lisadori_tktours.sql', 'https://www.tktoursinc.com/',
+    'https://69.16.254.168/promotingimage_tktoursinc.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.refausa.com/ \n \nSQL: https://107.179.19.91/refabackup/ \n \n\
+    SQL2: https://107.179.19.91/NO.28_data_2019-03-27_15-16-58_1.sql"
+  hmac: 5c281e5df4926f445ca0085b0225341657c2d611e0d02150f037af45f41fb781
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889709
+  title: Intel Repository
+  url: ['https://107.179.19.91/NO.28_data_2019-03-27_15-16-58_1.sql', 'https://107.179.19.91/refabackup/',
+    'https://www.refausa.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://ask.cjh.org/  SQL: http://67.111.179.148/askcjhorg.sql'
+  hmac: 87fdafaf79a9bdd97be75d2a7222d64ae6bb031b551f7b8a30711060226acdfe
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889715
+  title: Intel Repository
+  url: ['https://ask.cjh.org/', 'http://67.111.179.148/askcjhorg.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.themileageclub.com  SQL: http://52.40.56.124/tmc.sql'
+  hmac: fccc6aa35ba19f4daa6887bbec6e7615dacaf0f163cdb84c93daef0f0719a365
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889721
+  title: Intel Repository
+  url: ['http://52.40.56.124/tmc.sql', 'https://www.themileageclub.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://excellence.org.il/ \n\nBackups: \n\nhttps://5.77.39.77/excellence.org.il.tar\
+    \ \n\nhttps://5.77.39.77/iasa.excellence.org.il.tar"
+  hmac: a6491288c1b80de7d0c56faf0869ff52fb1f40cbee645b5894b5413b1edbd5f1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889727
+  title: Intel Repository
+  url: ['https://5.77.39.77/iasa.excellence.org.il.tar', 'https://5.77.39.77/excellence.org.il.tar',
+    'https://excellence.org.il/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'UK Shop: http://35.200.198.26/futurshop090319.tar.gz'
+  hmac: 3865f4b327bfae1d7155c18738e7738ad76f8de768f3f9297b11ca8723715fad
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889732
+  title: Intel Repository
+  url: ['http://35.200.198.26/futurshop090319.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://worldrevivalchurch.co SQL: https://108.163.160.44/starter.sql'
+  hmac: 2b81377c453acad3430766ccf7e3c775f50dd33c3c3fc4cbb351a3ead8655625
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889737
+  title: Intel Repository
+  url: ['https://worldrevivalchurch.co', 'https://108.163.160.44/starter.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://lefurniture.co.uk/  Backup: http://67.23.226.128/lelivebackup/lefurniture.co.uk.tar.gz'
+  hmac: 01404972fee5840a299994e971002ec60ae3951af4c5062ca43e841d535f112e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889743
+  title: Intel Repository
+  url: ['http://67.23.226.128/lelivebackup/lefurniture.co.uk.tar.gz', 'https://lefurniture.co.uk/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://gruposimax.com/  sql: https://217.20.131.157/aaa.sql'
+  hmac: c7ac2f10c4342c2149f708ac8a324baa2710b9681cdd303b832adab82805e5da
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889748
+  title: Intel Repository
+  url: ['https://gruposimax.com/', 'https://217.20.131.157/aaa.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Fairplay999: https://59.120.227.141/'
+  hmac: dc8c8dd1ce0c1c1d047dd0f8f6c276dc207c65dbff64765866aa2d2d80998c92
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889754
+  title: Intel Repository
+  url: ['https://59.120.227.141/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://massagetablerentals.com/ \n\nSQL: http://183.182.84.86/vespoe-28JUne.sql.tar.gz\
+    \ \n\nSQL: http://183.182.84.86/mydb_tables.sql \n\nSQL: http://183.182.84.86/drewry_bmc_v1.sql"
+  hmac: abb50c3847d57e44b52b8abb018404a58ddf46a3c8e987f7a8391b512a4fbc11
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889761
+  title: Intel Repository
+  url: ['http://183.182.84.86/drewry_bmc_v1.sql', 'http://183.182.84.86/vespoe-28JUne.sql.tar.gz',
+    'http://183.182.84.86/mydb_tables.sql', 'https://massagetablerentals.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: " https://www.circlecsupply.com/ \n\nSQL: http://139.162.216.55/circlec-demo1_5_feb_2019.sql"
+  hmac: 9a2c74d266a94b1b6071a1231e2fd7fafb6a67a5f87df18de5bcc03aa75ab871
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889767
+  title: Intel Repository
+  url: ['https://www.circlecsupply.com/', 'http://139.162.216.55/circlec-demo1_5_feb_2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'SISE MEXICO:
+
+    DB:http://187.212.13.158/Vanilla_limpia.sql
+
+    DB2: http://187.212.13.158/Respaldo_completo_sise.sql'
+  hmac: 608b26326638c1d90963ecedd9e92c49b4822474822241352d97510c9bebd1bc
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889772
+  title: Intel Repository
+  url: ['http://187.212.13.158/Respaldo_completo_sise.sql', 'http://187.212.13.158/Vanilla_limpia.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://vento.com/  \n\nSQL: http://50.30.40.219/Databackup/web/  \n\nSQL:\
+    \ http://50.30.40.219/Clientsbackup/  \n\n"
+  hmac: 822730db859ca22549e17f1a5f6b30424e9eb0bc556ae0f16dcf557b2249509d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889778
+  title: Intel Repository
+  url: ['http://50.30.40.219/Databackup/web/', 'https://vento.com/', 'http://50.30.40.219/Clientsbackup/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: http://grandkadrihotel.com/  Backup:https://162.241.134.11/
+  hmac: 8a0e441f9f85dff3bab5225366c97e22f5a84bdac2362d556431c40f613f9b85
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889784
+  title: Intel Repository
+  url: ['http://grandkadrihotel.com/', 'https://162.241.134.11/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'TAIWAN SCHOOLS: http://45.119.82.217/'
+  hmac: 403012ea01839ac3b21912d0dae1986a5906d87455d199f0e7ec1b3bf7327e4a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889789
+  title: Intel Repository
+  url: ['http://45.119.82.217/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://108.179.222.17/  BackuP: https://108.179.222.17/hiyamee1.zip'
+  hmac: 4f086b390c4f8ab0bb9763d8bea466dc7907d43a9818fe3b0d3a02472be76131
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889794
+  title: Intel Repository
+  url: ['https://108.179.222.17/hiyamee1.zip', 'https://108.179.222.17/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://merit500.webdemos.biz/  SQL: https://78.129.225.123/mrit500.sql'
+  hmac: 1b00d420b106ff036b458e630e159b3c9a8427b5829825676bc1a8ad26ee1c04
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889799
+  title: Intel Repository
+  url: ['http://merit500.webdemos.biz/', 'https://78.129.225.123/mrit500.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://iuvas.com/   Backup: http://195.178.106.62/iuvas.com.zip'
+  hmac: b30efebc03592459a560f714a2714fdfcc0bf11a4681920ab06851f08d4e222c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889805
+  title: Intel Repository
+  url: ['https://iuvas.com/', 'http://195.178.106.62/iuvas.com.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://msfurnishings.co.uk  BACKUP: https://96.125.171.136/backup-1-9-2018.zip'
+  hmac: 36cc79ab49f71b7ff408cd23093fd994914c928e49eaf54363f4cdcd9f0e5acb
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889810
+  title: Intel Repository
+  url: ['https://msfurnishings.co.uk', 'https://96.125.171.136/backup-1-9-2018.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "milspecwiring.com \n\nBackup: https://162.241.234.202/  \n\nCustomers: https://162.241.234.202/customers.csv"
+  hmac: a9aa5e0e266a3ce1db9de759bf1870f8e5b2c5b385b1e971d5bc7add0670adac
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889816
+  title: Intel Repository
+  url: ['https://162.241.234.202/customers.csv', 'https://162.241.234.202/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '
+
+    U.S Citizen IDs/driver`s licenses: http://thenimbuslab.com/wp-content/uploads/iphorm'
+  hmac: e85661d9e6a77cba40956abb17551126b16468e3d9b4c84456fad3f2408f3dbe
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889821
+  title: Intel Repository
+  url: ['http://thenimbuslab.com/wp-content/uploads/iphorm']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://eegsa.com/   SQL: https://188.166.37.112/eegsa_21mar2019.sql'
+  hmac: 2667a0390721de02ff492e10b66a5ea4963b42a7c824b24e7420964c5d0794a2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889827
+  title: Intel Repository
+  url: ['https://188.166.37.112/eegsa_21mar2019.sql', 'https://eegsa.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: stroyizolyaziya.ru SQL:http://92.63.103.68/2018-11-09-dump.sql
+  hmac: 6d047687529daabd1947ad2c30ad9fb24f0ae131c3cc1ea38ec368ba52c7c14e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889833
+  title: Intel Repository
+  url: ['http://92.63.103.68/2018-11-09-dump.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.waydata.mx/  \n\nSQL: http://54.187.47.114/pre_prod.sql  \n\n\
+    Backup: http://54.187.47.114/biserver-ce.zip"
+  hmac: c208f273958b25e10d53a41cd6b4765e0297fb68c687ec3e5e765225953c20d3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889838
+  title: Intel Repository
+  url: ['http://54.187.47.114/biserver-ce.zip', 'https://www.waydata.mx/', 'http://54.187.47.114/pre_prod.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.crystiques.com/   BACKUP: http://207.58.205.231/crystiques2-22-2018.tar.gz'
+  hmac: 326d233a9fedd642e115e81d6af9435008dcfa21f17bc8b2a2c34834bf19f56c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889844
+  title: Intel Repository
+  url: ['http://207.58.205.231/crystiques2-22-2018.tar.gz', 'https://www.crystiques.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.unachi.ac.pa/   SQL: http://13.58.97.63:84/cdigital_repo_backend/bexdi.sql'
+  hmac: cd86f56d1f2b8bbf216c55583603e4323ce66de9a6aeab768102537702c582ef
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889849
+  title: Intel Repository
+  url: ['http://www.unachi.ac.pa/', 'http://13.58.97.63:84/cdigital_repo_backend/bexdi.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'gmsafitness.com  SQL: http://13.233.63.75/moodle.sql'
+  hmac: b82b1b877ae1548227bb1ab604327d79e416efef70781ca803564fd2b3da98ab
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889854
+  title: Intel Repository
+  url: ['http://13.233.63.75/moodle.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://maveriklacrosse.com \n\nBACKUP: https://13.68.102.193/maverik.zip\
+    \  \n\nBACKUP: https://13.68.102.193/mens.maveriklacorsse.com.zip  \n\nBACKUP:\
+    \ https://13.68.102.193/womans.maveriklacorsse.com.zip"
+  hmac: aea9319e716908695c85bf42f617e33c009efbeb7446fea871bec5bb8fc2de4f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889860
+  title: Intel Repository
+  url: ['https://13.68.102.193/mens.maveriklacorsse.com.zip', 'https://13.68.102.193/womans.maveriklacorsse.com.zip',
+    'https://maveriklacrosse.com', 'https://13.68.102.193/maverik.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "konga.com \n\nBackups: \n\nhttp://35.230.133.20/criteo/customers.csv \n\n\
+    http://35.230.133.20/criteo/contact.csv.csv"
+  hmac: 8959ddd39dddf36f2a66a492f383375a9b49fe1b98d269527211794ab930bc93
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889867
+  title: Intel Repository
+  url: ['http://35.230.133.20/criteo/customers.csv', 'http://35.230.133.20/criteo/contact.csv.csv']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://poonawallafinance.com/  Backup: https://216.10.244.47/poonawallafinance.com_20190416.zip'
+  hmac: c6e0a3af709cb268ead3e314d3f9cc96fb46b5f13332bd41b252874684f793d9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889872
+  title: Intel Repository
+  url: ['https://poonawallafinance.com/', 'https://216.10.244.47/poonawallafinance.com_20190416.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.ishopthrifty.org/   BACKUP: https://162.144.24.211/ishopthrifty.zip'
+  hmac: 510d43e11496dd6405ab89a2ea2fa64fccf011271e0553775c59125a863703ae
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889877
+  title: Intel Repository
+  url: ['https://www.ishopthrifty.org/', 'https://162.144.24.211/ishopthrifty.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://leathelabel.com  Backup: http://88.208.245.179/shop.zip'
+  hmac: 9451f15db140850411123dac1aa7af3c7550dec892549b7d15b14b1283a5862e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889883
+  title: Intel Repository
+  url: ['https://leathelabel.com', 'http://88.208.245.179/shop.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.leocrowd.com/  Backup: http://162.243.223.26/public_html.tar.gz'
+  hmac: 04c519960ea58cff8459e206fe9f6e4409be2250a23db07717e85e69147bd1d2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889888
+  title: Intel Repository
+  url: ['https://www.leocrowd.com/', 'http://162.243.223.26/public_html.tar.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://jp.shaod.com  BACKUP: http://106.14.71.52/Shaod20180409.rar'
+  hmac: d8bdb1d3e54960da3c54ed8d2dc2e85e065acb74386c54626250b1bb87697c25
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889894
+  title: Intel Repository
+  url: ['http://106.14.71.52/Shaod20180409.rar', 'http://jp.shaod.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://pedegoelectricbikes.mx/  \n\nSQL: https://96.125.169.30/old_client_pedegoelectricbikes2.sql\
+    \  \n\nSQL: https://96.125.169.30/client_pedegoelectricbikes2.sql"
+  hmac: 4423aa949414eb708147167b04e23a64a16ce5e286eb7cc90a8f446cfe98b6b4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889900
+  title: Intel Repository
+  url: ['https://96.125.169.30/old_client_pedegoelectricbikes2.sql', 'https://pedegoelectricbikes.mx/',
+    'https://96.125.169.30/client_pedegoelectricbikes2.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://www.reefic.io/   \n\nBackups:  \n\nhttp://206.189.84.159/backup-new-code-03-12-2018.zip\
+    \  \n\nhttp://206.189.84.159/fullbackup-reefic-29-11-2018.zip"
+  hmac: 3d959f2ec78418a7a27e973078fdf4ef87cc4348a43da79d199c95ca0b6d3de5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889906
+  title: Intel Repository
+  url: ['http://206.189.84.159/fullbackup-reefic-29-11-2018.zip', 'https://www.reefic.io/',
+    'http://206.189.84.159/backup-new-code-03-12-2018.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.wikhotel360.com  SQL: https://51.68.113.231/db_backup.sql'
+  hmac: 444206413b700b4242683b0f82a040e3324900b443db21f36dc56f64514beee7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889912
+  title: Intel Repository
+  url: ['https://www.wikhotel360.com', 'https://51.68.113.231/db_backup.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.libbylasoup.com/en/   Backup: https://50.31.152.50/libbylasoup.com.tar'
+  hmac: 813fb52d2c12b8b3fb4dc5cb7cc5d6fc8854ef9d9519d8f964d2cab62c8216f9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889918
+  title: Intel Repository
+  url: ['https://50.31.152.50/libbylasoup.com.tar', 'https://www.libbylasoup.com/en/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://leip.upnvirtual.edu.mx/  SQL: http://23.96.209.248/leip_feb.sql'
+  hmac: 8aa1d84387ba0be7fb369dd7827fe3e7b0c6ca1a7c7fd7efb1aa5014b4026af5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889923
+  title: Intel Repository
+  url: ['http://23.96.209.248/leip_feb.sql', 'http://leip.upnvirtual.edu.mx/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://discgolfbanor.se/  SQL: http://37.59.13.106:81/ravintola_prod.sql'
+  hmac: 588caedf34ea5bd684100f224492660d0bcea39875abf21b7163bab29a2c4e65
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889929
+  title: Intel Repository
+  url: ['http://37.59.13.106:81/ravintola_prod.sql', 'https://discgolfbanor.se/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "http://companies123.co.uk/  \n\nSQL: https://173.249.46.48/mpancard_uk.sql\
+    \  \n\nSQL: https://173.249.46.48/uk33.sql"
+  hmac: 97d823c76804e371ef3ff1e4d8350595fd0acd89bf1601eb964ad75010576003
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889934
+  title: Intel Repository
+  url: ['https://173.249.46.48/uk33.sql', 'http://companies123.co.uk/', 'https://173.249.46.48/mpancard_uk.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'CUBA TRAVEL MAIL DOCS(IDs,personal info etc):
+
+    Server. latinamericatravelcuba.com/
+
+    Files: http://190.15.155.10/'
+  hmac: 75f59edd9c894bae0e0adb923c2e4fcc36fa6bb4de9dbd3b5e0b2a61448674f7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889940
+  title: Intel Repository
+  url: ['http://190.15.155.10/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Checkers, carding tutorials and more: http://files.primeflix.co/'
+  hmac: 0bd778a001da3fd0fa5d524eb97527b25a31a2190e378e316180905908f9d04a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889945
+  title: Intel Repository
+  url: ['http://files.primeflix.co/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Espa\xF1a Passports/IDs/CVs:  \n\nDNI: 5.808 records  \n\nhttp://82.223.26.222/uploads/"
+  hmac: 4ed322319a11cc20db61c34485732e5fb46695cd796ccbef41e887678cbefc16
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889951
+  title: Intel Repository
+  url: ['http://82.223.26.222/uploads/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'mafirma.pe
+
+    SQL: http://190.116.15.166/20190508.mafirma.sql.gz'
+  hmac: 6d25752b369e1ab95a3b26b801c2ae296a58cf9790fbd7659855b3b54f1cef89
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889957
+  title: Intel Repository
+  url: ['http://190.116.15.166/20190508.mafirma.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Mercado Libre Brazil Checker:  \n\nLive: http://35.247.202.45/ml/ml/   \n\
+    \nDownload Script:http://35.247.202.45/ml.rar"
+  hmac: bb8766e9d3e522dbfb87e9af01b2784f0c6a1678e95ba4037fd9d5d2a2a7285d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889963
+  title: Intel Repository
+  url: ['http://35.247.202.45/ml.rar', 'http://35.247.202.45/ml/ml/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: pubblica.istruzione.it  SQL:http://138.197.184.114/monitor19122018backup.sql
+  hmac: 78c06f1e66f1cea9e1bbd720b8a794821ea1880eb319c3b84d132ecb8041844c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889968
+  title: Intel Repository
+  url: ['http://138.197.184.114/monitor19122018backup.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "https://maquirent.com/  \n\nCRM: http://184.107.167.163/crm_joper  \n\nDirectory:\
+    \ http://184.107.167.163/  \n\nSQL: http://184.107.167.163/crm_joper0219.sql"
+  hmac: 0d5601722d5ece0da8fa7ab36676f16f8e4db68f283eaf79b3d328413452362f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889974
+  title: Intel Repository
+  url: ['http://184.107.167.163/crm_joper', 'http://184.107.167.163/', 'http://184.107.167.163/crm_joper0219.sql',
+    'https://maquirent.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "bol.com  \n\nSQL: http://82.73.65.130/127_0_0_1.sql  \n\nPayments: http://82.73.65.130/Log.txt"
+  hmac: ec9d67c4b12ca094aad7c78c7156b0cea6d5df28b9dcbf176064c1c8250f6d20
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889980
+  title: Intel Repository
+  url: ['http://82.73.65.130/127_0_0_1.sql', 'http://82.73.65.130/Log.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "http://www.mangerbouger.fr/  \n\nSQL: http://46.255.160.100/2-backup-prod/2018-12-21-export-diabete-prod.sql\
+    \  \n\nSQL: http://46.255.160.100/diabete-sql-2019-05-07.sql"
+  hmac: ceabebb09eae0d040819e60b5bbda4e6f4e838a71a10e517b1cf8b92e577880e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889986
+  title: Intel Repository
+  url: ['http://46.255.160.100/diabete-sql-2019-05-07.sql', 'http://46.255.160.100/2-backup-prod/2018-12-21-export-diabete-prod.sql',
+    'http://www.mangerbouger.fr/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' https://www.drewry.co.uk/  SQL: http://183.182.84.86/drewry_bmc_v1.sql'
+  hmac: c3c5eece51df4d26b7c4f1bb7a08f7b9b8f60fe8e0a4c438fd6101e69785867d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889992
+  title: Intel Repository
+  url: ['https://www.drewry.co.uk/', 'http://183.182.84.86/drewry_bmc_v1.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Sendgrid account: \n\nhttps://app.sendgrid.com/login \n\n\n        api_user:\
+    \ 'stageandset', \n\n        api_key: '4eoOiXErRkRg'"
+  hmac: 0369550f610684f2e418d37245cc8231619eb4c64d07dbd9720e4a6bfa06d29c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.889997
+  title: Intel Repository
+  url: ['https://app.sendgrid.com/login']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Admin login details for over a thousand sites: http://185.43.5.250/data/'
+  hmac: 895a2b4d6cae12912016b421ed17126da223d741853cbcfd11dcdcbe779a2e45
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890002
+  title: Intel Repository
+  url: ['http://185.43.5.250/data/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.brandscapesworldwide.com/ Database: http://52.21.57.95/full-backup-2019-03-12.sql'
+  hmac: cd629df3145ff8a24d7cce610383e0f7476f837e6636cec0e2451bd5c1f01b5b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890008
+  title: Intel Repository
+  url: ['http://www.brandscapesworldwide.com/', 'http://52.21.57.95/full-backup-2019-03-12.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'REAXIUM REPORTS: https://54.202.10.0/reaxium_reports/'
+  hmac: 36200ab900e96b8cbffc0a2f2123ced965a45ea3e004ee7fe79a2f1cdf8821d6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890013
+  title: Intel Repository
+  url: ['https://54.202.10.0/reaxium_reports/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.shardaup.in/ Database: http://52.66.118.162/oosc_lucknow_8_may_19.sql'
+  hmac: 7add9ff090bac0b81ac0af99996b3cf0d439138ad2264fb73a9d21d70d46d610
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890019
+  title: Intel Repository
+  url: ['http://www.shardaup.in/', 'http://52.66.118.162/oosc_lucknow_8_may_19.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.homestylingshop.nl/  SQL: http://217.120.128.82/db_20181008.sql'
+  hmac: 269e8f9360bf3800377755ce17579e25145afe90697f6e7524a090dbee3e6fe8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890025
+  title: Intel Repository
+  url: ['https://www.homestylingshop.nl/', 'http://217.120.128.82/db_20181008.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' https://www.adotweewielers.nl/  SQL: http://178.128.244.71/ado_db-03-04-19.sql'
+  hmac: 9c8b02509d28d2c7250a7a27e2c13071642b71f8fee228ce43d6da07c03b61ae
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890031
+  title: Intel Repository
+  url: ['https://www.adotweewielers.nl/', 'http://178.128.244.71/ado_db-03-04-19.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://kayabike.nl  SQL: http://178.128.244.71/kayabike_db1-03-04-19.sql'
+  hmac: 144d508c56c242867bc61f2b33727f88090bdae0d7a1161f6d1cf023e2befd80
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890036
+  title: Intel Repository
+  url: ['http://178.128.244.71/kayabike_db1-03-04-19.sql', 'https://kayabike.nl']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.gamersoul.com/  SQL: https://134.19.177.228/gamersou_vb4-2019-01-21.sql'
+  hmac: 4fb81abb5968fde5a284f6906018eaaf338e0cd844542d36dc85dd5b34095807
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890042
+  title: Intel Repository
+  url: ['https://www.gamersoul.com/', 'https://134.19.177.228/gamersou_vb4-2019-01-21.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://russellsm2.ooddademo.com  SQL: https://23.228.86.248/russells-v0.2.sql'
+  hmac: b9e4f67790129f1ecc5215ab9d346b803458508a0dd918ebc8c7ea1841c6c436
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890048
+  title: Intel Repository
+  url: ['https://23.228.86.248/russells-v0.2.sql', 'https://russellsm2.ooddademo.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.postnet.com/  SQL: https://69.16.212.172/prod-postnet-ipostnet6db95356-2018-10-05.sql'
+  hmac: 60155ef9b272595d5dd26e362b2e94f539a18986563ba53838a3daca1079f84c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890053
+  title: Intel Repository
+  url: ['https://69.16.212.172/prod-postnet-ipostnet6db95356-2018-10-05.sql', 'https://www.postnet.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.argohost.net/  SQL: https://187.110.226.192/emkt01db31082015.sql'
+  hmac: cc97de85da3dfa577c1c342a067f253a450f6db31bc17e4e40b1d76c8fec2f26
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890060
+  title: Intel Repository
+  url: ['https://187.110.226.192/emkt01db31082015.sql', 'https://www.argohost.net/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.awbridal.com/  SQL : https://59.175.109.211/awbridal_backup_2019_1_24.sql'
+  hmac: af82ab0129c9de77daabd2ac9df88b00c15cf5f29a796c33d0429fbc53f958a9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890066
+  title: Intel Repository
+  url: ['https://www.awbridal.com/', 'https://59.175.109.211/awbridal_backup_2019_1_24.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'gofitness.mx  SQL: https://206.189.31.250/backups/20190515.sql.gz'
+  hmac: d3a5107af4c32dcf46fb1634ebfd8a52986978aa0d466e32f2a9888435ce42de
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890071
+  title: Intel Repository
+  url: ['https://206.189.31.250/backups/20190515.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.trackitt.com/  SQL: https://132.148.4.244/trackitt-new_10_6_16.sql'
+  hmac: 6d4d16f3a4f205cf878e01d0149311c4be11f978a0112d1cb00851f8a06aedb5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890077
+  title: Intel Repository
+  url: ['https://www.trackitt.com/', 'https://132.148.4.244/trackitt-new_10_6_16.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Russian casino poker dataBase Files: https://109.120.168.45/backupdb/mongodb/201905/20190504/personalid_mobileapi_heroku_app6350975_000001/heroku_app6350975/'
+  hmac: 13b7b0e915c77ceb7d402b799b981d93d36b501f08a03ead920f89ec2324055b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890082
+  title: Intel Repository
+  url: ['https://109.120.168.45/backupdb/mongodb/201905/20190504/personalid_mobileapi_heroku_app6350975_000001/heroku_app6350975/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'themileageclub.com SQL: http://52.40.56.124/tmc.sql WebDesing: http://52.40.56.124/tmc.rar'
+  hmac: 876e85285b7bdffe69c087677fa58dbd3d251a657496c087ec6757b26d52f2c7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890088
+  title: Intel Repository
+  url: ['http://52.40.56.124/tmc.rar', 'http://52.40.56.124/tmc.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 80k Indian School Records:http://34.221.197.55/schoool.sql
+  hmac: f3a2113b901116976b9916b4d57d7a9096fc327fce1067a5f1e25a4cdd2ee7e4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890093
+  title: Intel Repository
+  url: ['http://34.221.197.55/schoool.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'afpconversa.com.pe  http://laborvidaips.com/
+
+    SQL: https://186.82.48.253/laborvida/respaldo_full_25_05_2019.sql SQL: http://107.22.195.162/afpconversa2-20160711.sql'
+  hmac: 9df280667e6ef255070e0b32b29c57a948778f2fd675b6e9c19f1f6376441b93
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890099
+  title: Intel Repository
+  url: ['https://186.82.48.253/laborvida/respaldo_full_25_05_2019.sql', 'http://107.22.195.162/afpconversa2-20160711.sql',
+    'http://laborvidaips.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://cupelocal1328.ca  SQL: https://132.148.84.128/cupeloca_cupelocal1328.sql'
+  hmac: ee0368839ed613b7735ddeba663051d4c74acb94a4979592b162d8530be2a5be
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890105
+  title: Intel Repository
+  url: ['https://cupelocal1328.ca', 'https://132.148.84.128/cupeloca_cupelocal1328.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.grandtours.hu/  SQL: https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz'
+  hmac: 550023e897a765d214227f3d691f0b972b3a5e822a1a8e4837e2628fc6bc14f6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890111
+  title: Intel Repository
+  url: ['https://www.grandtours.hu/', 'https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://cockpitnations.com/  SQL: https://162.241.131.211/05242019.sql'
+  hmac: a29c272794c7c9759ab73acad8f7a0bb2e54f8fb03a9e1d8e8289c938b95167d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890116
+  title: Intel Repository
+  url: ['https://162.241.131.211/05242019.sql', 'http://cockpitnations.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.fcsnetworker.com/  SQL: https://108.61.133.194/fcsnetw1_david-2018-02-16.sql'
+  hmac: 72fa5304ee8a5044790c7b78caeb3cbc5a141cd9a32698305c56e37672b26f9f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890122
+  title: Intel Repository
+  url: ['https://www.fcsnetworker.com/', 'https://108.61.133.194/fcsnetw1_david-2018-02-16.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.emissiondevoyance.com/
+
+    SQL: https://5.135.151.22/edv2-prod.sql
+
+    SQL: https://5.135.151.22/newemivoyance_new1.sql'
+  hmac: daa632de5b7934c554c7b7b2c25425d0e9e56f95b168cbafd87baea1d4f9c8ba
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890127
+  title: Intel Repository
+  url: ['https://5.135.151.22/newemivoyance_new1.sql', 'http://www.emissiondevoyance.com/',
+    'https://5.135.151.22/edv2-prod.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.peternity.com SQL: https://96.127.175.186/ct_pete_atlt7.sql.zip'
+  hmac: a45bed19bff722ced4fdaeef3fef649e1100ba6571877781ec5391a47414a662
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890133
+  title: Intel Repository
+  url: ['https://96.127.175.186/ct_pete_atlt7.sql.zip', 'https://www.peternity.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.unad.us/  SQL: https://64.150.181.176/bd.sql'
+  hmac: b904362472621dd3e0cf640dbd809ee0442fab52b2258907554076bef78528ff
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890139
+  title: Intel Repository
+  url: ['https://www.unad.us/', 'https://64.150.181.176/bd.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.geleiacultural.com  SQL: https://142.11.205.201/db-geleia-2019-02-24.sql'
+  hmac: fe168b6bf568e66371b2aab8c3b66c9b9ac51a77f2bf06d2347896b10e1fabc6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890144
+  title: Intel Repository
+  url: ['https://142.11.205.201/db-geleia-2019-02-24.sql', 'https://www.geleiacultural.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://automateamerica.com/  SQL: https://34.226.236.134/automateamerica_production_08may_2019.sql'
+  hmac: 66aedd4373fda97660cf696e33c8580c2f8c68b6706ff49bf48d4da4f14d0686
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890150
+  title: Intel Repository
+  url: ['https://automateamerica.com/', 'https://34.226.236.134/automateamerica_production_08may_2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'clirnet.com SQL: https://35.198.248.47/devclirn_finalv2_15_04_2019.sql'
+  hmac: b8efcbe92c5d875f5835c38a9142cd8e7f320eab1bb3755b81de91ef329797c8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890155
+  title: Intel Repository
+  url: ['https://35.198.248.47/devclirn_finalv2_15_04_2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: https://www.elmaterialelectrico.com/  SQL:http://51.255.95.220:8080/basura/elmaterialelectrico-hoy.sql
+  hmac: 6963549c32071b5f9c17a6f69093eaf432d87640b67f9eee788b54e15e80cb48
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890161
+  title: Intel Repository
+  url: ['http://51.255.95.220:8080/basura/elmaterialelectrico-hoy.sql', 'https://www.elmaterialelectrico.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'zipzapdelivery.com  Backup: https://144.208.65.236/dumps/'
+  hmac: 517ad45f63b8e2db99d366729345c4b7da62713eeb5dd6d824d44c6a1a2794c8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890166
+  title: Intel Repository
+  url: ['https://144.208.65.236/dumps/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' https://www.stahlwille.de  SQL: https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz'
+  hmac: 9dfe750351d7974488c3697c44f6d50d6c4c1110c2aa9ec12a79207af128a7e3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890171
+  title: Intel Repository
+  url: ['https://95.142.66.211/stahlwille_prod-2019-04-03.sql.gz', 'https://www.stahlwille.de']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'solarconduit.com  SQL: http://199.168.188.187/solarcon_mage1.sql.gz'
+  hmac: a035e60cc1847ca5daaea0ced76dbc84b7579446a43bc9434ac53ca8b12b82d1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890177
+  title: Intel Repository
+  url: ['http://199.168.188.187/solarcon_mage1.sql.gz']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.mvintage.com/  SQL: http://206.189.196.226/mvintage_magento16042019.sql'
+  hmac: cf278b475fe4608de372bde8f0770424df9d693934f55b202f0e7d5dca24bfd0
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890182
+  title: Intel Repository
+  url: ['http://206.189.196.226/mvintage_magento16042019.sql', 'https://www.mvintage.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' http://compasia.jhopadi.com  Backup: http://139.162.216.55/compasia_14_may_2019.zip'
+  hmac: b31638772f08ff14b9a210cc23031c2c7de31ea62890e652c21c9e18c65ffeac
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890187
+  title: Intel Repository
+  url: ['http://compasia.jhopadi.com', 'http://139.162.216.55/compasia_14_may_2019.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.circlecsupply.com SQL: http://139.162.216.55/circlec-demo1_5_feb_2019.sql'
+  hmac: fc3bda787eed4abcb162db6ffcc94eeec50bae0b8ad8b3787982f2b67baec7e1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890193
+  title: Intel Repository
+  url: ['https://www.circlecsupply.com', 'http://139.162.216.55/circlec-demo1_5_feb_2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.miwhip.com/  SQL: http://35.177.220.24/miwhipmysqlfdb_1619.sql'
+  hmac: eaa47bdd0c4ae73c6fe8a64a5e8e9ec6fd5629ff138c15e9256da2159b9c77ff
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890198
+  title: Intel Repository
+  url: ['http://35.177.220.24/miwhipmysqlfdb_1619.sql', 'https://www.miwhip.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'socket.io db: https://anonfile.com/0dbfwaw7n1/socket_json'
+  hmac: 254272857243ee46ea905f9e798d5467d033ad2104fcb93ad44fb2f448167e8c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890204
+  title: Intel Repository
+  url: ['https://anonfile.com/0dbfwaw7n1/socket_json']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'cubacel: https://anonfile.com/mdc5wfw3ne/cubacel_txt'
+  hmac: 2ed096625a7db8a482965ff1d4d16957e92b543cf1f14a81f96d707fae841ab3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890209
+  title: Intel Repository
+  url: ['https://anonfile.com/mdc5wfw3ne/cubacel_txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.milspecwiring.com
+
+    Backup: https://162.241.234.202/store-01AUG17.tar
+
+    Customers: https://162.241.234.202/customers.csv'
+  hmac: e781337b2deedee95bcf1979755be197f20502941339b396ca8bb69e0cd881e2
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890215
+  title: Intel Repository
+  url: ['https://162.241.234.202/customers.csv', 'https://www.milspecwiring.com',
+    'https://162.241.234.202/store-01AUG17.tar']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.pacetrak.com/  Disclosure Clients: https://54.164.162.150/storage/app/public/provider/documents/'
+  hmac: 3aceeff841380ad6e4e6ce22a673c5beea471fc0701f09a8b5344a0b635282a5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890220
+  title: Intel Repository
+  url: ['https://54.164.162.150/storage/app/public/provider/documents/', 'https://www.pacetrak.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.tktoursinc.com/
+
+    SQL: https://69.16.254.168/lisadori_tktours.sql
+
+    SQL: https://69.16.254.168/lisadori_tktours.2019-01-08.sql.zip'
+  hmac: 4722e6be09a5c5e7e0160604aa096bb5f9f8492c508886fe52975c9f518c5dd5
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890226
+  title: Intel Repository
+  url: ['https://69.16.254.168/lisadori_tktours.sql', 'https://69.16.254.168/lisadori_tktours.2019-01-08.sql.zip',
+    'https://www.tktoursinc.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://mopra.ru/  SQL: http://185.185.68.196:8001/mopra.ru/temp.sql'
+  hmac: cafbfc54331ccc0308883fdf068043d0fe212218b66208ef3062afad3b3530c8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890232
+  title: Intel Repository
+  url: ['https://mopra.ru/', 'http://185.185.68.196:8001/mopra.ru/temp.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '1,547,000  HQ Private Combos Gmail-Yahoo-Hotmail USA: https://anonfile.com/B6wbl2f7b5/1_547_000__HQ_Private_Combos_Gmail-Yahoo-Hotmail_USA_._Nadal.txt'
+  hmac: 9208df9274b588bc34a278b8a6fc2718fdafd14b1359bdd6f5229edae0125a4a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890238
+  title: Intel Repository
+  url: ['https://anonfile.com/B6wbl2f7b5/1_547_000__HQ_Private_Combos_Gmail-Yahoo-Hotmail_USA_._Nadal.txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://appjur.com.br/  DB: https://anonfile.com/Hc9fZ5xdnd/appjur.com.br_zip'
+  hmac: d318b6a56c7e195cbec29646a1f4a9bd330f0360a16948810567b5f91a4679b0
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890244
+  title: Intel Repository
+  url: ['https://appjur.com.br/', 'https://anonfile.com/Hc9fZ5xdnd/appjur.com.br_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '1M Combo HQ[Fortnite,Uplay,Fortnite,Origin,Netflix,Steam,Spotify,Crunchyroll:
+    https://anonfile.com/K3o4Kbofbd/1M_Combo_HQ_Fortnite_Uplay_Fortnite_Origin_Netflix_Steam_Spotify_Crunchyroll._txt'
+  hmac: 8c8a8ab7ebba1d79ed8aa50d93bf598e4c826ebdfb434b2ec6d2dc48516d5654
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890250
+  title: Intel Repository
+  url: ['https://anonfile.com/K3o4Kbofbd/1M_Combo_HQ_Fortnite_Uplay_Fortnite_Origin_Netflix_Steam_Spotify_Crunchyroll._txt']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'avaliacaodeempresas.net  DB: https://anonfile.com/99DeZaxbn6/avaliacaodeempresas.net_zip'
+  hmac: 730cbb539117a7f6b3026c922d1336c9f82b1cac8e913f315b463a8e6deeaf34
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890256
+  title: Intel Repository
+  url: ['https://anonfile.com/99DeZaxbn6/avaliacaodeempresas.net_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'batiref.fr  DB: https://anonfile.com/M2G8Z7xcn0/batiref.fr_zip'
+  hmac: 7bb7d3db6a1cf9a44dd1b7af5e018706b0f1cfcb925cb971f6a158235f7482b1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890262
+  title: Intel Repository
+  url: ['https://anonfile.com/M2G8Z7xcn0/batiref.fr_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'cosmeticosprofissionais.com.br DB:  https://anonfile.com/0bBba0ydne/cosmeticosprofissionais.com.br_zip'
+  hmac: 7631b08ed40898254572983cc826bf4e9005c47dc675dd56b94d7428bcd617ea
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890269
+  title: Intel Repository
+  url: ['https://anonfile.com/0bBba0ydne/cosmeticosprofissionais.com.br_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'forum.samp-grp.ru  DB: https://anonfile.com/n0Eca9ydn5/forum.samp-grp.ru_zip'
+  hmac: fa1f1a21473ecb1e0ec6ca6dd44b796b354ffe8060705898d3fa45156cb9a879
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890274
+  title: Intel Repository
+  url: ['https://anonfile.com/n0Eca9ydn5/forum.samp-grp.ru_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://lifehappens.org/  DB: https://anonfile.com/M4Y9l6y4n5/lifehappens.org_zip'
+  hmac: 818a81c1bc78c3d2e7c9ae4af4ee992293653572520b7093e5a9be4a1972ff7f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890280
+  title: Intel Repository
+  url: ['https://anonfile.com/M4Y9l6y4n5/lifehappens.org_zip', 'https://lifehappens.org/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Peru Masivo System DB: https://anonfile.com/l25aq3y2ne/perumasivo_zip'
+  hmac: 55dc8fe316cf61fb5bc4d809f473e3f0e38e7c0430d6acea8349ee1993798933
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890286
+  title: Intel Repository
+  url: ['https://anonfile.com/l25aq3y2ne/perumasivo_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'pharmapresse.ma  DB: https://anonfile.com/pe75q9y3ne/pharmapresse.ma_zip'
+  hmac: 354cdd4b3e4d2379bb1989655adea1e5d6885b9a36da6bfe4650ea85e1d89a15
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890301
+  title: Intel Repository
+  url: ['https://anonfile.com/pe75q9y3ne/pharmapresse.ma_zip']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://affordablemantel.com backups: http://158.106.128.144/windowscreen_backups/affordab_windowscreens.sql
+
+    http://158.106.128.144/windowscreen_backups/backup.tar.gz'
+  hmac: b27e00a72a12b87b165b74d93f35139f818d8f8dbf03fd6d365117da33e5794e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890307
+  title: Intel Repository
+  url: ['http://158.106.128.144/windowscreen_backups/affordab_windowscreens.sql',
+    'http://158.106.128.144/windowscreen_backups/backup.tar.gz', 'https://affordablemantel.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Rebel Bot: http://109.75.175.152/rebtel/index.php?page=buy-credit'
+  hmac: 4e25e1fd838eac55b12903b3a2b2082fcfd640dfec71d4663ee08651f7b6425e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890313
+  title: Intel Repository
+  url: ['http://109.75.175.152/rebtel/index.php?page=buy-credit']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.cometocapetown.com/
+
+    SQL: http://154.66.204.25/8July2019.sql
+
+    SQL: http://154.66.204.25/dbbackup.sql'
+  hmac: b6379bb40fa0bf6f349f4f0f98bec434dea9b4455cbe2503913f46caeaf1a5e3
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890318
+  title: Intel Repository
+  url: ['http://154.66.204.25/dbbackup.sql', 'http://154.66.204.25/8July2019.sql',
+    'https://www.cometocapetown.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'http://www.techmail.com.br/  SQL: http://35.169.149.230/contatosntzs.sql
+
+    SQL: http://35.169.149.230/seguroviagemzs_03_07_19.sql'
+  hmac: bc8b415a2e1edae2aba3c820cd1ff8c5915808a2688cbf81ea94f7d8c90cbc53
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890323
+  title: Intel Repository
+  url: ['http://35.169.149.230/contatosntzs.sql', 'http://www.techmail.com.br/', 'http://35.169.149.230/seguroviagemzs_03_07_19.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "http://www.tripapyrus.com/  \n\nSQL: https://54.37.227.15/export_database_before_query_upate_rdv_ligne_images.sql\
+    \ \n\nSQL: https://54.37.227.15/export_tripapyrus_prod_11-06-2019.sql  \n\nCustomers:\
+    \ https://54.37.227.15/importJson/done/"
+  hmac: 118a73ab6d5f811c98710d785a9f03d5c5bd78079369628e64f0cc5a904d14fc
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890329
+  title: Intel Repository
+  url: ['http://www.tripapyrus.com/', 'https://54.37.227.15/importJson/done/', 'https://54.37.227.15/export_database_before_query_upate_rdv_ligne_images.sql',
+    'https://54.37.227.15/export_tripapyrus_prod_11-06-2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'middletwp.k12.nj.us  SQL: https://166.62.38.56/webhota4_ss_dbname3b7.sql'
+  hmac: fe79fa1a7d94c788ef1850e47b0c8f7ef7660f12ed059d1b18904e98b5566599
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890335
+  title: Intel Repository
+  url: ['https://166.62.38.56/webhota4_ss_dbname3b7.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://mingalapar.com/  SQL: http://51.83.98.85/mingalapar_backup.sql'
+  hmac: f252809041a7b33e8bee62c0eca916f8c8189085463dc04ea31008489607dc65
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890340
+  title: Intel Repository
+  url: ['https://mingalapar.com/', 'http://51.83.98.85/mingalapar_backup.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.circlecsupply.com/   SQL: http://139.162.216.55/circlec-demo1_5_feb_2019.sql'
+  hmac: e6a3f21379bb57dc649a0d2294b910fca1a0467c07f3c3af9516ba7e5e56b5ef
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890346
+  title: Intel Repository
+  url: ['https://www.circlecsupply.com/', 'http://139.162.216.55/circlec-demo1_5_feb_2019.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ' http://ninestars.in/  SQL: http://113.193.128.207/coc_kmitaly_2019-01-16.sql.tar.gz'
+  hmac: 0155f932bdb9c0353d71537eff2ef1858d59dc0fbfe1f74e041771b64d2f830c
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890351
+  title: Intel Repository
+  url: ['http://113.193.128.207/coc_kmitaly_2019-01-16.sql.tar.gz', 'http://ninestars.in/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "wwdas.com/  \n\nSQL: http://104.200.18.180:8080/bms.wwdas.com/data/bms.sql\
+    \  \n\nCSV: http://104.200.18.180:8080/st.wwdas.com/csv_data/export_agency.csv\
+    \  \n\nCSV: http://104.200.18.180:8080/st.wwdas.com/csv_data/export_customer.csv"
+  hmac: ed22f5beb0e650d46edf466136508d1eba8bef4558064253534944bd60c2a48b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890357
+  title: Intel Repository
+  url: ['http://104.200.18.180:8080/st.wwdas.com/csv_data/export_agency.csv', 'http://104.200.18.180:8080/st.wwdas.com/csv_data/export_customer.csv',
+    'http://104.200.18.180:8080/bms.wwdas.com/data/bms.sql']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'wibdesign.de  SQL Directory List: http://176.28.48.231:3128/backup/mysql/20190405_023001/'
+  hmac: 277fc0c70271de64850844d0183265fcdaee87afd0abb1edd0440d3300633456
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890363
+  title: Intel Repository
+  url: ['http://176.28.48.231:3128/backup/mysql/20190405_023001/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Server: opoli.com \n\nAccess: admin.apoli.com \n\n{\"host\":\"messaging.opoli.com\"\
+    ,\"port\":\"9913\",\"accountAdmin\":{\"email\":\"oscara+5@opoli.com\",\"password\"\
+    :\"opoli1234\"}, \n\n\"accountConsumer\":{\"email\":\"oscara+5@opoli.com\",\"\
+    password\":\"chie517!\"}},\"OldWidget\":{\"protocol\":\"https\",\"host\":\"widgets.opoli.com\"\
+    , \n\n\"path\":\"/api/\",\"apiUrl\":\"https://widgets.opoli.com/api\"},\"Backoffice\"\
+    :{\"host\":\"admin.opoli.com"
+  hmac: 3602c7679776ad00349a466bccfa0ae80f6e47ce5c18c98cc29500bd79e604bb
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890368
+  title: Intel Repository
+  url: ['https://widgets.opoli.com/api']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '72k Apple employees information:  https://anonfile.com/h943daBbn9/employees_csv'
+  hmac: e18fea56c7fc7560d28293ee0c3462734c931382921170961c17152c908a3beb
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890375
+  title: Intel Repository
+  url: ['https://anonfile.com/h943daBbn9/employees_csv']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '4725 Databases:https://mega.nz/#!CfpyiYSB!gQGCatLvixdvj6gMjYQA1aICwf0DmIdmQymcksZ4vxI '
+  hmac: d3f8b0990e87ec27396dc6d8e830b00aaefd9b2d4fce07487bed41a25aa3a8c9
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890380
+  title: Intel Repository
+  url: ['https://mega.nz/#!CfpyiYSB!gQGCatLvixdvj6gMjYQA1aICwf0DmIdmQymcksZ4vxI']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Multiple dbs: https://yadi.sk/d/jM1vj2r32Oe-6w '
+  hmac: f9d36ce67dff4b759e75494e548a2243635fefda2d87455586910ac1f68f72e7
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890385
+  title: Intel Repository
+  url: ['https://yadi.sk/d/jM1vj2r32Oe-6w']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Few gbs worth logs(organized country wise): https://mega.nz/#F!OUMgwQqJ!L8z2xRubJJjAVMWrg-_VVw '
+  hmac: bb1a26bd6d2988c278a2e709c37e675450f933cbe4695445824986138d080d49
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890390
+  title: Intel Repository
+  url: ['https://mega.nz/#F!OUMgwQqJ!L8z2xRubJJjAVMWrg-_VVw']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'This section of the site contains mostly fresh private databases, web
+
+    shells,combo lists,ids and passports along with some other extra things.
+
+    **This page will be updated every 1-3 days and the new things will be added at
+
+    the bottom of the page.** Also these dbs and other stuff are meant only for
+
+    educational/informational purposes. Dont do dumb stuff with the info provided.
+
+    Cheers
+
+
+    '
+  hmac: 14afc19a58e23d205d7e2635b527392917b6f92789ede9ce56c68dc9b8bf9aa0
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890396
+  title: "This section of the site contains mostly fresh private \ndatabases, web\
+    \ shells,combo lists,ids and passports along with some \nother extra things. \
+    \ This page will be updated every 1-3 days and the new things will be added at\
+    \ the bottom of the page. \n Also these dbs and other stuff are meant only for\
+    \ \neducational/informational purposes. Dont do dumb stuff with the info \nprovided.\
+    \ Cheers"
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Mexico city muncipality database: SQL:
+
+    http://148.243.125.236/dif%20tlalnepantla/creg_dif_tlalnepantla.sql.zip
+
+
+    '
+  hmac: cafa8c68983859e90977d4bcb8fce324415a6a26f0da18308997252af45a58e6
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890402
+  title: Mexico city muncipality database
+  url: !!set {'http://148.243.125.236/dif%20tlalnepantla/creg_dif_tlalnepantla.sql.zip': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'bashgah.com DB: https://185.37.54.33/blogstage-2.sql
+
+
+    '
+  hmac: 70698440662417d537359b6e0866f29baf9ea006b2684c0314067e314a8fd9b8
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890408
+  title: bashgah.com DB
+  url: !!set {'https://185.37.54.33/blogstage-2.sql': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://www.geiconsultants.com/ DB: http://13.59.116.13/gei_02-10-2017.sql
+    1.5
+
+    GB
+
+
+    '
+  hmac: 0488b589b4715933c186055d03aae9f358b98386f54f9fd2cce333b01f597caf
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890413
+  title: https://www.geiconsultants.com/ DB
+  url: !!set {'http://13.59.116.13/gei_02-10-2017.sql': null, 'https://www.geiconsultants.com/': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'metlife.cl DB: http://54.213.78.6/archivos_enhan/
+
+    http://54.213.78.6/bu_produccion_11082015.sql
+
+
+    '
+  hmac: d94e076698296876ab75e2e121b59e7d83b79ec6210788b399b43f74febf2464
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890418
+  title: metlife.cl DB
+  url: !!set {'http://54.213.78.6/archivos_enhan/': null, 'http://54.213.78.6/bu_produccion_11082015.sql': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'northcountrynow.com DB: http://52.5.176.8/dump.sql (550MB)
+
+    http://52.5.176.8/ncnow-16oct18.tar.gz ( 1.2 GB)
+
+
+    '
+  hmac: 4513d8b58e617a50520ba8bd5af1e9de2a2ba10aa4dfc2978f132529d5350c9d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890423
+  title: northcountrynow.com DB
+  url: !!set {'http://52.5.176.8/dump.sql': null, 'http://52.5.176.8/ncnow-16oct18.tar.gz': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'arval.cl DB:http://34.193.232.164/realhostdev.sql (149MB)
+
+    http://34.193.232.164/databases/
+
+    http://34.193.232.164/databases/rh018/audittrails/
+
+
+    '
+  hmac: 5d85faec5091869b1de9a576f2dda1ac5395aca8861e6672dbb722f4d3ff91ed
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890428
+  title: "arval.cl DB:http://34.193.232.164/realhostdev.sql (149MB)  \nhttp://34.193.232.164/databases/\
+    \   \nhttp://34.193.232.164/databases/rh018/audittrails/"
+  url: !!set {'http://34.193.232.164/databases/': null, 'http://34.193.232.164/databases/rh018/audittrails/': null,
+    'http://34.193.232.164/realhostdev.sql': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'ksecureteam.com/order/kafetondb.zip (Shopping French)
+
+    ksecureteam.com/order/somosbilite.fr.zip (Service French)
+
+
+    '
+  hmac: 9683ff689abb36346707bacc341d5ad1f773212bd3d993e31d5f4815790d9971
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890433
+  title: ksecureteam.com/order/kafetondb.zip (Shopping French)  ksecureteam.com/order/somosbilite.fr.zip  (Service
+    French)
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Priv Login: http://200.68.55.38:88/sgec/ user & Password: '' or '' ''=''
+
+
+    '
+  hmac: f8f6b404d701a8682024597969f62b4750678077f628513c835aa7b5dc9301f1
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890438
+  title: Priv Login
+  url: !!set {'http://200.68.55.38:88/sgec/': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "ksecureteam.com/order/v3/flipnpik.io.zip  \n(BlockChain DB) ksecureteam.com/order/v3/UnisegurosVenezuela.zip\
+    \ (Insurance\nDatabase Venezuela SQL Injection)\n\n"
+  hmac: 18176b6c96a355cdafe24bdbbba7d8e6c31f49450fd946a7c85b294991b7776e
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890443
+  title: ksecureteam.com/order/v3/flipnpik.io.zip  (BlockChain DB) ksecureteam.com/order/v3/UnisegurosVenezuela.zip
+    (Insurance Database Venezuela SQL Injection)
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "ksecureteam.com/order/v3/DRUG_SHOP.zip  \nksecureteam.com/order/v3/DARKNET_IDS_ASU.zip\
+    \ (IDs ASU Airlines)\n\n"
+  hmac: 7996ef46cc3dfcd45c1be926485cd5aa4425a5445f96bcbefc5338a8173e5f9a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890450
+  title: ksecureteam.com/order/v3/DRUG_SHOP.zip  ksecureteam.com/order/v3/DARKNET_IDS_ASU.zip  (IDs
+    ASU Airlines)
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Combolist: https://fex.net/765953630777 password: 9682233541
+
+
+    '
+  hmac: a57ad86f4b74cb85cbfb2f32593e57f5cdf94e1171b0f16ea4abcbed28ce032b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890455
+  title: Combolist
+  url: !!set {'https://fex.net/765953630777': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'ksecureteam.com/order/v3/monbeaucoussin.com (Shopping DB)
+
+    ksecureteam.com/order/v3/ffpjp.org.zip (French Betting Site)
+
+
+    '
+  hmac: f15225a64b713fae7525e4d4bfa10a71e3ac5b0effc25cb60388691a8963b295
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890460
+  title: ksecureteam.com/order/v3/monbeaucoussin.com (Shopping DB)  ksecureteam.com/order/v3/ffpjp.org.zip
+    (French Betting Site)
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '614 Gmail Accounts 05/01/2019 https://anotepad.com/notes/kwnf7d
+
+
+    '
+  hmac: b50f8c5d5db8885b6121fd4ba74e535995ea8d577852ad71842158fda4c14eae
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890465
+  title: 614 Gmail Accounts 05/01/2019 https://anotepad.com/notes/kwnf7d
+  url: !!set {'https://anotepad.com/notes/kwnf7d': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'drivemarketing.com DB: http://52.26.5.125/lrrh_02_02_2018.sql
+
+    http://52.26.5.125/lrrh.drivemarketing.com.tar.gz
+
+
+    '
+  hmac: 2d6e99d200d2fa115e948dc7919a8ca86d0a7109a347aa3f908f8865c5595e1a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890470
+  title: drivemarketing.com DB
+  url: !!set {'http://52.26.5.125/lrrh.drivemarketing.com.tar.gz': null, 'http://52.26.5.125/lrrh_02_02_2018.sql': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'shop.shipsst.com DB: http://52.26.5.125/shipsst_02_02_2018.sql
+
+
+    '
+  hmac: 04576f79b53fdcbb1d53f0eac72f91d370677d334248a06c50eaf9e025741f7d
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890475
+  title: shop.shipsst.com DB
+  url: !!set {'http://52.26.5.125/shipsst_02_02_2018.sql': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: '[1.5K] Spotify Account Leaks:
+
+    http://www.mediafire.com/file/d0b6aep154dgfyx/spotfiyemailpass.txt/file
+
+
+    '
+  hmac: 99c015a497db97e4045cdeb40ad46d71728710aaaf459a0392d1e229275b5a7f
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890480
+  title: '[1.5K] Spotify Account Leaks'
+  url: !!set {'http://www.mediafire.com/file/d0b6aep154dgfyx/spotfiyemailpass.txt/file': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'https://shadow888.com/ DB:
+
+    http://210.213.238.87/sql/shadow_client_db_dec_26.sql 238MB
+
+
+    '
+  hmac: 9d4674dfaed1c9ef26edf72681c176f8f4c0719c75efedf25dcae8d8f3efe928
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890485
+  title: https://shadow888.com/  DB
+  url: !!set {'http://210.213.238.87/sql/shadow_client_db_dec_26.sql': null, 'https://shadow888.com/': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'techtrial.co.uk DB1: http://159.89.16.10/techtrial_new.sql.gz DB2:
+
+    http://159.89.16.10/backup_ves_92K_products.sql.gz
+
+
+    '
+  hmac: 4967d78327241cf3402f920457eb01d8b1cf59ef815d2902d8088fc339c7b6dc
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890491
+  title: techtrial.co.uk  DB1
+  url: !!set {'http://159.89.16.10/backup_ves_92K_products.sql.gz': null, 'http://159.89.16.10/techtrial_new.sql.gz': null}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Database of University of the Arab Emirates DB:
+
+    ksecureteam.com/order/v3/ut.edu.sa.zip
+
+
+    '
+  hmac: 61cc5f1590cf6289ba5296730aecb4f624435824e540f7d39d4148ad62c6e61b
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890496
+  title: Database of University of the Arab Emirates DB
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Commerce Intranet + WebShell:
+
+    ksecureteam.com/order/v3/apicspuebla_intranet.zip
+
+
+    '
+  hmac: 6dee0e84690bdf71177de98d9fc22ed347239ffc941fcf4941fde85352c8c012
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890501
+  title: Commerce Intranet + WebShell
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'ksecureteam.com/order/v4/guifi.net.zip
+
+    ksecureteam.com/order/v4/mallplazashopping.zip
+
+
+    '
+  hmac: 0f1f5ee5e201b582b404b35c23d2d3050ea5286d5cee4682b0e8c75b47fbcd91
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890507
+  title: ksecureteam.com/order/v4/guifi.net.zip   ksecureteam.com/order/v4/mallplazashopping.zip
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'DATABASES 75GB:
+
+    magnet:?xt=urn:btih:025c2eb2ec4536eb55df232c48a4184964b632aa&dn=Leaked%20Database%20Archive.7z
+
+
+    '
+  hmac: 08a10d030e3f2cb00b83b3ba9c8c6cf8b415e0dfc4cc4565f203fffc15af21e4
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890512
+  title: DATABASES 75GB
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'mxn.co.kr DB: ksecureteam.com/order/v4/mxn.co.krDB.zip
+
+
+    '
+  hmac: 50411c3474d21e0bcf79d81cc6f6d4fab12d52de9474aaaab0cc2fd04271df51
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890517
+  title: mxn.co.kr DB
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'globalredltda.com DB: ksecureteam.com/order/v4/globalred.zip
+
+
+    '
+  hmac: 1c4d77ed80a95828be8601dfd8f25a0e00ffc7c879503d2c2dde8ceb7e93b02a
+  ltype: Data leak
+  malware: null
+  source: http://intel5vmppiwc4u6l5bisfdv7sazzlacrqcuze4wxqdavd5kltxru7qd.onion/Databases.htm
+  timestamp: 2021-06-03 20:25:20.890522
+  title: globalredltda.com DB
+  url: !!set {}

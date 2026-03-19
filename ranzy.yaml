@@ -1,0 +1,106 @@
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: ''
+  hmac: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546548
+  title: null
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "www.alfortville.fr  \nEncrypted local network and downloaded sensitive data.\n\
+    More details soon  \n"
+  hmac: be3e32a8d9c45c00018736d8316cf82eac344be134d405d93735d7ddeef0cb05
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546586
+  title: null
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "POLICE SECURITY S.A.C. is located in LIMA, Peru and is part of the Finance\
+    \ &\nInsurance Sector Industry. POLICE SECURITY S.A.C. has 214 employees across\
+    \ all\nof its locations. There are companies in the POLICE SECURITY S.A.C. corporate\n\
+    family.  \nPrivate data: download  \n"
+  hmac: 192de72dc4c8fa13a702d74278f622e00a1dc0855f51d80057f1c7a5a328ad1b
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546594
+  title: null
+  url: !!set
+    ? !!python/tuple [download, 'https://mega.nz/file/w6wwDZbJ#6GMZjCwUlrbYCBmhlmGWPFAHGVNDP-5ajeTSJhPNRoI']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "Oztek Corporation was founded in 1997 to provide power system OEMs and other\n\
+    companies the complete power control and instrumentation solutions they needed\n\
+    for less money, risk, and overhead.  \nFounders John O\u2019Connor and Dave Zendzian\
+    \ started with the belief that by\ncombining expertise in three disciplines \u2013\
+    \ power, instrumentation, and\ncontrols \u2013 they would enable customers to\
+    \ bring power electronics products and\nsystems to market faster, safer, and for\
+    \ less money.  \nhttp://www.oztekcorp.com/  \nFiles: https://mega.nz/file/k0I23LgT#8Z0xzMmC-\n\
+    qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4  \n"
+  hmac: 67a383279aaff0e96d554283c3054aca1f007ec45c16339d2b319a1e6594d715
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546602
+  title: null
+  url: !!set
+    ? !!python/tuple ['https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4',
+      'https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4']
+    : null
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Reinstall Chrome to stay secure
+
+
+    '
+  hmac: 6df8dee00538dfc3c995f7a182d14d2a39c31078337854d686bf609064a57c99
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546613
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    '
+  hmac: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546619
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Die Auswahl nicht personalisierter Inhalte und Werbeanzeigen kann davon\n\
+    abh\xE4ngen, welche Inhalte Sie sich gerade ansehen und wo Sie sich befinden (die\n\
+    Anzeigenbereitstellung basiert auf dem allgemeinen Standort). Personalisierte\n\
+    Inhalte und Werbeanzeigen k\xF6nnen ebenfalls darauf basieren, dar\xFCber hinaus\n\
+    aber auch auf Aktivit\xE4ten wie Suchanfragen bei Google und Videos, die Sie sich\n\
+    bei YouTube ansehen. Zu personalisierten Inhalten und Werbeanzeigen geh\xF6ren\n\
+    beispielsweise Dinge wie relevantere Ergebnisse und Empfehlungen, eine\nindividuelle\
+    \ YouTube-Startseite und Werbung, die auf Ihre Interessen\nzugeschnitten ist.\n\
+    \n"
+  hmac: 1a226b573ba72a5d2b5d891d2f731f634475ee1f95501d6bd0c80f50ab25f375
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-03 20:29:35.546625
+  title: ''
+  url: !!set {}

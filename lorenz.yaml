@@ -1,0 +1,68 @@
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set
+    ? !!python/tuple [uploaded, Uploaded 95% files]
+    : null
+    ? !!python/tuple [victim, Challenge Manufacturing Company]
+    : null
+  data: '### Challenge Manufacturing Company
+
+    ##### Access to internal network
+
+    ##### Posted May 11, 2021.
+
+    ##### https://www.challenge-mfg.com/
+
+    Uploaded 95% files
+
+    ![Download](../images/doocs1.png) Download part 1
+
+    ![Download](../images/doocs1.png) Download part 2
+
+    ![Download](../images/doocs1.png) Download part 3
+
+    ![Download](../images/doocs1.png) Download part 4
+
+    ![Download](../images/doocs1.png) Download part 5
+
+
+    '
+  hmac: 1ae63fd32981f2c6610524a39bb11b95b7ac8c8f410aab4198eace31dd18acf3
+  ltype: Shaming list
+  malware: Unknown
+  source: http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion
+  timestamp: 2021-06-03 20:25:23.393473
+  title: Challenge Manufacturing Company
+  url: !!set {'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/Challenge-manu1.part01.rar': null,
+    'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/Challenge-manu1.part02.rar': null,
+    'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/Challenge-manu1.part03.rar': null,
+    'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/Challenge-manu1.part04.rar': null,
+    'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/Challenge-manu1.part05.rar': null,
+    'https://www.challenge-mfg.com/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [uploaded, Uploaded 10% files]
+    : null
+    ? !!python/tuple [victim, Langs Building Supplies Pty Ltd]
+    : null
+  data: '### Langs Building Supplies Pty Ltd
+
+    ##### Posted Jun 01, 2021.
+
+    ##### https://langs.net.au/
+
+    Uploaded 10% files
+
+    ![Download](../images/doocs1.png) Download part 1
+
+
+    '
+  hmac: 806fbca6db6724bc025ce6d96d4ac623966ab46ecb70b00c03b1922b7913abac
+  ltype: Shaming list
+  malware: Unknown
+  source: http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion
+  timestamp: 2021-06-03 20:25:23.393529
+  title: Langs Building Supplies Pty Ltd
+  url: !!set {'http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/download2/langsnetau.part01.rar': null,
+    'https://langs.net.au': null}
