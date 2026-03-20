@@ -5,20 +5,15 @@
 
     CREST Hotel Suites
 
-    16393
-
     2021-04-22
 
     Massive leak of clients personal data, such as DLs, passports, credit cards and
-    direct deposit info.
-
-
-    '
-  hmac: 63b68df219d2a470d16da27634b9cf29386a683bb9325fc930ae1bbe499138cc
+    direct deposit info.'
+  hmac: 12eb409c65dd8b757904d4a05c91992279933bea9a6e7b7df6fefc888dd998bd
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/cresthotelsuites
-  timestamp: 2021-06-03 20:17:39.762755
+  timestamp: 2021-10-10 21:01:36.397273
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -28,20 +23,15 @@
 
     Pezutto Group
 
-    16311
-
     2021-04-22
 
-    5000 business clients and 65000 cars sold. A lot of business and financial information
-    is coming!
-
-
-    '
-  hmac: 3688333a618d73170eb42ed441431cf8685daea62034a596e69a0cdc92e8ba30
+    5000 business clients andcars sold. A lot of business and financial information
+    is coming!'
+  hmac: 4eaf0e2b11b49abfed9928b5ab33c4fd5df6e3cb00c6fce84f57fe8c6c1d3cb4
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/pezuttogroup
-  timestamp: 2021-06-03 20:17:39.762797
+  timestamp: 2021-10-10 21:01:36.397333
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -51,20 +41,15 @@
 
     Southwest KIA
 
-    25876
-
     2021-04-14
 
     Auto dealer - a lot of info inside!!! Check maybe your docs are here? DL scans,
-    SSN scans, vehicle data, personal info - all free!
-
-
-    '
-  hmac: 4d0fe99aae1e1c6749c6ff7e11e297d8fbe1b6c55188094c02434e88098b2275
+    SSN scans, vehicle data, personal info - all free!'
+  hmac: 029573da5b318c5622465cca99cbdf6ccff146c7e3419731ef6a761372280ed1
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/southwestkia
-  timestamp: 2021-06-03 20:17:39.762804
+  timestamp: 2021-10-10 21:01:36.397343
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -74,19 +59,14 @@
 
     HOYA Corporation
 
-    38073
-
     2021-04-13
 
-    Full dump is now available! A lot of personal and confidentional data is available!
-
-
-    '
-  hmac: b3e743e0c44904b38850a296e71daf876e1a29670f5ff80f1d8f0f4114fec653
+    Full dump is now available! A lot of personal and confidentional data is available!'
+  hmac: 12ae86c137624d19f1ab65491d2eca3c66e8c9c065b5fd79080239919d560ea1
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/hoyacorporation
-  timestamp: 2021-06-03 20:17:39.762810
+  timestamp: 2021-10-10 21:01:36.397352
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -96,19 +76,14 @@
 
     Eduro Healthcare, LLC
 
-    33153
-
     2021-04-07
 
-    Full dump is now available! Company lost a lot of personal data!
-
-
-    '
-  hmac: 1d26c56cb363a6733c5602597756907501285af4b9f912f1881a6af20a157eb7
+    Full dump is now available! Company lost a lot of personal data!'
+  hmac: 5b8340f3f4d8603536f4e81d69436a781c4fd0b2f45447030a3fb5dc8fa7a3eb
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/edurohealthcarellc
-  timestamp: 2021-06-03 20:17:39.762815
+  timestamp: 2021-10-10 21:01:36.397360
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -118,19 +93,14 @@
 
     von Drehle Corporation
 
-    33126
-
     2021-04-07
 
-    Available to download!
-
-
-    '
-  hmac: 9db475528763af410bbe42e828d900073a7cf886ccd9e0997c222fb5a6fb4c44
+    Available to download!'
+  hmac: f8d46ee9e4ca22858e385967c3530e14404eed64310007144c4ae8f31a24c7ac
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/vondrehlecorporation
-  timestamp: 2021-06-03 20:17:39.762821
+  timestamp: 2021-10-10 21:01:36.397368
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -140,19 +110,14 @@
 
     Curbell Inc.
 
-    33181
-
     2021-04-07
 
-    Company refused to cooperate and now you can get all the 250 GB of data!
-
-
-    '
-  hmac: f3c1d3321533561511932066b33b17700ea03fa22f4761268db1b8915b7c585a
+    Company refused to cooperate and now you can get all theGB of data!'
+  hmac: 70453af893fc6fec8e6de4b6dfeca5a74c46ece1b0d15ab83816b835f41a6c51
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/curbellinc
-  timestamp: 2021-06-03 20:17:39.762826
+  timestamp: 2021-10-10 21:01:36.397376
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -162,20 +127,15 @@
 
     Rogers Engineering Manufacturing Co., Inc.
 
-    33137
-
     2021-04-07
 
     Full dump is available! Financial, payroll, sales department information. Drawings,
-    production samples etc.
-
-
-    '
-  hmac: 3917d972b53a37983d63e398e7e49e817ebc01e42e6ea70d84c6bb1ed819dc85
+    production samples etc.'
+  hmac: 2ab9cd16c9c3a3123903ae803fdf13fa7266e30faf3df68dddb3f9cf4a407532
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/rogersengineeringmanufacturingcoinc
-  timestamp: 2021-06-03 20:17:39.762830
+  timestamp: 2021-10-10 21:01:36.397383
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -185,19 +145,14 @@
 
     Laboratorios SMA S.A.C.
 
-    36898
-
     2021-03-22
 
-    30 GB to download!!! Full dump! Get it!
-
-
-    '
-  hmac: fa2958a0d217666e5050514e9093b0a31e33601d098ba856ec48ff84d52c517f
+    30 GB to download!!! Full dump! Get it!'
+  hmac: 505643714c0e9d63bd37aa8605dcc71fc20afcdc5478977b735320f6f3607170
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/laboratoriossmasac
-  timestamp: 2021-06-03 20:17:39.762835
+  timestamp: 2021-10-10 21:01:36.397392
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -207,19 +162,14 @@
 
     GEOTECH ENGINEERING TESTING
 
-    36901
-
     2021-03-15
 
-    Full data 10GB is available!!! Get it now!
-
-
-    '
-  hmac: 713b2886931bcbdbed101434d720016af1713afeaaed2af8427ed1ae8d74565c
+    Full data 10GB is available!!! Get it now!'
+  hmac: 72ad73fb29fc1d576f041e6bc4d6e85cc496c21a8ee80c6ae5f318752087c5ca
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/geotechengineeringtesting
-  timestamp: 2021-06-03 20:17:39.762839
+  timestamp: 2021-10-10 21:01:36.397400
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -229,19 +179,14 @@
 
     Mersen Group
 
-    36999
-
     2021-03-15
 
-    Full dump 160GB is available to download! A lot of drawings and know-how is here!
-
-
-    '
-  hmac: 689e0df746c050d5eaf16121c79b9eb3f724b560141395ae90d8089aeceacdda
+    Full dump 160GB is available to download! A lot of drawings and know-how is here!'
+  hmac: 509575633b8c2ea4d1df99db678b30a3d5f7122ad65c57fa6c460dbd6a546c3d
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/mersengroup
-  timestamp: 2021-06-03 20:17:39.762844
+  timestamp: 2021-10-10 21:01:36.397407
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
@@ -251,45 +196,578 @@
 
     Wasserstorm
 
-    36963
-
     2021-02-23
 
     130 GB of data is avalable! Confidential and very interesting! Suppliers info,
-    clients database, contracts! Almost all to build the same business!
-
-
-    '
-  hmac: 65d96000e41c048deeb09fecb07be0d6e6c23e3d96e6dd7c2404a248b34d47bc
+    clients database, contracts! Almost all to build the same business!'
+  hmac: 14bea87288ea59a1ca7dfd8a2aaf7e0b388aa5ef006fc04858d97fb7c64efe64
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/wasserstorm
-  timestamp: 2021-06-03 20:17:39.762848
+  timestamp: 2021-10-10 21:01:36.397415
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: "The Nation\u2019s Leader in Automotive Import Export Trade FAPS, Inc. 60\
-    \ Year History\nFAPS Inc\n37267\n2021-02-03\nData is coming! A lot of interesting\
-    \ information will be posted shortly!\n\n"
-  hmac: 78a1b18bc7fae80e1a5724845fcd64358ec66ba6b85a81eff085201e3cb0ffdc
+  data: "The Nation\u2019s Leader in Automotive Import Export Trade FAPS, Inc.Year\
+    \ History\nFAPS Inc\n2021-02-03\nData is coming! A lot of interesting information\
+    \ will be posted shortly!"
+  hmac: fb6cfbdaa22d71e6b6c5d4f75663ec5d75f683fc990e7099351a7f7c9c08c2ed
   ltype: Shaming list
   malware: MountLocker
   source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/fapsinc
-  timestamp: 2021-06-03 20:17:39.762853
+  timestamp: 2021-10-10 21:01:36.397423
   title: Astro Team News
   url: []
 - !!python/object:darksuce_class.record
   author: null
+  custom: !!set {}
+  data: "America\u2019s largest wholly owned economy extended stay brand.\nInTown\
+    \ Suites\n2021-05-06\nHuge massive of personal data: employees, clients, suppliers.\
+    \ Property they want to buy - you can ear something )"
+  hmac: 0f689469fbb21413daf4a416c2a436aebea1c6406323d7e5455cf9e7be48c1a3
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/intownsuites
+  timestamp: 2021-10-10 21:01:36.397433
+  title: Astro Team News
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'IT Professionals with HUGE leaks base! http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/
+
+    OUR NEW PARTNER - XING LOCKER! WELCOME TO NEW LEAKS WEBSITE! http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/
+
+    2021-05-06
+
+    http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/'
+  hmac: f86e6a2001d79854ac6fe68ebcec8e47a9ce4dcece781ebf40726350f80e9d41
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/ournewpartnerxinglockerwelcometonewleakswebsite
+  timestamp: 2021-10-10 21:01:36.397444
+  title: Astro Team News
+  url: ['http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/',
+    'http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/</strong>']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "America\u2019s largest wholly owned economy extended stay brand.\nInTown\
+    \ Suites\n2021-05-06\nNow available! Huge massive of personal data: employees,\
+    \ clients, suppliers. Property they want to buy - you can ear something )"
+  hmac: 8813c879f6096362b6907bff05f00ea93d56990d1adac5bcb488c69e1bd9018e
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/intownsuites
+  timestamp: 2021-10-10 21:01:36.397453
+  title: Astro Team News
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'engeneering and geology
+
+    GEOTECH ENGINEERING TESTING
+
+    2021-03-15
+
+    Full dump -GB is available! Get it now!'
+  hmac: 610c5e749044daf4373b76bcbd0bd1038bddc71145ea256e46784720c250f947
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/geotechengineeringtesting
+  timestamp: 2021-10-10 21:01:36.397463
+  title: Astro Team News
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Laboratory, medical examination
+
+    Laboratorios SMA S.A.C.
+
+    2021-03-22
+
+    23 GB to download!!! Full dump! Get it!'
+  hmac: a76ff674a29c9f43beb035337bec1cf728ee18e2fd39a25adbbe74cb5e35a845
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/laboratoriossmasac
+  timestamp: 2021-10-10 21:01:36.397471
+  title: Astro Team News
+  url: []
+- !!python/object:darksuce_class.record
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-24']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-24']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Coastal Family Health Center]
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n     InTown Suites\nTotal Revenue\n    1.2\
+    \ Billion\nVolume Of Stolen Data\n    2 TB\nPublished\n    2021-05-06\nLast Updated:\n\
+    \    2021-05-07\nInfo\nWe gave maybe a biggest time frame to this Company. We\
+    \ tried to convince and\navoid the publication.\nDue to management position, we\
+    \ are forced to publish full dump.\nGet what you want! All is free!\nPublished:\
+    \ 100% (full dump)\n"
+  hmac: 1fdfcc8070f352cde9dd9d648a1959ed67cc931b2f500047c4df6ca71d1e5ecd
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/intownsuites
+  timestamp: 2021-10-10 21:01:36.397479
+  title: ''
+  url: !!set
+    ? !!python/tuple [x4mjvffmytkw3hyu.onion/CRL5V0JNwhFeWVVyAPIb/3VqZBZagPuvKdaoj9ZWR/InTown,
+      'http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/x4mjvffmytkw3hyu.onion/CRL5V0JNwhFeWVVyAPIb/3VqZBZagPuvKdaoj9ZWR/InTown']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    CREST Hotel & Suites\nTotal Revenue\n\
+    \    $5 Million\nVolume Of Stolen Data\n    25GB\nPublished\n    2021-04-22\n\
+    Last Updated:\n    2021-04-22\nInfo\nManagement refused to cooperate and we are\
+    \ going to post full dump within 48\nhours! Will keep you updated!\nPublished:\
+    \ 0% (announcement)\n"
+  hmac: 8803feac6f2326341a02dc6a2bb674d1d5fbb4dc07563bad7fc14a94c71b6041
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/cresthotelsuites
+  timestamp: 2021-10-10 21:01:36.397488
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Pezutto Group\nTotal Revenue\n    60 Million\n\
+    Volume Of Stolen Data\n    100GB\nPublished\n    2021-04-22\nLast Updated:\n \
+    \   2021-04-22\nInfo\nCompany has a massive leak of the data such as drivers licenses,\
+    \ financial\ncontracts, tax info, even clients passports scans. Management is\
+    \ refusing to\ncooperate, so we are going to post full dump of information shortly.\n\
+    Published: 0% (announcement)\n"
+  hmac: b11ad976da91e1ae63b1d26b7bcd1a50c269f3ccf5173589729557e080b6e99c
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/pezuttogroup
+  timestamp: 2021-10-10 21:01:36.397497
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Southwest KIA\nTotal Revenue\n    1,5\
+    \ Million USD\nVolume Of Stolen Data\n    20 GB\nPublished\n    2021-04-14\nLast\
+    \ Updated:\n    2021-04-23\nInfo\nA lot of personal and confidential data areAVAILABLE!\
+    \ Very sensitive and\nprivate! Go to\nhttp://x4mjvffmytkw3hyu.onion/lIrl7mTmHQ4X0KshTme0/wfduFbedSywee7c6Kuve/KIA/pdf's/\n\
+    Published: 100% (full dump)\n"
+  hmac: 91f1ac5fac9aa9abbd41f85681325522b5c15f305e39a0d66d6beae4c3acdaa0
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/southwestkia
+  timestamp: 2021-10-10 21:01:36.397506
+  title: ''
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/lIrl7mTmHQ4X0KshTme0/wfduFbedSywee7c6Kuve/KIA': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    HOYA Corporation\nTotal Revenue\n    $5\
+    \ Billion\nVolume Of Stolen Data\n    300GB\nPublished\n    2021-04-13\nLast Updated:\n\
+    \    2021-04-23\nInfo\nFull dump of more than 300GB of confidential information\
+    \ such as finance,\nproduction, emails, passwords, safety reports, clients and\
+    \ patients info is\ncoming soon!\n### VISION EASE\nis a part of HOYA Corporation.\n\
+    Founded in 1941 in Tokyo, Japan, HOYA Corporation is a global technology and\n\
+    med-tech company, and a supplier of medical products.\nTo realize the Hoya Vision,\
+    \ we have established a set of management principles\nthat guide our every decision\
+    \ and action. We translate these principles into\naction that contributes to economic\
+    \ prosperity, social progress, and cultural\nadvancement, and strive to earn the\
+    \ trust of all those who have a stake in our\nsuccess.\nPublished: 100% (full\
+    \ dump)\n"
+  hmac: 90d283122061c4319a4595ef2fc93afd918f4307d4d616e5029d15e9375f371f
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/hoyacorporation
+  timestamp: 2021-10-10 21:01:36.397516
+  title: ''
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/Ye6omn1bJeeI9SXQ6bcf/8MHrr1XT1qggj1wOs802/HOYA': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Eduro Healthcare, LLC\nTotal Revenue\n\
+    \    $37 Million\nVolume Of Stolen Data\n    40GB\nPublished\n    2021-04-07\n\
+    Last Updated:\n    2021-04-23\nInfo\nEduro operates highly-rated transitional\
+    \ care and skilled nursing facilities\nthroughout the western, and mid-western\
+    \ United States. It is also the owner of\nan award winning regional home health\
+    \ and hospice company.\nSee Our Operations\nPublished: 100% (full dump)\n"
+  hmac: fd0ff559d84e64d5e710cc80d0d2d1f84156746daec32357d8f34b80787226b2
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/edurohealthcarellc
+  timestamp: 2021-10-10 21:01:36.397527
+  title: ''
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/olp6LZKmEObT8e0Fjauo/m6dKZTeZMciWIbEkdWFl/Eduro': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n     von Drehle Corporation\nTotal Revenue\n\
+    \    $321 Million\nVolume Of Stolen Data\n    50GB\nPublished\n    2021-04-07\n\
+    Last Updated:\n    2021-04-23\nInfo\nSince 1974, customers have trusted von Drehle\
+    \ to provide quality products for\nthe away-from-home market and to back those\
+    \ products with the best service in\nthe industry. You will find our products\
+    \ in thousands of industrial and\ncommercial locations, in medical and government\
+    \ complexes, and in airports and\nhotels. We welcome your questions and comments\
+    \ and look forward to helping you\nfind solutions to all of your towel and tissue\
+    \ needs..\nPublished: 5% (partial dump)\n"
+  hmac: 29a345cd151605838e988c5000a4630778e79fa9442be8dec418b844d862304e
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/vondrehlecorporation
+  timestamp: 2021-10-10 21:01:36.397536
+  title: ''
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/7hQMzh6XjoeWU68LLxeC/AgRuewFIOv35xVOEw8Ey/vondrehle': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Curbell Inc.\nTotal Revenue\n    $135\
+    \ Millions\nVolume Of Stolen Data\n    250 GB\nPublished\n    2021-04-07\nLast\
+    \ Updated:\n    2021-04-11\nInfo\nA lot of research and drawings will be available.\
+    \ Coming soon!\nCurbell Plastics, Inc. is one of the nation\u2019s premier suppliers\
+    \ of plastic\nsheet, rod, tube, film, adhesives, sealants, and prototyping materials.\
+    \ We\nsupply materials to commercial, industrial, government, military, and\n\
+    institutional businesses.\nIn hospital rooms around the world, patients are dealing\
+    \ with demands on their\nhealth, and staff members are dealing with demands on\
+    \ their time. Curbell\nMedical is at the center of it all, with product lines\
+    \ that have set the\nstandard for hospital room integration.\nPublished: 100%\
+    \ (full dump)\n"
+  hmac: 0445390ff59a0119319d47f0a9a933f7df5a3f00dec206731052fbc1ce2173b8
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/curbellinc
+  timestamp: 2021-10-10 21:01:36.397547
+  title: ''
+  url: !!set {'http://ya54npcmub4h3twx.onion/v0t5avDZgAUlAfZ/357RNxIm5gLH6bf/curbell.com/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Rogers Engineering & Manufacturing Co.,\
+    \ Inc.\nTotal Revenue\n    $6 Million\nVolume Of Stolen Data\n    60 GB\nPublished\n\
+    \    2021-04-07\nLast Updated:\n    2021-04-11\nInfo\nCompany refused to cooperate,\
+    \ so we were forced to publish full dump.\nFull dump is available! Financial,\
+    \ payroll, sales department information.\nDrawings, production samples etc.\n\
+    Rogers, a global company, has supplied equipment in the United States and 14\n\
+    countries throughout the world with a customer list consisting of the top\ncompanies\
+    \ in the world.\nRogers Engineering was founded in 1972 by William Rogers to manufacture\n\
+    Thermal Processing Equipment. Mr. Rogers had an extensive background in the\n\
+    Thermal Processing Industry having worked for the leading manufactures of that\n\
+    time. The Company was located in Connersville, Indiana and remained there\nuntil\
+    \ moving to Cambridge City, Indiana in 1992. The Company is a leader in\nthe manufacturing\
+    \ of a wide variety of custom designed heat processing\nequipment used throughout\
+    \ the manufacturing industry both in the United States\nand abroad.\nRogers offers\
+    \ a full range of heat processing equipment ranging from batch\nthrough continuous\
+    \ and supporting atmosphere producing equipment. Rogers\u2019s\nequipment is noted\
+    \ for its robust design, ease of maintenance, and low\noperating cost.\nRogers\
+    \ Engineering maintains a strict Project Management Program. This program\nensures\
+    \ that equipment manufactured by Rogers will be in compliance with all\napplicable\
+    \ codes, purchaser specifications, and relevant company standards.\nFrom the proposal\
+    \ stage through the installation and start-up stage, your\nproject will be managed\
+    \ on a team basis. The team is made up of Rogers\npersonnel from each department;\
+    \ management, sales, quality assurance,\nengineering, manufacturing, and field\
+    \ service.\nPublished: 100% (full dump)\n"
+  hmac: a5115cb783cb459c50ebc51c6e8635d1a422eda787908d3d0c9834ebe7389083
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/rogersengineeringmanufacturingcoinc
+  timestamp: 2021-10-10 21:01:36.397560
+  title: ''
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/qZ56Wbf0oyUNXqRW7aur/sREwv8F7uyoCW2uvSd7i/REMCO/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Laboratorios SMA S.A.C.\nTotal Revenue\n\
+    \    $22 Millions\nVolume Of Stolen Data\n    23 GB\nPublished\n    2021-03-22\n\
+    Last Updated:\n    2021-05-27\nInfo\nLaboratorios SMA S.A.C. is located in LIMA,\
+    \ LIMA, Peru and is part of the\nPersonal Care Products Manufacturing Industry.\
+    \ Laboratorios SMA S.A.C. has 609\ntotal employees across all of its locations\
+    \ and generates $21.20 million in\nsales (USD).\n\uFEFF\nPublished: 100% (full\
+    \ dump)\n"
+  hmac: a96990ba9da326c61e33b7fc2800829ad82b9c342e5a006b80342eefa133f73c
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/laboratoriossmasac
+  timestamp: 2021-10-10 21:01:36.397579
+  title: ''
+  url: !!set {'http://i2n56joebsvbldjz5awgox4hrtii4znbymcdpznwfnxewubfmrb2l7id.onion/LaboratoriosSMA': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    GEOTECH ENGINEERING & TESTING\nTotal Revenue\n\
+    \    $22 Million\nVolume Of Stolen Data\n    11 GB\nPublished\n    2021-03-15\n\
+    Last Updated:\n    2021-05-24\nInfo\n11 GB available!\nGEOTECH ENGINEERING & TESTING\n\
+    Founded in 1985, Geotech Engineering and Testing (GET) is a multi-disciplined\n\
+    organization of registered engineers, geologist, field and laboratory\ntechnicians,\
+    \ and clerical personnel who combine their technical capabilities,\npast experience,\
+    \ dedication, and enthusiasm to offer the finest service\nthrough integrated team\
+    \ effort. GET has a staff of about 70 engineers,\ngeologists, technicians, and\
+    \ support staff. GET\u2019s projects consist of public\ninfrastructure, residential\
+    \ developments, educational facilities, medical\nfacilities, petrochemical complexes,\
+    \ chain stores, transportation, commercial\ndevelopment, industrial facilities,\
+    \ port and harbor facilities, aviation, high\nrise and low rise buildings.\nPublished:\
+    \ 100% (full dump)\n"
+  hmac: b140ee43a1d2bae3ac150936df23926943415f8c1409054a08b2f9aca321f9e6
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/geotechengineeringtesting
+  timestamp: 2021-10-10 21:01:36.397590
+  title: ''
+  url: !!set {'http://tfag7lk7ful77ysnfx475iwhbjrvs4u5e6dhswnrlsuek3tf7z3cp7ad.onion/geotecheng/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Mersen Group\nTotal Revenue\n    $1 Billion\n\
+    Volume Of Stolen Data\n    160 GB\nPublished\n    2021-03-15\nLast Updated:\n\
+    \    2021-05-24\nInfo\nA global expert in electrical power and advanced materials,\
+    \ Mersen designs\ninnovative and tailored solutions that enable its clients to\
+    \ optimize their\nmanufacturing performance.\nWith more than 50 industrial sites\
+    \ and 16 R&D centers in 35 countries around\nthe world, Mersen develops customized\
+    \ solutions and delivers key products to\nits clients in order to meet the new\
+    \ technological challenges shaping\ntomorrow\u2019s world.\nHeadquarters: 2 avenue\
+    \ Gambetta, CS 10077, Paris La D\xE9fense, Ile-de-France,\n92066, France Phone:\
+    \ +33 1 46 91 54 00 mersen.us Employees: 6,816 Revenue: $1\nBillion Stock Symbol\
+    \ MRN\n160 GB of data available!!!\nhere is the link:\nrj5sxqyssybt5wkq.onion/67H2rESHojtsB1F/by1zoehYq68bAIj/\n\
+    Published: 100% (full dump)\n"
+  hmac: cce46a0e97b06a0660b29cc921ba1a22157bfb0825a986593b90bdd170590d52
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/mersengroup
+  timestamp: 2021-10-10 21:01:36.397603
+  title: ''
+  url: !!set {'http://irphvoz3fgwzs7lkus66d2kqcojpvs6kjpj3svittxbw3qoaqkkdm6id.onion/MERSEN/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Wasserstorm\nTotal Revenue\n    $1B\n\
+    Volume Of Stolen Data\n    130 GB\nPublished\n    2021-02-23\nLast Updated:\n\
+    \    2021-05-24\nInfo\nThe Wasserstrom Company, headquartered in Columbus, Ohio\
+    \ and founded in 1902,\nis a restaurant supplier and distributor of foodservice\
+    \ supplies and\nequipment.\n **Proudly made in the USA.** From stainless steel\
+    \ worktables to refrigerated\nmerchandisers and salad bars, we custom manufacture\
+    \ premium equipment and\nfixtures to your exact specifications.\nNothing cheap\
+    \ leaves our production lines. Expect only high-grade stainless\nsteel, superior\
+    \ welding, and outstanding service lead by a dedicated team of\nengineers who\
+    \ will work closely with you during production. We stand behind\npremium craftsmanship\
+    \ that will last over the years in a busy kitchen.\nFirst of all, we have SQL\
+    \ database (120GB) with accounting information,\nclients information, payrolls,\
+    \ employees tax forms etc.\nAlso we have a lot of Mutual Confidentiality and Non-Disclosure\
+    \ agreements,\nDistribution Agreements, Custom documents, Supplier invoices, Shipping\n\
+    documents etc.\nA lot of Tax forms, financial documents, invoices, internal emails\
+    \ is a bonus\nfor researcher. But we think there could be something interesting.\n\
+    http://hwd4s666xgzuasyg.onion/5875489/643764537/\nPublished: 100% (full dump)\n"
+  hmac: f3499e0a4c8589ccd2c862e02289e293d27da4e1348e4a3ee8dbc3ec27416ff7
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/wasserstorm
+  timestamp: 2021-10-10 21:01:36.397617
+  title: ''
+  url: !!set {'http://vsbbcqkwq6vw2pdx5ouddk7dokzxnjt3whsaqijxckr2csufoabnn4yd.onion/Wasserstorm/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    FAPS Inc\nTotal Revenue\n    $62M\nVolume\
+    \ Of Stolen Data\n    1 TB\nPublished\n    2021-02-03\nLast Updated:\n    2021-02-04\n\
+    Info\n**Lock date:01.27.2021**\n **Total data:1TB**\n **Phone:(973) 589-5656**\n\
+    \ **Address:371 Craneway Street Port Newark, NJ 07114 PORTPOWER**\nPublished:\
+    \ 0% (announcement)\n"
+  hmac: e6f194c2a09ccf3650598ba779ccba4102f2af4db95c745506146ca9415ffd50
+  ltype: Shaming list
+  malware: MountLocker
+  source: http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion/target/fapsinc
+  timestamp: 2021-10-10 21:01:36.397630
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Positive Promotions, Inc.\nTotal Revenue\n\
+    \    $57 Million\nVolume Of Stolen Data\n    130 MB\nPublished\n    2021-06-02\n\
+    Last Updated:\n    2021-06-02\nInfo\nIf management don't contact us within 48\
+    \ hours, we are going to post full dump\nof information\nPublished: 0% (announcement)\n"
+  hmac: 7900df2999159a7bbbf1ae9ec096b98d910e831f762098b9adfff9360abfe581
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/positivepromotionsinc
+  timestamp: 2021-10-10 21:01:36.397640
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\n\
+    Volume Of Stolen Data\n    800 GB\nPublished\n    2021-06-02\nLast Updated:\n\
+    \    2021-06-02\nInfo\nWe are trying to get a deal and don't publish data we have.\
+    \ It's up to\nAqualung management!\nPublished: 0% (announcement)\n"
+  hmac: 4363078c13d0957b3ba91650fa8a47bcda2da0ba906f7c78bf250b6792724efa
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
+  timestamp: 2021-10-10 21:01:36.397648
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
+    : null
+  data: "\n# Target Info\nCompany Name\n    Sharafi Group Investments\nTotal Revenue\n\
+    \    $122 M\nVolume Of Stolen Data\n    140 GB\nPublished\n    2021-05-27\nLast\
+    \ Updated:\n    2021-05-27\nInfo\nWe announce this publication and hope to reach\
+    \ an agreement. It could stop\npublication of 140 GB of company's data!\nPublished:\
+    \ 0% (announcement)\n"
+  hmac: de5bdd92a0f829a611b13733a403a744cabd1275cad1c2968082813b984cb34d
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/sharafigroupinvestments
+  timestamp: 2021-10-10 21:01:36.397702
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, None]
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, None]
+    : null
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Coastal Family Health Center\nTotal Revenue\n\
     \    $100 M\nVolume Of Stolen Data\n    506 GB \nPublished\n    2021-05-24\nLast\
@@ -300,19 +778,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/coastalfamilyhealthcenter
-  timestamp: 2021-06-03 20:17:39.762859
-  title: Coastal Family Health Center
+  timestamp: 2021-10-10 21:01:36.397712
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/RpLVVSd8R2WRIpdG5WsZ/E3dFo6cL7qfZ85TCyKvL/coastalfamilyhealth/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-24']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-24']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, T.I.S. Group]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    T.I.S. Group\nTotal Revenue\n    $50 M\n\
     Volume Of Stolen Data\n    102 GB\nPublished\n    2021-05-24\nLast Updated:\n\
@@ -329,19 +807,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/tisgroup
-  timestamp: 2021-06-03 20:17:39.762865
-  title: T.I.S. Group
+  timestamp: 2021-10-10 21:01:36.397722
+  title: ''
   url: !!set {'http://yk7erwdvj4vxcgiq3gmcufkben4bk4ixddl5j2xvu7gurtdq754jmiad.onion/TISINC/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-14']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 50% (half dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-21']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Solen A.S]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Solen A.S \nTotal Revenue\n    $543 M\n\
     Volume Of Stolen Data\n    90 GB\nPublished\n    2021-05-14\nLast Updated:\n \
@@ -351,19 +829,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/solenas
-  timestamp: 2021-06-03 20:17:39.762873
-  title: Solen A.S
+  timestamp: 2021-10-10 21:01:36.397734
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-14']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 50% (half dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-21']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, CBN Logistic]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    CBN Logistic\nTotal Revenue\n    $543M\
     \ (with Solen A.S)\nVolume Of Stolen Data\n    90 GB\nPublished\n    2021-05-14\n\
@@ -374,19 +852,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/cbnlogistic
-  timestamp: 2021-06-03 20:17:39.762878
-  title: CBN Logistic
+  timestamp: 2021-10-10 21:01:36.397749
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-14']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-19']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, LineStar]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    LineStar\nTotal Revenue\n    $171 Million\n\
     Volume Of Stolen Data\n    70 GB\nPublished\n    2021-05-14\nLast Updated:\n \
@@ -396,19 +874,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/linestar
-  timestamp: 2021-06-03 20:17:39.762884
-  title: LineStar
+  timestamp: 2021-10-10 21:01:36.397760
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/TxTTc4rmBrjrGK0Hiu9O/4DY84YH0xRHjN539Ta3Z/LINESTAR/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-13']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-19']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Desert Plastering LLC]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Desert Plastering LLC\nTotal Revenue\n\
     \    $57M\nVolume Of Stolen Data\n    40GB\nPublished\n    2021-05-13\nLast Updated:\n\
@@ -418,19 +896,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/desertplasteringllc
-  timestamp: 2021-06-03 20:17:39.762889
-  title: Desert Plastering LLC
+  timestamp: 2021-10-10 21:01:36.397769
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/GpbSb1WYA5ASqjW7HLS2/cH0SrJTbEzcQEL2qTmPW/DESERT_BML/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-11']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 0% (announcement)']
     : null
-    ? !!python/tuple [updated, '2021-05-19']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Gulfeagle Supply]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Gulfeagle Supply\nTotal Revenue\n    $740M\n\
     Volume Of Stolen Data\n    85 GB \nPublished\n    2021-05-11\nLast Updated:\n\
@@ -442,19 +920,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/gulfeaglesupply
-  timestamp: 2021-06-03 20:17:39.762894
-  title: Gulfeagle Supply
+  timestamp: 2021-10-10 21:01:36.397778
+  title: ''
   url: !!set {'http://czuvhiijpadbnysu.onion/U7ifgMdojXZZLVHlHJxq/NdKq783DPxbhboWYLuMk/GULFEAGLESUPPLY/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-06']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 50% (half dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-11']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, GlobeMed Saudi]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    GlobeMed Saudi\nTotal Revenue\n    $100\
     \ M\nVolume Of Stolen Data\n    201 GB\nPublished\n    2021-05-06\nLast Updated:\n\
@@ -464,19 +942,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/globemedsaudi
-  timestamp: 2021-06-03 20:17:39.762900
-  title: GlobeMed Saudi
+  timestamp: 2021-10-10 21:01:36.397789
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/h4iWnlTCCZ0qzR2Jq979/sEVJl0HTYNN9AYg3Rgl0/GLOBEMED_SAUDI/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-06']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-06']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Washoe Tribe]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Washoe Tribe\nTotal Revenue\n    $49 Million\n\
     Volume Of Stolen Data\n    160 GB\nPublished\n    2021-05-06\nLast Updated:\n\
@@ -486,19 +964,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/washoetribe
-  timestamp: 2021-06-03 20:17:39.762904
-  title: Washoe Tribe
+  timestamp: 2021-10-10 21:01:36.397798
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/qIlrZ0R4T6z4Dfgr2zgV/yIH3AE7Xk1BgHWI8fH1V/WASHOE_TRIBE/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-05-06']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-06']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, 'Bridgelux, Inc.']
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Bridgelux, Inc. \nTotal Revenue\n    $41\
     \ Million\nVolume Of Stolen Data\n    1 GB\nPublished\n    2021-05-06\nLast Updated:\n\
@@ -510,19 +988,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/bridgeluxinc
-  timestamp: 2021-06-03 20:17:39.762909
-  title: Bridgelux, Inc.
+  timestamp: 2021-10-10 21:01:36.397808
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/acOXftrwJJhZOprIX1z0/fJbuiGglJWSqDfmd7krL/BRIDGELUX/': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-04-29']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-04-29']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, Pezzuto Group]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    Pezzuto Group\nTotal Revenue\n    $60\
     \ Million\nVolume Of Stolen Data\n    100GB\nPublished\n    2021-04-29\nLast Updated:\n\
@@ -535,19 +1013,19 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/pezzutogroup
-  timestamp: 2021-06-03 20:17:39.762915
-  title: Pezzuto Group
+  timestamp: 2021-10-10 21:01:36.397819
+  title: ''
   url: !!set {'http://x4mjvffmytkw3hyu.onion/WQJ0xogtAYHVkkKqc9Vt/oEz5dXKgUsYysl2QCIfy/pezzuto': null}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-04-29']
+    ? !!python/tuple [publication, None]
     : null
     ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-04-29']
+    ? !!python/tuple [updated, None]
     : null
-    ? !!python/tuple [victim, NAVNIT GROUP]
+    ? !!python/tuple [victim, None]
     : null
   data: "\n# Target Info\nCompany Name\n    NAVNIT GROUP\nTotal Revenue\n    $521\
     \ Million\nVolume Of Stolen Data\n    500 GB\nPublished\n    2021-04-29\nLast\
@@ -558,77 +1036,377 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/navnitgroup
-  timestamp: 2021-06-03 20:17:39.762923
-  title: NAVNIT GROUP
+  timestamp: 2021-10-10 21:01:36.397831
+  title: ''
   url: !!set {'http://tpze4yo74m6qflef.onion/QV2qLjTu9N2AgBrGI13z/5y7TRWoCo7UWyDLVm5mj/NAVNIT': null}
-- !!python/object:darksuce_class.record
-  author: null
-  custom: !!set
-    ? !!python/tuple [publication, '2021-05-27']
-    : null
-    ? !!python/tuple [published, 'Published: 0% (announcement)']
-    : null
-    ? !!python/tuple [updated, '2021-05-27']
-    : null
-    ? !!python/tuple [victim, Sharafi Group Investments]
-    : null
-  data: "\n# Target Info\nCompany Name\n    Sharafi Group Investments\nTotal Revenue\n\
-    \    $122 M\nVolume Of Stolen Data\n    140 GB\nPublished\n    2021-05-27\nLast\
-    \ Updated:\n    2021-05-27\nInfo\nWe announce this publication and hope to reach\
-    \ an agreement. It could stop\npublication of 140 GB of company's data!\nPublished:\
-    \ 0% (announcement)\n"
-  hmac: de5bdd92a0f829a611b13733a403a744cabd1275cad1c2968082813b984cb34d
-  ltype: Shaming list
-  malware: Unknown
-  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/sharafigroupinvestments
-  timestamp: 2021-06-03 20:17:39.762928
-  title: Sharafi Group Investments
-  url: !!set {}
 - !!python/object:darksuce_class.record
   author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-06-02']
-    : null
-    ? !!python/tuple [published, 'Published: 0% (announcement)']
-    : null
-    ? !!python/tuple [updated, '2021-06-02']
-    : null
-    ? !!python/tuple [victim, 'Positive Promotions, Inc.']
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
     : null
   data: "\n# Target Info\nCompany Name\n    Positive Promotions, Inc.\nTotal Revenue\n\
     \    $57 Million\nVolume Of Stolen Data\n    130 MB\nPublished\n    2021-06-02\n\
-    Last Updated:\n    2021-06-02\nInfo\nIf management don't contact us within 48\
-    \ hours, we are going to post full dump\nof information\nPublished: 0% (announcement)\n"
-  hmac: 7900df2999159a7bbbf1ae9ec096b98d910e831f762098b9adfff9360abfe581
+    Last Updated:\n    2021-06-03\nInfo\nIndustry leaders and marketplace specialists\
+    \ in turnkey solutions for\npromotional, educational, health & wellness, safety,\
+    \ recognition, and reward &\nsouvenir activities.\nPublished: 5% (partial dump)\n"
+  hmac: cd5206e40eb2fc0168788260c119ddc969abb9e4c303a55d33457df1b3ae478e
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/positivepromotionsinc
-  timestamp: 2021-06-03 20:17:39.762935
-  title: Positive Promotions, Inc.
+  timestamp: 2021-10-10 21:01:36.397842
+  title: ''
+  url: !!set {'http://ibih5znjxf2cqgo737xmooyvmxhac45wd4rivh6n5hd7fysn42g3fayd.onion/PositivePromotions/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
+    : null
+  data: "\n# Target Info\nCompany Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\n\
+    Volume Of Stolen Data\n    800 GB\nPublished\n    2021-06-02\nLast Updated:\n\
+    \    2021-06-03\nInfo\n75 years ago we cut the cord. When Jacques Cousteau and\
+    \ Emile Gagnan invented\nthe Aqua Lung, history was forever changed. This single\
+    \ piece of equipment\nlaunched decades of innovation, and empowered discovery\
+    \ by making the\nunderwater world more accessible. Inventing the sport we now\
+    \ know as Scuba\ndiving, Cousteau and Gagnan became pioneers of an aquatic revolution.\n\
+    Published: 5% (partial dump)\n"
+  hmac: ff5c8d26787cb02e2467ab1a4b86b5caeb019b72bdbe36e35fa70f294da2e542
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
+  timestamp: 2021-10-10 21:01:36.397852
+  title: ''
+  url: !!set {'http://z4cn6lpet4y4r6mdlbpklpcrjdruwb6kiuvxn6gsiuoub23z6prlx6ad.onion/AQUA/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "\n# Target Info\nCompany Name\n    Sharafi Group Investments\nTotal Revenue\n\
+    \    $122 M\nVolume Of Stolen Data\n    140 GB\nPublished\n    2021-05-27\nLast\
+    \ Updated:\n    2021-06-03\nInfo\nAll data is available! Download it now!\nPublished:\
+    \ 100% (full dump)\n"
+  hmac: e43107513b26b60522cde94f3fd824e5c834771010062bb3ee1ae5196a7c66a4
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/sharafigroupinvestments
+  timestamp: 2021-10-10 21:01:36.397863
+  title: ''
+  url: !!set {'http://tpze4yo74m6qflef.onion/hFIcsmSHfnjYzhZlJPED/zj7tMmrL3QM2zDoQR2IX/sre_ae_Pu/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Electrical equipment manufacturer**\n###  Greenwood Fabricating & Plating\n\
+    Full dump available to download!\n\n# Target Info\nCompany Name\n    Greenwood\
+    \ Fabricating & Plating\nTotal Revenue\n    21 Million\nVolume Of Stolen Data\n\
+    \    10 GB\nPublished\n    2021-06-03\nLast Updated:\n    2021-06-03\nInfo\nA\
+    \ lot of personal data! SSN and other included!\nPublished: 100% (full dump)\n"
+  hmac: ab45d3ef431317b0f7281496d11272c4b453db9c14f0854ab5f14bb115a95761
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/greenwoodfabricatingplating
+  timestamp: 2021-10-10 21:01:36.397873
+  title: 'XingTeam News - '
+  url: !!set {'http://ikrah6fb4e6r2raxkyvyoxp22jam5z6ak5ajfnzxutmassoagvr2bhad.onion/GFPI/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
+    : null
+  data: "**Promo and educational production**\n###  Positive Promotions, Inc.\nProof\
+    \ pack is available to download! All information will be published within\n48\
+    \ hours\n\n# Target Info\nCompany Name\n    Positive Promotions, Inc.\nTotal Revenue\n\
+    \    $57 Million\nVolume Of Stolen Data\n    130 MB\nPublished\n    2021-06-02\n\
+    Last Updated:\n    2021-06-03\nInfo\nIndustry leaders and marketplace specialists\
+    \ in turnkey solutions for\npromotional, educational, health & wellness, safety,\
+    \ recognition, and reward &\nsouvenir activities.\nPublished: 5% (partial dump)\n"
+  hmac: 8ef2b2e1e27ab318f83b50fce10465032b4499182121ee108b01e85342d0f01e
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/positivepromotionsinc
+  timestamp: 2021-10-10 21:01:36.397882
+  title: 'XingTeam News - '
+  url: !!set {'http://ibih5znjxf2cqgo737xmooyvmxhac45wd4rivh6n5hd7fysn42g3fayd.onion/PositivePromotions/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+  data: "**Diving equipment & Accessories, Divewear producer and seller**\n###  AQUALUNG\n\
+    Announce! Will be published soon! Follow the updates!\n\n# Target Info\nCompany\
+    \ Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\nVolume Of Stolen Data\n\
+    \    800 GB\nPublished\n    2021-06-02\nLast Updated:\n    2021-06-03\nInfo\n\
+    75 years ago we cut the cord. When Jacques Cousteau and Emile Gagnan invented\n\
+    the Aqua Lung, history was forever changed. This single piece of equipment\nlaunched\
+    \ decades of innovation, and empowered discovery by making the\nunderwater world\
+    \ more accessible. Inventing the sport we now know as Scuba\ndiving, Cousteau\
+    \ and Gagnan became pioneers of an aquatic revolution.\nPublished: 0% (announcement)\n"
+  hmac: 82b354e025347a99f0ca6471b5df8ae3d1874328b096b788756ba94279aa7d4d
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
+  timestamp: 2021-10-10 21:01:36.397894
+  title: 'XingTeam News - '
   url: !!set {}
 - !!python/object:darksuce_class.record
   author: ''
   custom: !!set
-    ? !!python/tuple [publication, '2021-06-02']
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [published, 'Published: 0% (announcement)']
-    : null
-    ? !!python/tuple [updated, '2021-06-02']
-    : null
-    ? !!python/tuple [victim, AQUALUNG]
-    : null
-  data: "\n# Target Info\nCompany Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\n\
-    Volume Of Stolen Data\n    800 GB\nPublished\n    2021-06-02\nLast Updated:\n\
-    \    2021-06-02\nInfo\nWe are trying to get a deal and don't publish data we have.\
-    \ It's up to\nAqualung management!\nPublished: 0% (announcement)\n"
-  hmac: 4363078c13d0957b3ba91650fa8a47bcda2da0ba906f7c78bf250b6792724efa
+  data: "**Mortgage & Investments**\n###  Sharafi Group Investments\nAll data is available!\
+    \ Download it now! Investment company from UAE\n\n# Target Info\nCompany Name\n\
+    \    Sharafi Group Investments\nTotal Revenue\n    $122 M\nVolume Of Stolen Data\n\
+    \    140 GB\nPublished\n    2021-05-27\nLast Updated:\n    2021-06-03\nInfo\n\
+    All data is available! Download it now!\nPublished: 100% (full dump)\n"
+  hmac: ffdfec636f7b0de9bf3e7aa07ed3ecbcff4161d756a0d8ba968eeea419328e9e
   ltype: Shaming list
   malware: Unknown
-  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
-  timestamp: 2021-06-03 20:17:39.762941
-  title: AQUALUNG
-  url: !!set {}
-- !!python/object:lib.darksuce_class.record
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/sharafigroupinvestments
+  timestamp: 2021-10-10 21:01:36.397906
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/hFIcsmSHfnjYzhZlJPED/zj7tMmrL3QM2zDoQR2IX/sre_ae_Pu/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Medical services**\n###  Coastal Family Health Center\nCoastal Family Health\
+    \ Center has a massive leak of the personal data!\n\n# Target Info\nCompany Name\n\
+    \    Coastal Family Health Center\nTotal Revenue\n    $100 M\nVolume Of Stolen\
+    \ Data\n    506 GB \nPublished\n    2021-05-24\nLast Updated:\n    2021-05-24\n\
+    Info\nCompany refuses to cooperate and fix a reasons of leak. That's why we were\n\
+    forced to publish all information we have.\nPublished: 100% (full dump)\n"
+  hmac: dc8ae2c508fb66b7cd2c3a8abc0a88082261aa9db6db1785164d79f7234efb57
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/coastalfamilyhealthcenter
+  timestamp: 2021-10-10 21:01:36.397916
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/RpLVVSd8R2WRIpdG5WsZ/E3dFo6cL7qfZ85TCyKvL/coastalfamilyhealth/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Academic publishing and textbook distribution business**\n###  T.I.S. Group\n\
+    All data is available! Academic publishing and textbook distribution business.\n\
+    \n# Target Info\nCompany Name\n    T.I.S. Group\nTotal Revenue\n    $50 M\nVolume\
+    \ Of Stolen Data\n    102 GB\nPublished\n    2021-05-24\nLast Updated:\n    2021-05-24\n\
+    Info\n###### The T.I.S. Group upholds a standard of quality products and services\n\
+    through our business units: College Bookstores, and Licensed Collegiate\nApparel\n\
+    ###### T.I.S. began in 1962 as a family-run academic publishing and textbook\n\
+    distribution business called Tichenor Institutional Services (T.I.S., for\nshort).\
+    \ Over the years the name of the company became just the initials, as\nT.I.S.\
+    \ expanded its business to include a wide range of interests from college\nbookstores\
+    \ to sportswear imprinting.\n###### T.I.S. is still family-owned and -run by the\
+    \ Tichenors, and is based on\nthe same ideal of high quality professional service\
+    \ in all our divisions.\nPublished: 100% (full dump)\n"
+  hmac: f91fdda9e82a00526cd694f5adfbe3de50d3c43d744a8b44ffcb0eb2cb4f6709
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/tisgroup
+  timestamp: 2021-10-10 21:01:36.397926
+  title: 'XingTeam News - '
+  url: !!set {'http://yk7erwdvj4vxcgiq3gmcufkben4bk4ixddl5j2xvu7gurtdq754jmiad.onion/TISINC/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 50% (half dump)']
+    : null
+  data: "**Solen A.S founded in 1989 and headquartered in Gaziantep, Turkey, exports\n\
+    over 200 products in the categories of snacks, children's products, gifts, and\n\
+    catering**\n###  Solen A.S\nPOSTED! Solen A.S founded in 1989 and headquartered\
+    \ in Gaziantep, Turkey,\nexports over 200 products in the categories of snacks,\
+    \ children's products,\ngifts, and catering\n\n# Target Info\nCompany Name\n \
+    \   Solen A.S \nTotal Revenue\n    $543 M\nVolume Of Stolen Data\n    90 GB\n\
+    Published\n    2021-05-14\nLast Updated:\n    2021-05-21\nInfo\nA lot of interesting\
+    \ information is posted!\nPublished: 50% (half dump)\n"
+  hmac: 9bc2e2336c9d6e98720117e5cfb09fe633bd86cfd2cc3b006bccbea0e62d5677
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/solenas
+  timestamp: 2021-10-10 21:01:36.397949
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 50% (half dump)']
+    : null
+  data: "**Logistic & Transportation services**\n###  CBN Logistic\nPOSTED! CBN Logistic\
+    \ & Solen A.S operate in Gaziantep, Turkey, exports over\n200 products in the\
+    \ categories of snacks, children's products, gifts, and\ncatering\n\n# Target\
+    \ Info\nCompany Name\n    CBN Logistic\nTotal Revenue\n    $543M (with Solen A.S)\n\
+    Volume Of Stolen Data\n    90 GB\nPublished\n    2021-05-14\nLast Updated:\n \
+    \   2021-05-21\nInfo\nData is posted!!! This Company was attacked simultaneously\
+    \ with Solen A.S ,\nbut we have a lot of data here!\nPublished: 50% (half dump)\n"
+  hmac: 2ca1a26bf21cc15128501988eb377e6767b1129a0b4be7cd325ef81d45327812
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/cbnlogistic
+  timestamp: 2021-10-10 21:01:36.397959
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**LineStar is an integrated pipeline compliance, technology and integrity\n\
+    maintenance company headquartered in Houston, Texas.**\n###  LineStar\nAll data\
+    \ is AVAILABLE NOW!!! As a one of the biggest pipeline maintenance\ncompany, Linestar\
+    \ has a lot of sensitive information. We've got it all!\n\n# Target Info\nCompany\
+    \ Name\n    LineStar\nTotal Revenue\n    $171 Million\nVolume Of Stolen Data\n\
+    \    70 GB\nPublished\n    2021-05-14\nLast Updated:\n    2021-05-19\nInfo\nAll\
+    \ data is AVAILABLE NOW!!!\nGet it all!\nPublished: 100% (full dump)\n"
+  hmac: e6b7ccc698e91352180f93e43c044fb1da96a19fe5739778c4b9f648ade92013
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/linestar
+  timestamp: 2021-10-10 21:01:36.397969
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/TxTTc4rmBrjrGK0Hiu9O/4DY84YH0xRHjN539Ta3Z/LINESTAR/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**building & construction**\n###  Desert Plastering LLC\nAll is here! Drawings,\
+    \ technical data, financial documents etc. All will be\navailable within 72 hours!\n\
+    \n# Target Info\nCompany Name\n    Desert Plastering LLC\nTotal Revenue\n    $57M\n\
+    Volume Of Stolen Data\n    40GB\nPublished\n    2021-05-13\nLast Updated:\n  \
+    \  2021-05-19\nInfo\nAll data is available to download now!\nPublished: 100% (full\
+    \ dump)\n"
+  hmac: d7544ac7bddc7645f3ba9f9870fa713cdbd6b364c66bfc266941da84202ece7f
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/desertplasteringllc
+  timestamp: 2021-10-10 21:01:36.397979
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/GpbSb1WYA5ASqjW7HLS2/cH0SrJTbEzcQEL2qTmPW/DESERT_BML/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+  data: "**Building and Production**\n###  Gulfeagle Supply\nData is available! Gulfeagle\
+    \ Supply is dedicated to the principle of providing\nour customers with quality\
+    \ products and superior service. We strive for\nsuccess through our commitment\
+    \ to this principle, as we realize our livelihood\ndepends upon it.\n\n# Target\
+    \ Info\nCompany Name\n    Gulfeagle Supply\nTotal Revenue\n    $740M\nVolume Of\
+    \ Stolen Data\n    85 GB \nPublished\n    2021-05-11\nLast Updated:\n    2021-05-19\n\
+    Info\nDownload all here! All is available for free!\nCompany has a huge leak of\
+    \ personal data, so we are trying to convince them.\nBy the end of the week data\
+    \ will be published, if an agreement isn't reached.\nDL scans, SSN, Tax forms,\
+    \ payrolls, financial reports, etc.\nPublished: 0% (announcement)\n"
+  hmac: e80c9b7acb06c423d26f02a6da3de2b7f4049977b3ba3f5077eca87e1687b238
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/gulfeaglesupply
+  timestamp: 2021-10-10 21:01:36.397988
+  title: 'XingTeam News - '
+  url: !!set {'http://czuvhiijpadbnysu.onion/U7ifgMdojXZZLVHlHJxq/NdKq783DPxbhboWYLuMk/GULFEAGLESUPPLY/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 50% (half dump)']
+    : null
+  data: "**Healthcare**\n###  GlobeMed Saudi\nAvailable to download! Massive leak\
+    \ of patients data, employees information,\nfinancial reports etc.\n\n# Target\
+    \ Info\nCompany Name\n    GlobeMed Saudi\nTotal Revenue\n    $100 M\nVolume Of\
+    \ Stolen Data\n    201 GB\nPublished\n    2021-05-06\nLast Updated:\n    2021-05-11\n\
+    Info\n**_Data is posted! Available to download!_**\nPublished: 50% (half dump)\n"
+  hmac: bbcc45edd84476f560d91234bc8e39706d560330abb8defb57962da9b96f3126
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/globemedsaudi
+  timestamp: 2021-10-10 21:01:36.397999
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/h4iWnlTCCZ0qzR2Jq979/sEVJl0HTYNN9AYg3Rgl0/GLOBEMED_SAUDI/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Hunting & Fishing, Entertainment **\n###  Washoe Tribe\nAll documents are\
+    \ available to download! Interesting for research!\n\n# Target Info\nCompany Name\n\
+    \    Washoe Tribe\nTotal Revenue\n    $49 Million\nVolume Of Stolen Data\n   \
+    \ 160 GB\nPublished\n    2021-05-06\nLast Updated:\n    2021-05-06\nInfo\nA lot\
+    \ of personal information and confidential data!\nPublished: 100% (full dump)\n"
+  hmac: d691d3c5b99ec717b4bf5fc72b0239ccbf22281e9d6ed2b51389bcfd801f02ee
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/washoetribe
+  timestamp: 2021-10-10 21:01:36.398008
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/qIlrZ0R4T6z4Dfgr2zgV/yIH3AE7Xk1BgHWI8fH1V/WASHOE_TRIBE/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Lighting - production and sales**\n###  Bridgelux, Inc.\nMassive leak of\
+    \ personal data! Passport scans, DL scans, tax forms, finance.\nAlso patents,\
+    \ drawings are available.\n\n# Target Info\nCompany Name\n    Bridgelux, Inc.\
+    \ \nTotal Revenue\n    $41 Million\nVolume Of Stolen Data\n    1 GB\nPublished\n\
+    \    2021-05-06\nLast Updated:\n    2021-05-06\nInfo\nA lot of information is\
+    \ available. It could be interesting for the competitors\nbecause contains technical\
+    \ data, drawings, description etc.\nAnother huge piece of data has a lot of personal\
+    \ data - passport scans, DL\nscans etc.\nAll is free to download!\nPublished:\
+    \ 100% (full dump)\n"
+  hmac: c4acfdc2b707298453de8caa71ec4d6e479b31e87998297674f1ba593384efb7
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/bridgeluxinc
+  timestamp: 2021-10-10 21:01:36.398017
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/acOXftrwJJhZOprIX1z0/fJbuiGglJWSqDfmd7krL/BRIDGELUX/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**Autodealer**\n###  Pezzuto Group\nCompany has a massive leak of the data\
+    \ such as drivers licenses, financial\ncontracts, tax info, even clients passports\
+    \ scans. Management refuses to\ncooperate and we post full dump of information\n\
+    \n# Target Info\nCompany Name\n    Pezzuto Group\nTotal Revenue\n    $60 Million\n\
+    Volume Of Stolen Data\n    100GB\nPublished\n    2021-04-29\nLast Updated:\n \
+    \   2021-04-29\nInfo\nYou can download all what you want to have. A lot of personal\
+    \ and confidential\ndata inside.\nCompany has a massive leak of the data such\
+    \ as drivers licenses, financial\ncontracts, tax info, even clients passports\
+    \ scans.\nPezzuto Group\nIndirizzo: Via Vecchia San Donato \u2013 73020 Cavallino\
+    \ (LE)\nTelefono: 0832 231841\nPublished: 100% (full dump)\n"
+  hmac: a0d009ff6f16df7410513b7f1bbb95f58a900c258382ccefde31866c6ce9a7ec
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/pezzutogroup
+  timestamp: 2021-10-10 21:01:36.398027
+  title: 'XingTeam News - '
+  url: !!set {'http://x4mjvffmytkw3hyu.onion/WQJ0xogtAYHVkkKqc9Vt/oEz5dXKgUsYysl2QCIfy/pezzuto': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+  data: "**The Navnit Group, a Rs. 1000 crore plus network of diverse companies, is\
+    \ a\nreputed and professionally managed Mumbai-based business and brand. It\n\
+    operates in the mobility segments spanning land, sea, air and allied\nbusinesses.**\n\
+    ###  NAVNIT GROUP\nIt's a huge holding company which didn't keep confidentional\
+    \ info in secret.\nAll is inside!\n\n# Target Info\nCompany Name\n    NAVNIT GROUP\n\
+    Total Revenue\n    $521 Million\nVolume Of Stolen Data\n    500 GB\nPublished\n\
+    \    2021-04-29\nLast Updated:\n    2021-04-29\nInfo\nWe publish full dump, a\
+    \ lot of passports, DL scans, credit cards, financial\ndocuments. A lot of tax\
+    \ forms, personal information of staff, corporate\ndatabases and much much more.\n\
+    Published: 100% (full dump)\n"
+  hmac: ad87ca4a5bb0103dac6e04c5e70f9378c4b4172843d2e44901b95ced4d39f3f8
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/navnitgroup
+  timestamp: 2021-10-10 21:01:36.398039
+  title: 'XingTeam News - '
+  url: !!set {'http://tpze4yo74m6qflef.onion/QV2qLjTu9N2AgBrGI13z/5y7TRWoCo7UWyDLVm5mj/NAVNIT': null}
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-06-03']
@@ -655,10 +1433,91 @@
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/blueyondergroup
-  timestamp: 2021-06-03 20:17:42.223210
+  timestamp: 2021-10-10 21:01:36.398050
   title: XingTeam News - Blue Yonder Group
   url: !!set {}
-- !!python/object:lib.darksuce_class.record
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-05-18']
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, '2021-06-03']
+    : null
+    ? !!python/tuple [victim, OSF Healthcare System]
+    : null
+  data: "**Healthcare**\n###  OSF Healthcare System\n112 GB of sensitive information\
+    \ is available! You can get all data for free!\n\n# Target Info\nCompany Name\n\
+    \    OSF Healthcare System\nTotal Revenue\n    $3 B\nVolume Of Stolen Data\n \
+    \   112 GB\nPublished\n    2021-05-18\nLast Updated:\n    2021-06-03\nInfo\nCompany\
+    \ refused to cooperate and participants post all data here. You can get\nall!\
+    \ Emails, phones, staff data, patients information, contracts, finance\ninformation,\
+    \ pictures - all is available!\nPublished: 100% (full dump)\n"
+  hmac: 7c7661acdafd9c3718f7e3bb36c4a28e8ceab6d3d48c31c673174fa23de2531c
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/osfhealthcaresystem
+  timestamp: 2021-10-10 21:01:36.398062
+  title: XingTeam News - OSF Healthcare System
+  url: !!set {'http://tpze4yo74m6qflef.onion/O0X0eQzFl1TTJVDEyPeI/ULOHKxFVnXxy4qNTlezn/OSFHEALTHCARE/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-06-02']
+    : null
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
+    : null
+    ? !!python/tuple [updated, '2021-06-04']
+    : null
+    ? !!python/tuple [victim, AQUALUNG]
+    : null
+  data: "**Diving equipment & Accessories, Divewear producer and seller**\n###  AQUALUNG\n\
+    Announce! Proofpack is published! Follow the updates!\n\n# Target Info\nCompany\
+    \ Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\nVolume Of Stolen Data\n\
+    \    800 GB\nPublished\n    2021-06-02\nLast Updated:\n    2021-06-04\nInfo\n\
+    75 years ago we cut the cord. When Jacques Cousteau and Emile Gagnan invented\n\
+    the Aqua Lung, history was forever changed. This single piece of equipment\nlaunched\
+    \ decades of innovation, and empowered discovery by making the\nunderwater world\
+    \ more accessible. Inventing the sport we now know as Scuba\ndiving, Cousteau\
+    \ and Gagnan became pioneers of an aquatic revolution.\nPublished: 5% (partial\
+    \ dump)\n"
+  hmac: 69569e98d78f17eac57fcb311862ddc0139e4dd15896c077a0b572883f11c73b
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
+  timestamp: 2021-10-10 21:01:36.398072
+  title: XingTeam News - AQUALUNG
+  url: !!set {'http://z4cn6lpet4y4r6mdlbpklpcrjdruwb6kiuvxn6gsiuoub23z6prlx6ad.onion/AQUA/': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-05-11']
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, '2021-06-04']
+    : null
+    ? !!python/tuple [victim, Gulfeagle Supply]
+    : null
+  data: "**Building and Production**\n###  Gulfeagle Supply\nData is available! Gulfeagle\
+    \ Supply is dedicated to the principle of providing\nour customers with quality\
+    \ products and superior service. We strive for\nsuccess through our commitment\
+    \ to this principle, as we realize our livelihood\ndepends upon it.\n\n# Target\
+    \ Info\nCompany Name\n    Gulfeagle Supply\nTotal Revenue\n    $740M\nVolume Of\
+    \ Stolen Data\n    85 GB \nPublished\n    2021-05-11\nLast Updated:\n    2021-06-04\n\
+    Info\nDownload all here! All is available for free!\nCompany has a huge leak of\
+    \ personal data, so we are trying to convince them.\nBy the end of the week data\
+    \ will be published, if an agreement isn't reached.\nDL scans, SSN, Tax forms,\
+    \ payrolls, financial reports, etc.\nPublished: 100% (full dump)\n"
+  hmac: 4e8f8442ae07192850b78a0a177e8694cdc478bb30deeef498e9d343884a0e3e
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/gulfeaglesupply
+  timestamp: 2021-10-10 21:01:36.398083
+  title: XingTeam News - Gulfeagle Supply
+  url: !!set {'http://3klsbd4dwj3yqgo4xpogfgwqkljbnbdxjryeqks2cjion5jj33wvkqyd.onion/GULFEAGLESUPPLY/': null}
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-06-03']
@@ -669,19 +1528,50 @@
     : null
     ? !!python/tuple [victim, Greenwood Fabricating & Plating]
     : null
-  data: "**Electrical equipment manufacturer**\n###  Greenwood Fabricating & Plating\n\
-    Full dump available to download!\n\n# Target Info\nCompany Name\n    Greenwood\
-    \ Fabricating & Plating\nTotal Revenue\n    21 Million\nVolume Of Stolen Data\n\
-    \    10 GB\nPublished\n    2021-06-03\nLast Updated:\n    2021-06-03\nInfo\nA\
-    \ lot of personal data! SSN and other included!\nPublished: 100% (full dump)\n"
-  hmac: ab45d3ef431317b0f7281496d11272c4b453db9c14f0854ab5f14bb115a95761
+  data: '**Electrical equipment manufacturer**
+
+    ### Greenwood Fabricating & Plating
+
+    Full dump available to download!
+
+
+    # Target Info
+
+    Company Name
+
+    Greenwood Fabricating & Plating
+
+    Total Revenue
+
+    21 Million
+
+    Volume Of Stolen Data
+
+    10 GB
+
+    Published
+
+    2021-06-03
+
+    Last Updated:
+
+    2021-06-03
+
+    Info
+
+    A lot of personal data! SSN and other included!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: df2e9012121665d2740120a475af18ef4897a83a9fab42c437dd6a2a6c50bd7d
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/greenwoodfabricatingplating
-  timestamp: 2021-06-03 20:17:42.860168
+  timestamp: 2021-10-10 21:01:36.398094
   title: XingTeam News - Greenwood Fabricating & Plating
-  url: !!set {'http://ikrah6fb4e6r2raxkyvyoxp22jam5z6ak5ajfnzxutmassoagvr2bhad.onion/GFPI/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://ikrah6fb4e6r2raxkyvyoxp22jam5z6ak5ajfnzxutmassoagvr2bhad.onion/GFPI/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-06-02']
@@ -692,48 +1582,118 @@
     : null
     ? !!python/tuple [victim, 'Positive Promotions, Inc.']
     : null
-  data: "**Promo and educational production**\n###  Positive Promotions, Inc.\nProof\
-    \ pack is available to download! All information will be published within\n48\
-    \ hours\n\n# Target Info\nCompany Name\n    Positive Promotions, Inc.\nTotal Revenue\n\
-    \    $57 Million\nVolume Of Stolen Data\n    130 MB\nPublished\n    2021-06-02\n\
-    Last Updated:\n    2021-06-03\nInfo\nIndustry leaders and marketplace specialists\
-    \ in turnkey solutions for\npromotional, educational, health & wellness, safety,\
-    \ recognition, and reward &\nsouvenir activities.\nPublished: 5% (partial dump)\n"
-  hmac: 8ef2b2e1e27ab318f83b50fce10465032b4499182121ee108b01e85342d0f01e
+  data: '**Promo and educational production**
+
+    ### Positive Promotions, Inc.
+
+    Proof pack is available to download! All information will be published within
+
+    48 hours
+
+
+    # Target Info
+
+    Company Name
+
+    Positive Promotions, Inc.
+
+    Total Revenue
+
+    $57 Million
+
+    Volume Of Stolen Data
+
+    130 MB
+
+    Published
+
+    2021-06-02
+
+    Last Updated:
+
+    2021-06-03
+
+    Info
+
+    Industry leaders and marketplace specialists in turnkey solutions for
+
+    promotional, educational, health & wellness, safety, recognition, and reward &
+
+    souvenir activities.
+
+    Published: 5% (partial dump)
+
+    '
+  hmac: 50641dd5d5ecf8340d8d91b510cec61ad9719b6654fb1f8dbe38b3591f30b1de
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/positivepromotionsinc
-  timestamp: 2021-06-03 20:17:43.497224
+  timestamp: 2021-10-10 21:01:36.398103
   title: XingTeam News - Positive Promotions, Inc.
-  url: !!set {'http://ibih5znjxf2cqgo737xmooyvmxhac45wd4rivh6n5hd7fysn42g3fayd.onion/PositivePromotions/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://ibih5znjxf2cqgo737xmooyvmxhac45wd4rivh6n5hd7fysn42g3fayd.onion/PositivePromotions/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-06-02']
     : null
-    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
     : null
-    ? !!python/tuple [updated, '2021-06-03']
+    ? !!python/tuple [updated, '2021-06-04']
     : null
     ? !!python/tuple [victim, AQUALUNG]
     : null
-  data: "**Diving equipment & Accessories, Divewear producer and seller**\n###  AQUALUNG\n\
-    Announce! Will be published soon! Follow the updates!\n\n# Target Info\nCompany\
-    \ Name\n    AQUALUNG\nTotal Revenue\n    $253 Million\nVolume Of Stolen Data\n\
-    \    800 GB\nPublished\n    2021-06-02\nLast Updated:\n    2021-06-03\nInfo\n\
-    75 years ago we cut the cord. When Jacques Cousteau and Emile Gagnan invented\n\
-    the Aqua Lung, history was forever changed. This single piece of equipment\nlaunched\
-    \ decades of innovation, and empowered discovery by making the\nunderwater world\
-    \ more accessible. Inventing the sport we now know as Scuba\ndiving, Cousteau\
-    \ and Gagnan became pioneers of an aquatic revolution.\nPublished: 0% (announcement)\n"
-  hmac: 82b354e025347a99f0ca6471b5df8ae3d1874328b096b788756ba94279aa7d4d
+  data: '**Diving equipment & Accessories, Divewear producer and seller**
+
+    ### AQUALUNG
+
+    Announce! Proofpack is published! Follow the updates!
+
+
+    # Target Info
+
+    Company Name
+
+    AQUALUNG
+
+    Total Revenue
+
+    $253 Million
+
+    Volume Of Stolen Data
+
+    800 GB
+
+    Published
+
+    2021-06-02
+
+    Last Updated:
+
+    2021-06-04
+
+    Info
+
+    75 years ago we cut the cord. When Jacques Cousteau and Emile Gagnan invented
+
+    the Aqua Lung, history was forever changed. This single piece of equipment
+
+    launched decades of innovation, and empowered discovery by making the
+
+    underwater world more accessible. Inventing the sport we now know as Scuba
+
+    diving, Cousteau and Gagnan became pioneers of an aquatic revolution.
+
+    Published: 5% (partial dump)
+
+    '
+  hmac: 809615e618e88bcd031e0e13d29381c94ffec438123a8ccd6140a74672d37e67
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/aqualung
-  timestamp: 2021-06-03 20:17:43.997262
+  timestamp: 2021-10-10 21:01:36.398113
   title: XingTeam News - AQUALUNG
-  url: !!set {}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://z4cn6lpet4y4r6mdlbpklpcrjdruwb6kiuvxn6gsiuoub23z6prlx6ad.onion/AQUA/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-27']
@@ -744,19 +1704,50 @@
     : null
     ? !!python/tuple [victim, Sharafi Group Investments]
     : null
-  data: "**Mortgage & Investments**\n###  Sharafi Group Investments\nAll data is available!\
-    \ Download it now! Investment company from UAE\n\n# Target Info\nCompany Name\n\
-    \    Sharafi Group Investments\nTotal Revenue\n    $122 M\nVolume Of Stolen Data\n\
-    \    140 GB\nPublished\n    2021-05-27\nLast Updated:\n    2021-06-03\nInfo\n\
-    All data is available! Download it now!\nPublished: 100% (full dump)\n"
-  hmac: ffdfec636f7b0de9bf3e7aa07ed3ecbcff4161d756a0d8ba968eeea419328e9e
+  data: '**Mortgage & Investments**
+
+    ### Sharafi Group Investments
+
+    All data is available! Download it now! Investment company from UAE
+
+
+    # Target Info
+
+    Company Name
+
+    Sharafi Group Investments
+
+    Total Revenue
+
+    $122 M
+
+    Volume Of Stolen Data
+
+    140 GB
+
+    Published
+
+    2021-05-27
+
+    Last Updated:
+
+    2021-06-03
+
+    Info
+
+    All data is available! Download it now!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 6c3e57a21ce74d59d626e409f76061d6750bd2f7a8c479e463012cdad1348783
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/sharafigroupinvestments
-  timestamp: 2021-06-03 20:17:44.779675
+  timestamp: 2021-10-10 21:01:36.398125
   title: XingTeam News - Sharafi Group Investments
-  url: !!set {'http://tpze4yo74m6qflef.onion/hFIcsmSHfnjYzhZlJPED/zj7tMmrL3QM2zDoQR2IX/sre_ae_Pu/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/hFIcsmSHfnjYzhZlJPED/zj7tMmrL3QM2zDoQR2IX/sre_ae_Pu/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-24']
@@ -767,20 +1758,52 @@
     : null
     ? !!python/tuple [victim, Coastal Family Health Center]
     : null
-  data: "**Medical services**\n###  Coastal Family Health Center\nCoastal Family Health\
-    \ Center has a massive leak of the personal data!\n\n# Target Info\nCompany Name\n\
-    \    Coastal Family Health Center\nTotal Revenue\n    $100 M\nVolume Of Stolen\
-    \ Data\n    506 GB \nPublished\n    2021-05-24\nLast Updated:\n    2021-05-24\n\
-    Info\nCompany refuses to cooperate and fix a reasons of leak. That's why we were\n\
-    forced to publish all information we have.\nPublished: 100% (full dump)\n"
-  hmac: dc8ae2c508fb66b7cd2c3a8abc0a88082261aa9db6db1785164d79f7234efb57
+  data: '**Medical services**
+
+    ### Coastal Family Health Center
+
+    Coastal Family Health Center has a massive leak of the personal data!
+
+
+    # Target Info
+
+    Company Name
+
+    Coastal Family Health Center
+
+    Total Revenue
+
+    $100 M
+
+    Volume Of Stolen Data
+
+    506 GB
+
+    Published
+
+    2021-05-24
+
+    Last Updated:
+
+    2021-05-24
+
+    Info
+
+    Company refuses to cooperate and fix a reasons of leak. That''s why we were
+
+    forced to publish all information we have.
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 5dd66950b913605985eb676bcdbd789981be14cd8878d1bb79514196da04dc06
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/coastalfamilyhealthcenter
-  timestamp: 2021-06-03 20:17:45.408617
+  timestamp: 2021-10-10 21:01:36.398134
   title: XingTeam News - Coastal Family Health Center
-  url: !!set {'http://tpze4yo74m6qflef.onion/RpLVVSd8R2WRIpdG5WsZ/E3dFo6cL7qfZ85TCyKvL/coastalfamilyhealth/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/RpLVVSd8R2WRIpdG5WsZ/E3dFo6cL7qfZ85TCyKvL/coastalfamilyhealth/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-24']
@@ -791,27 +1814,126 @@
     : null
     ? !!python/tuple [victim, T.I.S. Group]
     : null
-  data: "**Academic publishing and textbook distribution business**\n###  T.I.S. Group\n\
-    All data is available! Academic publishing and textbook distribution business.\n\
-    \n# Target Info\nCompany Name\n    T.I.S. Group\nTotal Revenue\n    $50 M\nVolume\
-    \ Of Stolen Data\n    102 GB\nPublished\n    2021-05-24\nLast Updated:\n    2021-05-24\n\
-    Info\n###### The T.I.S. Group upholds a standard of quality products and services\n\
-    through our business units: College Bookstores, and Licensed Collegiate\nApparel\n\
-    ###### T.I.S. began in 1962 as a family-run academic publishing and textbook\n\
-    distribution business called Tichenor Institutional Services (T.I.S., for\nshort).\
-    \ Over the years the name of the company became just the initials, as\nT.I.S.\
-    \ expanded its business to include a wide range of interests from college\nbookstores\
-    \ to sportswear imprinting.\n###### T.I.S. is still family-owned and -run by the\
-    \ Tichenors, and is based on\nthe same ideal of high quality professional service\
-    \ in all our divisions.\nPublished: 100% (full dump)\n"
-  hmac: f91fdda9e82a00526cd694f5adfbe3de50d3c43d744a8b44ffcb0eb2cb4f6709
+  data: '**Academic publishing and textbook distribution business**
+
+    ### T.I.S. Group
+
+    All data is available! Academic publishing and textbook distribution business.
+
+
+    # Target Info
+
+    Company Name
+
+    T.I.S. Group
+
+    Total Revenue
+
+    $50 M
+
+    Volume Of Stolen Data
+
+    102 GB
+
+    Published
+
+    2021-05-24
+
+    Last Updated:
+
+    2021-05-24
+
+    Info
+
+    ###### The T.I.S. Group upholds a standard of quality products and services
+
+    through our business units: College Bookstores, and Licensed Collegiate
+
+    Apparel
+
+    ###### T.I.S. began in 1962 as a family-run academic publishing and textbook
+
+    distribution business called Tichenor Institutional Services (T.I.S., for
+
+    short). Over the years the name of the company became just the initials, as
+
+    T.I.S. expanded its business to include a wide range of interests from college
+
+    bookstores to sportswear imprinting.
+
+    ###### T.I.S. is still family-owned and -run by the Tichenors, and is based on
+
+    the same ideal of high quality professional service in all our divisions.
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 3a181ff81ab7024ebc018def519f2e4e1bf6d801c8b2880ff94bddbf6bd76d04
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/tisgroup
-  timestamp: 2021-06-03 20:17:46.018704
+  timestamp: 2021-10-10 21:01:36.398143
   title: XingTeam News - T.I.S. Group
-  url: !!set {'http://yk7erwdvj4vxcgiq3gmcufkben4bk4ixddl5j2xvu7gurtdq754jmiad.onion/TISINC/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://yk7erwdvj4vxcgiq3gmcufkben4bk4ixddl5j2xvu7gurtdq754jmiad.onion/TISINC/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-05-18']
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, '2021-06-03']
+    : null
+    ? !!python/tuple [victim, OSF Healthcare System]
+    : null
+  data: '**Healthcare**
+
+    ### OSF Healthcare System
+
+    112 GB of sensitive information is available! You can get all data for free!
+
+
+    # Target Info
+
+    Company Name
+
+    OSF Healthcare System
+
+    Total Revenue
+
+    $3 B
+
+    Volume Of Stolen Data
+
+    112 GB
+
+    Published
+
+    2021-05-18
+
+    Last Updated:
+
+    2021-06-03
+
+    Info
+
+    Company refused to cooperate and participants post all data here. You can get
+
+    all! Emails, phones, staff data, patients information, contracts, finance
+
+    information, pictures - all is available!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 0cf159177c2b3069075e745e7b2c966119e57241b257b5e539b6ef482069a31d
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/osfhealthcaresystem
+  timestamp: 2021-10-10 21:01:36.398155
+  title: XingTeam News - OSF Healthcare System
+  url: ['http://tpze4yo74m6qflef.onion/O0X0eQzFl1TTJVDEyPeI/ULOHKxFVnXxy4qNTlezn/OSFHEALTHCARE/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-14']
@@ -822,22 +1944,58 @@
     : null
     ? !!python/tuple [victim, Solen A.S]
     : null
-  data: "**Solen A.S founded in 1989 and headquartered in Gaziantep, Turkey, exports\n\
-    over 200 products in the categories of snacks, children's products, gifts, and\n\
-    catering**\n###  Solen A.S\nPOSTED! Solen A.S founded in 1989 and headquartered\
-    \ in Gaziantep, Turkey,\nexports over 200 products in the categories of snacks,\
-    \ children's products,\ngifts, and catering\n\n# Target Info\nCompany Name\n \
-    \   Solen A.S \nTotal Revenue\n    $543 M\nVolume Of Stolen Data\n    90 GB\n\
-    Published\n    2021-05-14\nLast Updated:\n    2021-05-21\nInfo\nA lot of interesting\
-    \ information is posted!\nPublished: 50% (half dump)\n"
-  hmac: 9bc2e2336c9d6e98720117e5cfb09fe633bd86cfd2cc3b006bccbea0e62d5677
+  data: '**Solen A.S founded in 1989 and headquartered in Gaziantep, Turkey, exports
+
+    over 200 products in the categories of snacks, children''s products, gifts, and
+
+    catering**
+
+    ### Solen A.S
+
+    POSTED! Solen A.S founded in 1989 and headquartered in Gaziantep, Turkey,
+
+    exports over 200 products in the categories of snacks, children''s products,
+
+    gifts, and catering
+
+
+    # Target Info
+
+    Company Name
+
+    Solen A.S
+
+    Total Revenue
+
+    $543 M
+
+    Volume Of Stolen Data
+
+    90 GB
+
+    Published
+
+    2021-05-14
+
+    Last Updated:
+
+    2021-05-21
+
+    Info
+
+    A lot of interesting information is posted!
+
+    Published: 50% (half dump)
+
+    '
+  hmac: d7833db622e64b9f4a25fae7321718acd25a4398b9c12ca6a8e282ba36cab538
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/solenas
-  timestamp: 2021-06-03 20:17:46.789237
+  timestamp: 2021-10-10 21:01:36.398164
   title: XingTeam News - Solen A.S
-  url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-14']
@@ -848,21 +2006,56 @@
     : null
     ? !!python/tuple [victim, CBN Logistic]
     : null
-  data: "**Logistic & Transportation services**\n###  CBN Logistic\nPOSTED! CBN Logistic\
-    \ & Solen A.S operate in Gaziantep, Turkey, exports over\n200 products in the\
-    \ categories of snacks, children's products, gifts, and\ncatering\n\n# Target\
-    \ Info\nCompany Name\n    CBN Logistic\nTotal Revenue\n    $543M (with Solen A.S)\n\
-    Volume Of Stolen Data\n    90 GB\nPublished\n    2021-05-14\nLast Updated:\n \
-    \   2021-05-21\nInfo\nData is posted!!! This Company was attacked simultaneously\
-    \ with Solen A.S ,\nbut we have a lot of data here!\nPublished: 50% (half dump)\n"
-  hmac: 2ca1a26bf21cc15128501988eb377e6767b1129a0b4be7cd325ef81d45327812
+  data: '**Logistic & Transportation services**
+
+    ### CBN Logistic
+
+    POSTED! CBN Logistic & Solen A.S operate in Gaziantep, Turkey, exports over
+
+    200 products in the categories of snacks, children''s products, gifts, and
+
+    catering
+
+
+    # Target Info
+
+    Company Name
+
+    CBN Logistic
+
+    Total Revenue
+
+    $543M (with Solen A.S)
+
+    Volume Of Stolen Data
+
+    90 GB
+
+    Published
+
+    2021-05-14
+
+    Last Updated:
+
+    2021-05-21
+
+    Info
+
+    Data is posted!!! This Company was attacked simultaneously with Solen A.S ,
+
+    but we have a lot of data here!
+
+    Published: 50% (half dump)
+
+    '
+  hmac: 4c4151011ae4bf90a539da426fad757bef473e0fa0f5064b3ad8cdc80fc77257
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/cbnlogistic
-  timestamp: 2021-06-03 20:17:47.384365
+  timestamp: 2021-10-10 21:01:36.398174
   title: XingTeam News - CBN Logistic
-  url: !!set {'http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/ngnkqgoDxsy4PObPMiYk/H38iJhXHAFql1dZfFV9T/SOLEN_TR/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-14']
@@ -873,21 +2066,56 @@
     : null
     ? !!python/tuple [victim, LineStar]
     : null
-  data: "**LineStar is an integrated pipeline compliance, technology and integrity\n\
-    maintenance company headquartered in Houston, Texas.**\n###  LineStar\nAll data\
-    \ is AVAILABLE NOW!!! As a one of the biggest pipeline maintenance\ncompany, Linestar\
-    \ has a lot of sensitive information. We've got it all!\n\n# Target Info\nCompany\
-    \ Name\n    LineStar\nTotal Revenue\n    $171 Million\nVolume Of Stolen Data\n\
-    \    70 GB\nPublished\n    2021-05-14\nLast Updated:\n    2021-05-19\nInfo\nAll\
-    \ data is AVAILABLE NOW!!!\nGet it all!\nPublished: 100% (full dump)\n"
-  hmac: e6b7ccc698e91352180f93e43c044fb1da96a19fe5739778c4b9f648ade92013
+  data: '**LineStar is an integrated pipeline compliance, technology and integrity
+
+    maintenance company headquartered in Houston, Texas.**
+
+    ### LineStar
+
+    All data is AVAILABLE NOW!!! As a one of the biggest pipeline maintenance
+
+    company, Linestar has a lot of sensitive information. We''ve got it all!
+
+
+    # Target Info
+
+    Company Name
+
+    LineStar
+
+    Total Revenue
+
+    $171 Million
+
+    Volume Of Stolen Data
+
+    70 GB
+
+    Published
+
+    2021-05-14
+
+    Last Updated:
+
+    2021-05-19
+
+    Info
+
+    All data is AVAILABLE NOW!!!
+
+    Get it all!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 91ed3be6123b3585f48a18b7e0d08b70eaa502b2533ac80877610702751c9291
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/linestar
-  timestamp: 2021-06-03 20:17:47.969130
+  timestamp: 2021-10-10 21:01:36.398184
   title: XingTeam News - LineStar
-  url: !!set {'http://tpze4yo74m6qflef.onion/TxTTc4rmBrjrGK0Hiu9O/4DY84YH0xRHjN539Ta3Z/LINESTAR/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/TxTTc4rmBrjrGK0Hiu9O/4DY84YH0xRHjN539Ta3Z/LINESTAR/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-13']
@@ -898,48 +2126,118 @@
     : null
     ? !!python/tuple [victim, Desert Plastering LLC]
     : null
-  data: "**building & construction**\n###  Desert Plastering LLC\nAll is here! Drawings,\
-    \ technical data, financial documents etc. All will be\navailable within 72 hours!\n\
-    \n# Target Info\nCompany Name\n    Desert Plastering LLC\nTotal Revenue\n    $57M\n\
-    Volume Of Stolen Data\n    40GB\nPublished\n    2021-05-13\nLast Updated:\n  \
-    \  2021-05-19\nInfo\nAll data is available to download now!\nPublished: 100% (full\
-    \ dump)\n"
-  hmac: d7544ac7bddc7645f3ba9f9870fa713cdbd6b364c66bfc266941da84202ece7f
+  data: '**building & construction**
+
+    ### Desert Plastering LLC
+
+    All is here! Drawings, technical data, financial documents etc. All will be
+
+    available within 72 hours!
+
+
+    # Target Info
+
+    Company Name
+
+    Desert Plastering LLC
+
+    Total Revenue
+
+    $57M
+
+    Volume Of Stolen Data
+
+    40GB
+
+    Published
+
+    2021-05-13
+
+    Last Updated:
+
+    2021-05-19
+
+    Info
+
+    All data is available to download now!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: c47bcb034d008bd36126393b0aa37c9430ec9dc9497bb8751e37d3365ad29511
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/desertplasteringllc
-  timestamp: 2021-06-03 20:17:48.590857
+  timestamp: 2021-10-10 21:01:36.398193
   title: XingTeam News - Desert Plastering LLC
-  url: !!set {'http://tpze4yo74m6qflef.onion/GpbSb1WYA5ASqjW7HLS2/cH0SrJTbEzcQEL2qTmPW/DESERT_BML/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/GpbSb1WYA5ASqjW7HLS2/cH0SrJTbEzcQEL2qTmPW/DESERT_BML/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-11']
     : null
-    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
     : null
-    ? !!python/tuple [updated, '2021-05-19']
+    ? !!python/tuple [updated, '2021-06-04']
     : null
     ? !!python/tuple [victim, Gulfeagle Supply]
     : null
-  data: "**Building and Production**\n###  Gulfeagle Supply\nData is available! Gulfeagle\
-    \ Supply is dedicated to the principle of providing\nour customers with quality\
-    \ products and superior service. We strive for\nsuccess through our commitment\
-    \ to this principle, as we realize our livelihood\ndepends upon it.\n\n# Target\
-    \ Info\nCompany Name\n    Gulfeagle Supply\nTotal Revenue\n    $740M\nVolume Of\
-    \ Stolen Data\n    85 GB \nPublished\n    2021-05-11\nLast Updated:\n    2021-05-19\n\
-    Info\nDownload all here! All is available for free!\nCompany has a huge leak of\
-    \ personal data, so we are trying to convince them.\nBy the end of the week data\
-    \ will be published, if an agreement isn't reached.\nDL scans, SSN, Tax forms,\
-    \ payrolls, financial reports, etc.\nPublished: 0% (announcement)\n"
-  hmac: e80c9b7acb06c423d26f02a6da3de2b7f4049977b3ba3f5077eca87e1687b238
+  data: '**Building and Production**
+
+    ### Gulfeagle Supply
+
+    Data is available! Gulfeagle Supply is dedicated to the principle of providing
+
+    our customers with quality products and superior service. We strive for
+
+    success through our commitment to this principle, as we realize our livelihood
+
+    depends upon it.
+
+
+    # Target Info
+
+    Company Name
+
+    Gulfeagle Supply
+
+    Total Revenue
+
+    $740M
+
+    Volume Of Stolen Data
+
+    85 GB
+
+    Published
+
+    2021-05-11
+
+    Last Updated:
+
+    2021-06-04
+
+    Info
+
+    Download all here! All is available for free!
+
+    Company has a huge leak of personal data, so we are trying to convince them.
+
+    By the end of the week data will be published, if an agreement isn''t reached.
+
+    DL scans, SSN, Tax forms, payrolls, financial reports, etc.
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 4ac3fa2a5b519c7b09b303df2c1d8882aafba876e9eb93c738c70f2f2b772521
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/gulfeaglesupply
-  timestamp: 2021-06-03 20:17:49.216279
+  timestamp: 2021-10-10 21:01:36.398202
   title: XingTeam News - Gulfeagle Supply
-  url: !!set {'http://czuvhiijpadbnysu.onion/U7ifgMdojXZZLVHlHJxq/NdKq783DPxbhboWYLuMk/GULFEAGLESUPPLY/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://3klsbd4dwj3yqgo4xpogfgwqkljbnbdxjryeqks2cjion5jj33wvkqyd.onion/GULFEAGLESUPPLY/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-06']
@@ -950,19 +2248,52 @@
     : null
     ? !!python/tuple [victim, GlobeMed Saudi]
     : null
-  data: "**Healthcare**\n###  GlobeMed Saudi\nAvailable to download! Massive leak\
-    \ of patients data, employees information,\nfinancial reports etc.\n\n# Target\
-    \ Info\nCompany Name\n    GlobeMed Saudi\nTotal Revenue\n    $100 M\nVolume Of\
-    \ Stolen Data\n    201 GB\nPublished\n    2021-05-06\nLast Updated:\n    2021-05-11\n\
-    Info\n**_Data is posted! Available to download!_**\nPublished: 50% (half dump)\n"
-  hmac: bbcc45edd84476f560d91234bc8e39706d560330abb8defb57962da9b96f3126
+  data: '**Healthcare**
+
+    ### GlobeMed Saudi
+
+    Available to download! Massive leak of patients data, employees information,
+
+    financial reports etc.
+
+
+    # Target Info
+
+    Company Name
+
+    GlobeMed Saudi
+
+    Total Revenue
+
+    $100 M
+
+    Volume Of Stolen Data
+
+    201 GB
+
+    Published
+
+    2021-05-06
+
+    Last Updated:
+
+    2021-05-11
+
+    Info
+
+    **_Data is posted! Available to download!_**
+
+    Published: 50% (half dump)
+
+    '
+  hmac: f86261f59c519e11cd1495a55743a644fe67494b57e7e1912358848117d237cb
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/globemedsaudi
-  timestamp: 2021-06-03 20:17:50.059699
+  timestamp: 2021-10-10 21:01:36.398212
   title: XingTeam News - GlobeMed Saudi
-  url: !!set {'http://tpze4yo74m6qflef.onion/h4iWnlTCCZ0qzR2Jq979/sEVJl0HTYNN9AYg3Rgl0/GLOBEMED_SAUDI/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/h4iWnlTCCZ0qzR2Jq979/sEVJl0HTYNN9AYg3Rgl0/GLOBEMED_SAUDI/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-06']
@@ -973,19 +2304,50 @@
     : null
     ? !!python/tuple [victim, Washoe Tribe]
     : null
-  data: "**Hunting & Fishing, Entertainment **\n###  Washoe Tribe\nAll documents are\
-    \ available to download! Interesting for research!\n\n# Target Info\nCompany Name\n\
-    \    Washoe Tribe\nTotal Revenue\n    $49 Million\nVolume Of Stolen Data\n   \
-    \ 160 GB\nPublished\n    2021-05-06\nLast Updated:\n    2021-05-06\nInfo\nA lot\
-    \ of personal information and confidential data!\nPublished: 100% (full dump)\n"
-  hmac: d691d3c5b99ec717b4bf5fc72b0239ccbf22281e9d6ed2b51389bcfd801f02ee
+  data: '**Hunting & Fishing, Entertainment **
+
+    ### Washoe Tribe
+
+    All documents are available to download! Interesting for research!
+
+
+    # Target Info
+
+    Company Name
+
+    Washoe Tribe
+
+    Total Revenue
+
+    $49 Million
+
+    Volume Of Stolen Data
+
+    160 GB
+
+    Published
+
+    2021-05-06
+
+    Last Updated:
+
+    2021-05-06
+
+    Info
+
+    A lot of personal information and confidential data!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 104a9fad5f44bea70621e4fe19142d57190243c03bedebcedd5bad056cd72b40
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/washoetribe
-  timestamp: 2021-06-03 20:17:50.660133
+  timestamp: 2021-10-10 21:01:36.398221
   title: XingTeam News - Washoe Tribe
-  url: !!set {'http://tpze4yo74m6qflef.onion/qIlrZ0R4T6z4Dfgr2zgV/yIH3AE7Xk1BgHWI8fH1V/WASHOE_TRIBE/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/qIlrZ0R4T6z4Dfgr2zgV/yIH3AE7Xk1BgHWI8fH1V/WASHOE_TRIBE/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-05-06']
@@ -996,23 +2358,60 @@
     : null
     ? !!python/tuple [victim, 'Bridgelux, Inc.']
     : null
-  data: "**Lighting - production and sales**\n###  Bridgelux, Inc.\nMassive leak of\
-    \ personal data! Passport scans, DL scans, tax forms, finance.\nAlso patents,\
-    \ drawings are available.\n\n# Target Info\nCompany Name\n    Bridgelux, Inc.\
-    \ \nTotal Revenue\n    $41 Million\nVolume Of Stolen Data\n    1 GB\nPublished\n\
-    \    2021-05-06\nLast Updated:\n    2021-05-06\nInfo\nA lot of information is\
-    \ available. It could be interesting for the competitors\nbecause contains technical\
-    \ data, drawings, description etc.\nAnother huge piece of data has a lot of personal\
-    \ data - passport scans, DL\nscans etc.\nAll is free to download!\nPublished:\
-    \ 100% (full dump)\n"
-  hmac: c4acfdc2b707298453de8caa71ec4d6e479b31e87998297674f1ba593384efb7
+  data: '**Lighting - production and sales**
+
+    ### Bridgelux, Inc.
+
+    Massive leak of personal data! Passport scans, DL scans, tax forms, finance.
+
+    Also patents, drawings are available.
+
+
+    # Target Info
+
+    Company Name
+
+    Bridgelux, Inc.
+
+    Total Revenue
+
+    $41 Million
+
+    Volume Of Stolen Data
+
+    1 GB
+
+    Published
+
+    2021-05-06
+
+    Last Updated:
+
+    2021-05-06
+
+    Info
+
+    A lot of information is available. It could be interesting for the competitors
+
+    because contains technical data, drawings, description etc.
+
+    Another huge piece of data has a lot of personal data - passport scans, DL
+
+    scans etc.
+
+    All is free to download!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 28bccc0e1fe5c7285c53aa15928fbf500f7d28ababe16d71a2f7a840a8465ad5
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/bridgeluxinc
-  timestamp: 2021-06-03 20:17:51.267886
+  timestamp: 2021-10-10 21:01:36.398231
   title: XingTeam News - Bridgelux, Inc.
-  url: !!set {'http://tpze4yo74m6qflef.onion/acOXftrwJJhZOprIX1z0/fJbuiGglJWSqDfmd7krL/BRIDGELUX/': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://tpze4yo74m6qflef.onion/acOXftrwJJhZOprIX1z0/fJbuiGglJWSqDfmd7krL/BRIDGELUX/']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-04-29']
@@ -1023,24 +2422,24 @@
     : null
     ? !!python/tuple [victim, Pezzuto Group]
     : null
-  data: "**Autodealer**\n###  Pezzuto Group\nCompany has a massive leak of the data\
+  data: "**Autodealer**\n### Pezzuto Group\nCompany has a massive leak of the data\
     \ such as drivers licenses, financial\ncontracts, tax info, even clients passports\
     \ scans. Management refuses to\ncooperate and we post full dump of information\n\
-    \n# Target Info\nCompany Name\n    Pezzuto Group\nTotal Revenue\n    $60 Million\n\
-    Volume Of Stolen Data\n    100GB\nPublished\n    2021-04-29\nLast Updated:\n \
-    \   2021-04-29\nInfo\nYou can download all what you want to have. A lot of personal\
-    \ and confidential\ndata inside.\nCompany has a massive leak of the data such\
-    \ as drivers licenses, financial\ncontracts, tax info, even clients passports\
-    \ scans.\nPezzuto Group\nIndirizzo: Via Vecchia San Donato \u2013 73020 Cavallino\
-    \ (LE)\nTelefono: 0832 231841\nPublished: 100% (full dump)\n"
-  hmac: a0d009ff6f16df7410513b7f1bbb95f58a900c258382ccefde31866c6ce9a7ec
+    \n# Target Info\nCompany Name\nPezzuto Group\nTotal Revenue\n$60 Million\nVolume\
+    \ Of Stolen Data\n100GB\nPublished\n2021-04-29\nLast Updated:\n2021-04-29\nInfo\n\
+    You can download all what you want to have. A lot of personal and confidential\n\
+    data inside.\nCompany has a massive leak of the data such as drivers licenses,\
+    \ financial\ncontracts, tax info, even clients passports scans.\nPezzuto Group\n\
+    Indirizzo: Via Vecchia San Donato \u2013 73020 Cavallino (LE)\nTelefono: 0832\
+    \ 231841\nPublished: 100% (full dump)\n"
+  hmac: dd83bc9e2554b8a6e66131b64a8352c629fc3357b296ade849f4052e76b984a9
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/pezzutogroup
-  timestamp: 2021-06-03 20:17:51.838964
+  timestamp: 2021-10-10 21:01:36.398241
   title: XingTeam News - Pezzuto Group
-  url: !!set {'http://x4mjvffmytkw3hyu.onion/WQJ0xogtAYHVkkKqc9Vt/oEz5dXKgUsYysl2QCIfy/pezzuto': null}
-- !!python/object:lib.darksuce_class.record
+  url: ['http://x4mjvffmytkw3hyu.onion/WQJ0xogtAYHVkkKqc9Vt/oEz5dXKgUsYysl2QCIfy/pezzuto']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set
     ? !!python/tuple [publication, '2021-04-29']
@@ -1051,20 +2450,439 @@
     : null
     ? !!python/tuple [victim, NAVNIT GROUP]
     : null
-  data: "**The Navnit Group, a Rs. 1000 crore plus network of diverse companies, is\
-    \ a\nreputed and professionally managed Mumbai-based business and brand. It\n\
-    operates in the mobility segments spanning land, sea, air and allied\nbusinesses.**\n\
-    ###  NAVNIT GROUP\nIt's a huge holding company which didn't keep confidentional\
-    \ info in secret.\nAll is inside!\n\n# Target Info\nCompany Name\n    NAVNIT GROUP\n\
-    Total Revenue\n    $521 Million\nVolume Of Stolen Data\n    500 GB\nPublished\n\
-    \    2021-04-29\nLast Updated:\n    2021-04-29\nInfo\nWe publish full dump, a\
-    \ lot of passports, DL scans, credit cards, financial\ndocuments. A lot of tax\
-    \ forms, personal information of staff, corporate\ndatabases and much much more.\n\
-    Published: 100% (full dump)\n"
-  hmac: ad87ca4a5bb0103dac6e04c5e70f9378c4b4172843d2e44901b95ced4d39f3f8
+  data: '**The Navnit Group, a Rs. 1000 crore plus network of diverse companies, is
+    a
+
+    reputed and professionally managed Mumbai-based business and brand. It
+
+    operates in the mobility segments spanning land, sea, air and allied
+
+    businesses.**
+
+    ### NAVNIT GROUP
+
+    It''s a huge holding company which didn''t keep confidentional info in secret.
+
+    All is inside!
+
+
+    # Target Info
+
+    Company Name
+
+    NAVNIT GROUP
+
+    Total Revenue
+
+    $521 Million
+
+    Volume Of Stolen Data
+
+    500 GB
+
+    Published
+
+    2021-04-29
+
+    Last Updated:
+
+    2021-04-29
+
+    Info
+
+    We publish full dump, a lot of passports, DL scans, credit cards, financial
+
+    documents. A lot of tax forms, personal information of staff, corporate
+
+    databases and much much more.
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 64fa8c88b438b86ad660d50cceceaf3df6c12fbbbc5a9dbea2612df0e5170a34
   ltype: Shaming list
   malware: Unknown
   source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/navnitgroup
-  timestamp: 2021-06-03 20:17:52.478710
+  timestamp: 2021-10-10 21:01:36.398253
   title: XingTeam News - NAVNIT GROUP
-  url: !!set {'http://tpze4yo74m6qflef.onion/QV2qLjTu9N2AgBrGI13z/5y7TRWoCo7UWyDLVm5mj/NAVNIT': null}
+  url: ['http://tpze4yo74m6qflef.onion/QV2qLjTu9N2AgBrGI13z/5y7TRWoCo7UWyDLVm5mj/NAVNIT']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-07-08']
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, '2021-07-08']
+    : null
+    ? !!python/tuple [victim, DiaSorin]
+    : null
+  data: '**Global leader in the laboratory diagnostics market**
+
+    ### DiaSorin
+
+    Global leader in the laboratory diagnostics market, specializing in the
+
+    immunodiagnostics and molecular diagnostics segments.
+
+
+    # Target Info
+
+    Company Name
+
+    DiaSorin
+
+    Total Revenue
+
+    $1B
+
+    Volume Of Stolen Data
+
+    200 GB
+
+    Published
+
+    2021-07-08
+
+    Last Updated:
+
+    2021-07-08
+
+    Info
+
+    We present a diamond - 200 GB of research, engineering, projects and
+
+    confidential documents of DiaSorin Group. Databases, emails, backups, drawings
+
+    - all documents are available for free download! You can use all this
+
+    absolutely free of charge!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 62a39a18243c4fd3aea39e84155683982d24a5ffb52f2328e8a33ddaca5dfc3b
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/diasorin
+  timestamp: 2021-10-10 21:01:36.398264
+  title: XingTeam News - DiaSorin
+  url: ['http://qfgh2lpslhjb33z3wsenmqrxcdragelinvcpowlgkbjca6yig5zloeyd.onion/diasorin.com/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-07-15']
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, '2021-07-15']
+    : null
+    ? !!python/tuple [victim, Paxton Access]
+    : null
+  data: '**Access control systems**
+
+    ### Paxton Access
+
+    At Paxton, we design and manufacture market-leading IP access control, door
+
+    entry and building intelligence systems for smart buildings
+
+
+    # Target Info
+
+    Company Name
+
+    Paxton Access
+
+    Total Revenue
+
+    $57 Million
+
+    Volume Of Stolen Data
+
+    2 TB
+
+    Published
+
+    2021-07-15
+
+    Last Updated:
+
+    2021-07-15
+
+    Info
+
+    This is a leader in the access systems production, so a lot of banks,
+
+    corporations uses those systems to control access and secure their buildings!
+
+    We have full package of software, developments and source codes! Follow the
+
+    news and you can have full access!
+
+    Published: 0% (announcement)
+
+    '
+  hmac: dbf8b18746db75e9c552a9bddf5534a75476e24de3b7de55d08ee928a44b76eb
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/paxtonaccess
+  timestamp: 2021-10-10 21:01:36.398274
+  title: XingTeam News - Paxton Access
+  url: []
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-08-17']
+    : null
+    ? !!python/tuple [published, 'Published: 100% (full dump)']
+    : null
+    ? !!python/tuple [updated, '2021-08-17']
+    : null
+    ? !!python/tuple [victim, J.Irwin Company]
+    : null
+  data: '**Gas, OIL, Management**
+
+    ### J.Irwin Company
+
+    NG Cotton formed J. Irwin Company in May of 2000 and never looked back,
+
+    growing the company from 5 employees to over 300 and still rising. NG founded
+
+    J. Irwin Company with grit, determination and his extraordinary knowledge,
+
+    experience and leadership in the natural gas construction industry.
+
+
+    # Target Info
+
+    Company Name
+
+    J.Irwin Company
+
+    Total Revenue
+
+    $48 Million
+
+    Volume Of Stolen Data
+
+    309 MB
+
+    Published
+
+    2021-08-17
+
+    Last Updated:
+
+    2021-08-17
+
+    Info
+
+    All data is available to download for free!
+
+    A lot of interesting!
+
+    Published: 100% (full dump)
+
+    '
+  hmac: 9c45104008163ce3867ee511f39ec51b7b23c88bbfc632b35f7d88b9163aca2a
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/jirwincompany
+  timestamp: 2021-10-10 21:01:36.398284
+  title: XingTeam News - J.Irwin Company
+  url: ['http://hceesrsg6f5p4gcph4j6jv6vl4mkmaik735oz4r45lgjfyedsxfoprad.onion/JIC/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-10-08']
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, '2021-10-08']
+    : null
+    ? !!python/tuple [victim, Tilia GmbH. TILIA GROUP]
+    : null
+  data: '**Infrastructure and utility services, alternate energy.**
+
+    ### Tilia GmbH. TILIA GROUP
+
+    Partner''s Publication. Group of companies with wide specialisation in
+
+    enviroment and utility.
+
+
+    # Target Info
+
+    Company Name
+
+    Tilia GmbH. TILIA GROUP
+
+    Total Revenue
+
+    34.27 Billions
+
+    Volume Of Stolen Data
+
+    490Gb (293796 files)
+
+    Published
+
+    2021-10-08
+
+    Last Updated:
+
+    2021-10-08
+
+    Info
+
+    Key ideas, driven from our experience, inspired the foundation of Tilia in
+
+    2009.
+
+    In 2019, Tilia''s revenue reached 34.27 billion EUR (40.7 billion USD), with
+
+    more than 500 projects worldwide.
+
+    Almost 500 GB of data was stolen! A lot of confidential information, financial
+
+    papers, passports, project documents etc.
+
+    Published: 0% (announcement)
+
+    '
+  hmac: f2915db1e8d9db0077ec43c146a7e38464dffa052ad4d4864b2f74e7aa5a875f
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/tiliagmbhtiliagroup
+  timestamp: 2021-10-10 21:01:36.398295
+  title: XingTeam News - Tilia GmbH. TILIA GROUP
+  url: []
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-10-08']
+    : null
+    ? !!python/tuple [published, 'Published: 0% (announcement)']
+    : null
+    ? !!python/tuple [updated, '2021-10-18']
+    : null
+    ? !!python/tuple [victim, Tilia GmbH. TILIA GROUP]
+    : null
+  data: '**Infrastructure and utility services, alternate energy.**
+
+    ### Tilia GmbH. TILIA GROUP
+
+    Partner''s Publication. Group of companies with wide specialisation in
+
+    enviroment and utility.
+
+
+    # Target Info
+
+    Company Name
+
+    Tilia GmbH. TILIA GROUP
+
+    Total Revenue
+
+    34.27 Billions
+
+    Volume Of Stolen Data
+
+    490Gb (293796 files)
+
+    Published
+
+    2021-10-08
+
+    Last Updated:
+
+    2021-10-18
+
+    Info
+
+    Key ideas, driven from our experience, inspired the foundation of Tilia in
+
+    2009.
+
+    In 2019, Tilia''s revenue reached 34.27 billion EUR (40.7 billion USD), with
+
+    more than 500 projects worldwide.
+
+    Almost 500 GB of data was stolen! A lot of confidential information, financial
+
+    papers, passports, project documents etc.
+
+    Published: 0% (announcement)
+
+    '
+  hmac: 21cd6958f724f0d38dfcdc3557194305abf322fbeb00fe7019ad75aa616b38b7
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/tiliagmbhtiliagroup
+  timestamp: 2021-10-20 15:07:34.924095
+  title: XingTeam News - Tilia GmbH. TILIA GROUP
+  url: ['http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion/target/tiliagroup']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [publication, '2021-10-26']
+    : null
+    ? !!python/tuple [published, 'Published: 5% (partial dump)']
+    : null
+    ? !!python/tuple [updated, '2021-10-26']
+    : null
+    ? !!python/tuple [victim, 'Wayne Automatic Fire Sprinklers, Inc.']
+    : null
+  data: '**Founded in 1978 and headquartered in Ocoee, Florida, Wayne Automatic Fire
+
+    Sprinklers offers installing, maintaining, and servicing fire sprinkler and
+
+    alarm systems**
+
+    ### Wayne Automatic Fire Sprinklers, Inc.
+
+    Founded in 1978 and headquartered in Ocoee, Florida, Wayne Automatic Fire
+
+    Sprinklers offers installing, maintaining, and servicing fire sprinkler and
+
+    alarm systems
+
+
+    # Target Info
+
+    Company Name
+
+    Wayne Automatic Fire Sprinklers, Inc.
+
+    Total Revenue
+
+    $100 Million
+
+    Volume Of Stolen Data
+
+    13 GB
+
+    Published
+
+    2021-10-26
+
+    Last Updated:
+
+    2021-10-26
+
+    Info
+
+    Company refuses to cooperate, so we are going to publish all data!
+
+    Published: 5% (partial dump)
+
+    '
+  hmac: d056f8eb7f1db34f9797585413b59a3f08f0170e09d62ce4e182aac51669ae24
+  ltype: Shaming list
+  malware: Unknown
+  source: http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion/target/wayneautomaticfiresprinklersinc
+  timestamp: 2021-10-26 15:01:28.902829
+  title: XingTeam News - Wayne Automatic Fire Sprinklers, Inc.
+  url: ['http://duxht3zdnb2dmq34o5w3tyzpy2kgylidnpaxsn2a7lcxoofb6hqmu7qd.onion/']

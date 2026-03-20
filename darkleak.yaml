@@ -1,5 +1,5 @@
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -40,17 +40,58 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=44
-  timestamp: 2021-06-02 20:06:12.989253
+  timestamp: 2021-10-07 03:05:16.886974
   title: AirIndia breach information of 4.5 million custome
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # PVR Cinemas Database Leak
+
+    May, 2021 / Leak / Price: $500
+
+    ![](images/pvr.jpg)
+
+    PVR Cinemas is a film entertainment company in India. The company started as a
+
+    joint venture agreement between Priya Exhibitors Private Limited and Village
+
+    Roadshow Limited. Database include Mobile Numbers of Customers and their
+
+    workers with all the financial documents and HR Department Records with many
+
+    more useful information
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 0cd457b95846dc7e4acd5eb11fb20cac6e14f2e4bc8f4d80cc6d98b0c841a1e1
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=46
+  timestamp: 2021-10-07 03:05:16.887014
+  title: PVR Cinemas Database Leak
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
   custom: !!set {}
   data: '
 
     # Dominos India Database Leak
 
-    May, 2021 / Leak / Price: $1000
+    April, 2021 / Leak / Price: $2000
 
     ![](images/dom.jpg)
 
@@ -77,15 +118,15 @@
     ![](sample.webp)
 
     '
-  hmac: 5462391339dc0eff5194b0d3832e3c7f2c16b42a7e36084b90fe182b29277908
+  hmac: e20667f3d164efd327f41dbee7e499b2d5b715bd848c8446d03267938afc7568
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=45
-  timestamp: 2021-06-02 20:06:12.989315
+  timestamp: 2021-10-07 03:05:16.887026
   title: Dominos India Database Leak
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -122,11 +163,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=38
-  timestamp: 2021-06-02 20:06:12.989335
+  timestamp: 2021-10-07 03:05:16.887037
   title: Tata Communications Huge Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -165,11 +206,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=41
-  timestamp: 2021-06-02 20:06:12.989350
+  timestamp: 2021-10-07 03:05:16.887047
   title: Upstox.com Huge Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -204,11 +245,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=40
-  timestamp: 2021-06-02 20:06:12.989365
+  timestamp: 2021-10-07 03:05:16.887057
   title: SBI YONO APP DATABASE
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -243,11 +284,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=42
-  timestamp: 2021-06-02 20:06:12.989378
+  timestamp: 2021-10-07 03:05:16.887067
   title: Astoria Company LLC data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -284,11 +325,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=31
-  timestamp: 2021-06-02 20:06:12.989391
+  timestamp: 2021-10-07 03:05:16.887076
   title: Mobikwik Leaked Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -325,11 +366,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=30
-  timestamp: 2021-06-02 20:06:12.989405
+  timestamp: 2021-10-07 03:05:16.887087
   title: Summit Credit Union Big Data Leak
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -368,11 +409,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=25
-  timestamp: 2021-06-02 20:06:12.989419
+  timestamp: 2021-10-07 03:05:16.887097
   title: Acer.com Leaked Data 100% Fresh
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -409,11 +450,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=33
-  timestamp: 2021-06-02 20:06:12.989435
+  timestamp: 2021-10-07 03:05:16.887108
   title: Xchange Telecom inc. New York Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -454,11 +495,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=34
-  timestamp: 2021-06-02 20:06:12.989448
+  timestamp: 2021-10-07 03:05:16.887118
   title: The Volkswagen Group Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -493,11 +534,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=39
-  timestamp: 2021-06-02 20:06:12.989463
+  timestamp: 2021-10-07 03:05:16.887128
   title: Shell.com Data Leak
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -532,11 +573,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=23
-  timestamp: 2021-06-02 20:06:12.989476
+  timestamp: 2021-10-07 03:05:16.887138
   title: Mexican Real Estate Bank Data Leaked
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -571,11 +612,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=24
-  timestamp: 2021-06-02 20:06:12.989491
+  timestamp: 2021-10-07 03:05:16.887148
   title: Union Bank of Nigeria Leaked Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: "\n# Brazil\xB4s 220 million people's Data Leaked\nMarch, 2021 / Leak / Price:\
     \ $5000\n![](images/brasil.png)\nThe data include personal data of more than 220\
@@ -591,11 +632,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=22
-  timestamp: 2021-06-02 20:06:12.989534
+  timestamp: 2021-10-07 03:05:16.887158
   title: "Brazil\xB4s 220 million people's Data Leaked"
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -628,11 +669,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=35
-  timestamp: 2021-06-02 20:06:12.989609
+  timestamp: 2021-10-07 03:05:16.887171
   title: EximBank Leaked Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -667,11 +708,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=29
-  timestamp: 2021-06-02 20:06:12.989668
+  timestamp: 2021-10-07 03:05:16.887181
   title: Foxconn Technology Group Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -716,11 +757,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=36
-  timestamp: 2021-06-02 20:06:12.989787
+  timestamp: 2021-10-07 03:05:16.887191
   title: Guess INC Huge Leaked Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -753,11 +794,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=15
-  timestamp: 2021-06-02 20:06:12.989814
+  timestamp: 2021-10-07 03:05:16.887202
   title: Telegram 50 Million user data dump
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -792,11 +833,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=16
-  timestamp: 2021-06-02 20:06:12.989828
+  timestamp: 2021-10-07 03:05:16.887211
   title: braskem.com.br Brazilian petrochemical Leak
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: "\n# Juspay.in Server Leaked Info Of 1 Billion Users\nFebruary, 2021 / Leak\
     \ / Price: $5000\n![](images/juspay.png)\nThe data includes information about\
@@ -815,11 +856,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=17
-  timestamp: 2021-06-02 20:06:12.989843
+  timestamp: 2021-10-07 03:05:16.887221
   title: Juspay.in Server Leaked Info Of 1 Billion Users
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -854,11 +895,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=18
-  timestamp: 2021-06-02 20:06:12.989881
+  timestamp: 2021-10-07 03:05:16.887235
   title: IDFC Bank Confidential Data Leak
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -893,11 +934,11 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=14
-  timestamp: 2021-06-02 20:06:12.989929
+  timestamp: 2021-10-07 03:05:16.887245
   title: 533 Million facebook Users Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set {}
   data: '
 
@@ -934,11 +975,164 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=20
-  timestamp: 2021-06-02 20:06:12.989945
+  timestamp: 2021-10-07 03:05:16.887254
   title: 2480000 Airtel India Customers Data
   url: !!set {}
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # ADATA corporation Leak
+
+    June, 2021 / Leak / Price: $500
+
+    ![](images/adata.jpeg)
+
+    Adata (www.adata.com) is Taiwanese memory and storage manufacturer, a huge
+
+    corporation with more than 1400 employees and international offices. Leak
+
+    includes: Database, Sensitive Files, Documents, Records, Schematics etc. Total
+
+    1.5TB of Data has been downloaded and store in our secure private servers with
+
+    many more useful information.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 0bdbebacd0f430c1eaf04e6a4c331b463523ec7e5d7da5234c1124d3b33c14fd
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=47
+  timestamp: 2021-10-07 03:05:16.887264
+  title: Dark leak market - ADATA corporation Leak
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Database of Covid19 Vaccination INDIA
+
+    June, 2021 / Leak / Price: $800
+
+    ![](images/cov.jpg)
+
+    Information of 150 Million COVID19 Vaccinated People of India with their Name,
+
+    Mobile Number, Aadhaar ID, GPS (Pin Point) Location, State etc. (PLEASE NOTE:
+
+    WE ARE NOT THE ORIGINAL LEAKER OF THIS DATA. WE ARE RESELLER)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 9715915acf408ad88870d0035831fb228282f6e70789a0e16c54ad7696f660fe
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=48
+  timestamp: 2021-10-07 03:05:16.887275
+  title: Dark leak market - Database of Covid19 Vaccination INDIA
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Database of Covid19 Vaccination INDIA
+
+    June, 2021 / Leak / Price: $1500
+
+    ![](images/cov.jpg)
+
+    Information of 150 Million COVID19 Vaccinated People of India with their Name,
+
+    Mobile Number, Aadhaar ID, GPS (Pin Point) Location, State etc. (PLEASE NOTE:
+
+    WE ARE NOT THE ORIGINAL LEAKER OF THIS DATA. WE ARE RESELLER)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: e3476b4efde53455d98429ea685644066465e07270518f48daf4f8a84962e12e
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=48
+  timestamp: 2021-10-07 03:05:16.887284
+  title: Dark leak market - Database of Covid19 Vaccination INDIA
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Database of Covid19 Vaccination INDIA
+
+    June, 2021 / Leak / Price: $3000
+
+    ![](images/cov.jpg)
+
+    Information of 150 Million COVID19 Vaccinated People of India with their Name,
+
+    Mobile Number, Aadhaar ID, GPS (Pin Point) Location, State etc. (PLEASE NOTE:
+
+    WE ARE NOT THE ORIGINAL LEAKER OF THIS DATA. WE ARE RESELLER)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: e11727e6ad0dfa5ffa949208e81db4b385a67f95ffb698865f1cc7d5aea79d07
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=48
+  timestamp: 2021-10-07 03:05:16.887294
+  title: Dark leak market - Database of Covid19 Vaccination INDIA
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/cov.jpg',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:darksuce_class.record
+  author: ''
   custom: !!set {}
   data: '
 
@@ -971,29 +1165,28 @@
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=21
-  timestamp: 2021-06-02 20:06:12.989959
-  title: Singtel.com Singapore Users Dump
-  url: !!set {}
-- !!python/object:lib.darksuce_class.record
+  timestamp: 2021-10-07 03:05:16.887303
+  title: Dark leak market - Singtel.com Singapore Users Dump
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/singtel.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:darksuce_class.record
   author: ''
   custom: !!set {}
   data: '
 
-    # PVR Cinemas Database Leak
+    # DreamHost Data Leak
 
-    May, 2021 / Leak / Price: $500
+    June, 2021 / Leak / Price: $500
 
-    ![](images/pvr.jpg)
+    ![](images/dho.png)
 
-    PVR Cinemas is a film entertainment company in India. The company started as a
+    Data include admin and user information for DreamPress accounts for WordPress
 
-    joint venture agreement between Priya Exhibitors Private Limited and Village
+    including WordPress login location URL, first and last names, email addresses,
 
-    Roadshow Limited. Database include Mobile Numbers of Customers and their
+    usernames, roles (admin, editor, registered user, etc.), host IP addresses and
 
-    workers with all the financial documents and HR Department Records with many
-
-    more useful information
+    timestamps etc. total 86.15 GB with 814,709,344 total records.
 
     > Press CTRL+D to Bookmark.
 
@@ -1008,13 +1201,374 @@
     ![](sample.webp)
 
     '
-  hmac: 0cd457b95846dc7e4acd5eb11fb20cac6e14f2e4bc8f4d80cc6d98b0c841a1e1
+  hmac: 7a82a41caac02ef88547a4aa80af3dcc23195a124749fb4ba4f4e5663a3e6423
   ltype: Shaming list
   malware: ''
-  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=46
-  timestamp: 2021-06-02 20:06:17.581283
-  title: PVR Cinemas Database Leak
-  url: !!set {}
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=48
+  timestamp: 2021-10-07 03:05:16.887313
+  title: Dark leak market - DreamHost Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/dho.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Cognyte Data Leak
+
+    June, 2021 / Leak / Price: $700
+
+    ![](images/cog.png)
+
+    Data include more than 5 billion records (Names, Passwords, Email addresses,
+
+    Original source of the leak.) Total there are 5,085,132,102 records. the data
+
+    belonged to high profile data breaches such as: Zoosk Tumbler Antipublic
+
+    MySpace Canva Verification.io iMesh Edmodo VK Exploit Master Breach Comp
+
+    Rambler Onebip Scentbird Appen.com Toondoo Wishbone Wattpad Mathway Promo.com
+
+    MGM Estante (Brazilian book shop)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: ce972950f21347bf53d19d17bf9f42eaf237f9bbe3a465d22e049dcc82fd90b6
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=49
+  timestamp: 2021-10-07 03:05:16.887322
+  title: Dark leak market - Cognyte Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/cog.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Liquid Global liquid.com
+
+    August, 2021 / Leak / Price: $1000
+
+    ![](images/liq.png)
+
+    Data include more than a Million records (All Users personal information with
+
+    their wallet address and other sensitive server information)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: f067557749d976b9a132ab3c28844a12a1f44edd1e48d9918c9c36e6edd895c8
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=51
+  timestamp: 2021-10-07 03:05:16.887333
+  title: Dark leak market - Liquid Global liquid.com
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/liq.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # AT&T Database Leak
+
+    August, 2021 / Leak / Price: $500
+
+    ![](images/atnt.png)
+
+    AT&T is Major telecom company. Data include more than 70 Million records of
+
+    SSN and Date of Birth
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 70d22dfcd87e3b7e13cf1f1ef0333d3899b0085f9883088bebe2baf2bd434550
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=52
+  timestamp: 2021-10-07 03:05:16.887342
+  title: Dark leak market - AT&T Database Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/atnt.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Pine Labs Data Leak
+
+    August, 2021 / Leak / Price: $750
+
+    ![](images/pl.jpg)
+
+    Pine Labs is an Indian merchant platform company that provides financing
+
+    retail transaction technology, It is one of the unicorn companies, with a
+
+    valuation of over US$1 billion. It provides a merchant platform and makes
+
+    software for point of sale machines. Leaked Data include more than 500000
+
+    records (Users personal information, Leaked Documents & other Sensitive
+
+    Information)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 2a51645ef1482db2939bb197b1b46e171cdccfb52833bdd8bd21c6301d06b04f
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=50
+  timestamp: 2021-10-07 03:05:16.887351
+  title: Dark leak market - Pine Labs Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/pl.jpg',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Gigabyte Data Leak
+
+    August, 2021 / Leak / Price: $500
+
+    ![](images/gbb.png)
+
+    Data of Gigabyte corp. internal company information from Gigabyte, along with
+
+    private data about tech giants AMD and Intel, leak included source code for
+
+    Intel Manageability Commander and confidential documents related to AMD.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: ebed6734bb2303d2b67ef182c484e90eb54ba0a49cd82c6f660c890c7480c478
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=53
+  timestamp: 2021-10-07 03:05:16.887361
+  title: Dark leak market - Gigabyte Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/gbb.png']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Syniverse Data Leak
+
+    October, 2021 / Leak / Price: $500
+
+    ![](images/syn.jpg)
+
+    The data include Billions of text messages and millions of telecom companies
+
+    cell phone user data, like - Name, Mobile Number, SMS Sent, Number of receiver
+
+    of SMS, Transactional SMS, DOB & SSN / ID No etc.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 5d65421124106b8878382baac33441f86f86648f75bf6f35fb3782726dcac374
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=54
+  timestamp: 2021-10-07 03:05:21.014637
+  title: Dark leak market - Syniverse Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/syn.jpg',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Epik Domain registrar and web host
+
+    October, 2021 / Leak / Price: $550
+
+    ![](images/epik.png)
+
+    The breach includes a huge volume of data not just of Epik customers, but also
+
+    WHOIS records belonging to individuals and organisations who were not Epik
+
+    customers. The data included over 15 million unique email addresses (including
+
+    anonymised versions for domain privacy), names, phone numbers, physical
+
+    addresses, purchases and passwords stored in various formats
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: c2c7a29fcad5fedb056abae7135aa5465e62c42656aa5800694de7fd6fda50b4
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=55
+  timestamp: 2021-10-07 03:05:22.732114
+  title: Dark leak market - Epik Domain registrar and web host
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/epik.png']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Liquid Global liquid.com
+
+    August, 2021 / Leak / Price: $800
+
+    ![](images/liq.png)
+
+    Data include more than a Million records (All Users personal information with
+
+    their wallet address and other sensitive server information)
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 0a3e8e725c618229f13a5ea1552254e666e8a7de40e4601dbb07aa8d35426ff6
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=51
+  timestamp: 2021-10-07 03:05:24.838350
+  title: Dark leak market - Liquid Global liquid.com
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/liq.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # AirIndia breach information of 4.5 million custome
+
+    May, 2021 / Leak / Price: $1000
+
+    ![](images/ai.jpg)
+
+    Air India breach personal information of 4.5 million customers in the world.
+
+    Data was leaked two months following the hack of Passenger Service System
+
+    provider SITA in February 2021. The Data involved personal data of registered
+
+    customers between 26th August 2011 and 3rd February 2021, with details
+
+    included name, date of birth, contact information, passport information,
+
+    ticket information, Star Alliance, and Air India frequent flyer data as well
+
+    as credit cards data.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: f0990aac0b058be97352e489aa5545e77702dd1ee210f590f05a5fbdfe037c3f
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=44
+  timestamp: 2021-10-07 03:05:33.683046
+  title: Dark leak market - AirIndia breach information of 4.5 million custome
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/ai.jpg',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
 - !!python/object:lib.darksuce_class.record
   author: ''
   custom: !!set {}
@@ -1022,7 +1576,7 @@
 
     # Dominos India Database Leak
 
-    April, 2021 / Leak / Price: $2000
+    April, 2021 / Leak / Price: $1000
 
     ![](images/dom.jpg)
 
@@ -1049,10 +1603,244 @@
     ![](sample.webp)
 
     '
-  hmac: e20667f3d164efd327f41dbee7e499b2d5b715bd848c8446d03267938afc7568
+  hmac: db51e2d2bd7d703e2c8b4c51ba5869c23e7bbbe9278e85fcf1b92f1ee94df0a2
   ltype: Shaming list
   malware: ''
   source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=45
-  timestamp: 2021-06-02 20:06:18.560803
-  title: Dominos India Database Leak
-  url: !!set {}
+  timestamp: 2021-10-07 03:05:34.859870
+  title: Dark leak market - Dominos India Database Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/dom.jpg']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Upstox.com Huge Data
+
+    April, 2021 / Leak / Price: $500
+
+    ![](images/up.png)
+
+    The Huge Stock Trading company having billions of users leaked their data. We
+
+    have more than 31 Million users data of upstox. Data include Name, Userid,
+
+    Password, Email, DOB, PAN, Bank Info, KYC DOcuments like ID proof, Signature,
+
+    Scanned copy of pan cards, passport/ adhaar, cancelled cheque and many more.
+
+    records are in sql format and compressed in rar archive and kyc files are in
+
+    tar archive READY.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: c046ae661b8a5a1e12a9d6aff132ebd80983ba92f61beed077aea399b00a7505
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=41
+  timestamp: 2021-10-07 03:05:38.342416
+  title: Dark leak market - Upstox.com Huge Data
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/up.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Astoria Company LLC data
+
+    March, 2021 / Leak / Price: $1500
+
+    ![](images/astoria.png)
+
+    Data contain 300 million user database of Astoria Company. The details of the
+
+    Astoria Company sale data included. Records include the following fields: Name
+
+    Email address Date of Birth Mobile Phone Physical Address IP Address social
+
+    security number
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 5f78a7a4136cb0fca190536e45f97b6d37f429e6e428599bc520894f3a5e80b3
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=42
+  timestamp: 2021-10-07 03:05:40.279495
+  title: Dark leak market - Astoria Company LLC data
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/astoria.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Mobikwik Leaked Data
+
+    March, 2021 / Leak / Price: $1000
+
+    ![](images/mobikwik.png)
+
+    11 Crore Indian Cardholder''s Cards Data Including personal details & KYC soft
+
+    copy (PAN, Aadhar etc) leaked from a company''s Server in India. 6 TB KYC Data
+
+    (With Files) and 350GB compressed mysql Database Dumps are available in this
+
+    leak. data includes KYC details, addresses, phone numbers, Aadhar card data
+
+    and other details of the users.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 280e638c93f839c47d6136d8378d18cedc288457903c0dbe42ef5a99fac4dfc8
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=31
+  timestamp: 2021-10-07 03:05:41.440971
+  title: Dark leak market - Mobikwik Leaked Data
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/mobikwik.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # The Volkswagen Group Data
+
+    March, 2021 / Leak / Price: $1000
+
+    ![](images/w.png)
+
+    The Volkswagen Group currently employs over 304,000 employees and has been
+
+    earning annual revenue of around $282.9 billion. We have their Secret
+
+    Documents and SQL Database with all personal and financial details of their
+
+    customers and worldwide presence. We have data of the Volkswagen Group
+
+    franchises based in Salzkotten, Germany. As per now, the data leak contains a
+
+    combined total of 857 number of Workshop services related to invoices and
+
+    Automotive part sales-related invoices.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: 06e00827407aa44713aeb4b7241a55f3d312389ef3d51e24cc751d9a26af4565
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=34
+  timestamp: 2021-10-07 03:05:47.911409
+  title: Dark leak market - The Volkswagen Group Data
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/w.png']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Shell.com Data Leak
+
+    March, 2021 / Leak / Price: $500
+
+    ![](images/shell.png)
+
+    Shell.com The Largest Global energy giant has been hacked and total 110GB data
+
+    has been leaked, including their financial documents, secret (confidential)
+
+    documents, Database dump with all their records of customer base, vendor base
+
+    etc. all files are stored on our private server and ready to share.
+
+    > Press CTRL+D to Bookmark.
+
+    BUY THIS LEAK
+
+    BUY SAMPLE
+
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and
+
+    > quality of Leak.
+
+    ![](sample.webp)
+
+    '
+  hmac: fd3444ed515da2bc0826c28ae7a27c0e7e0fe94d50ea1bc673f042f41d300e3c
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=39
+  timestamp: 2021-10-07 03:05:49.131004
+  title: Dark leak market - Shell.com Data Leak
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/shell.png']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\n# Brazil\xB4s 220 million people's Data Leaked\nMarch, 2021 / Leak / Price:\
+    \ $1500\n![](images/brasil.png)\nThe data include personal data of more than 220\
+    \ million people and 40 million\ncompanies. Data have leaked personal ID numbers\
+    \ (CPF), dates of birth, and\nfull names of nearly all of the Brazilian population,\
+    \ besides their addresses;\nheadshots; credit scores, income and other financial\
+    \ information; individual\nincome tax; telephone service registration data; information\
+    \ on schooling;\nsocial payment benefits; data relating to public servants; and\
+    \ LinkedIn\ninformation.\n> Press CTRL+D to Bookmark.\nBUY THIS LEAK\nBUY SAMPLE\n\
+    > Data in sample file will be 5 to 10% of data, to determine the usablity and\n\
+    > quality of Leak.\n![](sample.webp)\n"
+  hmac: a225e2a3e59ca448ab2f61e134afb3aac9cb8813f69674dcba9e0ea52421ec73
+  ltype: Shaming list
+  malware: ''
+  source: http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/page.php?pid=22
+  timestamp: 2021-10-07 03:05:52.263628
+  title: "Dark leak market - Brazil\xB4s 220 million people's Data Leaked"
+  url: ['http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/images/brasil.png',
+    'http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion/sample.webp']

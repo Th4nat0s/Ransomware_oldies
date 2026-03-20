@@ -1,0 +1,244 @@
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    |
+
+    |
+
+    yash.com_part_1.7z| yash.com_part_1_filelist.txt
+
+    yash.com_part_2.7z| yash.com_part_2_filelist.txt
+
+    yash.com_part_3.7z| yash.com_part_3_filelist.txt
+
+    yash.com_part_4.7z| yash.com_part_4_filelist.txt
+
+    Website: www.yash.com
+
+    Employees: 6,000
+
+    Revenue: $1 Billion
+
+    '
+  hmac: 3f6b53ad838882a0e3e06b72ca3c3422244b150ffe2deeff3e1aca0d2aa25d8b
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=185
+  timestamp: 2021-10-10 21:10:24.662394
+  title: Karma Leaks - YASH Technologies. Part 1.
+  url:
+  - !!python/tuple [yash.com_part_4.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_4-7z']
+  - !!python/tuple [yash.com_part_3_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_3_filelist-txt']
+  - !!python/tuple [yash.com_part_3.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_3-7z']
+  - !!python/tuple [yash.com_part_4_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_4_filelist-txt']
+  - !!python/tuple [yash.com_part_1.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_1-7z']
+  - !!python/tuple [yash.com_part_1_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_1_filelist-txt']
+  - !!python/tuple [yash.com_part_2.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_2-7z']
+  - !!python/tuple [yash.com_part_2_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=yash-com_part_2_filelist-txt']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    |
+
+    |
+
+    SIIGROUP.com_part_1.7z| SIIGROUP.com_part_1_filelist.txt
+
+    SIIGROUP.com_part_2.7z| SIIGROUP.com_part_2_filelist.txt
+
+    SIIGROUP.com_part_3.7z| SIIGROUP.com_part_3_filelist.txt
+
+    Website: www.siigroup.com
+
+    Employees: 3,000
+
+    Revenue: $1 Billion
+
+    '
+  hmac: f224f099c0689e4e7de4fc98af9f513f258b29cb394f4ceb1800079e53ae74c4
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=182
+  timestamp: 2021-10-10 21:10:24.662425
+  title: Karma Leaks - SI Group. Part 1.
+  url:
+  - !!python/tuple [SIIGROUP.com_part_1.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_1-7z']
+  - !!python/tuple [SIIGROUP.com_part_2.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_2-7z']
+  - !!python/tuple [SIIGROUP.com_part_2_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_2_filelist-txt']
+  - !!python/tuple [SIIGROUP.com_part_3.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_3-7z']
+  - !!python/tuple [SIIGROUP.com_part_1_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_1_filelist-txt']
+  - !!python/tuple [SIIGROUP.com_part_3_filelist.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=siigroup-com_part_3_filelist-txt']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    |
+
+    |
+
+    Aligntech_Admin_part_1.rar| Aligntech_Admin_part_1.txt
+
+    Aligntech_Finance_part_3.rar| Aligntech_Finance_part_3.txt
+
+    Aligntech_HR_part_1.rar| Aligntech_HR_part_1.txt
+
+    Aligntech_HR_part_2.rar| Aligntech_HR_part_2.txt
+
+    Aligntech_HR_part_4.rar| Aligntech_HR_part_4.txt
+
+    Aligntech_HR_part_5.rar| Aligntech_HR_part_5.txt
+
+    Aligntech_IT_part_1.rar| Aligntech_IT_part_1.txt
+
+    Aligntech_IT_part_2.rar| Aligntech_IT_part_2.txt
+
+    Align Technology is a manufacturer of 3D digital scanners and the Invisalign
+
+    clear aligners used in orthodontics. It is headquartered in San Jose,
+
+    California; it manufactures the aligners in Juarez, Mexico and its scanners in
+
+    Israel and China
+
+    Website: www.aligntech.com
+
+    Employees: 18,070
+
+    Revenue: $2 Billion
+
+    Stock Symbol: ALGN
+
+    '
+  hmac: 11d5ca08078a33f5d28193fd89b67676407e257340affa96eafcddee51c42ce4
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=150
+  timestamp: 2021-10-10 21:10:24.662435
+  title: Karma Leaks - Align Technology. Part 2.
+  url:
+  - !!python/tuple [Aligntech_Admin_part_1.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_admin_part_1-rar']
+  - !!python/tuple [Aligntech_HR_part_1.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_1-txt']
+  - !!python/tuple [Aligntech_HR_part_2.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_2-rar']
+  - !!python/tuple [Aligntech_HR_part_1.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_1-rar']
+  - !!python/tuple [Aligntech_HR_part_4.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_4-rar']
+  - !!python/tuple [Aligntech_IT_part_1.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_it_part_1-txt']
+  - !!python/tuple [Aligntech_IT_part_1.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_it_part_1-rar']
+  - !!python/tuple [Aligntech_Finance_part_3.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part_3-rar']
+  - !!python/tuple [Aligntech_IT_part_2.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_it_part_2-rar']
+  - !!python/tuple [Aligntech_HR_part_2.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_2-txt']
+  - !!python/tuple [Aligntech_HR_part_4.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_4-txt']
+  - !!python/tuple [Aligntech_IT_part_2.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_it_part_2-txt']
+  - !!python/tuple [Aligntech_HR_part_5.rar, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_5-rar']
+  - !!python/tuple [Aligntech_Finance_part_3.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part_3-txt']
+  - !!python/tuple [Aligntech_HR_part_5.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part_5-txt']
+  - !!python/tuple [Aligntech_Admin_part_1.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_admin_part_1-txt']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    |
+
+    |
+
+    Aligntech_Finance_part1.7z| Aligntech_Finance_part1.txt
+
+    Aligntech_Finance_part2.7z| Aligntech_Finance_part2.txt
+
+    Aligntech_Marketing_part1.7z| Aligntech_Marketing_part1.txt
+
+    Aligntech_HR_part3.7z| Aligntech_HR_part3.txt
+
+    Align Technology is a manufacturer of 3D digital scanners and the Invisalign
+
+    clear aligners used in orthodontics. It is headquartered in San Jose,
+
+    California; it manufactures the aligners in Juarez, Mexico and its scanners in
+
+    Israel and China
+
+    Website: www.aligntech.com
+
+    Employees: 18,070
+
+    Revenue: $2 Billion
+
+    Stock Symbol: ALGN
+
+    '
+  hmac: e6c4f7b5a720472ad61f9b379097126b38e27866e9ff06b972658cdb89222d3e
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=89
+  timestamp: 2021-10-10 21:10:24.662446
+  title: Karma Leaks - Align Technology. Part 1.
+  url:
+  - !!python/tuple [Aligntech_Finance_part1.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part1-7z']
+  - !!python/tuple [Aligntech_HR_part3.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part3-7z']
+  - !!python/tuple [Aligntech_Finance_part1.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part1-txt']
+  - !!python/tuple [Aligntech_HR_part3.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_hr_part3-txt']
+  - !!python/tuple [Aligntech_Finance_part2.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part2-7z']
+  - !!python/tuple [Aligntech_Marketing_part1.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_marketing_part1-txt']
+  - !!python/tuple [Aligntech_Finance_part2.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_finance_part2-txt']
+  - !!python/tuple [Aligntech_Marketing_part1.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=aligntech_marketing_part1-7z']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    |
+
+    |
+
+    Saurer_archive16.7z| Saurer_archive16.txt
+
+    Saurer_archive18.7z| Saurer_archive18.txt
+
+    Saurer_archive29.7z| Saurer_archive29.txt
+
+    Saurer is a leading globally operating technology company focusing on
+
+    innovations for the processing of fibre and yarn, including machinery,
+
+    components and software.
+
+    Website: www.saurer.com
+
+    Employees: 4,300
+
+    Revenue: $1 Billion
+
+    '
+  hmac: c9dcff1742de266430e0d1d37243a6d4015d8b9af5980036f77045bfd29c674d
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=74
+  timestamp: 2021-10-10 21:10:24.662455
+  title: Karma Leaks - Saurer. Part 1.
+  url:
+  - !!python/tuple [Saurer_archive29.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive29-7z']
+  - !!python/tuple [Saurer_archive16.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive16-txt']
+  - !!python/tuple [Saurer_archive18.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive18-7z']
+  - !!python/tuple [Saurer_archive16.7z, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive16-7z']
+  - !!python/tuple [Saurer_archive18.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive18-txt']
+  - !!python/tuple [Saurer_archive29.txt, 'http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?wpdmpro=saurer_archive29-txt']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    Some interesting posts coming soon! Be patient:)
+
+    '
+  hmac: 9bb81bbed8bc710488721d775e22529c9b8fed4b20d45390e2450254118ba736
+  ltype: Shaming list
+  malware: ''
+  source: http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion/?p=1
+  timestamp: 2021-10-10 21:10:24.662464
+  title: Karma Leaks - Our first post
+  url: []

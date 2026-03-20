@@ -1,0 +1,781 @@
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "The network of Videca was screwed and now we have about 2 GB data from file\n\
+    servers, including internal company documents, personal and customers data.\n\
+    According to our rules we are publishing this data step by step in case if\nthis\
+    \ company will keep silence.\nSince 1965 VIDECA has produced and distributed a\
+    \ wide range of canned fruits.\nWe own 2 factories located in Villanueva de Castell\xF3\
+    n and in Burriana, both\nnear VALENCIA. They are placed in the largest citrus\
+    \ production area in\nEurope, right in the heart of the Mediterranean.\nVIDECA\
+    \ directly employs more than 500 people, whose dedication and\nidentification\
+    \ with the company are among our major assets.\n"
+  hmac: a8276545005b623ce4915f491c532e7802936657f6f2c54d15c801f33ffa9c46
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/irony-c3e6bf352bac7aaa49dcf90ddf35f56
+  timestamp: 2021-07-01 18:08:40.185548
+  title: INDUSTRIAS VIDECA SA
+  url: !!set
+    ? !!python/tuple [PERSONAL.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/irony-c3e6bf352bac7aaa49dcf90ddf35f56/6cc3f6043c56ae39/Qp9rBWKD8RJE9kIC83Y7jMM1auj0uMjb']
+    : null
+    ? !!python/tuple [Videca1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/irony-c3e6bf352bac7aaa49dcf90ddf35f56/9424cd34e6edae33/cF7z1daNceIcFi3ZLqAqY8lUmMaBng']
+    : null
+    ? !!python/tuple [Videca2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/irony-c3e6bf352bac7aaa49dcf90ddf35f56/90c81599e04a511a/JTSqS9MFd7kSVBBExdXkZbZx58oql']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "The network of HDHC was screwed and now we have about 200 GB data from file\n\
+    servers, including internal company documents, personal and customers data.\n\
+    According to our rules we are publishing this data step by step in case if\nthis\
+    \ company will keep silence.\nBased in Sheffield, England we are one of Europe\u2019\
+    s leading suppliers of\ncontemporary bedroom furniture and high quality kitchens.\
+    \ We supply products\naround the world into DIY, construction, new-build and online\
+    \ markets.\nFrom our factories in the UK, we manufacture over \xBC million doors\
+    \ each year\nand supply the hardware to manufacture a million more. We also design,\n\
+    manufacture and install bespoke, handmade kitchens, sold through our network\n\
+    of showrooms and direct to architects, developers and house builders.\n"
+  hmac: 307fb98d0e95b2bc5906efbd8f0c391ad2ff2eb72510c85e851e769b446d5d0c
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/cite-682c62d88073e1517a752b3e4e3448ed
+  timestamp: 2021-07-01 18:08:40.185594
+  title: HDHC Home Decor
+  url: !!set
+    ? !!python/tuple [Aldridge Showroom.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/cite-682c62d88073e1517a752b3e4e3448ed/3e70d0855655fe9e/aNcthSA42VVCBmrO9YdNfby64']
+    : null
+    ? !!python/tuple [Data.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/cite-682c62d88073e1517a752b3e4e3448ed/ad1f185521b2b080/xiHH5EhyhGwUhSqdlArjtE1bSnYMn']
+    : null
+    ? !!python/tuple [HDHC.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/cite-682c62d88073e1517a752b3e4e3448ed/32299f619722a5b6/PKdkKmQFW34037Tgm82aRtG7Oq']
+    : null
+    ? !!python/tuple [HDHC2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/cite-682c62d88073e1517a752b3e4e3448ed/256d82c5a8d66df6/YOTm1vEXRazDorXB0fmP0mhvZgA3']
+    : null
+    ? !!python/tuple [HDHC3.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/cite-682c62d88073e1517a752b3e4e3448ed/662491239a638652/yFeLCstJz4pMfF666LXqAWSW2yq']
+    : null
+    ? !!python/tuple [Sage Backup.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/cite-682c62d88073e1517a752b3e4e3448ed/57f831f0a125fbcb/VNNNzd8nTt0bt4OZr0N6JW7p']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "The network of Mobile County, Alabama was screwed and now we have about 95\
+    \ GB\ndata from file servers, including internal company documents, personal and\
+    \ HR\ndata. According to our rules we are publishing this data step by step in\
+    \ case\nif this company will keep silence.  \nMobile County is located in the\
+    \ southwestern corner of the U.S. state of\nAlabama. It is the second most-populous\
+    \ county in the state after Jefferson\nCounty. As of the 2010 census, its population\
+    \ was 412,992. Its county seat is\nMobile, which was founded as a deepwater port\
+    \ on the Mobile River.\n"
+  hmac: a67471aea0374c4e3e70de61c9231436a7ff0fb9a0b0dd7c5848b0d2dc552763
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/relationship-a411d3b8070615d04921dc2e44fb5d5e
+  timestamp: 2021-07-01 18:08:40.185608
+  title: Mobile County, Alabama
+  url: !!set
+    ? !!python/tuple [MCA.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/59296ad63e8a4c0a/2PTjTYjTSI7CTBcFeGnMuo38LToS8l']
+    : null
+    ? !!python/tuple [MCP Mark-ups.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/318f5cc798f8f40d/i8UiIfXUrZFr3dmxpXEIvNg5PF9']
+    : null
+    ? !!python/tuple [TAP PROJECTS.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/56e47bbdddd6f283/bQqUqgcMIafYVqsPop8xjEMMTlfxehaO']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Clover Park School District was screwed and now we have about
+    5
+
+    GB data from file servers, including internal company documents, personal and
+
+    customers data. According to our rules we are publishing this data step by
+
+    step in case if this company will keep silence.
+
+    The Clover Park School District is the fourth largest school district in
+
+    Pierce County, Washington, United States, and the 28th largest public school
+
+    district in the state.
+
+    '
+  hmac: b6dde2f73720bc58f387a389eb65182c2f3d6289741977c3889fadfed4bc4444
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/authentic-e3f9e1d16eb0ff84e7a0ac2844dd9095
+  timestamp: 2021-07-01 18:08:40.185619
+  title: Clover Park School District
+  url: !!set
+    ? !!python/tuple [Clover1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-e3f9e1d16eb0ff84e7a0ac2844dd9095/af2bd218fc684016/lmT0n1CS2GyyZy8blbldNuTlEH']
+    : null
+    ? !!python/tuple [Clover2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-e3f9e1d16eb0ff84e7a0ac2844dd9095/898abdc525904d34/9c7sTpTt62BRd0Ijpk7uPrZOAl4MYTx']
+    : null
+    ? !!python/tuple [STUDENT FOLDERS.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/authentic-e3f9e1d16eb0ff84e7a0ac2844dd9095/412b8329f55ca87d/rvSYUiMtrJ9b0j7wpQ4KrehHMSPhg']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of County of St Clair was screwed and now we have about 2.5 GB
+
+    data from file servers, including internal company documents, personal and
+
+    customers data. According to our rules we are publishing this data step by
+
+    step in case if this company will keep silence.
+
+    County of St Clair is located in Belleville, IL, United States and is part of
+
+    the US Municipal Governments Industry. County of St Clair has 700 total
+
+    employees across all of its locations and generates $111.86 million in sales
+
+    (USD). There are 29 companies in the County of St Clair corporate family.
+
+    '
+  hmac: 6a0a87d65b846c40d82b44c1c2fa809f9388a5cb00940d9edde6107975480f61
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/clarify-f76e6a3a84d38366ed5c1da89327555d
+  timestamp: 2021-07-01 18:08:40.185628
+  title: County of St Clair
+  url: !!set
+    ? !!python/tuple [STCLAIR.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/clarify-f76e6a3a84d38366ed5c1da89327555d/29e4bd331446ef6a/P5PlXRIEBuF67EirwNl3KLxJ0j7u5Zq']
+    : null
+    ? !!python/tuple [STCLAIR2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/clarify-f76e6a3a84d38366ed5c1da89327555d/486e0a49c5547deb/YSoUFCkRXyP9LHxg9B4qJzo1W']
+    : null
+    ? !!python/tuple [Scanned documents 2.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/clarify-f76e6a3a84d38366ed5c1da89327555d/ab05796e7f7d19ab/6yH2ewDUuDubVLRjngSSgAhYi']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Naz financial was screwed and now we have about 5 GB data
+    from
+
+    file servers, including internal company documents, personal and customers
+
+    data. According to our rules we are publishing this data step by step in case
+
+    if this company will keep silence.
+
+    Naz Sukhram Financial Services Inc. was started in 1992, offering taxation and
+
+    bookkeeping services to individuals and small businesses. Since then we have
+
+    grown both in terms of scope of services and the depth of our team expertise.
+
+    In 2003 we launched our Financial Planning services and we have evolved a
+
+    great team which continues to develop technically while offering clients very
+
+    personal, professional service.
+
+    '
+  hmac: ec6a6145ebc370d44973346dc00e8de7d639d6c0bbd6b388a92784d83974d893
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/critique-e31f90e56936a73e407d47e5ed1f129c
+  timestamp: 2021-07-01 18:08:40.185638
+  title: Naz Financial Services Inc
+  url: !!set
+    ? !!python/tuple [NAZFIN.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/critique-e31f90e56936a73e407d47e5ed1f129c/825e6fa467eb83f6/rA6bkAiwEIDzvRB9dTwKCBbS3Zyyrh']
+    : null
+    ? !!python/tuple [Tax and accounting 4.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/critique-e31f90e56936a73e407d47e5ed1f129c/ecdf406b67a8cb4c/r7OjQ32Yr5SY8CjF7TymBMb8BE']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of La Concha was screwed and now we have about 1 GB data from
+    file
+
+    servers, including internal company documents. According to our rules we are
+
+    publishing this data step by step in case if this company will keep silence.
+
+    We know that our consumers value the variety of products and brands both in
+
+    physical purchases and in online stores; That is why every day we work so that
+
+    you find everything you are looking for with us; with the highest quality and
+
+    the best brands, thus meeting the expectations and needs of our customers.
+
+    Variety is the diversity of products that we offer at each of our points of
+
+    sale
+
+    '
+  hmac: e52dd59f87b95ec3ec0c656f5d36645cc5ba4301bab61077aaab0e6547f1309a
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/Project-6f054b07025a453866421f5ddd73c4a7
+  timestamp: 2021-07-01 18:08:40.185649
+  title: "La Concha (MATERIAS PRIMAS LA CONCEPCI\xD3N S.A. de C.V.)"
+  url: !!set
+    ? !!python/tuple [Compras.7z.001, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/Project-6f054b07025a453866421f5ddd73c4a7/744fef7defea41cf/0McnoZz9voJXR1By2mwJ2icQ']
+    : null
+    ? !!python/tuple [LAconhca main.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/Project-6f054b07025a453866421f5ddd73c4a7/7d3811ae13adcee/phCztt3huXxyWuXPiybbEMgss5']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Comune di Porto Sant''Elpidio was screwed and now we have
+    about
+
+    8 GB data from file servers, including internal company documents, personal
+
+    and customers data. According to our rules we are publishing this data step by
+
+    step in case if this company will keep silence.
+
+    Porto Sant''Elpidio''s nearly 8 kilometres (5 mi) of coast once made the commune
+
+    the most extensive in length in the province of Ascoli Piceno, but this is no
+
+    longer true as it now belongs to the new province of Fermo. The commune is
+
+    principally developed along the coast, following the two principal coastal
+
+    roads: Statale 16 Road and the Adriatic Railway line.
+
+    The city''s territory is included between the Chienti (north) and the Tenna
+
+    (south) rivers. Today, it follows a strong demographic increase from later
+
+    years, and the development is continuing on the low hills that rise
+
+    immediately inland from the Statale 16 Road; the Corva and Cretarola districts
+
+    are the highest point of the city''s territory, with interesting sea views.
+
+    '
+  hmac: 1d04edd79a40df2dd953ea74f8dcfcaa3d2264905b1723b237f15ea087d8816b
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/header-12630547cb2cdfed4962833a40d430a8
+  timestamp: 2021-07-01 18:08:40.185680
+  title: Comune di Porto Sant'Elpidio
+  url: !!set
+    ? !!python/tuple [PORTO2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/header-12630547cb2cdfed4962833a40d430a8/b56aaa70d70a4efb/N5aAMeyk18Jok6I2WDO0UmFMADBD']
+    : null
+    ? !!python/tuple [PORTO3.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/header-12630547cb2cdfed4962833a40d430a8/c79a95d7e02363dd/rVBr4g8XsJyX1dQTbSlNVHTZYvEV']
+    : null
+    ? !!python/tuple [Porto.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/header-12630547cb2cdfed4962833a40d430a8/7e1428c9cea4d19b/PN7902kbQNxNQ6LupAJvssaSli']
+    : null
+    ? !!python/tuple [Scans and Info pt1.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/header-12630547cb2cdfed4962833a40d430a8/ada9f2885361b321/chTCdRaR93pcSPttmcm5wRqucj4']
+    : null
+    ? !!python/tuple [Scans and Info pt2.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/header-12630547cb2cdfed4962833a40d430a8/38a38d36b927b25c/gHFNhwYxfFFTehH5FLz3LDX7v1']
+    : null
+    ? !!python/tuple [Scans and Info pt3.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/header-12630547cb2cdfed4962833a40d430a8/cf156794eb66297/FnTHPD4HtRpmmubS3wWR0rhAxTcz3']
+    : null
+    ? !!python/tuple [Scans and Info pt4.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/header-12630547cb2cdfed4962833a40d430a8/1458def323332ac5/1J2I33ykzZpR0EzMHnPj8kdfqQVWj']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Puntacana Group was screwed and now we have about 10 GB data
+
+    from file servers, including internal company documents, personal and
+
+    customers data. According to our rules we are publishing this data step by
+
+    step in case if this company will keep silence.
+
+    In the Puntacana Group, we are led by the family values that started this
+
+    great company. We work with this management philosophy as our guide, slowly
+
+    but surely achieving the excellence that characterizes us.
+
+    We are a service-oriented organization, committed to making the dreams of our
+
+    visitors and members of the community a reality, in an environment of respect
+
+    for nature and community.
+
+    '
+  hmac: 977b3859f06f5105098cb05171062632719d2072b9e6f19d674efeafd0576551
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/body-e0069d61df262a1f3c5653634b5f0538
+  timestamp: 2021-07-01 18:08:40.185693
+  title: Puntacana Group
+  url: !!set
+    ? !!python/tuple [Punta.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/body-e0069d61df262a1f3c5653634b5f0538/5fa01945a15bc638/6tjoCcocajTSBfzkgCe1lPj9dvxo3bdZ']
+    : null
+    ? !!python/tuple [Punta2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/body-e0069d61df262a1f3c5653634b5f0538/8056056e2a9874b7/oS8sK81TRaMcE7naqcekhLHkjO9sZ9']
+    : null
+    ? !!python/tuple [operaciones.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/body-e0069d61df262a1f3c5653634b5f0538/bf45cd263c6d7691/SQhaWVWyFUrUfwfnQloLdstKitwXH']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Rehab was screwed and now we have about 4 GB data from file
+
+    servers, including internal company documents, personal and customers data.
+
+    According to our rules we are publishing this data step by step in case if
+
+    this company will keep silence.
+
+    Rehabilitation Support Services, Inc. (RSS) strives to enrich and empower the
+
+    lives of individuals by providing services and opportunities for meaningful
+
+    emotional, social, vocational and educational growth.
+
+    At RSS, we address the needs of individuals with psychiatric and substance
+
+    abuse disorders. We believe a history of disability or being disadvantaged
+
+    should not preclude an individual from realizing his or her full potential or
+
+    ability to lead a productive life. Through housing, employment, crisis/respite
+
+    services, treatment, care coordination, socialization and wellness programs,
+
+    our rehabilitation and recovery services provide individuals with experiences
+
+    that will equip them to lead productive and fulfilling lives in their
+
+    communities.
+
+    '
+  hmac: 9f08fee21aa7bbe7ee3b82fc17179771a2540628042fcb4da1ef0090267fe728
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/order-214ccf1990f0b45ce984f33ff044622d
+  timestamp: 2021-07-01 18:08:40.185703
+  title: 'Rehabilitation Support Services, Inc. (RSS) '
+  url: !!set
+    ? !!python/tuple [Accounting.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/order-214ccf1990f0b45ce984f33ff044622d/e8908281ff40fa6a/y3vwuw84tvX9TfgRy2foKyRQd9V']
+    : null
+    ? !!python/tuple [Rehab1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/order-214ccf1990f0b45ce984f33ff044622d/ca6cb5b91e767e22/fp3OnMeiRTcyjuiWnDM2MmvEv']
+    : null
+    ? !!python/tuple [Rehab2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/order-214ccf1990f0b45ce984f33ff044622d/3f62652ac902ab38/cT6yNm0KN2up6kwhWZ2GPnfcG4']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Warren Vicksburg School was screwed and now we have about
+    10 GB
+
+    data from file servers, including internal company documents and personal
+
+    information. According to our rules we are publishing this data step by step
+
+    in case if this company will keep silence.
+
+    Warren Vicksburg School District is located in Vicksburg, MS, United States
+
+    and is part of the Public Schools K-12 Industry. Warren Vicksburg School
+
+    District has 965 total employees across all of its locations and generates
+
+    $85.17 million in sales (USD). There are 24 companies in the Warren Vicksburg
+
+    School District corporate family.
+
+    '
+  hmac: f6d95b8aa6966b2d2dd2eddec8a656f7f1d3f2455c0795d2d4bcde90af9400e1
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/composition-885b1b6648c9abbd5d36ceeba13fbbd
+  timestamp: 2021-07-01 18:08:40.185714
+  title: Warren Vicksburg School District
+  url: !!set
+    ? !!python/tuple [School shares.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/composition-885b1b6648c9abbd5d36ceeba13fbbd/d01497db6febaa4a/cNOcHmSlHoLpCrP8z0aKsEVAkBrbn']
+    : null
+    ? !!python/tuple [Vick1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/composition-885b1b6648c9abbd5d36ceeba13fbbd/c1ffdf201371541c/DwU9DB5Y3PPhYgJMp93dzrEWxk']
+    : null
+    ? !!python/tuple [Vick2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/composition-885b1b6648c9abbd5d36ceeba13fbbd/5937a3e78788ac37/8WDcBjVv20L1MehRafVfZ5FjWfxZgBS']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Puntacana Group was screwed and now we have about 20 GB data
+
+    from file servers, including internal company documents, personal and
+
+    customers data. According to our rules we are publishing this data step by
+
+    step in case if this company will keep silence.
+
+    In the Puntacana Group, we are led by the family values that started this
+
+    great company. We work with this management philosophy as our guide, slowly
+
+    but surely achieving the excellence that characterizes us.
+
+    We are a service-oriented organization, committed to making the dreams of our
+
+    visitors and members of the community a reality, in an environment of respect
+
+    for nature and community.
+
+    '
+  hmac: b0a41681e099ce71c8f7e756b9fd9e905a9898e3cc42eccde95e3ec7b2ee57ce
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/body-e0069d61df262a1f3c5653634b5f0538
+  timestamp: 2021-07-01 18:08:40.185724
+  title: Puntacana Group
+  url: !!set
+    ? !!python/tuple [Punta.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/body-e0069d61df262a1f3c5653634b5f0538/5fa01945a15bc638/MoWzdsbQjwBrjYtSCAXXVXKJD48b0wsz']
+    : null
+    ? !!python/tuple [Punta2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/body-e0069d61df262a1f3c5653634b5f0538/8056056e2a9874b7/EN0Mm5Kpe8AIIGJ7G1ySslih']
+    : null
+    ? !!python/tuple [TERMINAL VIP.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/body-e0069d61df262a1f3c5653634b5f0538/975533c44f377445/wZSmOqXAKJhUmzKil1l0qvfnS']
+    : null
+    ? !!python/tuple [operaciones.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/body-e0069d61df262a1f3c5653634b5f0538/bf45cd263c6d7691/5OXZbwXvyEscgah82wXCxij9Ox']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Lancaster Independent School District was screwed and now
+    we
+
+    have about 9 GB data from file servers, including internal company documents,
+
+    personal and customers data. According to our rules we are publishing this
+
+    data step by step in case if this company will keep silence.
+
+    Lancaster Independent School District is a public school district based in
+
+    Lancaster, Texas. The district serves most of the city of Lancaster, a small
+
+    portion of Dallas, and a small portion of the city of Hutchins.
+
+    '
+  hmac: d7cd4f280e1b045dc9e1f08498849e0d0cb817cf436b311bec0f2e3df76c0184
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/graphic-a5f8c2ced59b7f62b48013971cd07611
+  timestamp: 2021-07-01 18:08:40.185734
+  title: Lancaster Independent School District
+  url: !!set
+    ? !!python/tuple [Finance-Payroll 4.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/889a67423184b2fc/8yrbYLQaYmmoQijpHKxpVHiY07e']
+    : null
+    ? !!python/tuple [LIST1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/graphic-a5f8c2ced59b7f62b48013971cd07611/f2f21d2ba6f06869/43WbdmBuiScS7MY6hjios8jB']
+    : null
+    ? !!python/tuple [LIST2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/graphic-a5f8c2ced59b7f62b48013971cd07611/da71b1e392bee976/JcyuwuDNaCvyhsQrJYALgvZywA']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Woodruff Institute is located in Naples, FL, United States and is part of
+    the
+
+    Dermatologists Industry. Woodruff Institute has 9 total employees across all
+
+    of its locations and generates $2.56 million in sales (USD). (Employees and
+
+    Sales figures are modelled).
+
+    '
+  hmac: 0f3ee7745cabc3b64b35384f3d250da12005ca3c360427c3a6906b84300caa85
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/derive-927a9c8f7f20d01378147cf64140dbd7
+  timestamp: 2021-07-01 18:08:40.185752
+  title: Woodruff Institute
+  url: !!set
+    ? !!python/tuple [FINANCIAL AGREEMENTS.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/derive-927a9c8f7f20d01378147cf64140dbd7/a53633358d630456/LxTNCF8fDDaibJ8lcwW2Cq54iF26']
+    : null
+    ? !!python/tuple [W1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/derive-927a9c8f7f20d01378147cf64140dbd7/4e458537fa5c6bb8/ujkLzLkQMO669DcVYPDJvPu7u']
+    : null
+    ? !!python/tuple [W2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/derive-927a9c8f7f20d01378147cf64140dbd7/f3c53c5fe7cae03e/Z8oEi1QCUc2zZvfZEntMtMSj']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Oz Architecture, Inc. is located in Denver, CO, United States and is part
+    of
+
+    the Architectural & Engineering Services Industry. Oz Architecture, Inc. has
+
+    250 total employees across all of its locations and generates $30.91 million
+
+    in sales (USD). (Sales figure is modelled). There are 4 companies in the Oz
+
+    Architecture, Inc. corporate family.
+
+    '
+  hmac: f4c33f1177fa971e9aae71170fd47dba20427105c0e322c05aff173a1fdbe890
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/rule-d2d6b9b82ba209e2aaec2746f6a02d57
+  timestamp: 2021-07-01 18:08:40.185760
+  title: Oz Architecture, Inc.
+  url: !!set
+    ? !!python/tuple [OZ1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/rule-d2d6b9b82ba209e2aaec2746f6a02d57/a0f88c05731daf60/QjZFNe9DuQvURBKdQx7MSchvFqZAy']
+    : null
+    ? !!python/tuple [OZ2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/rule-d2d6b9b82ba209e2aaec2746f6a02d57/dc5da8e0f80899ff/zpSGx7m4BEdkTNk71XSWN0YzJlCFKL']
+    : null
+    ? !!python/tuple [Projects.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/rule-d2d6b9b82ba209e2aaec2746f6a02d57/ebabe44566371193/BkDGcTvl0cFbRm10npclSr9kvrL9']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'The network of Mobile County, Alabama was screwed and now we have about 95
+    GB
+
+    data from file servers, including internal company documents, personal and HR
+
+    data. According to our rules we are publishing this data step by step in case
+
+    if this company will keep silence.
+
+    Mobile County is located in the southwestern corner of the U.S. state of
+
+    Alabama. It is the second most-populous county in the state after Jefferson
+
+    County. As of the 2010 census, its population was 412,992. Its county seat is
+
+    Mobile, which was founded as a deepwater port on the Mobile River.
+
+    '
+  hmac: 1dd0aac829af90e872dc067d01b5a34ad62d79bbd3218c3306249d5d4f8b6a5d
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/relationship-a411d3b8070615d04921dc2e44fb5d5e
+  timestamp: 2021-07-01 18:08:40.185769
+  title: Mobile County, Alabama
+  url: !!set
+    ? !!python/tuple [MCA.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/59296ad63e8a4c0a/W0YyR8ZJaT9zCbibEXXwgvRD56l8dh']
+    : null
+    ? !!python/tuple [MCP Mark-ups.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/318f5cc798f8f40d/8iy60BCOwK4NDVkxbfvWI41bR']
+    : null
+    ? !!python/tuple [TAP PROJECTS.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/56e47bbdddd6f283/KnRLjv23icVPU6zkHJZPEbzDukEf']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'With cotton-producing members in Arizona, California, New Mexico, and Texas,
+
+    Calcot is one of the top cotton-marketing cooperatives in the US. Members of
+
+    the co-op primarily grow premium-grade Far Western cottons, including
+
+    California Upland, Pima, and San Joaquin Acala (SJV Acala). The company
+
+    operates three warehousing locations which can store 600,000 bales of cotton
+
+    per year. Calcot has gained and maintained a highly-regarded reputation among
+
+    cotton producers, textile mills and the entire cotton industry.
+
+    '
+  hmac: 5dae9a114ec8b5ff842ba6588a8155562289c490369e8adf32bae28679535f93
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/process-296c17ca878215bd1df82b2866c26ecb
+  timestamp: 2021-07-01 18:08:40.185779
+  title: American Cotton Coop Association
+  url: !!set
+    ? !!python/tuple [Cal1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/process-296c17ca878215bd1df82b2866c26ecb/403884e92657b197/vOL52ACqGYGsi2WiFfgGk6uDXr0H']
+    : null
+    ? !!python/tuple [Cal2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/process-296c17ca878215bd1df82b2866c26ecb/3bb62a5191e3810f/IOI62TKPE3XwwfR3ei7imJMA']
+    : null
+    ? !!python/tuple [Monthly Bills.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/process-296c17ca878215bd1df82b2866c26ecb/966b00863421b84e/bhrM0xPwABx0L8rRoaUhRsUtJASOXB']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'LENAJA DISTRIBUTION is located in RUNGIS, ILE-DE-FRANCE, France and is part
+    of
+
+    the Food Wholesalers Industry. LENAJA DISTRIBUTION has 20 employees at this
+
+    location and generates $34.62 million in sales (USD). There are 2 companies in
+
+    the LENAJA DISTRIBUTION corporate family.
+
+    '
+  hmac: 9f7a52738c96e5edb0593aded653e660c7ec79db9da3883271ab782bba72d1da
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/infer-b287ac182031cea8326f8838259dd72c
+  timestamp: 2021-07-01 18:08:40.185788
+  title: LENAJA DISTRIBUTION
+  url: !!set
+    ? !!python/tuple [CLIENTS.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/infer-b287ac182031cea8326f8838259dd72c/6ccf1daeb41751f9/lvB5XwBK2otS7zvxPTTIj2Xa']
+    : null
+    ? !!python/tuple [Len1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/infer-b287ac182031cea8326f8838259dd72c/d0eac03c85ac5a7c/QY4OpMApdZvcOJmKQ53tvx9mmsIW5g']
+    : null
+    ? !!python/tuple [Len2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/infer-b287ac182031cea8326f8838259dd72c/df8611578344fb28/rTpKyV2knOYChTC98yrBNGZ6xphXC']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '**The company appointed by the negotiator was not interested in resolving
+    the
+
+    situation and was stalling the time. That''s why we''re remove decryption keys
+
+    and all the DATA can''t be recovered. All stolen DATA will be published step by
+
+    step.**
+
+    The network of Mobile County, Alabama was screwed and now we have about 95 GB
+
+    data from file servers, including internal company documents, personal and HR
+
+    data.
+
+    Mobile County is located in the southwestern corner of the U.S. state of
+
+    Alabama. It is the second most-populous county in the state after Jefferson
+
+    County. As of the 2010 census, its population was 412,992. Its county seat is
+
+    Mobile, which was founded as a deepwater port on the Mobile River.
+
+    '
+  hmac: a6c84d6e715410065b24084cca2ac2c7b222610a7861af20995250cd842dc313
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/relationship-a411d3b8070615d04921dc2e44fb5d5e
+  timestamp: 2021-07-01 18:08:40.185810
+  title: Mobile County, Alabama
+  url: !!set
+    ? !!python/tuple [Grants 2.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/9070cb2ce42a3d0b/u0Yl9otBFRpvF9QFGPHiGuYDq3Jvi']
+    : null
+    ? !!python/tuple [Grants 3.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/53a330f64a258f5e/WLaVM8tlLAQZ2mzwvGnfbBkfqMqem']
+    : null
+    ? !!python/tuple [MCA.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/59296ad63e8a4c0a/zO5r3W2ycaSq5J6hNIUCxwjv']
+    : null
+    ? !!python/tuple [MCP Mark-ups.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/318f5cc798f8f40d/yWGf3aKz593XBNIrdYORrIzgryEfA10i']
+    : null
+    ? !!python/tuple [TAP PROJECTS.7z, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/relationship-a411d3b8070615d04921dc2e44fb5d5e/56e47bbdddd6f283/3rrOM1trFDZuePLounvlU2tSr3']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '**WE ARE HIGHLY RECOMMEND TO CHANGE NEGOTIATOR.**
+
+    The network of Lancaster Independent School District was screwed and now we
+
+    have about 9 GB data from file servers, including internal company documents,
+
+    personal and customers data. According to our rules we are publishing this
+
+    data step by step in case if this company will keep silence.
+
+    Lancaster Independent School District is a public school district based in
+
+    Lancaster, Texas. The district serves most of the city of Lancaster, a small
+
+    portion of Dallas, and a small portion of the city of Hutchins.
+
+    '
+  hmac: 7da8fe51a509801acff0b61d5bf59ddf6554ccb695702e6092fd23113d8cf379
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/graphic-a5f8c2ced59b7f62b48013971cd07611
+  timestamp: 2021-07-01 18:08:40.185822
+  title: Lancaster Independent School District
+  url: !!set
+    ? !!python/tuple [Finance-Payroll 1.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/414dc3e63ee5cf0/yqmgLgL5vhbCSypOEfgxLZmWQEiEuXUB']
+    : null
+    ? !!python/tuple [Finance-Payroll 2.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/bf2052f5518fe962/Qn2HKIxyU1knwjW1farqDNro']
+    : null
+    ? !!python/tuple [Finance-Payroll 3.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/8c8459c9fff3d02e/qTLGCRp35lFawf7E1aOVs4iTk1hLL']
+    : null
+    ? !!python/tuple [Finance-Payroll 4.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/889a67423184b2fc/bER4HB7r9g1tljQzGwvpzLgOv0hUjfny']
+    : null
+    ? !!python/tuple [LIST1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/graphic-a5f8c2ced59b7f62b48013971cd07611/f2f21d2ba6f06869/hhHd52M7CBiida8o02huTPhmaEonuM']
+    : null
+    ? !!python/tuple [LIST2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/graphic-a5f8c2ced59b7f62b48013971cd07611/da71b1e392bee976/ZbUA5gP5cZnEJombY0ndT13R5Ailw7SC']
+    : null
+    ? !!python/tuple [Termination Documents.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/graphic-a5f8c2ced59b7f62b48013971cd07611/c6f32e841215cfb3/JwGXoiFqCny1cdfHvph6jWhsriaieO']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Booneville School District is located in Booneville, MS, United States and
+    is
+
+    part of the Public Schools K-12 Industry. Booneville School District has 125
+
+    total employees across all of its locations and generates $8.31 million in
+
+    sales (USD). (Sales figure is modelled). There are 6 companies in the
+
+    Booneville School District corporate family.
+
+    '
+  hmac: ddceb90c2265e749fecc8ca3233fe140ca824aa3ff675df485c1cb220570b5c3
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/coherent-f7b9ba924695c118b402222381641229
+  timestamp: 2021-07-01 18:08:40.185833
+  title: Booneville School District
+  url: !!set
+    ? !!python/tuple [Bo1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/coherent-f7b9ba924695c118b402222381641229/ecd3edd8f45dffcf/cekQYex4PriH47gs72C488emo']
+    : null
+    ? !!python/tuple [Bo2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/coherent-f7b9ba924695c118b402222381641229/f50f8a1803c66f29/AgjZ02UwUtvp8u2Cqibqp26k3aa']
+    : null
+    ? !!python/tuple [Student Homes 6.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/coherent-f7b9ba924695c118b402222381641229/aedb244ba79c0e0b/BBlZjxuv88VZ5nAX1z1lJtDqBE']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'EVRON FOODS LIMITED is located in CRAIGAVON, United Kingdom and is part of
+    the
+
+    Restaurants Industry. EVRON FOODS LIMITED has 210 employees at this location
+
+    and generates $59.83 million in sales (USD). (Employees figure is estimated).
+
+    There are 4 companies in the EVRON FOODS LIMITED corporate family.
+
+    '
+  hmac: 97107c9fad9a7cb3a5bbd0c4a9a2c0a3326b59c4cdb760d3d302744363e3a394
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/continuum-11425df59fa9ea1841c67c8cf619e7ad
+  timestamp: 2021-07-01 18:08:40.185844
+  title: Evron Foods Limited
+  url: !!set
+    ? !!python/tuple [Creditors.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/continuum-11425df59fa9ea1841c67c8cf619e7ad/a4307aa4790356b6/blT3VLxblNmogE8pqpJA0oceqIli2']
+    : null
+    ? !!python/tuple [Ev1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/continuum-11425df59fa9ea1841c67c8cf619e7ad/4778933419f42630/9rCz9kxevmUXamWRXd29aeA5qWuIM']
+    : null
+    ? !!python/tuple [Ev2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/continuum-11425df59fa9ea1841c67c8cf619e7ad/c927a934b02a1b41/7t72gymUsQJZ7aPRlCVyFxFVWt']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '**The company appointed by the negotiator was not interested in resolving
+    the
+
+    situation and was stalling the time. Our support still online but there''s no
+
+    response from company.**
+
+    SalzburgMilch GmbH is located in Salzburg, Salzburg, Austria and is part of
+
+    the Dairy Products Manufacturing Industry. SalzburgMilch GmbH has 359
+
+    employees at this location and generates $253.26 million in sales (USD). There
+
+    are 4 companies in the SalzburgMilch GmbH corporate family.
+
+    '
+  hmac: 9e3a127511805355b702a0396d93ee1da0bb9d1f311d08fa0e2224bf737cdef2
+  ltype: Shaming list
+  malware: Grief
+  source: http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/details/authentic-a68bcf1a46aecaccd03645ba4daa02cc
+  timestamp: 2021-07-01 18:08:40.185854
+  title: Salzburg Milch
+  url: !!set
+    ? !!python/tuple [M1.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-a68bcf1a46aecaccd03645ba4daa02cc/2f425c1a0dfd8503/LfBCtxqLsIrQFvTHphvKGJjO']
+    : null
+    ? !!python/tuple [M2.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-a68bcf1a46aecaccd03645ba4daa02cc/806e7b498d1f7df2/jIvVjARYABvu687Maa2HQJgRiK']
+    : null
+    ? !!python/tuple [M3.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-a68bcf1a46aecaccd03645ba4daa02cc/5cbea5719476175b/y2jPdHlfkd2JGsckJgUfkAQcvKPss2W']
+    : null
+    ? !!python/tuple [Statistik Austria.zip, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/file/get/authentic-a68bcf1a46aecaccd03645ba4daa02cc/142715a009f1c632/ulXlLM81ME51YYNxmRIPq5AtWa']
+    : null
+    ? !!python/tuple [foto.png, 'http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion/api/image/get/authentic-a68bcf1a46aecaccd03645ba4daa02cc/dba9a8f55451966a/RTtwTDo6sOdcaPCKFRqAGcNaE']
+    : null

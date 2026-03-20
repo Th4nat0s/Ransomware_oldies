@@ -14,7 +14,7 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/the-rose-executive-team/
-  timestamp: 2021-06-03 20:24:08.162785
+  timestamp: 2021-10-10 21:04:50.282410
   title: Cuba Ransomware welcomes You
   url: ['https://www.rosenyc.com']
 - !!python/object:darksuce_class.record
@@ -33,9 +33,9 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/data/
-  timestamp: 2021-06-03 20:24:08.166154
+  timestamp: 2021-10-10 21:04:50.282553
   title: Cuba Ransomware welcomes You
-  url: ['https://www.ge.com', 'https://www.datamatics.com']
+  url: ['https://www.datamatics.com', 'https://www.ge.com']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
@@ -54,7 +54,7 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/squamish/
-  timestamp: 2021-06-03 20:24:08.166190
+  timestamp: 2021-10-10 21:04:50.282569
   title: Cuba Ransomware welcomes You
   url: ['https://www.squamish.net']
 - !!python/object:darksuce_class.record
@@ -68,7 +68,7 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/first-coast-logistics-services-2/
-  timestamp: 2021-06-03 20:24:08.166211
+  timestamp: 2021-10-10 21:04:50.282585
   title: Cuba Ransomware welcomes You
   url: ['http://firstcoast.net']
 - !!python/object:darksuce_class.record
@@ -83,7 +83,7 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/e-h-wachs-pipe-cutters/
-  timestamp: 2021-06-03 20:24:08.166224
+  timestamp: 2021-10-10 21:04:50.282596
   title: Cuba Ransomware welcomes You
   url: ['http://firstcoast.net']
 - !!python/object:darksuce_class.record
@@ -112,7 +112,7 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/usa/
-  timestamp: 2021-06-03 20:24:08.166238
+  timestamp: 2021-10-10 21:04:50.282608
   title: Cuba Ransomware welcomes You
   url: ['http://www.usairports.com/']
 - !!python/object:darksuce_class.record
@@ -135,13 +135,46 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/learning-resources/
-  timestamp: 2021-06-03 20:24:08.166252
+  timestamp: 2021-10-10 21:04:50.282619
   title: Cuba Ransomware welcomes You
   url: ['https://www.learningresources.com']
 - !!python/object:darksuce_class.record
   author: null
+  custom: !!set {}
+  data: "AFTS supplies the preeminent\nP\nayment Processing\n,\nIRS 1031 Exchange\n\
+    ,\_\nData Processing\n,\nIn\nvoicing\n,\nS\ntatement Printing, Business Mailings,\n\
+    \_Payment Collection,\_\nand\nA\nutomated Lock-box\nto help your business maximize\
+    \ profits and outdo the competition\n.\nDate the files were received:\_\n4 February\
+    \ 2021\nwebsite:\_\nhttps://www.afts.com\nFiles:\_\nFinancial documents, correspondence\
+    \ with bank employees, account movements, balance sheets, tax documents."
+  hmac: c8a849698f8a8b4d7ada1a6350d9db6cfafe2298dd48bbd1cbb66f8feca9d3b0
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/afts/
+  timestamp: 2021-10-10 21:04:50.282635
+  title: Cuba Ransomware welcomes You
+  url: ['https://www.afts.com']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: "OTR Capital believes in simple and straightforward transactions, without\
+    \ hidden costs and unfair termination fees and rules. We understand the importance\
+    \ of quick, easy, and reliable payments and strive to provide our clients with\
+    \ the best factoring experience in the business. This focus allows us to build\
+    \ strong, long lasting relationships with our partners built on trust.\nDate the\
+    \ files were received:\_\n18-25 February 2021\nwebsite:\_\nhttps://otrcapital.com\n\
+    files:\_\nFinancial documents, source codes, information about all clients, contracts."
+  hmac: 0abc28dc9c93091c60be4a56b560c904f59f5a30981b227c5136785fc4b0f5eb
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/otrcapital/
+  timestamp: 2021-10-10 21:04:50.282647
+  title: Cuba Ransomware welcomes You
+  url: ['https://otrcapital.com']
+- !!python/object:darksuce_class.record
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, otrcapital]
+    ? !!python/tuple [victim, None]
     : null
   data: '
 
@@ -178,15 +211,15 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/otrcapital/
-  timestamp: 2021-06-03 20:24:08.166271
+  timestamp: 2021-10-10 21:04:50.282659
   title: otrcapital
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, Afts]
+    ? !!python/tuple [victim, None]
     : null
   data: '
 
@@ -219,15 +252,15 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/afts/
-  timestamp: 2021-06-03 20:24:08.166285
+  timestamp: 2021-10-10 21:04:50.282672
   title: Afts
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, The Rose Executive Team]
+    ? !!python/tuple [victim, None]
     : null
   data: '
 
@@ -270,15 +303,15 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/the-rose-executive-team/
-  timestamp: 2021-06-03 20:24:08.166299
+  timestamp: 2021-10-10 21:04:50.282683
   title: The Rose Executive Team
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, Datamatics]
+    ? !!python/tuple [victim, None]
     : null
   data: "\nDatamatics\n![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2020/02/data.jpg)\n\
     Datamatics is a technology company that builds intelligent solutions enabling\n\
@@ -294,15 +327,15 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/data/
-  timestamp: 2021-06-03 20:24:08.166314
+  timestamp: 2021-10-10 21:04:50.282695
   title: Datamatics
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, First Coast Logistics Services]
+    ? !!python/tuple [victim, None]
     : null
   data: "\nFirst Coast Logistics Services\n![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2020/03/first.png)\n\
     First Coast Logistics Services, Inc. was founded in 1999. The Company\u2019s line\n\
@@ -313,15 +346,15 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/first-coast-logistics-services-2/
-  timestamp: 2021-06-03 20:24:08.166327
+  timestamp: 2021-10-10 21:04:50.282707
   title: First Coast Logistics Services
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
 - !!python/object:darksuce_class.record
-  author: null
+  author: ''
   custom: !!set
-    ? !!python/tuple [victim, Squamish]
+    ? !!python/tuple [victim, None]
     : null
   data: "\nSquamish\n![](http://cuba4mp6ximo2zlo.onion/wp-\ncontent/uploads/2021/01/squamish-150x150.jpg)\n\
     The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal\n\
@@ -340,8 +373,2268 @@
   ltype: Shaming list
   malware: Cuba
   source: http://cuba4mp6ximo2zlo.onion/squamish/
-  timestamp: 2021-06-03 20:24:08.166340
+  timestamp: 2021-10-10 21:04:50.282720
   title: Squamish
   url: !!set
     ? !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
     : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Datamatics]
+    : null
+  data: '
+
+    Datamatics
+
+    ![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2020/02/data.jpg)
+
+    Datamatics is a technology company that builds intelligent solutions enabling
+
+    data-driven businesses to digitally transform themselves through Robotics,
+
+    Artificial Intelligence, Cloud, Mobility and Advanced Analytics.
+
+    INDUSTRY:
+
+    * Banking & Financial Services
+
+    * Healthcare
+
+    * Insurance
+
+    * Travel & Hospitality
+
+    * Retail & E-Commerce
+
+    * Transportation
+
+    * Manufacturing & Logistics
+
+    * International Organisations
+
+    **website:** https://www.datamatics.com
+
+    **Date the files were received:** 15-20 november 2019 Datamatics Global
+
+    Services Limited
+
+    **files:** all data bases
+
+    the source codes of the developed programs
+
+    company data https://www.ge.com in encrypted form(it is possible to decrypt)
+
+    Download
+
+    '
+  hmac: e0f7bf3edfcb5913b37efcbaf9cb866ebbcee586869f5f677d9e6fbc5f709591
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/data/
+  timestamp: 2021-10-10 21:04:50.282737
+  title: Cuba Ransomware welcomes You - Datamatics
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2020/02/data.jpg
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Forefront Dermatology]
+    : null
+  data: "\nForefront Dermatology\n![](http://cuba4mp6ximo2zlo.onion/wp-\ncontent/uploads/2021/06/forefrontdermatology.png)\n\
+    World-class dermatology care for you.At Forefront Dermatology, making sure you\n\
+    have beautiful and healthy skin is our top priority. We offer a comprehensive\n\
+    range of patient-centric, dermatological services and treatments for all your\n\
+    skincare needs. Our board\u2013certified dermatologists are a first-rate team\
+    \ and\nhighly respected within their communities. The Forefront name is your\n\
+    assurance that you\u2019re receiving world-class dermatology care.\n**website:\
+    \ https://forefrontdermatology.com**\n**Date the files were received: 4-6 June\
+    \ 2021\n**\n**files:**\nDownload\n"
+  hmac: 72d09699685d5bb569fb1a63d54c810f2dd7f8f3f8e007342245d322839eac1f
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/forefront-dermatology/
+  timestamp: 2021-10-10 21:04:50.282749
+  title: Cuba Ransomware welcomes You - Forefront Dermatology
+  url:
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/06/forefrontdermatology.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Megaforce]
+    : null
+  data: "\nMegaforce\n![](http://cuba4mp6ximo2zlo.onion/wp-\ncontent/uploads/2021/06/megaforce_logo-250x58.png)\n\
+    MEGAFORCE \u2013 Your specialists for stage, event construction and special designs\n\
+    MegaforceFor more than 25 years MEGAFORCE has represented innovative,\nindividual\
+    \ and safe building in the Event Industry. The MEGAFORCE-stage\nsystems are of\
+    \ the highest quality and flexibility and cover a wide range:\nfrom Classic Round\
+    \ arch stages, to Tower platforms for the open-air use,\nCenter Stages for indoor\
+    \ use as well as Individual Design stages. Inform\nyourself on our website about\
+    \ various products from MEGAFORCE or let yourself\nbe inspired by our Event references.\n\
+    **Date the files were received:** 22-23 June 2021\n**website:** https://www.megaforce.de\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: cc03d57a454e777156f4e437f96cfb9f9d3f055f33d13ec5a31e5bc93f462741
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/megaforce/
+  timestamp: 2021-10-10 21:04:50.282763
+  title: Cuba Ransomware welcomes You - Megaforce
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/06/megaforce_logo-250x58.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Innovairre]
+    : null
+  data: '
+
+    Innovairre
+
+    ![](http://cuba4mp6ximo2zlo.onion/wp-
+
+    content/uploads/2021/06/HelpPeopleLogoRegistered-250x54.png)
+
+    **We help people**
+
+    **Who help people**
+
+    Innovairre is the global leader in fundraising, supporting nonprofits & their
+
+    agencies.
+
+    **website: https://www.innovairre.com**
+
+    **Date the files were received: 19-21 June 2021
+
+    **
+
+    **files: Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.**
+
+    Download
+
+    '
+  hmac: 6214f0fa78484d90cfb99519312dbd6ffc58ec8617e2358de1ad51a2a351b48c
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/innovairre/
+  timestamp: 2021-10-10 21:04:50.282778
+  title: Cuba Ransomware welcomes You - Innovairre
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/06/HelpPeopleLogoRegistered-250x54.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, GasCaribe]
+    : null
+  data: '
+
+    GasCaribe
+
+    ![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo-gases-del-
+
+    caribe-1@2x.png)
+
+    Gases del Caribe S.A., PUBLIC UTILITY COMPANY provides natural gas
+
+    distribution services in the departments of Atlantico, Magdalena, Cesar and
+
+    Bolivar (north).
+
+    **Date the files were received:** 31 Jule 2021
+
+    **website:** https://gascaribe.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 2235031eab3bb0e34a333ab0370f50c0a2d53e1e08147ed570d99d4385b1ed84
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/gascaribe/
+  timestamp: 2021-10-10 21:04:50.282789
+  title: Cuba Ransomware welcomes You - GasCaribe
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo-gases-del-caribe-1@2x.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Quercus]
+    : null
+  data: "\nQuercus\n![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo-128.png)\n\
+    Specjalizujemy si\u0119 we wdro\u017Ceniach system\xF3w SAP, a tak\u017Ce portali\
+    \ oraz rozwi\u0105za\u0144\nna urz\u0105dzenia mobilne. \u015Awiadczymy r\xF3\
+    wnie\u017C us\u0142ugi z zakresu doradztwa, takie\njak: audyty, szkolenia, analizy\
+    \ przedwdro\u017Ceniowe oraz pomoc w przygotowaniu\nzapyta\u0144 ofertowych SIWZ.\
+    \ Prowadzimy projekty z zastosowaniem metodyki Prince\noraz PMI. Dedykowany zesp\xF3\
+    \u0142 konsultant\xF3w udziela r\xF3wnie\u017C profesjonalnego\nwsparcia u\u017C\
+    ytkownikom system\xF3w SAP poprzez internetowy i telefoniczny system\nzg\u0142\
+    osze\u0144 HelpDesk.\n**Date the files were received:** 10 August 2021\n**website:**\
+    \ https://quercus.pl/\n**files:** Financial documents, correspondence with bank\
+    \ employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 5a4e41016c5275d0b3c15706165bb98f14f232696a798e7d4930ccb3b4f292ba
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/quercus/
+  timestamp: 2021-10-10 21:04:50.282800
+  title: Cuba Ransomware welcomes You - Quercus
+  url:
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo-128.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Lycra]
+    : null
+  data: '
+
+    Lycra
+
+    ![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/lycra.png)
+
+    Enhancing life through innovative garment solutions
+
+    **Date the files were received: 2** 0 August 2021
+
+    **website:** https://www.lycra.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 7ff9e24e7b7a61e30cbab5071fcf8c120d10dd07581d198992a1a985a5d03de7
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/lycra/
+  timestamp: 2021-10-10 21:04:50.282913
+  title: Cuba Ransomware welcomes You - Lycra
+  url:
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/lycra.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, BlackHawk]
+    : null
+  data: "\nBlackHawk\n![](http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo.png)\n\
+    We distinguish ourselves as the #1 choice for industrial manufacturers who are\n\
+    in need of Technical Service and Production Savings. We are their \u201Cacross\
+    \ the\nproduction floor\u201D partner delivering value through product and supply\
+    \ chain\nperformance that lowers their total cost of production.\n**Date the files\
+    \ were received: 26** August 2021\n**website:** https://www.bhid.com/\n**files:**\
+    \ Financial documents, correspondence with bank employees, account\nmovements,\
+    \ balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: 51ab59a05d0ee99e1d40a34cc1585f9e1f83b035ff31a417295bebf66c9f5ca1
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4mp6ximo2zlo.onion/853-2/
+  timestamp: 2021-10-10 21:04:50.282924
+  title: Cuba Ransomware welcomes You - BlackHawk
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4mp6ximo2zlo.onion/wp-content/uploads/2021/08/logo.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, BlackHawk]
+    : null
+  data: "\nBlackHawk\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/08/logo.png)\nWe distinguish ourselves as the #1 choice for\
+    \ industrial manufacturers who are\nin need of Technical Service and Production\
+    \ Savings. We are their \u201Cacross the\nproduction floor\u201D partner delivering\
+    \ value through product and supply chain\nperformance that lowers their total\
+    \ cost of production.\n**Date the files were received: 26** August 2021\n**website:**\
+    \ https://www.bhid.com/\n**files:** Financial documents, correspondence with bank\
+    \ employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 7d80f8d1ea78a476812cd2661f45b9694bb1d97e9fc15f16e66575c27cbaa0e2
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/853-2/
+  timestamp: 2021-10-10 21:04:50.282937
+  title: Cuba Ransomware welcomes You - BlackHawk
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/08/logo.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Quercus]
+    : null
+  data: "\nQuercus\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/08/logo-128.png)\nSpecjalizujemy si\u0119 we wdro\u017Ceniach\
+    \ system\xF3w SAP, a tak\u017Ce portali oraz rozwi\u0105za\u0144\nna urz\u0105\
+    dzenia mobilne. \u015Awiadczymy r\xF3wnie\u017C us\u0142ugi z zakresu doradztwa,\
+    \ takie\njak: audyty, szkolenia, analizy przedwdro\u017Ceniowe oraz pomoc w przygotowaniu\n\
+    zapyta\u0144 ofertowych SIWZ. Prowadzimy projekty z zastosowaniem metodyki Prince\n\
+    oraz PMI. Dedykowany zesp\xF3\u0142 konsultant\xF3w udziela r\xF3wnie\u017C profesjonalnego\n\
+    wsparcia u\u017Cytkownikom system\xF3w SAP poprzez internetowy i telefoniczny\
+    \ system\nzg\u0142osze\u0144 HelpDesk.\n**Date the files were received:** 10 August\
+    \ 2021\n**website:** https://quercus.pl/\n**files:** Financial documents, correspondence\
+    \ with bank employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: b942f10ceb0ce2ea4cb2f79b7d62b5477c4921f16fd349dd231fd01f58982729
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/quercus/
+  timestamp: 2021-10-10 21:04:50.282951
+  title: Cuba Ransomware welcomes You - Quercus
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/08/logo-128.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, GasCaribe]
+    : null
+  data: '
+
+    GasCaribe
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/08/logo-gases-del-caribe-1@2x.png)
+
+    Gases del Caribe S.A., PUBLIC UTILITY COMPANY provides natural gas
+
+    distribution services in the departments of Atlantico, Magdalena, Cesar and
+
+    Bolivar (north).
+
+    **Date the files were received:** 31 Jule 2021
+
+    **website:** https://gascaribe.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 7acf8f253d28c8924ef7f0e89888a05280bd81fb68ebd123f6298af1900c1fdc
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/gascaribe/
+  timestamp: 2021-10-10 21:04:50.282966
+  title: Cuba Ransomware welcomes You - GasCaribe
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/08/logo-gases-del-caribe-1@2x.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Megaforce]
+    : null
+  data: "\nMegaforce\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/06/megaforce_logo-250x58.png)\nMEGAFORCE \u2013 Your specialists\
+    \ for stage, event construction and special designs\nMegaforceFor more than 25\
+    \ years MEGAFORCE has represented innovative,\nindividual and safe building in\
+    \ the Event Industry. The MEGAFORCE-stage\nsystems are of the highest quality\
+    \ and flexibility and cover a wide range:\nfrom Classic Round arch stages, to\
+    \ Tower platforms for the open-air use,\nCenter Stages for indoor use as well\
+    \ as Individual Design stages. Inform\nyourself on our website about various products\
+    \ from MEGAFORCE or let yourself\nbe inspired by our Event references.\n**Date\
+    \ the files were received:** 22-23 June 2021\n**website:** https://www.megaforce.de\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: 2e657ec1361c392976dbe0b3cef3a547ec27a5c411f01f4ffc03197e65b85215
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/megaforce/
+  timestamp: 2021-10-10 21:04:50.282978
+  title: Cuba Ransomware welcomes You - Megaforce
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/06/megaforce_logo-250x58.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Innovairre]
+    : null
+  data: '
+
+    Innovairre
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/06/HelpPeopleLogoRegistered-250x54.png)
+
+    **We help people**
+
+    **Who help people**
+
+    Innovairre is the global leader in fundraising, supporting nonprofits & their
+
+    agencies.
+
+    **website: https://www.innovairre.com**
+
+    **Date the files were received: 19-21 June 2021
+
+    **
+
+    **files: Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.**
+
+    Download
+
+    '
+  hmac: 14a11f64eb8332a98161ec8fc1ae205dd5be4e8a110c81c4e912cb05c86be4fb
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/innovairre/
+  timestamp: 2021-10-10 21:04:50.282993
+  title: Cuba Ransomware welcomes You - Innovairre
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/06/HelpPeopleLogoRegistered-250x54.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Squamish]
+    : null
+  data: "\nSquamish\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/01/squamish-150x150.jpg)\nThe Squamish Nation is comprised\
+    \ of descendants of the Coast Salish Aboriginal\npeoples who lived in the present\
+    \ day Greater Vancouver area; Gibson\u2019s landing\nand Squamish River watershed.\
+    \ The Squamish Nation have occupied and governed\ntheir territory since beyond\
+    \ recorded history. Total area of Squamish Nation\nTraditional Territory is 6,921\
+    \ sq. km. (~692,100 hectares).\nThe Nation consists of 23 villages encompassing\
+    \ 21.2 sq. Km. (2,120\nhectares).The percentage of Squamish Nation Traditional\
+    \ Territory allotted to\nthe people is 0.4230%. These parcels of land are scattered\
+    \ from North\nVancouver, Gibson\u2019s Landing to the area north of Howe Sound.\n\
+    **Date the files were received:** 15 January 2021\n**website:** https://www.squamish.net\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: a9c6e3fd78cc88c14c430f759b20e92863d6c737a379b929dcf4930fb7eddc90
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/squamish/
+  timestamp: 2021-10-10 21:04:50.283004
+  title: Cuba Ransomware welcomes You - Squamish
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/01/squamish-150x150.jpg
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Lycra]
+    : null
+  data: '
+
+    Lycra
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/08/lycra.png)
+
+    Enhancing life through innovative garment solutions
+
+    **Date the files were received: 20** August 2021
+
+    **website:** https://www.lycra.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 3f4666a246f3e2eb70b0fae538de6309cc910c60785a1172157b244427f4a037
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/lycra/
+  timestamp: 2021-10-10 21:04:50.283020
+  title: Cuba Ransomware welcomes You - Lycra
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/08/lycra.png
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Nwdusa]
+    : null
+  data: '
+
+    Nwdusa
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/09/index-225x150.jpg)
+
+    Northwest Door is a brand of elegant and innovative garage doors manufactured
+
+    in the Pacific Northwest. Your 1st choice in upgraded garage doors worldwide.
+
+    **Date the files were received: 1** september 2021
+
+    **website:** http://www.nwdusa.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 9f0584c1b3453d2485812259be6697b9a010cfcbd3fac97c229d60a8e45ac9d4
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/nwdusa/
+  timestamp: 2021-10-10 21:04:50.283030
+  title: Cuba Ransomware welcomes You - Nwdusa
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/index-225x150.jpg
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Berding-weil]
+    : null
+  data: '
+
+    Berding-weil
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/09/3fab3ee264fe88023202adad4394f917-150x150.png)
+
+    BERDING|WEIL is the largest and most experienced construction defect and
+
+    common interest development law firm in California. We provide superior,
+
+    client-focused legal services and solutions to community associations and
+
+    property managers throughout California and beyond.
+
+    **Date the files were received: 3** september 2021
+
+    **website:** https://www.berding-weil.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 97b5aaf322fd6760fc49a8f8fb06d8a64111bb2f026df8cc0bd20d60c856309a
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/berding-weil/
+  timestamp: 2021-10-10 21:04:50.283041
+  title: Cuba Ransomware welcomes You - Berding-weil
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/3fab3ee264fe88023202adad4394f917-150x150.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Technicote]
+    : null
+  data: '
+
+    Technicote
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/09/technicote-logo-anniversary-250x34.png)
+
+    Technicote, Inc. was established in 1980 in Cuyahoga Falls, Ohio to service
+
+    local roll converters. As a privately owned company, Technicote is small
+
+    enough to care and big enough to deliver solutions across the pressure
+
+    sensitive industry. We deliver this with seven manufacturing and distribution
+
+    facilities throughout North America and three strategic business units within
+
+    the pressure sensitive market.
+
+    **Date the files were received: 1** september 2021
+
+    **website:** https://www.technicote.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 3eb2a2d5b0606b81a841e6736f3f26b9146097b893626548c75d4318d5381ab4
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/technicote/
+  timestamp: 2021-10-10 21:04:50.283053
+  title: Cuba Ransomware welcomes You - Technicote
+  url:
+  - !!python/tuple [Download, 'http://os6jsvu3zps32244btp6ncyd3iytgguqps453j4xxnmf4nibh6jtzxqd.onion/']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/technicote-logo-anniversary-250x34.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Creditriskmonitor]
+    : null
+  data: "\nCreditriskmonitor\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/CRM-Logo-250x85.png)\nCreditRiskMonitor is a financial\
+    \ risk analysis and news service for credit,\nsupply chain and financial professionals.\
+    \ Our strength in coverage spans\n57,000 global public companies, totaling approximately\
+    \ $69.3 trillion in\ncorporate revenue. We also offer industry-leading accuracy\
+    \ solutions for\naddressing private company financial risk assessment. Leading\
+    \ corporations\naround the world \u2013 including more than 35% of the Fortune\
+    \ 1000, plus thousands\nmore worldwide \u2013 rely on us to help them stay ahead\
+    \ of financial risk quickly,\naccurately and cost-effectively.\n**Date the files\
+    \ were received: 8** september 2021\n**website:** https://www.creditriskmonitor.com/\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\n"
+  hmac: 9c96104782551083dd2bfb349438b72b70081e557330c4a2b6d6e19f88c5df3b
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/creditriskmonitor/
+  timestamp: 2021-10-10 21:04:50.283065
+  title: Cuba Ransomware welcomes You - Creditriskmonitor
+  url: ['http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/CRM-Logo-250x85.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Linkmfg]
+    : null
+  data: "\nLinkmfg\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/link-250x31.png)\nFor over four decades, Link Manufacturing\
+    \ has partnered with our customers to\nensure their needs are met throughout every\
+    \ step \u2013 from product planning and\ndevelopment through order fulfillment.\
+    \ We pride ourselves on going the extra\nmile to meet our customers\u2019 expectations\
+    \ and assure their satisfaction. Our\npledge is superior service and support;\
+    \ outstanding product quality; and\nconsistent, on-time delivery.\n**Date the\
+    \ files were received: 11** september 2021\n**website:** https://www.linkmfg.com\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: 8c04acb8ae38e25ec5c58406e69f1c28a4abeb9cd17e500875952590e650616d
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/linkmfg/
+  timestamp: 2021-10-10 21:04:50.283080
+  title: Cuba Ransomware welcomes You - Linkmfg
+  url:
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/link-250x31.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Phminc]
+    : null
+  data: '
+
+    Phminc
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/09/15698077_1370206093032167_1502324886036241529_n-148x150.jpg)
+
+    Professional Healthcare Mgmt
+
+    **Date the files were received: 14** september 2021
+
+    **website:** https://phminc.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 525157b03ebc0c256388579d9d4adfbb7e598ca77adad10d1975f3fa536de255
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/phminc/
+  timestamp: 2021-10-10 21:04:50.283094
+  title: Cuba Ransomware welcomes You - Phminc
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/15698077_1370206093032167_1502324886036241529_n-148x150.jpg
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Ohagin]
+    : null
+  data: "\nOhagin\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/Ohagin-Transparent-Logo-250x69.png)\nOur Story\nFrom its\
+    \ founding roots as a roofing company over 40 years ago, O\u2019Hagin has\ngrown\
+    \ into a nationally recognized designer and producer of top-quality,\nstate-of-the-art\
+    \ attic ventilation solutions. Today, O\u2019Hagin has local and\nnational testing\
+    \ approvals; is recognized for its industry-leading efforts in\nresearch, development\
+    \ and testing; and holds multiple domestic and\ninternational patents with many\
+    \ more pending.\n**Date the files were received: 24** september 2021\n**website:**\
+    \ https://ohagin.com/\n**files:** Financial documents, correspondence with bank\
+    \ employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 1b3c912234a7b7974483e19dabfeba96041100b837e0c3d4f00ce1de857ed815
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ohagin/
+  timestamp: 2021-10-10 21:04:50.283105
+  title: Cuba Ransomware welcomes You - Ohagin
+  url:
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/Ohagin-Transparent-Logo-250x69.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Meriplex]
+    : null
+  data: "\nMeriplex\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/\u0411\u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\
+    \u0439.png)\nPowering Enterprise Growth through IT and SD-WAN Technology\nUsing\
+    \ a collaborative approach, Meriplex develops lasting customer\npartnerships and\
+    \ delivers pioneering, secure and reliable solutions designed\nto advance business\
+    \ growth. Our mission is to honor those partnerships every\nday as the provider\
+    \ you turn to and trust.\n**Date the files were received: 14** september 2021\n\
+    **website:** https://meriplex.com\n**files:** Financial documents, correspondence\
+    \ with bank employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 8d33d43417a07fb068b8cf0e9b03f4eba16b332401551e570bea58e0962ea432
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/meriplex/
+  timestamp: 2021-10-10 21:04:50.283198
+  title: Cuba Ransomware welcomes You - Meriplex
+  url:
+  - "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/\u0411\
+    \u0435\u0437\u044B\u043C\u044F\u043D\u043D\u044B\u0439.png"
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Schultheis-ins]
+    : null
+  data: "\nSchultheis-ins\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/Schultheis-Logo_TV.png)\nSchultheis Insurance is an Independent\
+    \ Insurance Agency located in Evansville,\nIndiana. Our highly trained agents\
+    \ focus on providing clients with the best\ninsurance and financial planning advice\
+    \ and on providing coverage most suited\nto each individual client\u2019s needs\
+    \ at the lowest cost. We\u2019re able to accomplish\nthis because Schultheis is\
+    \ not tied in with just one company\u2019s products; our\npartnerships with the\
+    \ finest insurance and investment companies in the country\nensure that our clients\
+    \ will always have the best choices available to them.\nSchultheis Insurance Agency\
+    \ is a family-owned business established in 1944 by\nFrank M. Schultheis, Sr.\
+    \ Through our dedication to providing clients with\ndependable, quality insurance\
+    \ products that fit the individual\u2019s particular\nsituation, good value, and\
+    \ around-the-clock claim service, the agency has\ngrown substantially. We now\
+    \ employ more than 60 associates at two office\nlocations in Evansville and branch\
+    \ offices in Mount Vernon, Indiana, and\nGreenwood, Indiana.\n**Date the files\
+    \ were received: 17** september 2021\n**website:** http://www.schultheis-ins.com/\n\
+    **files:**\nDownload\n"
+  hmac: 495633ed809dc1c58d40f198decb198f3c51792e64af3b7bdc4265f12650b6d1
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/schultheis-ins/
+  timestamp: 2021-10-10 21:04:50.283212
+  title: Cuba Ransomware welcomes You - Schultheis-ins
+  url:
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/Schultheis-Logo_TV.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Axley]
+    : null
+  data: "\nAxley\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/logo-250x21.png)\nAxley is a full-service law firm with\
+    \ two Wisconsin offices (Madison &\nWaukesha) and more than 50 practicing attorneys.\
+    \ Named the #1 Law Firm by\nInBusiness Magazine\u2018s Executive Choice awards\
+    \ for the past six years running,\nAxley provides exceptional legal services to\
+    \ a wide array of clients from\nindividuals and small business owners to multinational\
+    \ corporations.\n**Date the files were received: 24** september 2021\n**website:**\
+    \ https://www.axley.com\n**files:** Financial documents, correspondence with bank\
+    \ employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 6fbf8b9defa09a236c22b62a2688c51458f45bc98b244ed97d3627c288989125
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/axley/
+  timestamp: 2021-10-10 21:04:50.283230
+  title: Cuba Ransomware welcomes You - Axley
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/logo-250x21.png
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Landofrost]
+    : null
+  data: "\nLandofrost\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/10/lofcorporatelogo-250x88.png)\nOUR HISTORY\nLand O\u2019\
+    Frost is a third generation, family-owned business started by Antoon\nVan Eekeren\
+    \ in 1941 and grown by his son, Paul Van Eekeren, a visionary who\nlooked at the\
+    \ needs of consumers and acted on them. From our beginnings on the\nsouth side\
+    \ of Chicago to our current national presence and 1,500 employees,\nwe\u2019ve\
+    \ remained focused on family. That\u2019s been the foundation of our company\n\
+    and our brands. We consider our employees, customers, and partners a part of\n\
+    our Land O\u2019Frost family. It\u2019s our unwavering commitment to everyone\
+    \ we serve\nthat has allowed us to grow over the years.\n**Date the files were\
+    \ received: 09** October 2021\n**website:** https://landofrost.com\n**files:**\
+    \ Financial documents, correspondence with bank employees, account\nmovements,\
+    \ balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: 4f4899c7c2b5354fa73d0799d16e57645873fddfb407a286a54247798b785b25
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/landofrost/
+  timestamp: 2021-10-20 15:11:32.895059
+  title: Cuba Ransomware welcomes You - Landofrost
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/10/lofcorporatelogo-250x88.png
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Ohagin]
+    : null
+  data: "\nOhagin\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/09/Ohagin-Transparent-Logo-250x69.png)\nOur Story\nFrom its\
+    \ founding roots as a roofing company over 40 years ago, O\u2019Hagin has\ngrown\
+    \ into a nationally recognized designer and producer of top-quality,\nstate-of-the-art\
+    \ attic ventilation solutions. Today, O\u2019Hagin has local and\nnational testing\
+    \ approvals; is recognized for its industry-leading efforts in\nresearch, development\
+    \ and testing; and holds multiple domestic and\ninternational patents with many\
+    \ more pending.\n**Date the**\n"
+  hmac: bfe6a34c536308263767ffe16f9e298098330502c09771ea9c4ab9e3c1074d29
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ohagin/
+  timestamp: 2021-10-21 18:06:15.211761
+  title: Cuba Ransomware welcomes You - Ohagin
+  url: ['http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/09/Ohagin-Transparent-Logo-250x69.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Bakertilly]
+    : null
+  data: '
+
+    Bakertilly
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/10/bakertilly-250x74.png)
+
+    We provide services to Belgian and international clients, especially SMEs, on
+
+    a local, regional and international level. Our clients consist of fast-growing
+
+    project companies, local management companies up to holdings and
+
+    multinationals, covering various economic sectors: family businesses as well
+
+    as international companies, whether or not listed or belonging to listed
+
+    companies. Small businesses, liberal professionals, non-profit organisations
+
+    and public authorities can also count on our services. We have broad
+
+    experience in assisting clients who wish to enter or leave the Belgian market.
+
+    **Date the files were received: 21** October 2021
+
+    **website:** https://www.bakertilly.be
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: f2fd8afdf722ee4500b2e40df656de75c4de07a0864321b3abb90e9fff51311d
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/bakertilly/
+  timestamp: 2021-10-27 18:05:28.112171
+  title: Cuba Ransomware welcomes You - Bakertilly
+  url:
+  - !!python/tuple [Download, 'http://5c4qycmxc2xk4t6p64xyz6f4z7rpovf5y2kskxmnt2izfr5hup2ztmid.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/10/bakertilly-250x74.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Otip]
+    : null
+  data: "\nOtip\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/11/logo-otip.png)\nOur name is OTIP. We have such an important\
+    \ job to do\u2014for you.\nAs a member of the Ontario education community you\
+    \ make a difference. This has\nnever been truer than it is today. At OTIP, we\
+    \ exist to make a difference in\nyour life by helping you make the best insurance\
+    \ choices for your needs.\nBecause the right insurance matters to your well-being.\n\
+    Watch the videos (filmed before the pandemic) to see more of the OTIP story\n\
+    and how we serve Ontario\u2019s education community.\n**Date the files were received:\
+    \ 16** November 2021\n**website:** https://www.otip.com/\n**files:** Financial\
+    \ documents, correspondence with bank employees, account\nmovements, balance sheets,\
+    \ tax documents, compensation.\nDownload\n"
+  hmac: 8554664be8c8a245310e532d62a29f229a8e99d15dccddd2f7de8fc3283e1d19
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/otip/
+  timestamp: 2021-11-24 09:03:51.408307
+  title: Cuba Ransomware welcomes You - Otip
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/11/logo-otip.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Otip]
+    : null
+  data: "\nOtip\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/11/logo-otip.png)\nOur name is OTIP. We have such an important\
+    \ job to do\u2014for you.\nThis has never been truer than it is today. At OTIP,\
+    \ we exist to make a\ndifference in your life by helping you make the best insurance\
+    \ choices for\nyour needs.\nBecause the right insurance matters to your well-being.\n\
+    Watch the videos (filmed before the pandemic) to see more of the OTIP story\n\
+    and how we serve Ontario\u2019s education community.\n**Date the files were received:\
+    \ 16** November 2021\n**website:** https://www.otip.com/\n**files:** Financial\
+    \ documents, correspondence with bank employees, account\nmovements, balance sheets,\
+    \ tax documents, compensation.\nDownload\n"
+  hmac: d60b7440288faeaaa0a6ecd16b228f78192a6766591d8c5dd7d4a19072930162
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/otip/
+  timestamp: 2021-11-24 12:03:46.406083
+  title: Cuba Ransomware welcomes You - Otip
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/11/logo-otip.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Lahebert]
+    : null
+  data: "\nLahebert\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2021/12/logo-LAHebert-250x63.png)\nL.A. H\xE9bert Lt\xE9e. : une\
+    \ \xE9quipe de professionnels d\u2019exp\xE9rience.\nEn tant qu\u2019entrepreneur\
+    \ g\xE9n\xE9ral en g\xE9nie civil, notre expertise a su se\ndiversifier au fil\
+    \ des ann\xE9es. En effet, nos comp\xE9tences multiples nous\npermettent d\u2019\
+    intervenir dans les domaines suivants:\nExcavation de masse\nInfrastructures municipales\n\
+    Projets environnementaux\nProjets commerciaux et industriels\nTravaux routiers\
+    \ et ouvrages d\u2019art\nD\xE9neigement\nBien que tr\xE8s pr\xE9sents dans la\
+    \ grande r\xE9gion m\xE9tropolitaine, nous r\xE9alisons\naussi plusieurs projets\
+    \ ailleurs au Qu\xE9bec. Nous avons \xE9galement r\xE9alis\xE9 des\nprojets outremer.\n\
+    **Date the files were received:** 02 December 2021\n**website:** https://www.lahebert.ca\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: 687836ea8a1614535cefabda723f4676df44e6481f573aefce412d418629a477
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/lahebert/
+  timestamp: 2021-12-14 15:04:29.266428
+  title: Cuba Ransomware welcomes You - Lahebert
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/12/logo-LAHebert-250x63.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Ncmutuallife]
+    : null
+  data: '
+
+    Ncmutuallife
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/12/North-Carolina-Mutual-Logo-250x61.png)
+
+    Founded in 1898, North Carolina Mutual Life Insurance Company has been a
+
+    catalyst for economic and social development for 120 years. Serving families
+
+    of color for generations and fostering key African American institutions from
+
+    banks to HBCUs, ours is a rich legacy.
+
+    **Date the files were received:** 09 December 2021
+
+    **website:** https://www.ncmutuallife.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 68bfbbcdebfc20a1298ab3416f9f9b3a4ac2842a7b48ed9a161b276117a3d490
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ncmutuallife/
+  timestamp: 2021-12-14 15:04:30.481796
+  title: Cuba Ransomware welcomes You - Ncmutuallife
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/12/North-Carolina-Mutual-Logo-250x61.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Atlasdie]
+    : null
+  data: '
+
+    Atlasdie
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/12/Enfold-logoB2.png)
+
+    Through our four divisions, we offer the most complete family of die cutting
+
+    tools in the industry. Our tooling selection includes steel rule dies and
+
+    rotary dies along with accessories to achieve maximum press efficiency and
+
+    extraordinary outcomes.
+
+    Learn more about each of our divisions and see how Atlas Die is committed to
+
+    Keeping You Sharp.
+
+    **Date the files were received:** 07 December 2021
+
+    **website:** https://www.atlasdie.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: ffa2ec6097b9510bfbc9159f0a349a090323a341997d54aab5073b175504fee0
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/atlasdie/
+  timestamp: 2021-12-14 15:04:31.569224
+  title: Cuba Ransomware welcomes You - Atlasdie
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/12/Enfold-logoB2.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Sonomatic]
+    : null
+  data: '
+
+    Sonomatic
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2021/12/cropped-Untitled-design-7.png)
+
+    Sonomatic specialises in the design, development and application of NDT
+
+    inspections, and combines this with data science and cutting-edge integrity
+
+    engineering capabilities to provide clients with a world-class inspection
+
+    service.
+
+    Through the in-house development of bespoke inspection equipment, software and
+
+    robotics, Sonomatic resides as the global market leader for ROV-deployed
+
+    subsea inspection and Non-Intrusive Inspection (NII) technologies.
+
+    **Date the files were received:** 05 December 2021
+
+    **website:** https://sonomatic.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 78e69a69240c3d6e423b83c6972cb442d8e894e900fb033e1681cd6543fcb60a
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/sonomatic/
+  timestamp: 2021-12-14 15:04:32.612732
+  title: Cuba Ransomware welcomes You - Sonomatic
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2021/12/cropped-Untitled-design-7.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Delinebox]
+    : null
+  data: "\nDelinebox\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/01/logo-deline-original-1.png)\nThe DeLine family has been\
+    \ producing packaging in Denver for over 100 years.\nOur personalized approach\
+    \ to manufacturing allows us the ability to customize\nyour packaging program\
+    \ to fit you\u2019re your specific needs.\n**Date the files were received:** 15\
+    \ December 2021\n**website:** http://www.delinebox.com/\n**files:** Financial\
+    \ documents, correspondence with bank employees, account\nmovements, balance sheets,\
+    \ tax documents, compensation.\nDownload\n"
+  hmac: 1f7a7215a6a98c51f63fb011e1175a4dbced87a01b87629a24e341bf0008e49d
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/delinebox/
+  timestamp: 2022-01-10 12:03:50.301555
+  title: Cuba Ransomware welcomes You - Delinebox
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/logo-deline-original-1.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Regulvar]
+    : null
+  data: '
+
+    Regulvar
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/01/header_logo.gif)
+
+    Integrated solutions, high-performance buildings
+
+    Regulvar provides managers and owners with integrated and upgradable building
+
+    automation solutions designed to optimize building performance as well as
+
+    occupant comfort and security.
+
+    **Date the files were received:** 13 December 2021
+
+    **website:** http://www.regulvar.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 65a31978b50bdbff0d4ebfae971d9f1952231d668b0d5f61e0e2f482be05cb21
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/regulvar/
+  timestamp: 2022-01-10 12:03:51.534169
+  title: Cuba Ransomware welcomes You - Regulvar
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/header_logo.gif
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Sonomatic]
+    : null
+  data: '
+
+    Sonomatic
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/01/cropped-Untitled-design-7.png)
+
+    Sonomatic specialises in the design, development and application of NDT
+
+    inspections, and combines this with data science and cutting-edge integrity
+
+    engineering capabilities to provide clients with a world-class inspection
+
+    service.
+
+    Through the in-house development of bespoke inspection equipment, software and
+
+    robotics, Sonomatic resides as the global market leader for ROV-deployed
+
+    subsea inspection and Non-Intrusive Inspection (NII) technologies.
+
+    **Date the files were received:** 05 December 2021
+
+    **website:** http://sonomatic.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 56bf66907ee7145b3eabd9546d64318b6473fc8af6a6e7f808bf333defa803f1
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/sonomatic-2/
+  timestamp: 2022-01-10 12:03:52.651023
+  title: Cuba Ransomware welcomes You - Sonomatic
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/cropped-Untitled-design-7.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Strongwell]
+    : null
+  data: '
+
+    Strongwell
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/01/strongwell-250x45.png)
+
+    Strongwell Mission
+
+    To manufacture high quality pultruded fiber reinforced polymer composites and
+
+    structures that solve problems and provide value for our customers, enable
+
+    secure and desirable employment for our people, and create profits for future
+
+    growth and development of our company.
+
+    **Date the files were received:** 17 December 2021
+
+    **website:** https://www.strongwell.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 6f2d204d19c180d2f2292ef18b11dbcdef8a66adaad2ec4453b8a66313ac80bc
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/strongwell/
+  timestamp: 2022-01-10 12:03:53.801252
+  title: Cuba Ransomware welcomes You - Strongwell
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/strongwell-250x45.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Cle]
+    : null
+  data: '
+
+    Cle
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/01/cle-logo.jpg)
+
+    CLE International has been a provider of continuing professional education
+
+    programs throughout the United States and Canada since 1983. Its seminars,
+
+    which focus on the cutting edge of emerging legal issues of vital importance
+
+    to attorneys and their clients, real estate professionals, accountants,
+
+    consultants and government agencies, have received wide acclaim from bench and
+
+    bar for the high quality of its faculty (all of whom are recognized experts in
+
+    their fields of specialty) and its efficient organization of detailed and
+
+    useful information. CLE International is accredited by the bar associations of
+
+    the many states where its programs are presented.
+
+    Each seminar is chaired by a carefully selected expert in the topic area
+
+    presented. The presentations are richly supplemented with written materials,
+
+    including the very latest in pending or passed legislation affecting
+
+    practitioners or clients active in the topic area; graphics and charts; recent
+
+    case law and regulations; and insights into enforcement priorities of involved
+
+    regulatory agencies.
+
+    **Date the files were received:** 22 December 2021
+
+    **website:** https://cle.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: f4e1bd66a8e92e0f4ddf9a0094f1ce4ace47b4d43b0c25872566f2f3d00456d1
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/cle/
+  timestamp: 2022-01-10 12:03:55.123088
+  title: Cuba Ransomware welcomes You - Cle
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/cle-logo.jpg
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Fdcbuilding]
+    : null
+  data: "\nFdcbuilding\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/01/fdc.png)\nWe\u2019re space creators and relationship makers.\
+    \ Independently owned and\noperated, delivering best-in-class construction, fitout,\
+    \ refurbishment and\nbuilding services.\n**Date the files were received:** 11\
+    \ January 2022\n**website:** http://fdcbuilding.com.au/\n**files:**\nDownload\n"
+  hmac: d787450f1c94f8fe81333a642617897d93d8ed94a2ff031ad668ee048348c5db
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/fdcbuilding/
+  timestamp: 2022-01-13 09:04:17.101138
+  title: Cuba Ransomware welcomes You - Fdcbuilding
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/fdc.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Superfund]
+    : null
+  data: "\nSuperfund\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/01/superfund-250x84.png)\nThe Superfund group of investment\
+    \ companies was founded in 1995 by Christian\nBaha in Vienna and are among the\
+    \ world\u2019s most respected fund providers that\nrely on fully automated proprietary\
+    \ computer trading systems\n**Date the files were received:** 15 January 2022\n\
+    **website:** https://www.superfund.com\n**files:** Financial documents, correspondence\
+    \ with bank employees, account\nmovements, balance sheets, tax documents, compensation.\n\
+    Download\n"
+  hmac: 7e972a4af7b331a6c8718fa1a4ba369ddaba2ea5710565ddec4d3d24e004a344
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/superfund/
+  timestamp: 2022-01-13 15:05:33.657201
+  title: Cuba Ransomware welcomes You - Superfund
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/superfund-250x84.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Mtlcraft]
+    : null
+  data: "\nMtlcraft\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/01/metalcraft-250x63.png)\nOur workforce has a wide array\
+    \ of specialized skills, our customers are\nFortune 500 companies, and our capabilities\
+    \ span multiple industries. And yet,\nask any person involved with any Metalcraft\
+    \ project, and they\u2019ll have\nprecisely the same expectations:\n**Date the\
+    \ files were received:** 18 January 2022\n**website:** https://www.mtlcraft.com/\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation.\nDownload\n"
+  hmac: f3cb500d389db2276d48d0f4d74adfb92a5c8ec57e24b52f1dc4109f14682097
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/mtlcraft/
+  timestamp: 2022-01-25 09:04:01.992267
+  title: Cuba Ransomware welcomes You - Mtlcraft
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/01/metalcraft-250x63.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Edgo]
+    : null
+  data: '
+
+    Edgo
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/02/cropped-over-66-pioneering-years-01-1-250x103.jpg)
+
+    From a small company to an international pioneer
+
+    The Edgo story started in the early 1950s when Angela C. Kegler and Munib R.
+
+    Masri met at the University of Texas in Austin where both teenagers were
+
+    sophomores. Munib had travelled to the USA from Nablus, Palestine to study
+
+    geology.
+
+    **Date the files were received:** 25 January 2022
+
+    **website:** http://www.edgo.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 20a0e15bca12dd27f5330c92414f844e349ccb8f6afb5a00ced5201abf12b0b0
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/edgo/
+  timestamp: 2022-02-04 09:03:50.371126
+  title: Cuba Ransomware welcomes You - Edgo
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/cropped-over-66-pioneering-years-01-1-250x103.jpg
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Shoesforcrews]
+    : null
+  data: "\nShoesforcrews\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/02/sfc-logo-250x113.png)\nAs the top innovator in slip-resistant\
+    \ footwear for more than 35 years, making\nand selling quality protective shoes\
+    \ is at our core \u2013 but it\u2019s only a fraction\nof what we do. We are seasoned\
+    \ experts in creating and operating life-saving\nmanaged safety footwear programs\
+    \ for businesses large and small. Our goal is\nto become the #1 provider of safety\
+    \ footwear solutions across all industries.\n**Date the files were received:**\
+    \ 01 February 2022\n**website:** https://www.shoesforcrews.com/\n**files:** Financial\
+    \ documents, correspondence with bank employees, account\nmovements, balance sheets,\
+    \ tax documents, compensation.\nDownload\n"
+  hmac: c317bc2d19b403bc4a6167cc570e3c8017222bc5bf85eefa689e552bcdf25bb1
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/shoesforcrews/
+  timestamp: 2022-02-04 09:03:52.047049
+  title: Cuba Ransomware welcomes You - Shoesforcrews
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/sfc-logo-250x113.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Cmmcpas]
+    : null
+  data: '
+
+    Cmmcpas
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/02/cmmcpas-250x84.png)
+
+    Visit Us
+
+    In Woodland Hills, California
+
+    5820 Canoga Ave.
+
+    Suite 300
+
+    Woodland Hills, CA 91367
+
+    The office is located on the 3rd floor of the Wells Fargo Advisors building on
+
+    the Warner Center Campus.
+
+    **Date the files were received:** 31 January 2022
+
+    **website:** https://www.cmmcpas.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: 575ade4d366b21ce940155dfbf4ef3091f0d87a9e126ed6c501942413c229f8b
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/cmmcpas/
+  timestamp: 2022-02-04 09:03:53.270477
+  title: Cuba Ransomware welcomes You - Cmmcpas
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/cmmcpas-250x84.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Heritage-encon]
+    : null
+  data: '
+
+    Heritage-encon
+
+    https://www.heritage-encon.com
+
+    **Date the files were received:** 11 February 2022
+
+    **website:** https://www.heritage-encon.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: c8bed67cbbf28b90a408eff3a91c1cdaa1c2c00deb7207291e8f64139ccf18ee
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/heritage-encon/
+  timestamp: 2022-02-18 18:04:01.414065
+  title: Cuba Ransomware welcomes You - Heritage-encon
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Muntons]
+    : null
+  data: '
+
+    Muntons
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/02/muntons.png)
+
+    Our Story
+
+    Now trading for 100 years, Muntons have become a leading supplier of brewing
+
+    and distilling malts and malted ingredients to the food & drinks industry
+
+    worldwide.
+
+    Our malts are used in the brewing and distilling industry by globally
+
+    recognised brands and by the craft brewer seeking something a little
+
+    different.
+
+    Our ranges of malt products are extensive and particularly relevant for food
+
+    and beverage manufacturers seeking clean label, plant- based ingredients. Use
+
+    this website to discover more about our extensive range of malts and
+
+    ingredients and discover the benefits that Muntons products can bring.
+
+    Sustainability is the common objective that links all aspects of Muntons
+
+    business activities. Our objective is to minimise the impact of our business
+
+    activity on the environment wherever and whenever possible.
+
+    **Date the files were received:** 10 February 2022
+
+    **website:** https://www.muntons.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: a0558ffbd1bd164d94cf10825fc0c41422f2a71c7f63f3aa65e976aa2b982988
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/muntons/
+  timestamp: 2022-02-18 18:04:02.784947
+  title: Cuba Ransomware welcomes You - Muntons
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/muntons.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Ids97]
+    : null
+  data: '
+
+    Ids97
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/02/ids97.png)
+
+    Integrated Data Services (IDS) is a leading provider of custom software
+
+    products and Government financial management services. IDS was founded in 1997
+
+    in El Segundo, Ca, and since that time has seen tremendous growth and success.
+
+    Currently IDS has offices supporting customers nationwide. By providing
+
+    customers with fast, efficient and reliable information systems and support
+
+    services, IDS has become a preferred provider of financial and programmatic
+
+    systems, services, and solutions across a wide variety of government agencies.
+
+    **Date the files were received:** 11 February 2022
+
+    **website:** http://ids97.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation.
+
+    Download
+
+    '
+  hmac: b077eb18a6ce48e02c418cd1853dd9021e3f3d8ab05adca178c235b38e055494
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ids97/
+  timestamp: 2022-02-25 18:03:49.305470
+  title: Cuba Ransomware welcomes You - Ids97
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/ids97.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Get-integrated]
+    : null
+  data: '
+
+    Get-integrated
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/02/ids97.png)
+
+    Integrated Data Services (IDS) is a leading provider of custom software
+
+    products and Government financial management services. IDS was founded in 1997
+
+    in El Segundo, Ca, and since that time has seen tremendous growth and success.
+
+    Currently IDS has offices supporting customers nationwide. By providing
+
+    customers with fast, efficient and reliable information systems and support
+
+    services, IDS has become a preferred provider of financial and programmatic
+
+    systems, services, and solutions across a wide variety of government agencies.
+
+    **Date the files were received:** 11 February 2022
+
+    **website:** https://www.get-integrated.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 9e3105a038c76be63649e33d7738d1239522f89cf29153eed6b5da5c047ccf50
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/ids97/
+  timestamp: 2022-03-07 21:04:16.418267
+  title: Cuba Ransomware welcomes You - Get-integrated
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/02/ids97.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Powertech]
+    : null
+  data: '
+
+    Powertech
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/03/hyundai-powertech-664144f4.gif)
+
+    Hyundai Powertech is a main auto parts manufacturer of Hyundai Motor Group,
+
+    specializing in automotive transmissions. Company has a full line of
+
+    transmission products from compact cars to full-size cars, and has been able
+
+    to entrench its strong market position as a transmission specialist.
+
+    **Date the files were received:** 19 March 2022
+
+    **website:** http://www.powertech.co.kr/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: e23c284536a08c1037f779ffe7facea03c91ac85e571c0c2872c96ff62038d7b
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/powertech/
+  timestamp: 2022-03-23 15:03:44.464809
+  title: Cuba Ransomware welcomes You - Powertech
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/03/hyundai-powertech-664144f4.gif
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Haltonhills]
+    : null
+  data: '
+
+    Haltonhills
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/03/haltonhills.png)
+
+    Town of Halton Hills
+
+    **Date the files were received:** 22 March 2022
+
+    **website:** https://www.haltonhills.ca/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 9bd131127ac3ad0f97888400e1122f58cc832868f351f7f04b9f0ecc4d53f738
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/haltonhills/
+  timestamp: 2022-03-23 18:04:05.673603
+  title: Cuba Ransomware welcomes You - Haltonhills
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/03/haltonhills.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Bcintlgroup.com]
+    : null
+  data: '
+
+    Bcintlgroup.com
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/03/bcintlgroup.com_.png)
+
+    BC International Group is a global apparel manufacturer and distributor
+
+    headquartered in Totowa, New Jersey.
+
+    **Date the files were received:** 11 March 2022
+
+    **website:** http://www.bcintlgroup.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: dca21b38a6ba8f1ce8cfdc958d88e7db281fab4bdce15fa56d6b9121f8e88e2b
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/bcintlgroup-com/
+  timestamp: 2022-03-30 09:04:05.054923
+  title: Cuba Ransomware welcomes You - Bcintlgroup.com
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/03/bcintlgroup.com_.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Trant.co.uk]
+    : null
+  data: '
+
+    Trant.co.uk
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/03/trant.png)
+
+    Our mission is to be the first choice Engineering Procurement and Construction
+
+    Company for our clients in the UK and overseas.
+
+    Our clients can benefit from an extensive range of in-house services including
+
+    process, MEICA and civil design, Offsite Manufacture & Assembly,
+
+    instrumentation control and automation products and commissioning services.
+
+    This internal capability allows us to offer innovation and efficiency to the
+
+    whole life cycle of EPC projects across all our sectors.
+
+    **Date the files were received:** 25 March 2022
+
+    **website:** https://www.trant.co.uk/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 71cb6ae2af5abb8fe6bb789dcc5c81ed4d36254451c038e5a8d00b6073b67e45
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/trant-co-uk/
+  timestamp: 2022-03-30 09:04:06.499191
+  title: Cuba Ransomware welcomes You - Trant.co.uk
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/03/trant.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Metagenics]
+    : null
+  data: '
+
+    Metagenics
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/04/metagenics-250x59.png)
+
+    Metagenics is recognised as a Leading Natural Health Science Company and the
+
+    innovators in Natural Health products and Healthcare Professional education.
+
+    Metagenics have invested in cutting edge manufacturing technology and
+
+    equipment in order to expand production of the highest quality Natural
+
+    Medicines. This level of commitment ensures that Metagenics produces products
+
+    that you and your patient can trust for quality and effectiveness.
+
+    The $40 million head office, manufacturing and testing facility will allow
+
+    Metagenics to lead in an industry experiencing phenomenal growth. This massive
+
+    investment demonstrates the commitment to being the number one Natural
+
+    Medicine supplier and educator, with all products manufactured to TGA
+
+    (Therapeutic Goods Administration) GMP (Good Manufacturing Practice)
+
+    compliance.
+
+    **Date the files were received:** 01 April 2022
+
+    **website:** https://www.metagenics.com.au
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 51b4c2ee689d04961a132ecc50019b20e70fe0999250b489db592a90cb336771
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/metagenics/
+  timestamp: 2022-04-08 12:03:56.293579
+  title: Cuba Ransomware welcomes You - Metagenics
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/04/metagenics-250x59.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Tavistock]
+    : null
+  data: '
+
+    Tavistock
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/04/tavistock-250x86.png)
+
+    Tavistock Group is an international private investment family office that is
+
+    comprised of a trading operation and a portfolio of public investments and
+
+    private companies. These investments are concentrated in nine primary sectors,
+
+    including: real estate, hotels, restaurants, sports, energy, retail,
+
+    biotechnology, agriculture, and finance.
+
+    **Date the files were received:** 7 April 2022
+
+    **website:** https://www.tavistock.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 2c5d0d24ad04eef34bcb5ad3ac444db45cc49025dff1628149f0a165dfd9ace3
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/tavistock/
+  timestamp: 2022-04-12 12:03:37.421199
+  title: Cuba Ransomware welcomes You - Tavistock
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/04/tavistock-250x86.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Metrobrokers]
+    : null
+  data: '
+
+    Metrobrokers
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/04/metrobrokers-250x66.png)
+
+    Since opening in 1979, BHGRE Metro Brokers has expanded to 27 locations and
+
+    more than 2,400 real estate agents. The company has gained national
+
+    recognition for its unique platform that is 100% geared and modeled to help
+
+    agents become more successful than they could be anywhere else. It all begins
+
+    with the most dynamic training programs, supported by the best resources and
+
+    technology in the business. More agents choose BHGRE Metro Brokers than any
+
+    other company in Georgia.
+
+    **Date the files were received:** 14 April 2022
+
+    **website:** https://www.metrobrokers.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 96e86d420272b051f5aa807123b4760180932b2504a00d1da71e21df1317e868
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/metrobrokers/
+  timestamp: 2022-04-22 09:04:46.701898
+  title: Cuba Ransomware welcomes You - Metrobrokers
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/04/metrobrokers-250x66.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Prophoenix]
+    : null
+  data: '
+
+    Prophoenix
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/04/prophoenix.png)
+
+    ProPhoenix is managed by industry leading personnel with a passion to serve
+
+    the Public Safety and Justice Industry
+
+    **Date the files were received:** 17 April 2022
+
+    **website:** https://www.prophoenix.com/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 00bee6438d4a7782413b18ca2d9c64cb9f171b22cad2026db9edc9910e5c56f2
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/prophoenix/
+  timestamp: 2022-04-22 09:04:48.013201
+  title: Cuba Ransomware welcomes You - Prophoenix
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/04/prophoenix.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Fronteousa]
+    : null
+  data: '
+
+    Fronteousa
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/05/FRONTEO_logo2x-2.png)
+
+    Driven from a service-oriented culture that continues to aim higher and
+
+    brighter to develop leading-edge technology and market best services creating
+
+    immense value for our clients, employees, consumers and shareholders.
+
+    **Date the files were received:** 11 May 2022
+
+    **website:** https://legal.fronteousa.com
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: a21e401f3ca0f9a764fb67e8f3fd6522f5f8c2608110003325bf1761d783eb00
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/fronteousa/
+  timestamp: 2022-05-16 09:03:54.220785
+  title: Cuba Ransomware welcomes You - Fronteousa
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/05/FRONTEO_logo2x-2.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Upskwt]
+    : null
+  data: "\nUpskwt\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/05/upskwt-250x61.gif)\nUniversal Payment Services \u2013\
+    \ a Kuwait-Saudi partnership with a capital of 50\nmillion USD \u2013 is one of\
+    \ the leaders in transaction processing and offers\ninternational, top-notch electronic\
+    \ transaction processing services through\nhigh speed, robust electronic information\
+    \ network.\n**Date the files were received:** 13 May 2022\n**website:** https://upskwt.com/\n\
+    **files:** Financial documents, correspondence with bank employees, account\n\
+    movements, balance sheets, tax documents, compensation, source code.\nDownload\n"
+  hmac: 583be3b60f8dd960abff0d066ac6b36f69b5ea1ff47f86fd0b59d8aadd3b46e3
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/upskwt/
+  timestamp: 2022-05-17 15:03:42.381571
+  title: Cuba Ransomware welcomes You - Upskwt
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/05/upskwt-250x61.gif
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Etron]
+    : null
+  data: "\nEtron\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/06/etron.com_.png)\nEtron Technology, Inc. (Taiwan GTSM:\
+    \ 5351) is a world-class fabless IC design\nand product company founded in February\
+    \ 1991, specializing in buffer memory\nand system-on-chips. Etron pioneered Taiwan\u2019\
+    s \u201CNational Sub-micron Project\u201D\nand helped develop Taiwan\u2019s first\
+    \ 8-inch wafer sub-micron technology, building\na solid foundation for the DRAM\
+    \ and SRAM industries in Taiwan. As a publicly-\ntraded company headquartered\
+    \ in Taiwan, Etron strives to bridge the borders\nbetween the Asia-Pacific region\
+    \ and the international marketplace. It conducts\nactive business with companies\
+    \ in the US, Europe, Japan, as well as other\nAsian countries.\n**Date the files\
+    \ were received:** 1 June 2022\n**website:** https://www.etron.com\n**files:**\
+    \ Financial documents, correspondence with bank employees, account\nmovements,\
+    \ balance sheets, tax documents, compensation, source code.\nDownload\n"
+  hmac: fd2fb67dc3f297da8bc1e310110309da4fafd1ff309df83d624e47e85f21e5a2
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/etron/
+  timestamp: 2022-06-13 18:05:04.715439
+  title: Cuba Ransomware welcomes You - Etron
+  url:
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/06/etron.com_.png
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Site-technology]
+    : null
+  data: "\nSite-technology\n![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-\n\
+    content/uploads/2022/07/site-technology-250x61.png)\nMore than\n1000 employees\n\
+    in Abu Dhabi, Dubai, Riyadh, Jeddah, khobar, Doha, Baghdad and Beirut\nDriven\
+    \ by a common Vision, sharing common Values and inspired by a spirit of\ninnovation,\
+    \ our people are still displaying unwavering dedication to put the\nGroup at the\
+    \ forefront of the turnkey solution providers and maintain a\nleadership position.\n\
+    Site Technology is a supplier, system integrator, and a contractor, with a\nrange\
+    \ of services that covers the design, procurement, installation,\ncommissioning,\
+    \ operation and maintenance of new systems along with the\nupgrade, support and\
+    \ management of existing systems in different activity\nsectors:\n\u2013 Technology\n\
+    \u2013 Power\n\u2013 Contracting\n\u2013 Power Generation\nAfter 26 years of operations,\
+    \ the group has more than 1000 employees operating\nin 8 different locations:\n\
+    Abu Dhabi / Dubai/ Riyadh/ Jeddah/ Khobar/ Doha/ Beirut/ Baghdad\nCombining this\
+    \ vast spectrum of efficacies with a highly trained team of\nspecialists, we are\
+    \ able to offer system based turnkey solutions that are\nperformance driven, cost-effective\
+    \ and remarkably straightforward. It is this\nsignature quality that has consistently\
+    \ distinguished our services and\ngarnered our clients\u2019 professional trust.\n\
+    Site Technology has 12 business activities:\n1- ELV & Integrated Security Systems\n\
+    2- Network Integration Systems\n3- Biometrics Systems\n4- Audiovisual Systems\n\
+    5- UPS Systems\n6- Data Center\n7- Power Production & Conversion\n8- Infrastructure\
+    \ Contracting\n9- General Contracting\n10- Renewable Energy\n11- Fossil Energy\n\
+    12- Recoverable Energies\n**Date the files were received:** 19 July 2022\n**website:**\
+    \ https://www.site-technology.com\n**files:** Financial documents, correspondence\
+    \ with bank employees, account\nmovements, balance sheets, tax documents, compensation,\
+    \ source code.\nDownload\n"
+  hmac: 5436a48ee25c54621c109b3139511fc17d828a938b91985f98ae15b6dbde52e2
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/site-technology/
+  timestamp: 2022-07-27 12:06:45.032376
+  title: Cuba Ransomware welcomes You - Site-technology
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/07/site-technology-250x61.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, Stm.com.tw]
+    : null
+  data: '
+
+    Stm.com.tw
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/07/stm.com_.tw_-250x36.png)
+
+    Over the past 50 years, STM have been actively studying the research and
+
+    development of connectors, the research of material application, and the
+
+    design and manufacture of high-precision products and molds.
+
+    One-stop service to meet the diverse needs and high-quality requirements of
+
+    customers.
+
+    In recent two decades, STM has continuously invested in the advanced automatic
+
+    assembly technology and equipments. The quality and control meets
+
+    international standards, with highly competitive advantages. STM has an
+
+    important place in the supply chain of leading companies in the technology,
+
+    information and electronics industries globally.
+
+    **Date the files were received:** 04 July 2022
+
+    **website:** http://stm.com.tw/
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 25e5bcd569def42abdefd571a8945ea43b764422f97125647a9545a84e18e44b
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/stm-com-tw/
+  timestamp: 2022-07-27 12:06:47.149220
+  title: Cuba Ransomware welcomes You - Stm.com.tw
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/07/stm.com_.tw_-250x36.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set
+    ? !!python/tuple [victim, R1group]
+    : null
+  data: '
+
+    R1group
+
+    ![](http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-
+
+    content/uploads/2022/06/r1group-150x150.jpg)
+
+    For more then 27 years we have been expanding our Partnerships in order to
+
+    strengthen each area of competence of the company, in function of the
+
+    organisation, the offering, the specific needs. The objective is to acquire
+
+    the definition of a technical and consulting proposal targeted at optimising
+
+    company workflows and total effectiveness. With our partners, we guarantee our
+
+    interlocutors the supply, installation and integration of the best hardware
+
+    and software systems on the market.
+
+    We possess the highest levels of technical and commercial certifications for
+
+    each brand we work with, convinced that investing in resources and their
+
+    skills is the only way to bring value to the market.
+
+    **Date the files were received:** 22 June 2022
+
+    **website:** https://r1group.it
+
+    **files:** Financial documents, correspondence with bank employees, account
+
+    movements, balance sheets, tax documents, compensation, source code.
+
+    Download
+
+    '
+  hmac: 1b20162d476e3e33d0dfcb00c0a192434b9dacb6dcf2d203d07b88ec9bb7162a
+  ltype: Shaming list
+  malware: Cuba
+  source: http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/r1group/
+  timestamp: 2022-07-27 12:06:48.823349
+  title: Cuba Ransomware welcomes You - R1group
+  url:
+  - !!python/tuple [Download, 'http://i34gbmo5rxx3bxc4yl7f4erkyo2oldwavhpdragnjjvhni6fwvptp2id.onion']
+  - http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/wp-content/uploads/2022/06/r1group-150x150.jpg

@@ -1,5 +1,1854 @@
 - !!python/object:darksuce_class.record
   author: null
+  data: 'GP International Holding N.V.
+
+    URL:
+
+    https://www.drhittich.com/
+
+    Address:
+
+    Roda J.C. Ring 41
+
+    6466 NH, Kerkrade , LIMBURG Netherlands
+
+    ransomware'
+  hmac: 9e94d666cf5941a5a10037fbe61f63a0335b535e1b41e72eddac1ea356850064
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/gp_international_locked
+  timestamp: 2020-09-28 20:07:30.744165
+  title: Egregor News - Hall of shame
+  url: ['https://www.drhittich.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/greenpower1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "VEOLOG\_Storage\_and\_Warehousing\_Bussy\_Lettree\nURL:\nhttps://www.veolog.fr/\n\
+    Address:\n110 bis avenue du G\xE9n\xE9ral Leclerc 93 500 Pantin\nransomware"
+  hmac: 0263ba5f38c65f5bf10453ff636b6da0da3b990fd325c3723b774680fd532aac
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/veolog_locked
+  timestamp: 2020-09-28 20:07:31.993075
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/veolog1.zip',
+    'https://www.veolog.fr/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'GRANITE GEAR LLC
+
+    URL:
+
+    https://www.granitegear.com/
+
+    Address:
+
+    2312 10th St, Two Harbors
+
+    Minnesota, 55616, United States
+
+    ransomware'
+  hmac: e08e20dc69966c1b84e36ba704bff164d4a6d8ed23a1de1e6ea2f19ff48848b4
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/granite_gear_locked
+  timestamp: 2020-09-28 20:07:33.195905
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/granitegear1.zip', 'https://www.granitegear.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Tekkenkensetsu Co., Ltd
+
+    URL:
+
+    https://www.tekken.co.jp/
+
+    Address:
+
+    2-5-3 Kanda Misaki-cho, Chiyoda-ku, Tokyo
+
+    ransomware'
+  hmac: 392262acdfd7c6d517fe2678e8ae520e5383c07e876d6ef15af9a685215f47d2
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/tekken_locked
+  timestamp: 2020-09-28 20:07:34.589433
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/tekken1.zip', 'https://www.tekken.co.jp/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Moctezuma Medjool Gardens
+
+    URL:
+
+    https://moctezumamg.com/
+
+    E-mail:
+
+    soporte@moctezumamg.com
+
+    ransomware'
+  hmac: 25b63e8e3d7ae59255908dba32a3ceafd7d7c70caa9ba5d3ba11fe4440b16cc6
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/moctezuma_medjool_gardens_locked
+  timestamp: 2020-09-28 20:07:36.052242
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/moctezuma1.zip', 'https://moctezumamg.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'GEFCO Group
+
+    URL:
+
+    https://www.gefco.net
+
+    Address:
+
+    4-6 Rue Paul Lafargue
+
+    92800 Puteaux - France
+
+    ransomware'
+  hmac: ad3b80c23caf69334371ea056662c40e36742403437953bb712d9ce252372ff5
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/gefco_group_locked
+  timestamp: 2020-09-28 21:03:22.593853
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/gefco1.zip', 'https://www.gefco.net',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Villafrut srl
+
+    URL:
+
+    http://www.villafrut.it/
+
+    Address:
+
+    Via Villafontana, 253 - 37050 Villafontana di Oppeano - Verona - (VR) - Italy
+
+    ransomware'
+  hmac: 7213fa77bf167f05f29aef2bf47565c6965e2673f41dc737bf2174751090650e
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/villafrut_locked
+  timestamp: 2020-09-29 21:04:24.297418
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/villafruit1.zip',
+    'http://www.villafrut.it/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "LACOSTE Dactyl Buro Office\nURL:\nhttps://www.lacostedbo.fr/\nAddress:\n\
+    15, all\xE9e de la Sariette\nZ.A. Saint Louis - R.N. 100 84250 LE THOR\nransomware"
+  hmac: c2143a1321c4350675dc82605ea67c960b90c8c68fd6c7cf33b3d404490d5751
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/lacoste_locked
+  timestamp: 2020-09-29 21:04:25.634822
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/lacoste1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.lacostedbo.fr/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Cassa per i Servizi Energetici e Ambientali
+
+    URL:
+
+    http://energivori.ccse.cc/Energivori/#
+
+    Address:
+
+    C.F. 80198650584
+
+    Via Cesare Beccaria 94/96, 00196 - Roma (Italy)
+
+    ransomware'
+  hmac: 22fc1aabf8176c4da390e2bb64deaeb5d3847916de3cdf3f31bedee26df13742
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/csea_locked
+  timestamp: 2020-10-02 00:02:35.659227
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/csea1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://energivori.ccse.cc/Energivori/#']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Centext Legal Services
+
+    URL:
+
+    https://www.centextlegal.com
+
+    Address:
+
+    550 West C St. Suite 700
+
+    San Diego, CA 92101
+
+    ransomware'
+  hmac: e03028bb34aba43a70212ae0b5964fafd9bdfc654c3917867bb0bcfa323dfd11
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/centext_legal_services_locked
+  timestamp: 2020-10-02 21:03:21.670433
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/centexlegal1.zip',
+    'https://www.centextlegal.com']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Diana shipping and affiliate companies
+
+    URL:
+
+    http://www.dianashippinginc.com/
+
+    URL of affiliate companies:
+
+    altair-travel.com
+
+    petas.gr
+
+    tripair.com
+
+    alphasigmashipping.com
+
+    unitizedocean.com
+
+    ransomware'
+  hmac: ae9b83efd4138cf880e44d8148005cf483f79176d9e17ebed7d4d6b7c38ebf54
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/diana_shipping_locked
+  timestamp: 2020-10-05 00:03:18.455172
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/diana1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://www.dianashippinginc.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Terrepadane\nURL:\nhttps://terrepadane.it/\nAddress:\nVia Colombo 35 \u2013\
+    \ 29122 Piacenza (PC)\nP.IVA e Cod. Fisc. 00105680334\nransomware"
+  hmac: f5739ee51eba99c877465a02c5b316dbd224830419af374ee1cf4f58665ef9f4
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/terrepadane_locked
+  timestamp: 2020-10-05 00:03:19.051058
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/terrepadane1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://terrepadane.it/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Panapesca
+
+    URL:
+
+    https://www.panapesca.eu/it
+
+    Address:
+
+    Via Mazzini 31, 51010 Massa e Cozzile, Pistoia - Italia
+
+    P.I. 00161570478
+
+    ransomware'
+  hmac: 9dff4bf6b281402b4e42ef615fdc75131b546ffbe8fcc16d421352c693190a8b
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/panapesca_locked
+  timestamp: 2020-10-05 00:03:19.641132
+  title: Egregor News - Hall of shame
+  url: ['https://www.panapesca.eu/it', 'http://egregoranrmzapcv.onion/proofs/panapesca1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Louis Berger
+
+    URL:
+
+    https://www.louisberger.com/
+
+    Address:
+
+    412 Mount Kemble Avenue
+
+    PO Box 1946
+
+    Morristown, NJ 07962-1946
+
+    United States
+
+    ransomware'
+  hmac: 6c221b9e9351afbf0b20549c982c2e047a343d0a54a42585b65f14b036080630
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/louis_berger_locked
+  timestamp: 2020-10-06 12:02:37.770772
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/louisberger1.zip', 'https://www.louisberger.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Eros Group
+
+    URL:
+
+    https://erosgroup.ae
+
+    Address:
+
+    Eros House, Al Barsha 1. PO Box: 1184, Makani: 1895878618.
+
+    Dubai, United Arab Emirates
+
+    ransomware'
+  hmac: ce9e879b7c4eaea3120b21fc255d6ef6410d538f0494a43a993b7cec5cc4d6aa
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/eros_locked
+  timestamp: 2020-10-06 12:02:39.699534
+  title: Egregor News - Hall of shame
+  url: ['https://erosgroup.ae', 'http://egregoranrmzapcv.onion/proofs/erosgroup1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Carraro Spa
+
+    URL:
+
+    https://www.carraro.com/
+
+    Address:
+
+    Via Olmo, 37
+
+    35011 Campodarsego (Padova) Italy
+
+    ransomware'
+  hmac: eea4aa26f2d989be1eb6ff321b7cb4a473e825d4a5aaf9eba0015215a5a546fe
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/carraro_locked
+  timestamp: 2020-10-06 12:02:40.418679
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/carraro1.zip', 'https://www.carraro.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Rockingham Insurance
+
+    URL:
+
+    https://rockingham.insure/
+
+    Address:
+
+    633 East Market Street
+
+    Harrisonburg, VA 22801
+
+    ransomware'
+  hmac: ef9d0ca4736b7fcafbed0e30ce7e1352b9957633951a0375308ae0e93fa51274
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/rockingham_locked
+  timestamp: 2020-10-06 15:02:56.917976
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/rockingham1.zip', 'https://rockingham.insure/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'HellermannTyton
+
+    URL:
+
+    https://www.hellermanntyton.com/
+
+    Address:
+
+    412 Mount Kemble Avenue
+
+    7930 N. Faulkner Rd.
+
+    P.O. Box 245017
+
+    Milwaukee, WI 53224
+
+    ransomware'
+  hmac: 71b4d5727e1685c6d3487f571eac573ce8faf8523c8366b962263f0258c3d27a
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/hellermanntyton_locked
+  timestamp: 2020-10-07 00:03:39.497515
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/hellermanntyton1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.hellermanntyton.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Carson-Dellosa\_Publishing\_LLC\nURL:\nhttps://www.carsondellosa.com/\nAddress:\n\
+    PO Box 35665, Greensboro,\nNC, United States, 27425\nransomware"
+  hmac: 8d3ca0815583e235265808b1fcf4e6384862697357a7d5c320c4912cdf16625b
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/carsondellosa_locked
+  timestamp: 2020-10-08 00:02:43.205404
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/carsondellosa1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.carsondellosa.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Berkshire Hathaway Travel Protection
+
+    URL:
+
+    https://www.bhtp.com/
+
+    Address:
+
+    1 Lincoln Street, 23rd Floor
+
+    Boston, MA 02111
+
+    ransomware'
+  hmac: 4781fee775031690f0e2cf14a9ccdb98e11a97baba7ecaece46f5e464333b52a
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/bhtp_locked
+  timestamp: 2020-10-08 00:02:43.878266
+  title: Egregor News - Hall of shame
+  url: ['https://www.bhtp.com/', 'http://egregoranrmzapcv.onion/proofs/bhtp1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'ClearPath Security LLC
+
+    URL:
+
+    http://www.clearpathsecurity.com/
+
+    Address:
+
+    1685 South Colorado Blvd Suite S-122
+
+    Denver, CO 80222
+
+    ransomware'
+  hmac: 7abc4c136160d34963000d74dc074cf30f282f46ded471e9e87f9f02c41ed3f9
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/clearpathsecurity_locked
+  timestamp: 2020-10-09 09:03:05.265441
+  title: Egregor News - Hall of shame
+  url: ['http://www.clearpathsecurity.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/clearpathsecurity1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "DIPSI\_DEL\_PESCE\_SRL\nAddress:\nVia Enrico Fermi, 7,\n00012 Albuccione\
+    \ RM, Italy\nransomware"
+  hmac: 49648dfa13c957591b0bbc4a689be96fbae618cabe21fd617395642853ee178d
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/dipsi_locked
+  timestamp: 2020-10-09 09:03:06.222437
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/dipsi1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'AEON CO.
+
+    URL:
+
+    http://aeonretail.com.my/
+
+    Address:
+
+    3rd Floor, AEON Taman Maluri Shopping Centre, Jalan Jejaka
+
+    Taman Maluri, Cheras, 55100 Kuala Lumpur
+
+    ransomware'
+  hmac: 48644a67bc9ca7782567ec976efc10ec1bc2805678f152987bc79b95eea6874f
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/aeon_locked
+  timestamp: 2020-10-09 09:03:07.156975
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/aeon1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://aeonretail.com.my/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Netfast Technology Solutions Inc.
+
+    URL:
+
+    http://netfast.com/
+
+    Address:
+
+    589 8th Avenue, 22nd Fl
+
+    York, NY 10018
+
+    ransomware'
+  hmac: d81c61f9fb87e245828df25cccaa9f69bb6f4498bd833728eae9642d3c0a1e3e
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/netfast_locked
+  timestamp: 2020-10-09 21:02:34.300225
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/netfast1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://netfast.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Building Material Distributors
+
+    URL:
+
+    https://www.bmdusa.com/
+
+    Address:
+
+    225 Elm Avenue
+
+    Galt, CA 95632
+
+    ransomware'
+  hmac: f6111359a2dcbcd7e918f872f5836756ddd2d7399a5a2437bb2df33556c60cfd
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/bmdusa_locked
+  timestamp: 2020-10-10 00:03:14.991356
+  title: Egregor News - Hall of shame
+  url: ['https://www.bmdusa.com/', 'http://egregoranrmzapcv.onion/proofs/bmdusa1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'EMCO GmbH
+
+    URL:
+
+    https://www.emco-world.com/
+
+    Address:
+
+    Salzburger Str. 80
+
+    A-5400 Hallein-Taxach
+
+    ransomware'
+  hmac: 8fddb3ecab5630201b1aa5f6e1e7296e9c4d26656286bb62d86a8b23b7f3d2e6
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/emco_locked
+  timestamp: 2020-10-10 00:03:16.709081
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/emco1.zip', 'https://www.emco-world.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Emirates Fire Fighting Equipment Factory LLC
+
+    URL:
+
+    https://firexuae.com/
+
+    Address:
+
+    Industrial Area 13, SHARJAH, UAE
+
+    ransomware'
+  hmac: 726378f9d35f5eaa7cc41a740aa075fa4b1e154c5b34e82be2aa1a546b57de3e
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/firex_locked
+  timestamp: 2020-10-10 00:03:17.990381
+  title: Egregor News - Hall of shame
+  url: ['https://firexuae.com/', 'http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/firexuae1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Diamond C Trailer Mfg., RoadClipper Enterprises
+
+    URL:
+
+    https://www.diamondc.com/
+
+    Address:
+
+    4006 FM 3417
+
+    Mt. Pleasant, TX 75455
+
+    ransomware'
+  hmac: 0328c6d8f286fd28d27f009bb59c1a13e4a8bb70ebcd7dfcefbefe8af3f945de
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/diamond_locked
+  timestamp: 2020-10-11 00:02:41.162676
+  title: Egregor News - Hall of shame
+  url: ['https://www.diamondc.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/diamond1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'GEFCO Group
+
+    Full data
+
+    URL:
+
+    https://www.gefco.net
+
+    Address:
+
+    4-6 Rue Paul Lafargue
+
+    92800 Puteaux - France
+
+    Full data
+
+    ransomware'
+  hmac: b024f84f7411a7091c2699363434c4c1ed4c41664e6d6de2b2dac980dc1faa51
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/gefco_group_locked
+  timestamp: 2020-10-13 00:02:48.323037
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.gefco.net', 'http://egregoranrmzapcv.onion/proofs/full/gefco.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Carraro Spa
+
+    Full data
+
+    URL:
+
+    https://www.carraro.com/
+
+    Address:
+
+    Via Olmo, 37
+
+    35011 Campodarsego (Padova) Italy
+
+    Full data
+
+    ransomware'
+  hmac: 3922282825a69961cdd4adf2e12389d73acc226d88c379542338c5075465b96c
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/carraro_locked
+  timestamp: 2020-10-13 00:02:51.095761
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.carraro.com/',
+    'http://egregoranrmzapcv.onion/proofs/full/carraro.rar']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Crytek\nURL:\nhttps://www.crytek.com/\nAddress:\nHugo-Junkers-Stra\xDFe 3\n\
+    60386 Frankfurt am Main, Germany\nransomware"
+  hmac: a805c760ee2506e3a34ca99f3263144d63ebcb033b4049f88ea573d126dcd50a
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/crytek_locked
+  timestamp: 2020-10-13 00:02:52.085999
+  title: Egregor News - Hall of shame
+  url: ['https://www.crytek.com/', 'http://egregoranrmzapcv.onion/proofs/partial/crytek1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Ubisoft
+
+    We have sources of new Watch Dogs: Legion. Now we prepare press-release for mass
+    media.
+
+    URL:
+
+    https://www.ubisoft.com/
+
+    Address:
+
+    28, rue Armand Carrel,
+
+    93100 Montreuil-sous-Bois, France
+
+    ransomware'
+  hmac: 3d9ca991a9dbab2d164f02cb3ac840ff8b651b0bbe05324049deca86a90d88e7
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/ubisoft
+  timestamp: 2020-10-15 21:44:46.121655
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/ubi1.zip',
+    'https://www.ubisoft.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Barnes
+
+    Noble Booksellers, Inc.
+
+    This is small proof pack for Barnes and Nobble. If they are not contact us we
+    prepare another pack with Barnes and Noble users personal data.
+
+    URL:
+
+    http://www.barnesandnoble.com/
+
+    Address:
+
+    122 Fifth Avenue
+
+    York, NY 10011
+
+    ransomware'
+  hmac: 9bb8a1a3021a1a1b209513741d2a3bacc7c874cb3b37377b4ee89b2ddcdc31ce
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/barnsandnoble_locked
+  timestamp: 2020-10-20 00:03:58.313662
+  title: Egregor News - Hall of shame
+  url: ['http://www.barnesandnoble.com/', 'http://egregoranrmzapcv.onion/proofs/partial/bnn1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Barnes
+
+    Noble Booksellers, Inc.
+
+    Second part of data
+
+    This is small proof pack for Barnes and Nobble. If they are not contact us we
+    prepare another pack with Barnes and Noble users personal data.
+
+    URL:
+
+    http://www.barnesandnoble.com/
+
+    Address:
+
+    122 Fifth Avenue
+
+    York, NY 10011
+
+    Second part of data
+
+    ransomware'
+  hmac: d12154a219e3b4e5ac73db54ee2f98b160185018825a42d61afa599e25c82fbe
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/barnsandnoble_locked
+  timestamp: 2020-11-08 00:02:43.067151
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://www.barnesandnoble.com/',
+    'http://egregoranrmzapcv.onion/proofs/partial/bnn10.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Carraro Spa
+
+    Part of data
+
+    URL:
+
+    https://www.carraro.com/
+
+    Address:
+
+    Via Olmo, 37
+
+    35011 Campodarsego (Padova) Italy
+
+    Part of data
+
+    ransomware'
+  hmac: 06b07870e75e8583be8f635eecf0e966165de8eee191dc0b2017f5845c7290b8
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/carraro_locked
+  timestamp: 2020-11-08 00:02:44.590893
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/full/carraro.rar', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.carraro.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'StayinFront, Inc.
+
+    URL:
+
+    https://www.stayinfront.com/
+
+    Address:
+
+    107 Little Falls Road
+
+    Fairfield, NJ 07004-2105
+
+    ransomware'
+  hmac: ffd2aee547942a4a6c5f47311d7246528f2a984c7e717e780ea13a437f1ca041
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/stayinfront_locked
+  timestamp: 2020-11-08 00:02:45.372226
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/stayinfront1.zip',
+    'https://www.stayinfront.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Idrocentro SPA
+
+    URL:
+
+    https://www.idrocentro.com/
+
+    Address:
+
+    12030 Torre San Giorgio (CN)
+
+    Via Circonvallazione G. Giolitti, 100
+
+    ransomware'
+  hmac: d5685f923ed46ce1f10b6d4a3c7c1be68bcc978564c5b40eb7f906e431887652
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/idrocentro_locked
+  timestamp: 2020-11-08 00:02:46.021446
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/idrocentro1.zip',
+    'https://www.idrocentro.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Delta Fire Protection
+
+    URL:
+
+    https://www.deltafireprotection.com/
+
+    Address:
+
+    7356 Fulton Ave
+
+    North Hollywood, California
+
+    ransomware'
+  hmac: 9f6b417e3f743ae1ee7b5777a86114c0745d75fe0f74de1a84a2736be830c559
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/deltafireprotection_locked
+  timestamp: 2020-11-14 15:02:51.803928
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/deltafireprotection1.zip',
+    'https://www.deltafireprotection.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'OTEXIO
+
+    URL:
+
+    https://www.otexio.com/
+
+    Address:
+
+    8 Avenue Karl Marx
+
+    69120 Vaulx-en-Velin
+
+    ransomware'
+  hmac: 4f7525a23b864689870ea284ff541f684586df774612a99fc112451e9cb8cdd1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/otexio_locked
+  timestamp: 2020-11-14 15:02:52.697634
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/otexio1.zip',
+    'https://www.otexio.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Sotreq\nURL:\nhttps://www.sotreq.com.br/\nAddress:\nAv. Saudade, 2634 Ipor\xE3\
+    \n16021-520\nransomware"
+  hmac: 5a23cd134c725330c209a3d396597c84a2465ca7958bdd19fc9b449667c7dfa1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/sotreq_locked
+  timestamp: 2020-11-14 18:04:04.706721
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/sotreq1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.sotreq.com.br/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "IOC PRINT\nURL:\nhttp://www.ioc-print.com/\nAddress:\n18 rue Gabriel P\xE9\
+    ri\n94400 Vitry-Sur-Seine\nransomware"
+  hmac: d2bb2d0a5ce7e9824f54fd2afd24ef7e85c42a265b8b9357184e75a08c26fee3
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/iocprint_locked
+  timestamp: 2020-11-14 18:04:06.233309
+  title: Egregor News - Hall of shame
+  url: ['http://www.ioc-print.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/iocprint1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Pizon Et Cie\nURL:\nhttps://sarlpizonetcie.site-solocal.com/\nAddress:\n\
+    19 r Danton , Montlu\xE7on\n03100, FR\nransomware"
+  hmac: 22fc332cf68b907437aedfc05f9f04d2b5d634128f19633872bceb82cd2a5265
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/pizon_locked
+  timestamp: 2020-11-14 21:02:53.791601
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://sarlpizonetcie.site-solocal.com/',
+    'http://egregoranrmzapcv.onion/proofs/partial/pizon1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Virvelle S.R.L.
+
+    URL:
+
+    https://www.virvelle.com/
+
+    Address:
+
+    CORSO VITTORIO EMANUELE 94
+
+    SALERNO , SALERNO, 84123 Italy
+
+    ransomware'
+  hmac: 726447a9dbc8efc070fdfcf9e017d5523160605907d2b39a8aa457f4db0ebe2b
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/virvelle_locked
+  timestamp: 2020-11-15 00:03:36.161704
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/virvelle1.zip', 'https://www.virvelle.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'COLDWATER ORTHODONTICS
+
+    URL:
+
+    https://www.wildsmiles.com/
+
+    Address:
+
+    160 Division Street, Suite #A
+
+    Coldwater, MI 49036
+
+    ransomware'
+  hmac: 9fd81fc1c53256467f06a2475fd35480ef3a87d6ac98a0808b570a5bf7473b24
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/wildsmiles_locked
+  timestamp: 2020-11-15 00:03:36.741523
+  title: Egregor News - Hall of shame
+  url: ['https://www.wildsmiles.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/wildsmiles1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Henick Lane, Inc.
+
+    URL:
+
+    http://henick-lane.com/
+
+    Address:
+
+    45-39 Davis Street
+
+    Long Island City, NY 11101
+
+    ransomware'
+  hmac: d8c7bd4067c4b40c8d1ca8a20633af06248feacd7ff40f2eaf3fc6e5a9bbcb96
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/henick_lane_locked
+  timestamp: 2020-11-16 06:03:19.540759
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/henick1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://henick-lane.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Country Chevrolet Inc. / AGB Waranty Services LLC
+
+    URL:
+
+    https://www.nzbloom.com/
+
+    Address:
+
+    14 Andrew Baxter Drive,
+
+    Mangere, Auckland 2022
+
+    ransomware'
+  hmac: cca5e9c356724afbf0712c348373a24d4ed47483f7af87f5f5630580f2209e21
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/agb_locked
+  timestamp: 2020-11-16 06:03:20.352516
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.nzbloom.com/',
+    'http://egregoranrmzapcv.onion/proofs/partial/nzbloom1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Hanon Systems
+
+    URL:
+
+    https://www.hanonsystems.com/
+
+    Address:
+
+    10th Floor Ferrum Tower, 19,
+
+    Eulji-ro 5-gil, Jung-gu, Seoul, Korea
+
+    ransomware'
+  hmac: d2509fbfce99210f4ef805ccd87bc53f7001e5eaa0a6ba54c50590815f9ac9bf
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/hanon_locked
+  timestamp: 2020-11-17 00:03:16.612684
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/hanon15.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.hanonsystems.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Quebe Holdings, Inc.
+
+    URL:
+
+    https://quebe.com/
+
+    Address:
+
+    1985 Founders Dr,
+
+    Dayton, OH 45420
+
+    ransomware'
+  hmac: 1ed73d06c8964304d70c30eec6d3e7d1eb959e1291fc437ec7eecd54aabd63e7
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/quebe_locked
+  timestamp: 2020-11-17 03:02:55.011640
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://quebe.com/', 'http://egregoranrmzapcv.onion/proofs/partial/quebe15.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Farbchemie Braun GmbH
+
+    Co.
+
+    URL:
+
+    https://www.farbchemie-braun.eu/
+
+    Address:
+
+    Daimlerring 11,
+
+    65205 Wiesbaden, Germany
+
+    ransomware'
+  hmac: f7f06b3d3e918169616a0643495def7a870afb254bb0d4f6817921b82336265c
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/farbchemie_locked
+  timestamp: 2020-11-18 09:03:47.573432
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/farbchemie1.zip',
+    'https://www.farbchemie-braun.eu/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'APOFRUIT
+
+    URL:
+
+    http://www.apofruit.it/
+
+    Address:
+
+    Viale della Cooperazione, 400
+
+    47522 Pievesestina di Cesena (FC) - Italy
+
+    ransomware'
+  hmac: e77567ee0fc5b91c66b8a4073eb3d972023341d40fd05d7f40677c92970944fa
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/apofruit_locked
+  timestamp: 2020-11-19 03:02:54.577144
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://www.apofruit.it/',
+    'http://egregoranrmzapcv.onion/proofs/partial/apofruit1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Headlam
+
+    URL:
+
+    https://www.headlam.com/
+
+    Address:
+
+    Gorsey Ln, Coleshill
+
+    , Birmingham B46
+
+    ransomware'
+  hmac: a407800db55495ed1389772f0cb2e6ec4d75146e427bfa49a5bae3b1f48e009b
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/headlam_locked
+  timestamp: 2020-11-19 03:02:56.274328
+  title: Egregor News - Hall of shame
+  url: ['https://www.headlam.com/', 'http://egregoranrmzapcv.onion/proofs/partial/headlam1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'PwC(Tyconz)
+
+    Full data
+
+    URL:
+
+    https://www.pwc.com/
+
+    Address:
+
+    PricewaterhouseCoopers, 41st Floor Tornado Tower
+
+    West Bay, Doha, Qatar
+
+    Full data
+
+    ransomware'
+  hmac: 8d38249798a7a800a87a3727928fdf4d954fac96c35154239b4627a9e2cd5c6d
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/pwc_locked
+  timestamp: 2020-11-20 00:03:14.278425
+  title: Egregor News - Hall of shame
+  url: ['https://www.pwc.com/', 'http://egregoranrmzapcv.onion/proofs/full/tyconz.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Cenconsud
+
+    Full data
+
+    URL:
+
+    https://www.cencosud.com/
+
+    Address:
+
+    Av. Kennedy 9001 Piso 4, Las Condes
+
+    SANTIAGO , Santiago Chile
+
+    Full data
+
+    ransomware'
+  hmac: 51185a95175e4c43d0773f267bbc4cd79377d9713bbbc593ba9900815fff0b36
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/cencosud_locked
+  timestamp: 2020-11-23 06:02:25.399524
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/full/cencosud.zip', 'https://www.cencosud.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Goodman Manufacturing
+
+    URL:
+
+    https://www.goodmanmfg.com/
+
+    Address:
+
+    19001 Kermier Road, Waller,
+
+    TX 77484
+
+    ransomware'
+  hmac: 3f11af2afe672d38f806860ba8acaff3a62e2ae28c425f517a3d04e13305d4db
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/goodman_locked
+  timestamp: 2020-11-23 06:02:26.063233
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/goodman30.zip', 'https://www.goodmanmfg.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'P J Hayman
+
+    Company Ltd
+
+    URL:
+
+    https://www.pjhayman.com/
+
+    Address:
+
+    Stansted House,Rowlands Castle
+
+    Hampshire, PO9 6DX
+
+    ransomware'
+  hmac: 6629f8891d241d921fa1186a3ec8c65ec5e91fe8bd932cda4e77e7d24f873b20
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/pjh_locked
+  timestamp: 2020-11-23 06:02:26.774814
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/pjhayman1.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.pjhayman.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'The Cary Company
+
+    Coming soon
+
+    URL:
+
+    http://thecarycompany.com/
+
+    Address:
+
+    1195 W. Fullerton Ave.
+
+    Addison, IL 60101
+
+    Coming soon
+
+    ransomware'
+  hmac: 203fff086f8fab0bf818e881c605570b2c5a73b8b8b48b1f64e39de8a487c4ab
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/thecarycompany_locked
+  timestamp: 2020-11-25 18:03:27.954629
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://thecarycompany.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Ouest France
+
+    URL:
+
+    https://www.ouest-france.fr/
+
+    ransomware'
+  hmac: a358f86cf0be2244ca719f2f6915b478e29d877926d745c1cf23152d223d7ab9
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/ouest_locked
+  timestamp: 2020-11-25 18:03:32.449443
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.ouest-france.fr/',
+    'http://egregoranrmzapcv.onion/proofs/partial/ouest1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Digital Antena Group
+
+    URL:
+
+    https://a1.ro/
+
+    ransomware'
+  hmac: 4a175c50188aa91739024c09516e261d97e2437a3ab67bf21e929fef29c65af6
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/a1ro_locked
+  timestamp: 2020-11-25 21:04:10.618508
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://a1.ro/', 'http://egregoranrmzapcv.onion/proofs/partial/a1ro1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'AdComm Inc.
+
+    URL:
+
+    http://cciadcomm.net/
+
+    Address:
+
+    89 Leuning St
+
+    South Hackensack NJ, 07606
+
+    ransomware'
+  hmac: 3fd0886d3a2311fb5ecafc8c1244dfac845a99dd36d71275e7b2d93a5a0cfee8
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/cciadcomm_locked
+  timestamp: 2020-11-25 21:04:17.251206
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/cciadcomm1.zip',
+    'http://cciadcomm.net/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Randstad USA
+
+    URL:
+
+    https://www.randstadusa.com/
+
+    Address:
+
+    One Overton Park, 3625 Cumberland Blvd SE
+
+    Atlanta, GA 30339
+
+    ransomware'
+  hmac: cafedf88832cc79aae87a466a197fe7de9b935037e5b0a7ea82ae122e8a4beb1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/randstad
+  timestamp: 2020-12-07 00:03:48.261989
+  title: Egregor News - Hall of shame
+  url: ['https://www.randstadusa.com/', 'http://egregoranrmzapcv.onion/proofs/partial/randstad1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Express Printers
+
+    URL:
+
+    https://bceofny.com/
+
+    Address:
+
+    One Saxwood Street
+
+    Deer Park, NY 11729
+
+    ransomware'
+  hmac: 1bb802710aed202a761a74d9564d5e4ab6c0a2d0adb183d87685f4bff8d3b8dd
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/bceofny_locked
+  timestamp: 2020-12-07 00:04:05.081715
+  title: Egregor News - Hall of shame
+  url: ['https://bceofny.com/', 'http://egregoranrmzapcv.onion/proofs/partial/bceofny1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Berkey Engineering
+
+    URL:
+
+    https://www.berkey.biz/
+
+    Address:
+
+    190 Oakland St
+
+    Richland, WA 99352
+
+    ransomware'
+  hmac: 7ec00e0ff955c6fb9e783514b241bcb699856ccc98cb395c22ecc81edfb2a6d8
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/berkey_locked
+  timestamp: 2020-12-07 00:04:21.245798
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/berkey1.zip', 'https://www.berkey.biz/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "CCCA-BTP\nURL:\nhttps://www.ccca-btp.fr/\nAddress:\n19 Rue du P\xE8re Corentin\n\
+    75014 Paris\nransomware"
+  hmac: cb16bf2aecaaa10e5fcb62f8430f664ae23ef5bea50fd80be8e044cbe3e21e0c
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/ccca_locked
+  timestamp: 2020-12-07 00:04:36.641725
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.ccca-btp.fr/',
+    'http://egregoranrmzapcv.onion/proofs/partial/ccca1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Nutrasource
+
+    Coming soon
+
+    URL:
+
+    http://www.nutrasource.ca/
+
+    Address:
+
+    120 Research Lane, Suite 101
+
+    Guelph, ON, CANADA
+
+    Coming soon
+
+    ransomware'
+  hmac: 645b47cfe10066e277aecb4da894bf2414151ed1ecf8cdb340fee08aeda2e667
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/nutrasource_locked
+  timestamp: 2020-12-07 00:04:52.514092
+  title: Egregor News - Hall of shame
+  url: ['http://www.nutrasource.ca/', 'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Minerals Technologies Inc.
+
+    URL:
+
+    https://www.mineralstech.com/
+
+    Address:
+
+    622 Third Avenue, 38th Floor
+
+    York, New York 10017 USA
+
+    ransomware'
+  hmac: c94394a602d6d80d865199ea153cb8f4da7e1bb842b19ea0aeba0754de7dff50
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/mineralstech_locked
+  timestamp: 2020-12-07 18:04:29.794129
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/mineralstech10.zip',
+    'https://www.mineralstech.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Nav Jeevan Co-op. Bank Ltd.
+
+    URL:
+
+    http://navjeevanbank.com/
+
+    Address:
+
+    Bhawani Saw Mills Compound,
+
+    Furniture Bazar, Ulhasnagar - 421 003
+
+    ransomware'
+  hmac: d1f12bbbce017a3cdba773ad39a396b2e99779659fd2ef033ebac0dadf1b525d
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/njcbl_locked
+  timestamp: 2020-12-10 21:03:30.489485
+  title: Egregor News - Hall of shame
+  url: ['http://navjeevanbank.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/njcbl1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Quorum International LP
+
+    URL:
+
+    https://quoruminternational.com/
+
+    Address:
+
+    201 Railhead Road Fort Worth,
+
+    TX 76106 United States
+
+    ransomware'
+  hmac: 299dbcfa94a7ecf64bf37703c3bad307991fcf3264a072cba82e7c0f928a15b8
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/quorum_locked
+  timestamp: 2020-12-11 00:02:50.575584
+  title: Egregor News - Hall of shame
+  url: ['https://quoruminternational.com/', 'http://egregoranrmzapcv.onion/proofs/partial/quorum10.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Pegasus Group
+
+    URL:
+
+    https://www.pegasusgroup.net/
+
+    Address:
+
+    1148 Alpine Rd, Ste 100
+
+    Walnut Creek, CA 94596
+
+    ransomware'
+  hmac: cd9f3de323fe052cc18ec285c172576b4a14fca33f675b4cb8bffbde907bcdff
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/pegasusgroup_locked
+  timestamp: 2020-12-12 03:04:11.510197
+  title: Egregor News - Hall of shame
+  url: ['https://www.pegasusgroup.net/', 'http://egregoranrmzapcv.onion/proofs/partial/pegasus1.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Baxter, James
+
+    Rose, LLP
+
+    URL:
+
+    http://bjrlegal.com/
+
+    Address:
+
+    6602 E. 75th Street, Suite 115
+
+    Indianapolis, Indiana 46250
+
+    ransomware'
+  hmac: 0065fa564a9739b37d8a6251c9587c4bac015b9dc30fe330becca4c348b086cf
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/bjr_locked
+  timestamp: 2020-12-12 03:04:16.778174
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://bjrlegal.com/', 'http://egregoranrmzapcv.onion/proofs/partial/bjr5.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'P J Hayman
+
+    Company Ltd
+
+    Example data
+
+    Part of data
+
+    Password for part of data will be available later
+
+    URL:
+
+    https://www.pjhayman.com/
+
+    Address:
+
+    Stansted House,Rowlands Castle
+
+    Hampshire, PO9 6DX
+
+    Example data
+
+    Part of data
+
+    ransomware'
+  hmac: 1b2b65c46728f6d9541fbbf2bb1f9a442789b84d50a43ef823022e638af131e2
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/pjh_locked
+  timestamp: 2020-12-12 18:03:06.141988
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.pjhayman.com/',
+    'http://egregoranrmzapcv.onion/proofs/partial/pjh.rar']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Equinox Payments
+
+    Coming soon
+
+    URL:
+
+    https://www.equinoxpayments.com/
+
+    Address:
+
+    9045 E. Pima Center Pkwy, Suite 3
+
+    Scottsdale, Arizona 85258
+
+    Coming soon
+
+    ransomware'
+  hmac: d399f444d7947ff7ad81cf6464470720d26d41d2867bd999df3292bea4c6cf90
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/equinox_locked
+  timestamp: 2020-12-16 15:03:37.761878
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.equinoxpayments.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Epicor Software Corporation
+
+    URL:
+
+    https://www.epicor.com/
+
+    Address:
+
+    804 Las Cimas Parkway
+
+    Austin, Texas 78746
+
+    ransomware'
+  hmac: ca8d6533668822d6a8e15ac221cf2db39c541d72521701e6840eed4a03eef054
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/epicor_locked
+  timestamp: 2020-12-16 21:04:03.663961
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.epicor.com/',
+    'http://egregoranrmzapcv.onion/proofs/partial/epicor10.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Amscot Corporation
+
+    URL:
+
+    https://www.amscot.com/
+
+    Address:
+
+    P.O. Box 25137, Tampa
+
+    FL, 33622, US
+
+    ransomware'
+  hmac: c7342f07ca279098a4a655804cad4c64d3a75f68703acca23cbdb97ba26b24c3
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/amscot_locked
+  timestamp: 2020-12-17 09:04:08.945569
+  title: Egregor News - Hall of shame
+  url: ['https://www.amscot.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/amscot1.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Equinox Payments
+
+    URL:
+
+    https://www.equinoxpayments.com/
+
+    Address:
+
+    9045 E. Pima Center Pkwy, Suite 3
+
+    Scottsdale, Arizona 85258
+
+    ransomware'
+  hmac: 90553590c2f7e9d9f2855db011738ce79d44aa485ca195c4b1169c9813520a5e
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/equinox_locked
+  timestamp: 2020-12-17 09:04:09.918150
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/equinox10.zip',
+    'https://www.equinoxpayments.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Equinox Payments
+
+    Full data
+
+    URL:
+
+    https://www.equinoxpayments.com/
+
+    Address:
+
+    9045 E. Pima Center Pkwy, Suite 3
+
+    Scottsdale, Arizona 85258
+
+    Full data
+
+    ransomware'
+  hmac: 43b2a51f3eb762b424c3e371fab2ffc7081fba8fccfa9310002acb8f6fcc4e36
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/equinox_locked
+  timestamp: 2020-12-19 03:04:16.144287
+  title: Egregor News - Hall of shame
+  url: ['https://www.equinoxpayments.com/', 'http://egregoranrmzapcv.onion/proofs/full/equinox.zip',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Quirk Cars
+
+    Coming soon
+
+    URL:
+
+    https://www.quirkcars.com/
+
+    Address:
+
+    540 Southern Artery
+
+    Quincy, MA 02169
+
+    Coming soon
+
+    ransomware'
+  hmac: c383b2fa52024a5ef96281371127cef98b9de8e34a9e01bd53266eb55cb5c71f
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/quirkcars_locked
+  timestamp: 2020-12-21 00:03:23.787093
+  title: Egregor News - Hall of shame
+  url: ['https://www.quirkcars.com/', 'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'VAMAC Inc.
+
+    URL:
+
+    https://www.vamac.com/
+
+    Address:
+
+    4201 Jacque St,
+
+    Richmond, VA 23230
+
+    ransomware'
+  hmac: 919005cfcea58e178c8be3231ed199e5fc39095806ef571131b0e78d965c7390
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/vamac_locked
+  timestamp: 2020-12-21 12:05:30.119409
+  title: Egregor News - Hall of shame
+  url: ['https://www.vamac.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/vamac5.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Mayr-Melnhof\_Holz\_Holding\_AG\nComing soon\nURL:\nhttp://mm-holz.com/\n\
+    Address:\nTurmgasse 67\n8700 Leoben, Austria\nComing soon\nransomware"
+  hmac: d7815b9a6977b123fcb160e7c1da5551a7caf56c363b8151b5a9a0cf16728e73
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/mmholz_locked
+  timestamp: 2020-12-21 12:05:38.014605
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://mm-holz.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Dilawri Group of Companies
+
+    Coming soon
+
+    URL:
+
+    https://www.dilawri.ca/
+
+    Address:
+
+    815 Broad St, Regina,
+
+    Saskatchewan, S4R 8R8, Canada
+
+    Coming soon
+
+    ransomware'
+  hmac: 04b9f83e053420dfafadb4df08ffd7f5788429ed2dc3afaf0dcf40cbc3adfe54
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/dilawri_locked
+  timestamp: 2020-12-21 12:05:46.241492
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'https://www.dilawri.ca/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Mayr-Melnhof\_Holz\_Holding\_AG\nURL:\nhttp://mm-holz.com/\nAddress:\nTurmgasse\
+    \ 67\n8700 Leoben, Austria\nransomware"
+  hmac: f9195b54e087c2c89b5c2dc4a24512d862eb6d5d6bd17f1959dbac39c6d2c1a1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/mmholz_locked
+  timestamp: 2020-12-21 15:04:20.877526
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://mm-holz.com/', 'http://egregoranrmzapcv.onion/proofs/partial/mmholz10.zip']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'NAURA Akrion
+
+    URL:
+
+    https://www.naura-akrion.com/
+
+    Address:
+
+    6330 Hedgewood Drive, Suite #150
+
+    Allentown, PA, USA 18106
+
+    ransomware'
+  hmac: 87f47d5411b4b891337a3d6901a8168971e2d119406ed92b946475378b9511f9
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/naura_locked
+  timestamp: 2020-12-23 00:03:56.873210
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/tag/ransomware', 'http://egregoranrmzapcv.onion/proofs/partial/naura1.zip',
+    'https://www.naura-akrion.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "Adecco Group\nURL:\nhttps://www.adeccogroup.com/\nAddress:\nBellerivestrasse\
+    \ 30, Z\xFCrich,\nZurich, 8008, Switzerland\nransomware"
+  hmac: b7dc49bdc71b705d2f70b2b50c91a2705a9e1368f5cc7c8bd70177b5453a99e2
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/adeccogroup_locked
+  timestamp: 2020-12-24 06:03:39.849396
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/adeccogroup10.zip', 'https://www.adeccogroup.com/',
+    'http://egregoranrmzapcv.onion/tag/ransomware']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Feralpi Group
+
+    URL:
+
+    https://www.feralpigroup.com/
+
+    Address:
+
+    Via Carlo Nicola Pasini, 11
+
+    25017 Lonato del Garda (BRESCIA), Italia
+
+    ransomware'
+  hmac: 70ad5c3fff9e4c774bfce20570093b809ab927afccd2064dd2ed1c26eb0817e1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/feralpigroup_locked
+  timestamp: 2020-12-24 06:03:40.197954
+  title: Egregor News - Hall of shame
+  url: ['http://egregoranrmzapcv.onion/proofs/partial/feralpigroup10.zip', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'https://www.feralpigroup.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: 'Transform SR Brands LLC.(Sears)
+
+    URL:
+
+    https://www.sears.com/
+
+    Address:
+
+    3333 Beverly Road
+
+    Hoffman Estates, IL 60179
+
+    ransomware'
+  hmac: 2f6175f18a66c3ebab135c6a1d500db403f709a50a9db82a90b829b69ceec8f1
+  ltype: Shaming list
+  malware: Egregor
+  source: http://egregoranrmzapcv.onion/publish/sears_locked
+  timestamp: 2020-12-24 06:03:40.678325
+  title: Egregor News - Hall of shame
+  url: ['https://www.sears.com/', 'http://egregoranrmzapcv.onion/tag/ransomware',
+    'http://egregoranrmzapcv.onion/proofs/partial/sears10.zip']
+- !!python/object:darksuce_class.record
+  author: null
   data: 'Randstad USA
 
     Part of data
@@ -23,10 +1872,10 @@
   ltype: Shaming list
   malware: Egregor
   source: https://egregornews.com/publish/randstad
-  timestamp: 2021-01-21 22:19:53.149009
+  timestamp: 2021-01-21 20:02:01.084263
   title: Egregor News - Hall of shame
-  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/randstad1.7z',
-    'https://www.randstadusa.com/']
+  url: ['https://egregornews.com/proofs/partial/randstad1.7z', 'https://www.randstadusa.com/',
+    'https://egregornews.com/tag/ransomware']
 - !!python/object:darksuce_class.record
   author: null
   data: 'DSC Logistics
@@ -52,10 +1901,10 @@
   ltype: Shaming list
   malware: Egregor
   source: https://egregornews.com/publish/dsc_locked
-  timestamp: 2021-01-21 22:19:53.782790
+  timestamp: 2021-01-21 20:02:01.728791
   title: Egregor News - Hall of shame
-  url: ['https://www.dsclogistics.com/', 'https://egregornews.com/tag/ransomware',
-    'https://egregornews.com/proofs/partial/dsclogistics10.7z']
+  url: ['https://egregornews.com/proofs/partial/dsclogistics10.7z', 'https://egregornews.com/tag/ransomware',
+    'https://www.dsclogistics.com/']
 - !!python/object:darksuce_class.record
   author: null
   data: 'RMB PRODUCTS
@@ -75,10 +1924,10 @@
   ltype: Shaming list
   malware: Egregor
   source: https://egregornews.com/publish/rmbproducts_locked
-  timestamp: 2021-01-21 22:19:54.413378
+  timestamp: 2021-01-21 20:02:02.443080
   title: Egregor News - Hall of shame
-  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/cos10.zip',
-    'https://rmbproducts.com/']
+  url: ['https://rmbproducts.com/', 'https://egregornews.com/proofs/partial/cos10.zip',
+    'https://egregornews.com/tag/ransomware']
 - !!python/object:darksuce_class.record
   author: null
   data: 'Baxter, James
@@ -106,10 +1955,10 @@
   ltype: Shaming list
   malware: Egregor
   source: https://egregornews.com/publish/bjr_locked
-  timestamp: 2021-01-21 22:19:55.048407
+  timestamp: 2021-01-21 20:02:03.033693
   title: Egregor News - Hall of shame
-  url: ['https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/bjrlegal1.7z',
-    'http://bjrlegal.com/']
+  url: ['https://egregornews.com/proofs/partial/bjrlegal1.7z', 'http://bjrlegal.com/',
+    'https://egregornews.com/tag/ransomware']
 - !!python/object:darksuce_class.record
   author: null
   data: "Clyde,\_Ferraro\_\n\_Co.,\_LLP\nPart of data\nPassword for part of data will\
@@ -119,6 +1968,6 @@
   ltype: Shaming list
   malware: Egregor
   source: https://egregornews.com/publish/cfccpa_locked
-  timestamp: 2021-01-21 22:19:55.695431
+  timestamp: 2021-01-21 20:02:03.643041
   title: Egregor News - Hall of shame
-  url: ['https://egregornews.com/tag/ransomware', 'http://cfc-cpa.com/', 'https://egregornews.com/proofs/partial/cfccpa1.7z']
+  url: ['http://cfc-cpa.com/', 'https://egregornews.com/tag/ransomware', 'https://egregornews.com/proofs/partial/cfccpa1.7z']

@@ -38,6 +38,712 @@
   ltype: Shaming list
   malware: Sekhmet
   source: http://rlmuybcg5h5gaatr.onion/Grupo_Damm_Hit_By_Sekhmet
-  timestamp: 2020-05-20 22:39:37.756042
+  timestamp: 2020-05-20 20:49:47.217682
   title: Leaks leaks and leaks
-  url: ['http://damm.es/', 'http://grupodamm.com/', 'http://damm.es/Some']
+  url: ['http://grupodamm.com/', 'http://damm.es/Some', 'http://damm.es/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\nLocar1.zip\nAttacked on April 30, 2020.\_\
+    Sites: https://www.locar.com.br/\_Some of their servers were encrypted with our\
+    \ software, data downloaded.We have posted only a part in order to make them contact\
+    \ us\_This company is coward and they do not have courage to start a dialog their\
+    \ system admin was scared to report the incident to director - \_Marco\_Nao posso\
+    \ falar, pois isso custara o meu emprego -\_said their system administrator\_\
+    Mr. Marco you must see yourself who works in your company you know how to contact\
+    \ us.Meanwhile everyone fell free to use this published piece of data\n]"
+  hmac: b6d3f62064634ef48d94b458ebefaa6fd279ff5dd5166326fcb192ee2159eb35
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Locar_hit_by_Sekhmet
+  timestamp: 2020-05-20 21:14:47.468444
+  title: Leaks leaks and leaks
+  url: ['https://www.locar.com.br/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data:
+
+    Download links
+
+    meridiantitle.zip
+
+    Attacked on May 20, 2020.
+
+    Sites: https://meridiantitle.com/ https://arsenalins.com/
+
+    Some of their servers were encrypted with our software, data downloaded.
+
+    We have posted only a part in order to make them contact us
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: 16ce65ad4f09088002b632ad3eda5a89122951c12ebaa86efadda8b9cea15d4d
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Meridian_Title_hit_by_Sekhmet_
+  timestamp: 2020-05-23 00:04:43.835135
+  title: Leaks leaks and leaks
+  url: ['https://arsenalins.com/', 'https://meridiantitle.com/', 'https://arsenalins.com/Some']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data:
+
+    Download links
+
+    meridiantitle.zip
+
+    meridiantitle_arsenalins.zip
+
+    Attacked on May 20, 2020.
+
+    Sites: https://meridiantitle.com/ https://arsenalins.com/
+
+    Some of their servers were encrypted with our software, data downloaded.
+
+    We have posted only a part in order to make them contact us
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: 1869ab159caa79a7fe960224aff52a3fcc5f74a433ae8bea1c695e3868470489
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Meridian_Title_hit_by_Sekhmet_
+  timestamp: 2020-05-29 00:05:26.027401
+  title: Leaks leaks and leaks
+  url: ['https://arsenalins.com/', 'https://meridiantitle.com/', 'https://arsenalins.com/Some']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\narchive_2.zip\narchive_5.zip\nAttacked on\
+    \ May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number:\_ +447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: 5bca88d46b5b6104c7315be0f31aeb4c79cb93f76400989c103da8b9b2165ae1
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-01 21:04:55.421158
+  title: Leaks leaks and leaks
+  url: ['https://www.excisservices.be', 'https://www.excis.com/', 'https://arsenalins.com/',
+    'https://www.excis.com/services.htm<span', 'https://www.excis.com/services.htm',
+    'https://excis']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\narchive_2.zip\narchive_3.zip\narchive_5.zip\n\
+    archive_6.zip.filepart\nAttacked on May 30, 2020.\_Sites: https://www.excis.com/\_\
+    \ https://www.excisservices.be\_ Their servers were encrypted with our software,\
+    \ data downloaded.\_We are sharing a big part of their data since their director\
+    \ Finn Lyskov said that we do not have any important data, so be it\_Their It\
+    \ managers are highly unprofessional and we will continue to perform attacks on\
+    \ this company and\_Mr. Kunal Amodkar will never be able to patch or fix the vulnerabilities\
+    \ which we exploited and look what this company claims on their website services\
+    \ they provide:Securing banks and military sites\nImplementing security policies\n\
+    Firewalls\nSite to site encryption\nServer security\nSoftware security\nInfiltration\
+    \ testing\nEmergency response in the event of a security breachWe want to ask\
+    \ their clients, guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu,\
+    \ Avon\_-\_You really think this company can provide any services that they are\
+    \ claiming here\_https://www.excis.com/services.htm\_? Data from your companies\
+    \ was compromised as well it was lying on Excis servers completely unprotected!\
+    \ Have a call with Mr. Finn Lyskov maybe he will explain how so professional company\
+    \ got cracked to pieces!!We are publishing 2 archives at the moment \_passwords\
+    \ for them will be released in the next 48 hours maybe Mr. Finn will change his\
+    \ mind, meanwhile we sharing Mr Finn phone number:\_ +447718001141 fell free to\
+    \ ask him about \"Securing banks and military sites \" !\n]"
+  hmac: bff97a5996d7e0e297a3da75281cd0dcf93e2af1dae9d515c729b09dda91d30b
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-02 12:05:24.720907
+  title: Leaks leaks and leaks
+  url: ['https://www.excis.com/services.htm', 'https://arsenalins.com/', 'https://excis',
+    'https://www.excisservices.be', 'https://www.excis.com/', 'https://www.excis.com/services.htm<span']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\nWSS_Content.zip.filepart\narchive_11.zip\n\
+    archive_2.zip\narchive_3.zip\narchive_5.zip\narchive_6.zip\narchive_9.zip\nAttacked\
+    \ on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number:\_ +447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: c5161dd567d3f65fe5aec8dea04f8238d3f03e4eb125fc38e347d3728cee330d
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-02 15:04:16.702093
+  title: Leaks leaks and leaks
+  url: ['https://www.excisservices.be', 'https://www.excis.com/services.htm<span',
+    'https://www.excis.com/services.htm', 'https://arsenalins.com/', 'https://excis',
+    'https://www.excis.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\nDB12.zip.filepart\nWSS_Content.zip\narchive_11.zip\n\
+    archive_2.zip\narchive_3.zip\narchive_5.zip\narchive_6.zip\narchive_9.zip\nAttacked\
+    \ on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number:\_ +447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: 436d823ced95d88610db33cb0a68035c619cae0c3fb3e4a3b5272ab7c6c3fe73
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-02 21:04:06.703601
+  title: Leaks leaks and leaks
+  url: ['https://arsenalins.com/', 'https://excis', 'https://www.excis.com/', 'https://www.excisservices.be',
+    'https://www.excis.com/services.htm', 'https://www.excis.com/services.htm<span']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\nDB12.zip.filepart\nWSS_Content.zip\narchive_11.zip\n\
+    archive_2.zip\narchive_3.zip\narchive_5.zip\narchive_6.zip\narchive_9.zip\nmails.edb.zip\n\
+    Attacked on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number:\_ +447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: cc9f2923e363a616b6124eb63792b1f1117673f0f82cb9088b5f53a4cbf389e3
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-03 12:04:09.638181
+  title: Leaks leaks and leaks
+  url: ['https://excis', 'https://www.excis.com/', 'https://arsenalins.com/', 'https://www.excisservices.be',
+    'https://www.excis.com/services.htm', 'https://www.excis.com/services.htm<span']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\nDB12.zip\nWSS_Content.zip\narchive_11.zip\n\
+    archive_2.zip\narchive_3.zip\narchive_5.zip\narchive_6.zip\narchive_9.zip\nmails.edb.zip\n\
+    Attacked on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number:\_ +447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: 81afc9fb62cf129da90a8dac5d9289674582e5e24be0a9fb40294e34b0708b1e
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-03 15:03:58.958435
+  title: Leaks leaks and leaks
+  url: ['https://arsenalins.com/', 'https://www.excis.com/services.htm', 'https://www.excisservices.be',
+    'https://www.excis.com/services.htm<span', 'https://www.excis.com/', 'https://excis']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data:\nDownload links\narchive_11.zip\narchive_2.zip\narchive_3.zip\n\
+    archive_5.zip\narchive_6.zip\narchive_9.zip\nmails.edb.zip\narchive_2.zip pass:\
+    \ 76r8ygut7guP79yoU9fyGUPyfT9fyoy9TyoF9fYGUP)y9y)09tFit48yU(8uyu9y8T9yU)9archive_3.zip\
+    \ pass: gjh2346FGr86t*TR^88vgR^r9Foyf67t0uFd9ugrW34E8roug88(Tdde8iYfdDrDits^7R*archive_5.zip\
+    \ pass: 879Ty80t79UPI0(u0IPy0(UUuyT*yuPpiu99uoiu8yiuoYYIGuoy8UiU(8yYgiuOOy8IGUy*Yarchive_6.zip\
+    \ pass: e5YFtdiyfdt8yiHftrtYIgT89ygFTDR975#@343$*tt(tf8tfuDudRwer76Fe75R*8f7r8RFuYarchive_9.zip\
+    \ pass: 4e5rfyY5758yiF7*yfIITfy8tfDss8Futrw3weRUfg887t9*tYfuTDRdASdUhgifrdEw56fdFdarchive_11.zip\
+    \ pass: gt7togfdsre*68iyfdS8dftw345rfutfiTd869Fdyud78ryfFtuyd78YF6r8f*YR8ryfyY*F8mails.edb.zip\
+    \ pass: 7tyte7898ygfdt79t*^Tf7rt07fugo(F*DY8utg9URf9uyfTD89ugif8utg98tFYG(utif*99(Attacked\
+    \ on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number: \_+447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: f2ce7389f324bbfcef6931296e38f29f26d6616c778149c1961a7e37426a4afd
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-04 12:04:49.382964
+  title: Leaks leaks and leaks
+  url: ['https://arsenalins.com/', 'https://www.excis.com/services.htm', 'https://www.excisservices.be',
+    'https://www.excis.com/services.htm<span', 'https://excis', 'https://www.excis.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data links:\narchive_11.zip\narchive_2.zip\narchive_3.zip\narchive_5.zip\n\
+    archive_6.zip\narchive_9.zip\nmails.edb.zip\narchive_2.zip pass: 76r8ygut7guP79yoU9fyGUPyfT9fyoy9TyoF9fYGUP)y9y)09tFit48yU(8uyu9y8T9yU)9archive_3.zip\
+    \ pass: gjh2346FGr86t*TR^88vgR^r9Foyf67t0uFd9ugrW34E8roug88(Tdde8iYfdDrDits^7R*archive_5.zip\
+    \ pass: 879Ty80t79UPI0(u0IPy0(UUuyT*yuPpiu99uoiu8yiuoYYIGuoy8UiU(8yYgiuOOy8IGUy*Yarchive_6.zip\
+    \ pass: e5YFtdiyfdt8yiHftrtYIgT89ygFTDR975#@343$*tt(tf8tfuDudRwer76Fe75R*8f7r8RFuYarchive_9.zip\
+    \ pass: 4e5rfyY5758yiF7*yfIITfy8tfDss8Futrw3weRUfg887t9*tYfuTDRdASdUhgifrdEw56fdFdarchive_11.zip\
+    \ pass: gt7togfdsre*68iyfdS8dftw345rfutfiTd869Fdyud78ryfFtuyd78YF6r8f*YR8ryfyY*F8mails.edb.zip\
+    \ pass: 7tyte7898ygfdt79t*^Tf7rt07fugo(F*DY8utg9URf9uyfTD89ugif8utg98tFYG(utif*99(Attacked\
+    \ on May 30, 2020.\_Sites: https://www.excis.com/\_ https://www.excisservices.be\_\
+    \ Their servers were encrypted with our software, data downloaded.\_We are sharing\
+    \ a big part of their data since their director Finn Lyskov said that we do not\
+    \ have any important data, so be it\_Their It managers are highly unprofessional\
+    \ and we will continue to perform attacks on this company and\_Mr. Kunal Amodkar\
+    \ will never be able to patch or fix the vulnerabilities which we exploited and\
+    \ look what this company claims on their website services they provide:Securing\
+    \ banks and military sites\nImplementing security policies\nFirewalls\nSite to\
+    \ site encryption\nServer security\nSoftware security\nInfiltration testing\n\
+    Emergency response in the event of a security breachWe want to ask their clients,\
+    \ guys from\_:\_Nissan, Philips, Mylan, Mondelez, Kuoni, Fujutsu, Avon\_-\_You\
+    \ really think this company can provide any services that they are claiming here\_\
+    https://www.excis.com/services.htm\_? Data from your companies was compromised\
+    \ as well it was lying on Excis servers completely unprotected! Have a call with\
+    \ Mr. Finn Lyskov maybe he will explain how so professional company got cracked\
+    \ to pieces!!We are publishing 2 archives at the moment \_passwords for them will\
+    \ be released in the next 48 hours maybe Mr. Finn will change his mind, meanwhile\
+    \ we sharing Mr Finn phone number: \_+447718001141 fell free to ask him about\
+    \ \"Securing banks and military sites \" !\n]"
+  hmac: 0dfa701e4588c4ac1fdd03fb7a1400d0c86d72cd60a3fe1b78a0771d4c7cb0b3
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Excis_Ltd_hit_very_hard_by_Sekhm
+  timestamp: 2020-06-04 18:06:25.140141
+  title: Leaks leaks and leaks
+  url: ['https://excis', 'https://www.excis.com/', 'https://arsenalins.com/', 'https://www.excis.com/services.htm<span',
+    'https://www.excis.com/services.htm', 'https://www.excisservices.be']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data links:
+
+    meridiantitle.zip
+
+    meridiantitle_arsenalins.zip
+
+    Attacked on May 20, 2020.
+
+    Sites: https://meridiantitle.com/ https://arsenalins.com/
+
+    Some of their servers were encrypted with our software, data downloaded.
+
+    We have posted only a part in order to make them contact us
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: e47da6ad145b19ef844c4317fabb3296fdc376aefc3113bff13ab5fcd9f85824
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Meridian_Title_hit_by_Sekhmet_
+  timestamp: 2020-06-04 18:06:26.023358
+  title: Leaks leaks and leaks
+  url: ['https://meridiantitle.com/', 'https://arsenalins.com/', 'https://arsenalins.com/Some']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nLeaked data links:\nLocar1.zip\nAttacked on April 30, 2020.\_Sites: https://www.locar.com.br/\_\
+    Some of their servers were encrypted with our software, data downloaded.We have\
+    \ posted only a part in order to make them contact us\_This company is coward\
+    \ and they do not have courage to start a dialog their system admin was scared\
+    \ to report the incident to director - \_Marco\_Nao posso falar, pois isso custara\
+    \ o meu emprego -\_said their system administrator\_Mr. Marco you must see yourself\
+    \ who works in your company you know how to contact us.Meanwhile everyone fell\
+    \ free to use this published piece of data\n]"
+  hmac: 04c384670df1140580145810202a57e8dc548ef649c422fefe1e9be798ccc522
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Locar_hit_by_Sekhmet
+  timestamp: 2020-06-04 18:06:26.539722
+  title: Leaks leaks and leaks
+  url: ['https://www.locar.com.br/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data links:
+
+    COMITE_DIRECCION.zip
+
+    Attacked on March 20, 2020.Sites: http://grupodamm.com/ and http://damm.es/Some
+    of their servers were encrypted with our software, 100 Gigabytes of their data
+    was leaked.We have posted only a part in order to make them contact us.Some of
+    their emails:jvillavecchia@dammcorporate.com
+
+    jvillavecchia@damm.es
+
+    gurriaf@dammcorporate.com
+
+    gurria@dammcorporate.com
+
+    fgurria@dammcorporate.com
+
+    fedegurria@dammcorporate.com
+
+    fedeg@dammcorporate.com
+
+    fede_gurria@dammcorporate.com
+
+    fede@dammcorporate.com
+
+    fede.gurria@dammcorporate.com
+
+    Feel free to download their files and wreak havoc on their emails and sites.
+
+    ]'
+  hmac: a55f7fedf000c7429704fb8a1cf3a1d9a932b9dc287df5457e96a377a24af51c
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Grupo_Damm_Hit_By_Sekhmet
+  timestamp: 2020-06-04 18:06:26.880093
+  title: Leaks leaks and leaks
+  url: ['http://damm.es/Some', 'http://damm.es/', 'http://grupodamm.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Leaked data links:
+
+    Attacked on May 20, 2020.
+
+    Sites: https://meridiantitle.com/ https://arsenalins.com/
+
+    Some of their servers were encrypted with our software, data downloaded.
+
+    We have posted only a part in order to make them contact us
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: 81d7eaae990c69cd575f6ed0358bbe4ff31ff3618b40b1622baf77150ff2560e
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Meridian_Title_hit_by_Sekhmet_
+  timestamp: 2020-06-12 21:07:04.379457
+  title: Leaks leaks and leaks
+  url: ['https://meridiantitle.com/', 'https://arsenalins.com/Some', 'https://arsenalins.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nPay attention! On June 28. 2020 passwords for the archives below will\
+    \ be revealed.\nLeaked data links:\nsrv-app.zip\nAttacked on Jun 20, 2020.\nSites:\
+    \ silpac.net\nTheir servers were encrypted with our software, data downloaded.\_\
+    This company was encrypted twice! And for almost a week we watched as the specialists\
+    \ from Robust Network Solution together with Trendmicro were restoring encrypted\
+    \ data and tried to track us. We send our biggest regards to the specialists Salem\
+    \ Zoumot and Mel Floyd and we wrote a small review about their work in our site\
+    \ news section.\nMr. Ray Mendoza we are dissapointed that we havent had a chance\
+    \ to have a dialog with you, we suggest you to\_terminate all contracts with Robust\
+    \ Network and find more professional solution for your tasks.\n]"
+  hmac: b0eaae28460c03cd29705d05fc9257bfc1546c3e25c10b2aa1d4b34ea6ba4fdf
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Silpac_hit_by_Sekhmet
+  timestamp: 2020-06-25 21:04:23.807462
+  title: Leaks leaks and leaks
+  url: ['http://kibwxnya5cw4st63.onion:8999/dbf214f3-e7d1-4e3d-8ba2-30059947a29c',
+    'http://kibwxnya5cw4st63.onion:8999/a3ccb3d7-5d50-45d6-b6de-15847479ff0c', 'http://kibwxnya5cw4st63.onion:8999/65f8cfd9-d49a-4053-8ccf-57fd6f447ae0',
+    'http://kibwxnya5cw4st63.onion:8999/5d6690c9-03f3-4205-a875-378839b255fa', 'https://sekhmetleaks.top/images/5.png']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On June 28. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBCLAW.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbclaw.com
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: df7e786cffd660f040d2f11649af37c7b239b940d34900bba1cfe72773a37975
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBCLAW_hit_by_Sekhmet
+  timestamp: 2020-06-25 21:04:24.170941
+  title: Leaks leaks and leaks
+  url: ['https://cbclaw.comTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nPay attention! On June 28. 2020 passwords for the archives below will\
+    \ be revealed.\nLeaked data links:\ncustomer information and engineering.zip\n\
+    Attacked on Jun 20, 2020.\nSites: silpac.net\nTheir servers were encrypted with\
+    \ our software, data downloaded.\_This company was encrypted twice! And for almost\
+    \ a week we watched as the specialists from Robust Network Solution together with\
+    \ Trendmicro were restoring encrypted data and tried to track us. We send our\
+    \ biggest regards to the specialists Salem Zoumot and Mel Floyd and we wrote a\
+    \ small review about their work in our site news section.\nMr. Ray Mendoza we\
+    \ are dissapointed that we havent had a chance to have a dialog with you, we suggest\
+    \ you to\_terminate all contracts with Robust Network and find more professional\
+    \ solution for your tasks.\n]"
+  hmac: f0618fcca74221fd82dbc520292a43be3a3a0a27b4f4c140616c26fa2f644d8d
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Silpac_hit_by_Sekhmet
+  timestamp: 2020-06-27 00:04:04.596565
+  title: Leaks leaks and leaks
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On June 30. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBCLAW.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbclaw.com
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: dc95ac1c00233a8f77ea2499ded96091aa60a731e28f3e2bef07c336a5675b8f
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBCLAW_hit_by_Sekhmet
+  timestamp: 2020-06-27 00:04:05.002618
+  title: Leaks leaks and leaks
+  url: ['https://cbclaw.comTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On June 30. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBCLAW.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbklaw.net
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: bec852d22369684e1e8a2791d738239e6c8264fb9b34132742753d326483f9a8
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBKLAW_hit_by_Sekhmet
+  timestamp: 2020-06-27 09:03:24.365799
+  title: Leaks leaks and leaks
+  url: ['https://cbklaw.netTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[\nPasswords for the archives (same order as the links):\nA9k3#k@0jS1K3Fk#9Dm4\n\
+    Leaked data links:\ncustomer information and engineering.zip\nAttacked on Jun\
+    \ 20, 2020.\nSites: silpac.net\nTheir servers were encrypted with our software,\
+    \ data downloaded.\_This company was encrypted twice! And for almost a week we\
+    \ watched as the specialists from Robust Network Solution together with Trendmicro\
+    \ were restoring encrypted data and tried to track us. We send our biggest regards\
+    \ to the specialists Salem Zoumot and Mel Floyd and we wrote a small review about\
+    \ their work in our site news section.\nMr. Ray Mendoza we are dissapointed that\
+    \ we havent had a chance to have a dialog with you, we suggest you to\_terminate\
+    \ all contracts with Robust Network and find more professional solution for your\
+    \ tasks.\n]"
+  hmac: af0942236e61e43a2dd8d61a96780d46fa00b71f79ea132125b5cc4974a16d52
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/Silpac_hit_by_Sekhmet
+  timestamp: 2020-06-29 00:02:32.275182
+  title: Leaks leaks and leaks
+  url: ['http://sekhmetleaks.top/images/5.png', 'http://sekhmetleaks.top/images/19.png']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On July 02. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBCLAW.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbklaw.net
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: dcca010876aee7994d5bbcb9ca4fd00eb5f8c0bbd2f3eb368026bcb7d83b50af
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBKLAW_hit_by_Sekhmet
+  timestamp: 2020-06-30 00:02:29.724217
+  title: Leaks leaks and leaks
+  url: ['https://cbklaw.netTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On July 02. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBKLAW part1.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbklaw.net
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: 21c9603e30fe88db747bc7736c6f224bdcddb27b1c9cce7547ee5ba05cbd9ce7
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBKLAW_hit_by_Sekhmet
+  timestamp: 2020-07-01 12:03:34.358589
+  title: Leaks leaks and leaks
+  url: ['https://cbklaw.netTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Pay attention! On July 02. 2020 passwords for the archives below will be revealed.
+
+    Leaked data links:
+
+    CBKLAW part1.zip
+
+    CBKLAW part2.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbklaw.net
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: eb1bf40391bb14946c8f8a0c16a5a78428868456d26adcd21ad7b556102122db
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBKLAW_hit_by_Sekhmet
+  timestamp: 2020-07-01 15:03:01.518805
+  title: Leaks leaks and leaks
+  url: ['https://cbklaw.netTheir']
+- !!python/object:darksuce_class.record
+  author: null
+  data: '[
+
+    Passwords for the archives (same order as the links):
+
+    F8Lhamp;amp;3Mgs9G20G1Lf6Sd
+
+    Leaked data links:
+
+    CBKLAW part1.zip
+
+    CBKLAW part2.zip
+
+    Attacked on Jun 20, 2020.
+
+    Sites: https://cbklaw.net
+
+    Their servers were encrypted with our software, data downloaded.
+
+    This company is trying to deny the attack we made a lot of phone calls calling
+    their directors and nobody wants to discuss the issue
+
+    ]'
+  hmac: 46893995b297513d580be177b2e2b2c520a2dc5fcb86ae1b7c508c0ac242c39f
+  ltype: Shaming list
+  malware: Sekhmet
+  source: http://185.14.30.184/CBKLAW_hit_by_Sekhmet
+  timestamp: 2020-07-03 00:04:13.172840
+  title: Leaks leaks and leaks
+  url: ['https://cbklaw.netTheir']

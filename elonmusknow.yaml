@@ -1,0 +1,678 @@
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Wed Jun 02 2021  \n---  \n### Auction created, in next 24 hours link will\
+    \ be sent to private users .\nThank you and have a nice day ^_^\nAlso we will\
+    \ place here logs and personal data one of negotiators, for example\nhow you should\
+    \ not talk with us.\n\n"
+  hmac: 08150aafc8135051adb6bdcf6e17f292901d075b3bbc9d5366fc2e615c2b5d6e
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144215
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Sat May 29 2021  \n---  \n### Auction with leaked data will be created in\
+    \ 2 days, all registered clients\nwill get a personal link via email with full\
+    \ list of company data and company\nname. Thank you.\n\n"
+  hmac: 954d097221df7d33ceecfce2367f1666e459c8025b98f6cc55b5eec2f66e4210
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144248
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Wed May 26 2021  \n---  \n### One of the skin care companies is ignoring\
+    \ us, so we are preparing a ~ 3TB\nleak and an auction to sell the data will open\
+    \ soon.\n\n"
+  hmac: dd392b2b390761f58a8b0e79039400649eabba37651c015e8baac377efa043b7
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144258
+  title: ''
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Sun May 23 2021  \n---  \n**\n### airespring.com  \n@AireSpring twitter\n\
+    **  \n#### ~1.2 Tb leak view here\nChat with support\n\n"
+  hmac: e3e831fd4c5291ddf770441fa05ca49138e32d92ed1a5d848094b770a5ab41e0
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144266
+  title: airespring.com
+  url: !!set
+    ? !!python/tuple ['@AireSpring twitter', 'https://twitter.com/AireSpring']
+    : null
+    ? !!python/tuple [Chat with support, 'http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/27ece9342b1d86b0']
+    : null
+    ? !!python/tuple [airespring.com, 'https://airespring.com']
+    : null
+    ? !!python/tuple [view here, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/airespring']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Fri May 21 2021  \n---  \n### Proctor Financial\n#### ~200 Gb leak view here\n\
+    Chat with support\n\n"
+  hmac: ead9447fd943cee91efb7ce38499240586b3dea610dd4e0cc5e2578bc64d856f
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144274
+  title: Proctor Financial
+  url: !!set
+    ? !!python/tuple [Chat with support, 'http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/27ece9342b1d86b0']
+    : null
+    ? !!python/tuple [Proctor Financial, 'https://proctorfinancial.com']
+    : null
+    ? !!python/tuple [view here, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/proctorfinancial']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Sat May 15 2021  \n---  \n###  whistler.ca leak ~82 Gb\n#### whistler.ca\
+    \ full web server leak + some files from DC network\npassword for xlsx and rar\
+    \  \n$$Wh!stler!2011  \n **whistler network passwords doc**  \nSysadmindoc.xlsx\
+    \  \n **secret server dump sql, asp ~1 Gb**  \nSecretServer_PasswordsStorage_SQLDB_ASPSRV.rar\n\
+    \n"
+  hmac: 84a2283103bb53d6679291bce6de8b7f0980975b2050220b6d2699b29163332b
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144281
+  title: whistler.ca
+  url: !!set
+    ? !!python/tuple [SecretServer_PasswordsStorage_SQLDB_ASPSRV.rar, 'http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/SecretServer_PasswordsStorage_SQLDB_ASPSRV.rar']
+    : null
+    ? !!python/tuple [Sysadmindoc.xlsx, 'http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/Sysadmindoc.xlsx']
+    : null
+    ? !!python/tuple [whistler.ca, 'https://whistler.ca']
+    : null
+    ? !!python/tuple [whistler.ca full web server leak + some files from DC network,
+      'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/whistler.ca']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Fri Jun 11 2021  \n---  \n#### So this is the part of trash talks of customer.\
+    \ We delayed auction for\n1.5 weeks, gave them chance. But... nothing happens.\
+    \ We continue upload data\nto leaks server. All registered users will receive\
+    \ messages about company,\ndata and time when auction begin.\n![](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/trashtalks.png)\n\
+    \n"
+  hmac: 0619bf7b9395ab65b6dc5abfa881dd416ed24d221a9415c2dcb313cfb6c13f84
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144290
+  title: 'News - '
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Fri Jun 11 2021
+
+    ---
+
+    #### So this is the part of trash talks of customer. We delayed auction for
+
+    1.5 weeks, gave them chance. But... nothing happens. We continue upload data
+
+    to leaks server. All registered users will receive messages about company,
+
+    data and time when auction begin.
+
+    ![](http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/trashtalks.png)
+
+
+    '
+  hmac: 9c21a4d5cec3e7059560161c2fe031f039a4a430d99a6dc0ce6c11b2144f5c5e
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144302
+  title: 'News - '
+  url: ['http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/trashtalks.png']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Sun May 23 2021
+
+    ---
+
+    **
+
+    ### airespring.com
+
+    @AireSpring twitter
+
+    **
+
+    #### ~1.2 Tb leak view here
+
+    Chat with support
+
+
+    '
+  hmac: b2dedc2b30f33061c7bb8004d38c0a17ae7762708910b3241569fed0e4606d07
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144311
+  title: News - airespring.com
+  url:
+  - !!python/tuple [airespring.com, 'https://airespring.com']
+  - !!python/tuple [view here, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/airespring']
+  - !!python/tuple [Chat with support, 'http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/27ece9342b1d86b0']
+  - !!python/tuple ['@AireSpring twitter', 'https://twitter.com/AireSpring']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Fri May 21 2021
+
+    ---
+
+    ### Proctor Financial
+
+    #### ~200 Gb leak view here
+
+    Chat with support
+
+
+    '
+  hmac: 7fb9ad3db33ca6f50fb194ae39c2aab83867b54eb85ba60d30b7b4fdc7acd932
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144318
+  title: News - Proctor Financial
+  url:
+  - !!python/tuple [view here, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/proctorfinancial']
+  - !!python/tuple [Chat with support, 'http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/27ece9342b1d86b0']
+  - !!python/tuple [Proctor Financial, 'https://proctorfinancial.com']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Sat May 15 2021
+
+    ---
+
+    ### whistler.ca leak ~82 Gb
+
+    #### whistler.ca full web server leak + some files from DC network
+
+    password for xlsx and rar
+
+    $$Wh!stler!2011
+
+    **whistler network passwords doc**
+
+    Sysadmindoc.xlsx
+
+    **secret server dump sql, asp ~1 Gb**
+
+    SecretServer_PasswordsStorage_SQLDB_ASPSRV.rar
+
+
+    '
+  hmac: 0ad045f6115f5e4ad3f03c6e69876ea01531fae801cc56938bb3a818f1f9bc5a
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144326
+  title: News - whistler.ca
+  url:
+  - !!python/tuple [whistler.ca full web server leak + some files from DC network,
+    'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/whistler.ca']
+  - !!python/tuple [Sysadmindoc.xlsx, 'http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/Sysadmindoc.xlsx']
+  - !!python/tuple [SecretServer_PasswordsStorage_SQLDB_ASPSRV.rar, 'http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion/download/SecretServer_PasswordsStorage_SQLDB_ASPSRV.rar']
+  - !!python/tuple [whistler.ca, 'https://whistler.ca']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Mon Jun 21 2021
+
+    ---
+
+    ## Parad of dumbs
+
+    ![](/crown.png)
+
+    ### crownlaboratories.com
+
+    Thomas Hitchcock 469-209-6616, 646-584-0476 thitchcock@crownlaboratories.com
+
+    Steve Gallopo 404-822-0350 sgallopo@crownlaboratories.com
+
+    Jeff Bedard 423-767-5737 jbedard@crownlaboratories.com
+
+    James Townsend jtownsend@crownlaboratories.com
+
+    Security team which work with crown are good like shit
+
+    ![](/arete.png)
+
+    ### areteir.com
+
+    Larry Krause lkrause@areteir.com
+
+    ![](/vedderprice.png)
+
+    ### https://www.vedderprice.com/
+
+    Kimrey Blaine bkimrey@vedderprice.com
+
+    ### Crownlaboratories leak
+
+    Other private data will be sold in next 7 days.
+
+    Tricia Grier774-275-8624tgrier@crownaesthetics.com
+
+    Elisabeth Thompson407-797-8018ethompson@crownaesthetics.com
+
+    Hammond Lister864-680-1642hlister@crownaesthetics.com
+
+    Ken Taylor704-500-3368ktaylor@crownaesthetics.com
+
+    Jason Cirelli201-923-9307jcirelli@crownaesthetics.com
+
+    Helen Haynes770-361-7111hhaynes@crownaesthetics.com
+
+    Jacqueline Wakefield231-343-1903jwakefield@crownaesthetics.com
+
+    Melissa DiMaio(973) 945-2526mdimaio@crownaesthetics.com
+
+    Sheri Sena513-910-9750ssena@crownaesthetics.com
+
+    Peter Kovachev772-633-8770pkovachev@crownaesthetics.com
+
+    Jennifer Thomas330-506-6529jthomas@crownaesthetics.com
+
+    Diana Fonseca786-239-5629dfonseca@crownaesthetics.com
+
+    Holly Gottschalk785-766-7910hgottschalk@crownaesthetics.com
+
+    Dawn Bancroft/Surgical Solutions612-801-0553 dawn.bancroft@icloud.com
+
+
+    '
+  hmac: 18105b5e315e09056a51b14eaed93554e7288483a1befb21311f1c2fa8988f6e
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144334
+  title: News - crownlaboratories.com
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/crown.png
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/arete.png
+  - !!python/tuple [areteir.com, 'https://areteir.com']
+  - !!python/tuple [Crownlaboratories leak, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/']
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/vedderprice.png
+  - https://www.vedderprice.com/
+  - !!python/tuple [crownlaboratories.com, 'https://crownlaboratories.com']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Mon Jun 21 2021
+
+    ---
+
+    ## Parad of dumbs
+
+    ![](/crown.png)
+
+    ### crownlaboratories.com
+
+    Thomas Hitchcock 469-209-6616, 646-584-0476 thitchcock@crownlaboratories.com
+
+    Steve Gallopo 404-822-0350 sgallopo@crownlaboratories.com
+
+    Jeff Bedard 423-767-5737 jbedard@crownlaboratories.com
+
+    James Townsend jtownsend@crownlaboratories.com
+
+    Security team which work with crown are good like shit
+
+    ![](/arete.png)
+
+    ### areteir.com
+
+    Larry Krause lkrause@areteir.com
+
+    ![](/vedderprice.png)
+
+    ### https://www.vedderprice.com/
+
+    Kimrey Blaine bkimrey@vedderprice.com
+
+    ### Crownlaboratories leak
+
+    Other private data will be sold in next 7 days.
+
+    Tricia Grier 774-275-8624 tgrier@crownaesthetics.com
+
+    Elisabeth Thompson 407-797-8018 ethompson@crownaesthetics.com
+
+    Hammond Lister 864-680-1642 hlister@crownaesthetics.com
+
+    Ken Taylor 704-500-3368 ktaylor@crownaesthetics.com
+
+    Jason Cirelli 201-923-9307 jcirelli@crownaesthetics.com
+
+    Helen Haynes 770-361-7111 hhaynes@crownaesthetics.com
+
+    Jacqueline Wakefield 231-343-1903 jwakefield@crownaesthetics.com
+
+    Melissa DiMaio (973) 945-2526 mdimaio@crownaesthetics.com
+
+    Sheri Sena 513-910-9750 ssena@crownaesthetics.com
+
+    Peter Kovachev 772-633-8770 pkovachev@crownaesthetics.com
+
+    Jennifer Thomas 330-506-6529 jthomas@crownaesthetics.com
+
+    Diana Fonseca 786-239-5629 dfonseca@crownaesthetics.com
+
+    Holly Gottschalk 785-766-7910 hgottschalk@crownaesthetics.com
+
+    Dawn Bancroft/Surgical Solutions 612-801-0553 dawn.bancroft@icloud.com
+
+
+    '
+  hmac: 22fcce868602e34893bc3edffd021a848e658d609ed537457694497866ecef56
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144348
+  title: News - crownlaboratories.com
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/vedderprice.png
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/crown.png
+  - https://www.vedderprice.com/
+  - !!python/tuple [crownlaboratories.com, 'https://crownlaboratories.com']
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/arete.png
+  - !!python/tuple [areteir.com, 'https://areteir.com']
+  - !!python/tuple [Crownlaboratories leak, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Mon Jun 21 2021
+
+    ---
+
+    ## Parade of dumbs
+
+    ![](/crown.png)
+
+    ### crownlaboratories.com
+
+    Thomas Hitchcock 469-209-6616, 646-584-0476 thitchcock@crownlaboratories.com
+
+    Steve Gallopo 404-822-0350 sgallopo@crownlaboratories.com
+
+    Jeff Bedard 423-767-5737 jbedard@crownlaboratories.com
+
+    James Townsend jtownsend@crownlaboratories.com
+
+    Security team which work with crown are good like shit
+
+    ![](/arete.png)
+
+    ### areteir.com
+
+    Larry Krause lkrause@areteir.com
+
+    ![](/vedderprice.png)
+
+    ### https://www.vedderprice.com/
+
+    Kimrey Blaine bkimrey@vedderprice.com
+
+    ### Crownlaboratories leak
+
+    Other private data will be sold in next 7 days.
+
+    Tricia Grier 774-275-8624 tgrier@crownaesthetics.com
+
+    Elisabeth Thompson 407-797-8018 ethompson@crownaesthetics.com
+
+    Hammond Lister 864-680-1642 hlister@crownaesthetics.com
+
+    Ken Taylor 704-500-3368 ktaylor@crownaesthetics.com
+
+    Jason Cirelli 201-923-9307 jcirelli@crownaesthetics.com
+
+    Helen Haynes 770-361-7111 hhaynes@crownaesthetics.com
+
+    Jacqueline Wakefield 231-343-1903 jwakefield@crownaesthetics.com
+
+    Melissa DiMaio (973) 945-2526 mdimaio@crownaesthetics.com
+
+    Sheri Sena 513-910-9750 ssena@crownaesthetics.com
+
+    Peter Kovachev 772-633-8770 pkovachev@crownaesthetics.com
+
+    Jennifer Thomas 330-506-6529 jthomas@crownaesthetics.com
+
+    Diana Fonseca 786-239-5629 dfonseca@crownaesthetics.com
+
+    Holly Gottschalk 785-766-7910 hgottschalk@crownaesthetics.com
+
+    Dawn Bancroft/Surgical Solutions 612-801-0553 dawn.bancroft@icloud.com
+
+
+    '
+  hmac: 8546e036f923d82985c676156c49391ebe3bf521b81d6492034e22d63ab7299f
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144362
+  title: News - crownlaboratories.com
+  url:
+  - !!python/tuple [Crownlaboratories leak, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/']
+  - !!python/tuple [areteir.com, 'https://areteir.com']
+  - https://www.vedderprice.com/
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/crown.png
+  - !!python/tuple [crownlaboratories.com, 'https://crownlaboratories.com']
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/arete.png
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/vedderprice.png
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Mon Jun 21 2021
+
+    ---
+
+    ## Parade of dumbs
+
+    ![](/crown.png)
+
+    ### crownlaboratories.com
+
+    Thomas Hitchcock 469-209-6616, 646-584-0476 thitchcock@crownlaboratories.com
+
+    Steve Gallopo 404-822-0350 sgallopo@crownlaboratories.com
+
+    Jeff Bedard 423-767-5737 jbedard@crownlaboratories.com
+
+    James Townsend jtownsend@crownlaboratories.com
+
+    ### Crownlaboratories leak
+
+    Other private data will be sold in next 7 days.
+
+    Tricia Grier 774-275-8624 tgrier@crownaesthetics.com
+
+    Elisabeth Thompson 407-797-8018 ethompson@crownaesthetics.com
+
+    Hammond Lister 864-680-1642 hlister@crownaesthetics.com
+
+    Ken Taylor 704-500-3368 ktaylor@crownaesthetics.com
+
+    Jason Cirelli 201-923-9307 jcirelli@crownaesthetics.com
+
+    Helen Haynes 770-361-7111 hhaynes@crownaesthetics.com
+
+    Jacqueline Wakefield 231-343-1903 jwakefield@crownaesthetics.com
+
+    Melissa DiMaio (973) 945-2526 mdimaio@crownaesthetics.com
+
+    Sheri Sena 513-910-9750 ssena@crownaesthetics.com
+
+    Peter Kovachev 772-633-8770 pkovachev@crownaesthetics.com
+
+    Jennifer Thomas 330-506-6529 jthomas@crownaesthetics.com
+
+    Diana Fonseca 786-239-5629 dfonseca@crownaesthetics.com
+
+    Holly Gottschalk 785-766-7910 hgottschalk@crownaesthetics.com
+
+    Dawn Bancroft/Surgical Solutions 612-801-0553 dawn.bancroft@icloud.com
+
+
+    '
+  hmac: 5ea6051d652a5661bec735f85cd133bf5f16bb50286ec03049bc632bb605e1b3
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:13.144375
+  title: News - crownlaboratories.com
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/crown.png
+  - !!python/tuple [Crownlaboratories leak, 'http://leaksbcwijsbkxcx76s24qi4ab4jn7rgtzzyiss7fzco6amhj6h365ad.onion/']
+  - !!python/tuple [crownlaboratories.com, 'https://crownlaboratories.com']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Mon Jun 21 2021
+
+    ---
+
+    ![](/crown.png)
+
+    ### crownlaboratories.com
+
+    Thomas Hitchcock 469-209-6616, 646-584-0476 thitchcock@crownlaboratories.com
+
+    Steve Gallopo 404-822-0350 sgallopo@crownlaboratories.com
+
+    Jeff Bedard 423-767-5737 jbedard@crownlaboratories.com
+
+    James Townsend jtownsend@crownlaboratories.com
+
+    Tricia Grier 774-275-8624 tgrier@crownaesthetics.com
+
+    Elisabeth Thompson 407-797-8018 ethompson@crownaesthetics.com
+
+    Hammond Lister 864-680-1642 hlister@crownaesthetics.com
+
+    Ken Taylor 704-500-3368 ktaylor@crownaesthetics.com
+
+    Jason Cirelli 201-923-9307 jcirelli@crownaesthetics.com
+
+    Helen Haynes 770-361-7111 hhaynes@crownaesthetics.com
+
+    Jacqueline Wakefield 231-343-1903 jwakefield@crownaesthetics.com
+
+    Melissa DiMaio (973) 945-2526 mdimaio@crownaesthetics.com
+
+    Sheri Sena 513-910-9750 ssena@crownaesthetics.com
+
+    Peter Kovachev 772-633-8770 pkovachev@crownaesthetics.com
+
+    Jennifer Thomas 330-506-6529 jthomas@crownaesthetics.com
+
+    Diana Fonseca 786-239-5629 dfonseca@crownaesthetics.com
+
+    Holly Gottschalk 785-766-7910 hgottschalk@crownaesthetics.com
+
+    Dawn Bancroft/Surgical Solutions 612-801-0553 dawn.bancroft@icloud.com
+
+    '
+  hmac: 4f8c965987eb6763f54dbb3ead205792a38f892953fce958ba8eecf2c821d37a
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:19.868440
+  title: News - crownlaboratories.com
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/crown.png
+  - !!python/tuple [crownlaboratories.com, 'https://crownlaboratories.com']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Sun May 23 2021
+
+    ---
+
+    ![](/airespring.png)
+
+    **
+
+    ### airespring.com
+
+    @AireSpring twitter
+
+    **
+
+    '
+  hmac: 359d09c340d77a217277f28f1efaf51672a38dd64aed2604874979f1cbbcfdc5
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:20.271350
+  title: News - airespring.com
+  url:
+  - !!python/tuple ['@AireSpring twitter', 'https://twitter.com/AireSpring']
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/airespring.png
+  - !!python/tuple [airespring.com, 'https://airespring.com']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Fri May 21 2021
+
+    ---
+
+    ![](/proctor.png)
+
+    ### Proctor Financial
+
+    '
+  hmac: ada69cf7efb97441315f90465962f03cbc59a58308145bf41c6fe341c5939f47
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:20.564915
+  title: News - Proctor Financial
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/proctor.png
+  - !!python/tuple [Proctor Financial, 'https://proctorfinancial.com']
+- !!python/object:lib.darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Sat May 15 2021
+
+    ---
+
+    ![](/rmow.png)
+
+    Whistler.ca
+
+    '
+  hmac: 39f63bd6e91c649cbb4c93d24861133ca9940cee21cbe7651950f5cfd336e0c5
+  ltype: Shaming list
+  malware: ElonMusKnow
+  source: http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/
+  timestamp: 2021-07-21 12:09:20.866194
+  title: 'News - '
+  url:
+  - http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion/rmow.png
+  - !!python/tuple [Whistler.ca, 'https://whistler.ca']

@@ -1,141 +1,158 @@
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'Portnox - Network Security Solutions
 
-    Homepage
-
-    # Portnox - Network Security Solutions
-
-    ![](images/portnox.png)
-
-    Dear friends!
-
-    '
-  hmac: 1b1e2424b79c34a49193ecd259b7d6cf4cdd3cef7c271f534ec94b3f3ba697dc
+    "The connected world is evolving. Every day. Every hour. Every minute... Portnox
+    provides next-generation network access control and management solutions that
+    enable organizations to reduce risk and enforce security policy compliance. The
+    company\xe2\x80\x99s products provide automated security, visibility and control
+    for every device accessing the network including Internet of Things (IoT), BYOD,
+    mobile and unmanaged systems. Portnox CORE for On-Premise NAC and CLEAR for cloud-delivered
+    NAC support hybrid environments, are easy to deploy and manage, scalable and adapt
+    to evolving customer needs. The company has been recognized for its innovations
+    by Info Security Products Guide, Cyber Security Excellence Awards, IoT Innovator
+    Awards, Computing Security Awards, Best of Interop ITX and Cyber Defense Magazine.
+    Portnox has offices in the U.S. and Europe." Sound\''s good, interesting! So let\''s
+    check the security of who wants to secure other networks! DomainController cotains
+    Active Directory information: ADHashes.txt contains full Domain Users information,
+    Hash history, Current password, etc... DNS directory contains domain dns zones
+    and their objects... Download You can find more about Portnox customers in their
+    notes: AA-Consulting.pdf Amdocs.pdf Bezeq.pdf Maxim.pdf Elbit.pdf DiscountBank.pdf
+    VictoryPackaging.pdf Rafael.pdf Fiverr.pdf OpenU.pdf EHI.pdf SuperPharm.pdf ECI.pdf
+    Zelis.pdf Unibank.pdf MOD.pdf Royal London.pdf YadVashem.pdf PMO.pdf ELAL.pdf
+    TelHai.pdf Matrix.pdf Communication.pdf CyberBit.pdf LADB.pdf Sattler.pdf Safeway.pdf
+    Clalit.pdf PPD.pdf ICL.pdf Waves.pdf IAF.pdf FBN (TigerLogics).pdf Malan.pdf Greenburgh.pdf
+    JamesRichardson.pdf LivePerson.pdf IKTNH.pdf Complete in oneNote format. Download
+    About 1TB of internal documents, projects, source codes,etc... successfully dumped
+    from Portnox network! I\''ll share about 3GB with you guys, check it out! Download
+    Did you know most of customers have a trusted links with Pornox to support them
+    and upload logs for analysis? Cool! So this is a visible part of iceberg...'
+  hmac: 6aa928635ee74d2faa6ed1f5ea081eab992a4dd196ffb5600df11dda77f1adea
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/portnox.html
-  timestamp: 2021-06-03 20:27:18.162487
-  title: Portnox - Network Security Solutions
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523589
+  title: Pay2Key Leak Directory!
+  url: ['http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/Portnox/Leak.7z']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'IAI - Israel Aerospace Industries
 
-    Homepage
-
-    # IAI - Israel Aerospace Industries
-
-    ![](images/iai.jpg)
-
-    Dear friends!
-
-    '
-  hmac: 90d9dae5f654ab343a8d39e22c89f8036363cdae5d2bf9394c40012055f78233
+    According to your votes, IAI [Israel Aerospace Industries] should have the safest
+    network, they may think so, but it should be seen. So let\''s begin! IAI internal
+    domain name is ELTA.CO.IL Just as a small proof about I was there, I\''ll share
+    active directory users information with you guys! AllUsers.txt contains Domain
+    Users information, Groups joined, Home folders, etc.. Most interesting part is
+    gaining access to the file servers... full of technical documents, videos, designs,
+    researches, projects. am I have them? Who knows... Did you still think they have
+    most secure network? ;-)'
+  hmac: 4aa4e78d83b7c7ca2ac78b91b602cee525865419db26f5ef3f15ec1c721578bf
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/iai.html
-  timestamp: 2021-06-03 20:27:18.162526
-  title: IAI - Israel Aerospace Industries
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523638
+  title: Pay2Key Leak Directory!
+  url: ['http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/IAI/AllUsers.txt']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'Intel - Habana Labs
 
-    Homepage
-
-    # Intel - Habana Labs
-
-    ![](images/habana.jpg)
-
-    Dear friends!
-
-    '
-  hmac: 57a9246bb1f45ffc4bfb6f43fcfee25e8b8b49726f473b9bd086828ad5312898
+    Surprise package for Intel and Habana Labs [Artificial Intelligence Chipmaker]
+    ready to publish! DomainController cotains Active Directory information: ADHashes.txt
+    contains full Domain Users information, Hash history, Current password, etc..
+    DNS directory contains domain dns zones and their objects.. Download GERRIT is
+    one of most important servers on Habana Labs network, so I dumped all source codes
+    and repositories on this server! GERRIT GERRIT.txt contais list of all files on
+    gerrit server, ready to publish after deadline... GERRIT [53GB] They have 72hrs
+    to stop leaking process... Stay alert! UPDATE Intel - Habana Labs time is over,
+    so I\''m going to leak! GERRIT.nz contais all projects and source codes on https://gerrit.habana-labs.com/
+    about 53GB of data. Download You need NanoZip to extract the archive, https://archive.org/details/nanozip.net
+    #Pay2Key'
+  hmac: 348dee00df97738a0d199d94a6a47699e3d5093907e1dd8e255a09ff07e2d037
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/habana.html
-  timestamp: 2021-06-03 20:27:18.162645
-  title: Intel - Habana Labs
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523650
+  title: Pay2Key Leak Directory!
+  url: ['https://archive.org/details/nanozip.net\n\t\n\t#Pay2Key\n', 'https://gerrit.habana-labs.com/',
+    'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/Habana/GERRIT.nz']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'InfiApps - Joyvoo
 
-    Homepage
-
-    # InfiApps - Joyvoo
-
-    ![](images/infiapps.png)
-
-    Dear friends!
-
-    '
-  hmac: d39aecc7f2f900255b23401692175bd31c511a7ea009e73d9737a64b76a7c6fb
+    I\''m going to make a deal with InfiApps company! All files in they storage servers
+    (NAS) has been successfully backed up! So if they didn\''t make a payment as soon
+    as possible I\''m going to leak! They have 2 NAS server on their network, InfiAppsNAS
+    and InfiAppsNAS_2. Almost full! InfiAppsNAS [5.4 TB] InfiAppsNAS_2 [7.0 TB] You
+    can check tree chart of file on related directory! InfiAppsNAS Creative [154.61G]
+    Development [83.04G] Dropbox [4.8T] Marketing [111.89G] Public [245G] InfiAppsNAS_2
+    BI-Folder [3.6G] CFO [4.4G] Development [82G] Dropbox [11G] ESET [145M] Finance
+    [736M] G-Suite Backup [15G] IT [499G] Marketing [31M] Product [39G] QA [2.1G]
+    scan [167M] Studio [5.9T] Surprise! I successfully cloned their repositories too,
+    from BeansTalk! tree chart of dumped source codes available on related directory,
+    check it! Sources alerts-server [692K] jenkins-config [1.7M] joyvoo-event-server
+    [28M] kinesis-prod-server [456K] realtime-analytics-server [16M] sb-admin-server-git
+    [195M] sb-android-git [2.9G] sb-ios-git [2.7G] sb-server-git [302M] slots-network-git
+    [23G] slots-network-server-git [353M] UPDATE I\''m going to publis all InfiApps
+    - Joyvoo files... SourceCodes.tgz - cotains all projects source codes. alerts-server
+    jenkins-config joyvoo-event-server kinesis-prod-server realtime-analytics-server
+    sb-admin-server-git sb-android-git sb-ios-git sb-server-git slots-network-git
+    slots-network-server-git Files BI-Folder.7z CFO.7z Creative.7z Development-NAS_2.7z
+    Development.7z Dropbox-NAS_2.7z Dropbox.7z IT.7z Marketing-NAS_2.7z Marketing.7z
+    Product.7z Public.7z QA.7z Studio.7z scan.7z ENJOY!'
+  hmac: fb451bf4b248b0db3fe50db6e39534e39797d0849ff9a56edd451f43ac023731
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/infiapps.html
-  timestamp: 2021-06-03 20:27:18.162655
-  title: InfiApps - Joyvoo
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523662
+  title: Pay2Key Leak Directory!
+  url: ['http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/InfiApps/scan.7z']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'INTER - Inter Industries
 
-    Homepage
-
-    # INTER - Inter Industries
-
-    ![](images/interg.png)
-
-    Dear friends!
-
-    '
-  hmac: 81329571ee15d2d881be626cfb6e8576b3164e358cbbcdd11d1fdce4e78dc760
+    Inter Industries aka interelectric (INTERG) payment time has been ended and they
+    didn\''t pay full price noted on INTERG_MESSAGE.TXT, so I\''m going to start leaking.
+    They only paid half of their network price, whenever they cover the price all
+    files would be deleted! DomainController cotains Active Directory information:
+    ADHashes.txt contains full Domain Users information, Hash history, Current password,
+    etc.. DNS directory contains domain dns zones and their objects.. Download Inter
+    Industries file server named INTERG02, most important machine on their network,
+    so I having some fun with that! INTERG02-tree Tree map of all shared folders on
+    INTERG02. Accounts.txt Ambel.txt Dalkia.txt Enerlec.txt IEnergy.txt Industries.txt
+    Life.txt Lirad.txt Monotech.txt Public.txt Smadar.txt inter.txt solarrow.txt INTERG02-samples
+    Download Some samples from dumped data files. Dalkia Enerlec IEnergy Industries
+    Smadar inter don\''t try to threaten me again, Ben! ;-)'
+  hmac: 0cd3e03b1bd23d523eccb145814151e2005c2274d6f3a08563b19d20631a1228
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/interg.html
-  timestamp: 2021-06-03 20:27:18.162660
-  title: INTER - Inter Industries
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523677
+  title: Pay2Key Leak Directory!
+  url: ['http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/Interg/interg02.7z']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: '
+  data: 'MT-LAW [Markman Tomashin Law Firm]
 
-    Homepage
-
-    # MT-LAW [Markman & Tomashin Law Firm]
-
-    ![](images/mt-law.png)
-
-    Dear friends!
-
-    '
-  hmac: c54986750d9bb3c8dabcf901ba8e53ccaf30c8d7e5423fcddbb0e107e847cd0b
+    Deadline of the MT-LAW [Markman Tomashin Law Firm] company has been ended but
+    they\''re didn\''t paid until now, so as mentioned on MT-LAW_MESSAGE.TXT I\''m
+    going to leak dumped data.. Most important server on their network is COMMIT-SRV..
+    so I make some fun with that! MT-LAW_DOCS-tree.txt contains tree chart of all
+    files stored on DOCS folder. COMMIT-docs_sample.7z some sample of dumped data..
+    Total dump size: 871 GB! as a notice to MT-LAW, happy new internal domain MTDOM.local!'
+  hmac: 25a26053b21311c1d1c0537d009d9e7a0d95f449b034e8eb63f9775c36fab999
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/mt-law.html
-  timestamp: 2021-06-03 20:27:18.162667
-  title: MT-LAW [Markman & Tomashin Law Firm]
-  url: !!set
-    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
-    : null
+  timestamp: 2021-10-10 21:12:38.523690
+  title: Pay2Key Leak Directory!
+  url: ['http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onionfiles/mt-law/COMMIT-docs_sample.7z']
 - !!python/object:darksuce_class.record
   author: ''
   custom: !!set {}
@@ -152,7 +169,7 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/portnox.html
-  timestamp: 2021-06-03 20:27:18.162672
+  timestamp: 2021-10-10 21:12:38.523699
   title: Portnox - Network Security Solutions
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
@@ -173,7 +190,7 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/iai.html
-  timestamp: 2021-06-03 20:27:18.162679
+  timestamp: 2021-10-10 21:12:38.523708
   title: IAI - Israel Aerospace Industries
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
@@ -194,7 +211,7 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/habana.html
-  timestamp: 2021-06-03 20:27:18.162684
+  timestamp: 2021-10-10 21:12:38.523716
   title: Intel - Habana Labs
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
@@ -215,7 +232,7 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/infiapps.html
-  timestamp: 2021-06-03 20:27:18.162691
+  timestamp: 2021-10-10 21:12:38.523723
   title: InfiApps - Joyvoo
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
@@ -236,7 +253,7 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/interg.html
-  timestamp: 2021-06-03 20:27:18.162696
+  timestamp: 2021-10-10 21:12:38.523731
   title: INTER - Inter Industries
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
@@ -257,8 +274,508 @@
   ltype: Shaming list
   malware: Pay2Key
   source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/mt-law.html
-  timestamp: 2021-06-03 20:27:18.162701
+  timestamp: 2021-10-10 21:12:38.523739
   title: MT-LAW [Markman & Tomashin Law Firm]
   url: !!set
     ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\n# Portnox - Network Security Solutions\n![](images/portnox.png)\nDear friends!\
+    \ _\"The connected world is evolving. Every day. Every hour. Every\nminute...\
+    \ Portnox provides next-generation network access control and\nmanagement solutions\
+    \ that enable organizations to reduce risk and enforce\nsecurity policy compliance.\
+    \ The company\u2019s products provide automated security,\nvisibility and control\
+    \ for every device accessing the network including\nInternet of Things (IoT),\
+    \ BYOD, mobile and unmanaged systems. Portnox CORE for\nOn-Premise NAC and CLEAR\
+    \ for cloud-delivered NAC support hybrid environments,\nare easy to deploy and\
+    \ manage, scalable and adapt to evolving customer needs.\nThe company has been\
+    \ recognized for its innovations by Info Security Products\nGuide, Cyber Security\
+    \ Excellence Awards, IoT Innovator Awards, Computing\nSecurity Awards, Best of\
+    \ Interop ITX and Cyber Defense Magazine. Portnox has\noffices in the U.S. and\
+    \ Europe.\"_ Sound's good, interesting! So let's check\nthe security of who wants\
+    \ to secure other networks! __DomainController cotains\nActive Directory information:\
+    \ __ADHashes.txt contains full Domain Users\ninformation, Hash history, Current\
+    \ password, etc... __DNS directory contains\ndomain dns zones and their objects...\
+    \ __Download You can find more about\nPortnox customers in their notes: __AA-Consulting.pdf\
+    \ __Amdocs.pdf __Bezeq.pdf\n__Maxim.pdf __Elbit.pdf __DiscountBank.pdf __VictoryPackaging.pdf\
+    \ __Rafael.pdf\n__Fiverr.pdf __OpenU.pdf __EHI.pdf __SuperPharm.pdf __ECI.pdf\
+    \ __Zelis.pdf\n__Unibank.pdf __MOD.pdf __Royal London.pdf __YadVashem.pdf __PMO.pdf\n\
+    __ELAL.pdf __TelHai.pdf __Matrix.pdf __Communication.pdf __CyberBit.pdf\n__LADB.pdf\
+    \ __Sattler.pdf __Safeway.pdf __Clalit.pdf __PPD.pdf __ICL.pdf\n__Waves.pdf __IAF.pdf\
+    \ __FBN (TigerLogics).pdf __Malan.pdf __Greenburgh.pdf\n__JamesRichardson.pdf\
+    \ __LivePerson.pdf __IKTNH.pdf Complete in oneNote format.\n__Download About 1TB\
+    \ of internal documents, projects, source codes,etc...\nsuccessfully dumped from\
+    \ Portnox network! I'll share about 3GB with you guys,\ncheck it out! __Download\
+    \ __Did you know most of customers have a trusted links\nwith Pornox to support\
+    \ them and upload logs for analysis? Cool! So this is a\nvisible part of iceberg...\n"
+  hmac: e68698eacea78952678f6755e40ea9676fae05f9526cac4c9b61ad8893791fc0
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/portnox.html
+  timestamp: 2021-10-10 21:12:38.523747
+  title: Pay2Key Leak Directory! - Portnox - Network Security Solutions
+  url: !!set
+    ? !!python/tuple [AA-Consulting.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/AA-Consulting.pdf']
+    : null
+    ? !!python/tuple [ADHashes.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/DomainController/ADHashes.txt']
+    : null
+    ? !!python/tuple [Amdocs.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Amdocs.pdf']
+    : null
+    ? !!python/tuple [Bezeq.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Bezeq.pdf']
+    : null
+    ? !!python/tuple [Clalit.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Clalit.pdf']
+    : null
+    ? !!python/tuple [Communication.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Communication.pdf']
+    : null
+    ? !!python/tuple [CyberBit.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/CyberBit.pdf']
+    : null
+    ? !!python/tuple [DiscountBank.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/DiscountBank.pdf']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers.7z']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/DomainController.7z']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Leak.7z']
+    : null
+    ? !!python/tuple [ECI.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/ECI.pdf']
+    : null
+    ? !!python/tuple [EHI.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/EHI.pdf']
+    : null
+    ? !!python/tuple [ELAL.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/ELAL.pdf']
+    : null
+    ? !!python/tuple [Elbit.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Elbit.pdf']
+    : null
+    ? !!python/tuple [FBN (TigerLogics).pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/FBN
+        (TigerLogics).pdf']
+    : null
+    ? !!python/tuple [Fiverr.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Fiverr.pdf']
+    : null
+    ? !!python/tuple [Greenburgh.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Greenburgh.pdf']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+    ? !!python/tuple [IAF.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/IAF.pdf']
+    : null
+    ? !!python/tuple [ICL.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/ICL.pdf']
+    : null
+    ? !!python/tuple [IKTNH.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/IKTNH.pdf']
+    : null
+    ? !!python/tuple [JamesRichardson.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/JamesRichardson.pdf']
+    : null
+    ? !!python/tuple [LADB.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/LADB.pdf']
+    : null
+    ? !!python/tuple [LivePerson.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/LivePerson.pdf']
+    : null
+    ? !!python/tuple [MOD.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/MOD.pdf']
+    : null
+    ? !!python/tuple [Malan.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Malan.pdf']
+    : null
+    ? !!python/tuple [Matrix.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Matrix.pdf']
+    : null
+    ? !!python/tuple [Maxim.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Maxim.pdf']
+    : null
+    ? !!python/tuple [OpenU.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/OpenU.pdf']
+    : null
+    ? !!python/tuple [PMO.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/PMO.pdf']
+    : null
+    ? !!python/tuple [PPD.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/PPD.pdf']
+    : null
+    ? !!python/tuple [Rafael.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Rafael.pdf']
+    : null
+    ? !!python/tuple [Royal London.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Royal
+        London.pdf']
+    : null
+    ? !!python/tuple [Safeway.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Safeway.pdf']
+    : null
+    ? !!python/tuple [Sattler.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Sattler.pdf']
+    : null
+    ? !!python/tuple [SuperPharm.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/SuperPharm.pdf']
+    : null
+    ? !!python/tuple [TelHai.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/TelHai.pdf']
+    : null
+    ? !!python/tuple [Unibank.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Unibank.pdf']
+    : null
+    ? !!python/tuple [VictoryPackaging.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/VictoryPackaging.pdf']
+    : null
+    ? !!python/tuple [Waves.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Waves.pdf']
+    : null
+    ? !!python/tuple [YadVashem.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/YadVashem.pdf']
+    : null
+    ? !!python/tuple [Zelis.pdf, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Portnox/Customers/Zelis.pdf']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # IAI - Israel Aerospace Industries
+
+    ![](images/iai.jpg)
+
+    Dear friends! According to your votes, IAI [Israel Aerospace Industries]
+
+    should have the safest network, they may think so, but it should be seen. So
+
+    let''s begin! IAI internal domain name is _ELTA.CO.IL_ __Just as a small proof
+
+    about I was there, I''ll share active directory users information with you
+
+    guys! __AllUsers.txt contains Domain Users information, Groups joined, Home
+
+    folders, etc.. Most _interesting_ part is gaining access to the file
+
+    servers... full of technical documents, videos, designs, researches, projects.
+
+    am I have them? Who knows... __Did you still think they have most secure
+
+    network? ;-)
+
+    '
+  hmac: fb2dc948d6ed2cbc062fbea96295bc35e433934aaae33585223b31b3f94e7712
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/iai.html
+  timestamp: 2021-10-10 21:12:38.523769
+  title: Pay2Key Leak Directory! - IAI - Israel Aerospace Industries
+  url: !!set
+    ? !!python/tuple [AllUsers.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/IAI/AllUsers.txt']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # Intel - Habana Labs
+
+    ![](images/habana.jpg)
+
+    Dear friends! Surprise package for Intel and Habana Labs [Artificial
+
+    Intelligence Chipmaker] ready to publish! __DomainController cotains Active
+
+    Directory information: __ADHashes.txt contains full Domain Users information,
+
+    Hash history, Current password, etc.. __DNS directory contains domain dns
+
+    zones and their objects.. __Download GERRIT is one of most important servers
+
+    on Habana Labs network, so I dumped all source codes and repositories on this
+
+    server! __GERRIT __GERRIT.txt contais list of all files on gerrit server,
+
+    ready to publish after deadline... GERRIT [53GB] __They have 72hrs to stop
+
+    leaking process... Stay alert!
+
+    * * *
+
+    __UPDATE
+
+    Dear friends! Intel - Habana Labs time is over, so I''m going to leak!
+
+    GERRIT.nz contais all projects and source codes on https://gerrit.habana-
+
+    labs.com/ about 53GB of data. __Download You need NanoZip to extract the
+
+    archive, https://archive.org/details/nanozip.net #Pay2Key
+
+    '
+  hmac: f2bed154026f0d607407e709ff6d8b863db802852c8b935e9dd05514ea10844a
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/habana.html
+  timestamp: 2021-10-10 21:12:38.523780
+  title: Pay2Key Leak Directory! - Intel - Habana Labs
+  url: !!set
+    ? !!python/tuple [ADHashes.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Habana/DomainController/ADHashes.txt']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Habana/DomainController.zip']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Habana/GERRIT.nz']
+    : null
+    ? !!python/tuple [GERRIT.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Habana/GERRIT/GERRIT.txt']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # InfiApps - Joyvoo
+
+    ![](images/infiapps.png)
+
+    Dear friends! I''m going to make a deal with InfiApps company! All files in
+
+    they storage servers (NAS) has been successfully backed up! So if they didn''t
+
+    make a payment as soon as possible I''m going to leak! They have 2 NAS server
+
+    on their network, InfiAppsNAS and InfiAppsNAS_2. Almost full! InfiAppsNAS [5.4
+
+    TB] InfiAppsNAS_2 [7.0 TB] You can check tree chart of file on related
+
+    directory! __InfiAppsNAS __Creative [154.61G] __Development [83.04G] __Dropbox
+
+    [4.8T] __Marketing [111.89G] __Public [245G] __InfiAppsNAS_2 __BI-Folder
+
+    [3.6G] __CFO [4.4G] __Development [82G] __Dropbox [11G] __ESET [145M]
+
+    __Finance [736M] __G-Suite Backup [15G] __IT [499G] __Marketing [31M]
+
+    __Product [39G] __QA [2.1G] __scan [167M] __Studio [5.9T] Surprise! I
+
+    successfully cloned their repositories too, from BeansTalk! tree chart of
+
+    dumped source codes available on related directory, check it! __Sources
+
+    __alerts-server [692K] __jenkins-config [1.7M] __joyvoo-event-server [28M]
+
+    __kinesis-prod-server [456K] __realtime-analytics-server [16M] __sb-admin-
+
+    server-git [195M] __sb-android-git [2.9G] __sb-ios-git [2.7G] __sb-server-git
+
+    [302M] __slots-network-git [23G] __slots-network-server-git [353M]
+
+    * * *
+
+    __UPDATE
+
+    Dear friends! I''m going to publis all InfiApps - Joyvoo files...
+
+    __SourceCodes.tgz \- cotains all projects source codes. __alerts-server
+
+    __jenkins-config __joyvoo-event-server __kinesis-prod-server __realtime-
+
+    analytics-server __sb-admin-server-git __sb-android-git __sb-ios-git __sb-
+
+    server-git __slots-network-git __slots-network-server-git __Files __BI-
+
+    Folder.7z __CFO.7z __Creative.7z __Development-NAS_2.7z __Development.7z
+
+    __Dropbox-NAS_2.7z __Dropbox.7z __IT.7z __Marketing-NAS_2.7z __Marketing.7z
+
+    __Product.7z __Public.7z __QA.7z __Studio.7z __scan.7z ENJOY!
+
+    '
+  hmac: b83725d9bc0c8056dfaad0c61523d7ee8647bf1db6e59694c05b6f700c99a0ce
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/infiapps.html
+  timestamp: 2021-10-10 21:12:38.523792
+  title: Pay2Key Leak Directory! - InfiApps - Joyvoo
+  url: !!set
+    ? !!python/tuple [BI-Folder, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/BI-Folder.txt']
+    : null
+    ? !!python/tuple [BI-Folder.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/BI-Folder.7z']
+    : null
+    ? !!python/tuple [CFO, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/CFO.txt']
+    : null
+    ? !!python/tuple [CFO.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/CFO.7z']
+    : null
+    ? !!python/tuple [Creative, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS/Creative.txt']
+    : null
+    ? !!python/tuple [Creative.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Creative.7z']
+    : null
+    ? !!python/tuple [Development, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS/Creative.txt']
+    : null
+    ? !!python/tuple [Development, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Development.txt']
+    : null
+    ? !!python/tuple [Development-NAS_2.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Development-NAS_2.7z']
+    : null
+    ? !!python/tuple [Development.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Development.7z']
+    : null
+    ? !!python/tuple [Dropbox, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS/Dropbox.txt']
+    : null
+    ? !!python/tuple [Dropbox, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Dropbox.txt']
+    : null
+    ? !!python/tuple [Dropbox-NAS_2.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Dropbox-NAS_2.7z']
+    : null
+    ? !!python/tuple [Dropbox.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Dropbox.7z']
+    : null
+    ? !!python/tuple [ESET, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/ESET.txt']
+    : null
+    ? !!python/tuple [Finance, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Finance.txt']
+    : null
+    ? !!python/tuple [G-Suite Backup, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/G-Suite
+        Backup.txt']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+    ? !!python/tuple [IT, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/IT.txt']
+    : null
+    ? !!python/tuple [IT.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/IT.7z']
+    : null
+    ? !!python/tuple [Marketing, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS/Marketing.txt']
+    : null
+    ? !!python/tuple [Marketing, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Marketing.txt']
+    : null
+    ? !!python/tuple [Marketing-NAS_2.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Marketing-NAS_2.7z']
+    : null
+    ? !!python/tuple [Marketing.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Marketing.7z']
+    : null
+    ? !!python/tuple [Product, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Product.txt']
+    : null
+    ? !!python/tuple [Product.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Product.7z']
+    : null
+    ? !!python/tuple [Public, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS/Public.txt']
+    : null
+    ? !!python/tuple [Public.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Public.7z']
+    : null
+    ? !!python/tuple [QA, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/QA.txt']
+    : null
+    ? !!python/tuple [QA.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/QA.7z']
+    : null
+    ? !!python/tuple [SourceCodes.tgz, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/SourceCodes.tgz']
+    : null
+    ? !!python/tuple [Studio, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/Studio.txt']
+    : null
+    ? !!python/tuple [Studio.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Studio.7z']
+    : null
+    ? !!python/tuple [alerts-server, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/alerts-server.txt']
+    : null
+    ? !!python/tuple [jenkins-config, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/jenkins-config.txt']
+    : null
+    ? !!python/tuple [joyvoo-event-server, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/joyvoo-event-server.txt']
+    : null
+    ? !!python/tuple [kinesis-prod-server, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/kinesis-prod-server.txt']
+    : null
+    ? !!python/tuple [realtime-analytics-server, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/realtime-analytics-server.txt']
+    : null
+    ? !!python/tuple [sb-admin-server-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/sb-admin-server-git.txt']
+    : null
+    ? !!python/tuple [sb-android-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/sb-android-git.txt']
+    : null
+    ? !!python/tuple [sb-ios-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/sb-ios-git.txt']
+    : null
+    ? !!python/tuple [sb-server-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/sb-server-git.txt']
+    : null
+    ? !!python/tuple [scan, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/InfiAppsNAS2/scan.txt']
+    : null
+    ? !!python/tuple [scan.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/scan.7z']
+    : null
+    ? !!python/tuple [slots-network-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/slots-network-git.txt']
+    : null
+    ? !!python/tuple [slots-network-server-git, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/InfiApps/Sources/slots-network-server-git.txt']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # INTER - Inter Industries
+
+    ![](images/interg.png)
+
+    Dear friends! Inter Industries aka interelectric (INTERG) payment time has
+
+    been ended and they didn''t pay full price noted on INTERG_MESSAGE.TXT, so I''m
+
+    going to start leaking. They only paid half of their network price, whenever
+
+    they cover the price all files would be deleted! __DomainController cotains
+
+    Active Directory information: __ ADHashes.txt contains full Domain Users
+
+    information, Hash history, Current password, etc.. __DNS directory contains
+
+    domain dns zones and their objects.. __Download Inter Industries file server
+
+    named INTERG02, most important machine on their network, so I having some fun
+
+    with that! __INTERG02-tree Tree map of all shared folders on INTERG02.
+
+    __Accounts.txt __Ambel.txt __Dalkia.txt __Enerlec.txt __IEnergy.txt
+
+    __Industries.txt __Life.txt __Lirad.txt __Monotech.txt __Public.txt
+
+    __Smadar.txt __inter.txt __solarrow.txt __INTERG02-samples __Download Some
+
+    samples from dumped data files. __Dalkia __Enerlec __IEnergy __Industries
+
+    __Smadar __inter __don''t try to threaten me again, Ben! ;-)
+
+    '
+  hmac: 2409092aff9af21669f111b6a79945f2eb075612d4449316b0a4984cd957d284
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/interg.html
+  timestamp: 2021-10-10 21:12:38.523808
+  title: Pay2Key Leak Directory! - INTER - Inter Industries
+  url: !!set
+    ? !!python/tuple [ADHashes.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/DomainController/ADHashes.txt']
+    : null
+    ? !!python/tuple [Accounts.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Accounts.txt']
+    : null
+    ? !!python/tuple [Ambel.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Ambel.txt']
+    : null
+    ? !!python/tuple [Dalkia.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Dalkia.txt']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/DomainController.zip']
+    : null
+    ? !!python/tuple [Download, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/interg02.7z']
+    : null
+    ? !!python/tuple [Enerlec.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Enerlec.txt']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+    ? !!python/tuple [IEnergy.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/IEnergy.txt']
+    : null
+    ? !!python/tuple [Industries.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Industries.txt']
+    : null
+    ? !!python/tuple [Life.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Life.txt']
+    : null
+    ? !!python/tuple [Lirad.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Lirad.txt']
+    : null
+    ? !!python/tuple [Monotech.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Monotech.txt']
+    : null
+    ? !!python/tuple [Public.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Public.txt']
+    : null
+    ? !!python/tuple [Smadar.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/Smadar.txt']
+    : null
+    ? !!python/tuple [inter.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/inter.txt']
+    : null
+    ? !!python/tuple [solarrow.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/Interg/INTERG02-tree/solarrow.txt']
+    : null
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: '
+
+    # MT-LAW [Markman & Tomashin Law Firm]
+
+    ![](images/mt-law.png)
+
+    Dear friends! Deadline of the MT-LAW [Markman & Tomashin Law Firm] company has
+
+    been ended but they''re didn''t paid until now, so as mentioned on MT-
+
+    LAW_MESSAGE.TXT I''m going to leak dumped data.. Most important server on their
+
+    network is COMMIT-SRV.. so I make some fun with that! __MT-LAW_DOCS-tree.txt
+
+    contains tree chart of all files stored on DOCS folder. __COMMIT-
+
+    docs_sample.7z some sample of dumped data.. Total dump size: 871 GB! __as a
+
+    notice to MT-LAW, happy new internal domain MTDOM.local!
+
+    '
+  hmac: 71d05863d0b2514099269c60ddb7e38bcd57152182de8c684b2728d52053ccb1
+  ltype: Shaming list
+  malware: Pay2Key
+  source: http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/mt-law.html
+  timestamp: 2021-10-10 21:12:38.523820
+  title: Pay2Key Leak Directory! - MT-LAW [Markman & Tomashin Law Firm]
+  url: !!set
+    ? !!python/tuple [COMMIT-docs_sample.7z, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/mt-law/COMMIT-docs_sample.7z']
+    : null
+    ? !!python/tuple [Homepage, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/index.html']
+    : null
+    ? !!python/tuple [MT-LAW_DOCS-tree.txt, 'http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/files/mt-law/MT-LAW_DOCS-tree.txt']
     : null

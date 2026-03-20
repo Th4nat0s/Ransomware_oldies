@@ -1,77 +1,48 @@
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: ''
-  hmac: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  data: "www.alfortville.fr\nwww.alfortville.fr\nEncrypted local network and downloaded\
+    \ sensitive data.More details soon\n\t\t\n\t\t"
+  hmac: 507a14bbf2a2dbb59da824b66847a1df8499edd625dbe04487c5cb24674ae038
   ltype: Shaming list
   malware: Unknown
-  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546548
-  title: null
-  url: !!set {}
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+  timestamp: 2021-06-16 15:23:27.824418
+  title: Ranzy Leak
+  url: []
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: "www.alfortville.fr  \nEncrypted local network and downloaded sensitive data.\n\
-    More details soon  \n"
-  hmac: be3e32a8d9c45c00018736d8316cf82eac344be134d405d93735d7ddeef0cb05
+  data: "POLICE SECURITY S.A.C.\nPOLICE SECURITY S.A.C. is located in LIMA, Peru and\
+    \ is part of the Finance Insurance Sector Industry. POLICE SECURITY S.A.C. has\
+    \ 214 employees across all of its locations. There are companies in the POLICE\
+    \ SECURITY S.A.C. corporate family.\nPrivate data: download\n\t\t\n\t\t"
+  hmac: 4cc6c543246842efad92a64402af1077f0485afea91e7b5a49dfbded3c4720a5
   ltype: Shaming list
   malware: Unknown
-  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546586
-  title: null
-  url: !!set {}
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+  timestamp: 2021-06-16 15:23:27.824449
+  title: Ranzy Leak
+  url: ['https://mega.nz/file/w6wwDZbJ#6GMZjCwUlrbYCBmhlmGWPFAHGVNDP-5ajeTSJhPNRoI']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
-  data: "POLICE SECURITY S.A.C. is located in LIMA, Peru and is part of the Finance\
-    \ &\nInsurance Sector Industry. POLICE SECURITY S.A.C. has 214 employees across\
-    \ all\nof its locations. There are companies in the POLICE SECURITY S.A.C. corporate\n\
-    family.  \nPrivate data: download  \n"
-  hmac: 192de72dc4c8fa13a702d74278f622e00a1dc0855f51d80057f1c7a5a328ad1b
+  data: "Oztek Corporation\nOztek Corporation was founded in 1997 to provide power\
+    \ system OEMs and other companies the complete power control and instrumentation\
+    \ solutions they needed for less money, risk, and overhead.\nFounders John O\u2019\
+    Connor and Dave Zendzian started with the belief that by combining expertise in\
+    \ three disciplines \u2013 power, instrumentation, and controls \u2013 they would\
+    \ enable customers to bring power electronics products and systems to market faster,\
+    \ safer, and for less money.\nhttp://www.oztekcorp.com/\nFiles: https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4\n\
+    \t\t\n\t\t"
+  hmac: 2d6e4ced7532e2a4a203653b51794e0703c982fe6fd12182314101019804f893
   ltype: Shaming list
   malware: Unknown
-  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546594
-  title: null
-  url: !!set
-    ? !!python/tuple [download, 'https://mega.nz/file/w6wwDZbJ#6GMZjCwUlrbYCBmhlmGWPFAHGVNDP-5ajeTSJhPNRoI']
-    : null
-- !!python/object:darksuce_class.record
-  author: null
-  custom: !!set {}
-  data: "Oztek Corporation was founded in 1997 to provide power system OEMs and other\n\
-    companies the complete power control and instrumentation solutions they needed\n\
-    for less money, risk, and overhead.  \nFounders John O\u2019Connor and Dave Zendzian\
-    \ started with the belief that by\ncombining expertise in three disciplines \u2013\
-    \ power, instrumentation, and\ncontrols \u2013 they would enable customers to\
-    \ bring power electronics products and\nsystems to market faster, safer, and for\
-    \ less money.  \nhttp://www.oztekcorp.com/  \nFiles: https://mega.nz/file/k0I23LgT#8Z0xzMmC-\n\
-    qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4  \n"
-  hmac: 67a383279aaff0e96d554283c3054aca1f007ec45c16339d2b319a1e6594d715
-  ltype: Shaming list
-  malware: Unknown
-  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546602
-  title: null
-  url: !!set
-    ? !!python/tuple ['https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4',
-      'https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4']
-    : null
-- !!python/object:darksuce_class.record
-  author: null
-  custom: !!set {}
-  data: 'Reinstall Chrome to stay secure
-
-
-    '
-  hmac: 6df8dee00538dfc3c995f7a182d14d2a39c31078337854d686bf609064a57c99
-  ltype: Shaming list
-  malware: Unknown
-  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546613
-  title: ''
-  url: !!set {}
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+  timestamp: 2021-06-16 15:23:27.824460
+  title: Ranzy Leak
+  url: ['https://mega.nz/file/k0I23LgT#8Z0xzMmC-qnONpkyOQl29c1Rhfjc1eBeYwhL1SmIbN4',
+    'http://www.oztekcorp.com/']
 - !!python/object:darksuce_class.record
   author: ''
   custom: !!set {}
@@ -82,7 +53,7 @@
   ltype: Shaming list
   malware: Unknown
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546619
+  timestamp: 2021-06-16 15:23:27.824473
   title: ''
   url: !!set {}
 - !!python/object:darksuce_class.record
@@ -101,6 +72,78 @@
   ltype: Shaming list
   malware: Unknown
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:29:35.546625
+  timestamp: 2021-06-16 15:23:27.824480
   title: ''
   url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Reinstala Chrome para protegerte
+
+
+    '
+  hmac: aba44bbe7b7748cc0d7718e08df9a7982b7cfc41c4fe572a6c3844a68f1cfffd
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-16 15:23:27.824491
+  title: 'Ranzy Leak - '
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Reinstall Chrome to stay secure
+
+
+    '
+  hmac: 6df8dee00538dfc3c995f7a182d14d2a39c31078337854d686bf609064a57c99
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-16 15:23:27.824497
+  title: 'Ranzy Leak - '
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Installeer Chrome opnieuw voor betere beveiliging
+
+
+    '
+  hmac: 4d2d38493ea118328a52deabbfa207b1b967141b08ca1c3fce5bc837099920d7
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-16 15:23:27.824504
+  title: 'Ranzy Leak - '
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "Voor niet-gepersonaliseerde content en advertenties kan wat je te zien krijgt,\n\
+    worden be\xEFnvloed door factoren zoals de content die je op dat moment bekijkt\n\
+    en je locatie (voor advertenties wordt je algemene locatie gebruikt).\nGepersonaliseerde\
+    \ content en advertenties kunnen ook worden gebaseerd op die\nfactoren maar ook\
+    \ op je activiteit zoals Google-zoekopdrachten en de video's\ndie je bekijkt op\
+    \ YouTube. Gepersonaliseerde content en advertenties zijn\nbijvoorbeeld relevantere\
+    \ resultaten en aanbevelingen, een aangepaste YouTube-\nhomepage en advertenties\
+    \ die op je interesses zijn afgestemd.\n\n"
+  hmac: 9837e3190e95855ef07bcf895b39e6485de318494aef942800ea5952f8f96ff3
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-16 15:23:27.824510
+  title: 'Ranzy Leak - '
+  url: []
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "\u91CD\u65B0\u5B89\u88DD Chrome \u4EE5\u78BA\u4FDD\u5B89\u5168\u7121\u865E\
+    \n\n"
+  hmac: 966ec6d6d0d428ecc6e63ff12a4366eb3117083e88caa9f34cda56d38ff0e93e
+  ltype: Shaming list
+  malware: Unknown
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-06-25 12:19:06.479292
+  title: 'Ranzy Leak - '
+  url: []

@@ -1,6 +1,5 @@
 - !!python/object:darksuce_class.record
   author: null
-  custom: !!set {}
   data: "[Veritas Logistics LTD]\n[\nLeak package!\n\u26A0\uFE0F When you make the\
     \ wrong decision...\nDeadline is over. Veritas Logistics internal documents going\
     \ to leak.\n\u2B07\uFE0F Veritas.7z\n5983 folders, 17540 files, 9278795680 bytes\n\
@@ -31,13 +30,11 @@
   ltype: Shaming list
   malware: Unknown
   source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/veritas/
-  timestamp: 2021-05-19 20:01:32.621464
+  timestamp: 2021-05-03 21:34:25.334183
   title: N3tWorm - Enterprise level ransomware
-  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/veritas-published.png',
-    'https://www.veritas.co.il/']
+  url: ['https://www.veritas.co.il/', 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/veritas-published.png']
 - !!python/object:darksuce_class.record
   author: null
-  custom: !!set {}
   data: "[HM Israel]\n[\nAbout HM israel, Match Retail LTD.\nMATCH RETAIL LTD is located\
     \ in TEL AVIV-JAFFA, Israel and is part of the Clothing Stores Industry. MATCH\
     \ RETAIL LTD has 1,200 employees at this location and generates $121.49 million\
@@ -48,12 +45,11 @@
   ltype: Shaming list
   malware: Unknown
   source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/hm-israel/
-  timestamp: 2021-05-19 20:01:32.621550
+  timestamp: 2021-05-03 21:34:25.948325
   title: N3tWorm - Enterprise level ransomware
   url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/hm.png']
 - !!python/object:darksuce_class.record
   author: null
-  custom: !!set {}
   data: "[Introduction to N3tw0rm]\n[\nWhat is Ransomware?\nRansomware is a type of\
     \ malware from cryptovirology that threatens to publish the victim's data or perpetually\
     \ block access to it unless a ransom is paid. While some simple ransomware may\
@@ -91,168 +87,211 @@
   ltype: Shaming list
   malware: Unknown
   source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/introduction-to-n3tw0rm/
-  timestamp: 2021-05-19 20:01:32.621587
+  timestamp: 2021-05-03 21:34:26.577752
   title: N3tWorm - Enterprise level ransomware
-  url: ['https://en.wikipedia.org/wiki/Ransomware', 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/AboutN3tw0rm.png']
-- !!python/object:lib.darksuce_class.record
+  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/AboutN3tw0rm.png',
+    'https://en.wikipedia.org/wiki/Ransomware']
+- !!python/object:darksuce_class.record
   author: null
-  custom: !!set
-    ? !!python/tuple [victim, Ecolog Engineering Ltd]
-    : null
-  data: "\n![ecolog.png](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/ecolog.png)\n\
-    ## About Ecolog Engineering Ltd\nEcolog Engineering Ltd. (Ecolog) is a private\
-    \ consulting and design firm,\nestablished in 2002, specializing in the application\
-    \ of earth sciences and\ncivil engineering on complex projects in the fields of\
-    \ infrastructures and\nenvironmental engineering. These unique capabilities of\
-    \ both earth sciences\nand engineering enables Ecolog to independently provide\
-    \ consulting and\nplanning capability, to a wide range of projects in the following\
-    \ areas: water\nsupply, environmental sciences, geophysics, geology, hydrogeology,\
-    \ civil\nengineering, surface water management, reservoirs design and more.\n\
-    Ecolog closely collaborates in Israel with leading international companies in\n\
-    the fields of civil engineering, earth sciences and the environment. These\ncollaborations\
-    \ assembles international capabilities and enables Ecolog to\nprovide high-quality\
-    \ services that meet international standards.\nEcolog specializes in managing\
-    \ and performing projects that include\nenvironmental impact assessments, geotechnical\
-    \ investigations, geotechnical\nand geological surveys, risk assessments, geophysical\
-    \ surveys, hydrological,\ngeochemical and engineering models, design and setup\
-    \ of integrated water\nsupply systems, reservoirs and dams design, monitoring\
-    \ of pollutants in soil\nand groundwater, design, closure and remediation of landfills,\
-    \ statutory and\nregulatory support, preparation of master plans, regulatory and\
-    \ statutory\nclients representation.\nThe company is presently involved in a variety\
-    \ of projects in Israel and\nabroad.\nEcolog`s list of clients includes leading\
-    \ governmental, municipal and private\nagencies.\n# Ecolog`s areas of expertise\
-    \ include:\n\u2013 Soil and groundwater pollution  \n\u2013 Subsurface mapping\
-    \ and imaging  \n\u2013 Soil engineering  \n\u2013 Geophysics  \n\u2013 Geochemistry\
-    \ of water, soil and rock  \n\u2013 Water resources investigation and supply \
-    \ \n\u2013 Groundwater - surface water interaction  \n\u2013 Solid waste  \n\u2013\
-    \ Landfill gas for energy  \n\u2013 Regulatory and statutory support\nOfficial\
-    \ Website\n* * *\n## What\u2019s going to leak?\nDeadline is counting down\u2026\
-    \ 05/07/2021 \u23F3  \nAbout 210 GB of internal file server going to leak\u2026\
-    \ including project details,\ndesigns, financial documents\u2026\n"
-  hmac: 28e5dea6c91136930d2d6b650571df792f07664e6a5b164858ce33f104018a2b
+  data: "[Ecolog Engineering Ltd]\n[\nAbout Ecolog Engineering Ltd.\nEcolog Engineering\
+    \ Ltd. (Ecolog) is a private consulting and design firm, established in 2002,\
+    \ specializing in the application of earth sciences and civil engineering on complex\
+    \ projects in the fields of infrastructures and environmental engineering. These\
+    \ unique capabilities of both earth sciences and engineering enables Ecolog to\
+    \ independently provide consulting and planning capability, to a wide range of\
+    \ projects in the following areas: water supply, environmental sciences, geophysics,\
+    \ geology, hydrogeology, civil engineering, surface water management, reservoirs\
+    \ design and more.\nEcolog closely collaborates in Israel with leading international\
+    \ companies in the fields of civil engineering, earth sciences and the environment.\
+    \ These collaborations assembles international capabilities and enables Ecolog\
+    \ to provide high-quality services that meet international standards.\nEcolog\
+    \ specializes in managing and performing projects that include environmental impact\
+    \ assessments, geotechnical investigations, geotechnical and geological surveys,\
+    \ risk assessments, geophysical surveys, hydrological, geochemical and engineering\
+    \ models, design and setup of integrated water supply systems, reservoirs and\
+    \ dams design, monitoring of pollutants in soil and groundwater, design, closure\
+    \ and remediation of landfills, statutory and regulatory support, preparation\
+    \ of master plans, regulatory and statutory clients representation.\nThe company\
+    \ is presently involved in a variety of projects in Israel and abroad.\nEcolog`s\
+    \ list of clients includes leading governmental, municipal and private agencies.\n\
+    Ecolog`s areas of expertise include:\n\u2013 Soil and groundwater pollution\n\u2013\
+    \ Subsurface mapping and imaging\n\u2013 Soil engineering\n\u2013 Geophysics\n\
+    \u2013 Geochemistry of water, soil and rock\n\u2013 Water resources investigation\
+    \ and supply\n\u2013 Groundwater - surface water interaction\n\u2013 Solid waste\n\
+    \u2013 Landfill gas for energy\n\u2013 Regulatory and statutory support\nOfficial\
+    \ Website\nWhat\u2019s going to leak?\nDeadline is counting down\u2026 05/07/2021\
+    \ \u23F3\nAbout 210 GB of internal file server going to leak\u2026 including project\
+    \ details, designs, financial documents\u2026\n]"
+  hmac: 9ee1dbb3a87ea777997ab3482e1f069ea618af339a1997641f136464788546ce
   ltype: Shaming list
   malware: Unknown
   source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/ecolog/
-  timestamp: 2021-05-19 20:02:24.069601
-  title: Ecolog Engineering Ltd
-  url: !!set
-    ? !!python/tuple [Official Website, 'http://www.ecolog.co.il/']
-    : null
-- !!python/object:lib.darksuce_class.record
+  timestamp: 2021-05-04 15:04:01.866089
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://www.ecolog.co.il/', 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/ecolog.png']
+- !!python/object:darksuce_class.record
   author: null
-  custom: !!set
-    ? !!python/tuple [victim, HM Israel]
-    : null
-  data: "\n![hm-\npublished.png](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/hm-\n\
-    published.png)\n## Leak package!\n\u26A0\uFE0F When you make the wrong decision...\n\
-    Deadline is over. H&M israel, Match Retail internal documents going to leak.\n\
-    \u2B07\uFE0F HMisrael.7z  \n15361 folders, 305281 files, 116381582580 bytes (109\
-    \ GiB)\n* * *\n## About H&M israel, Match Retail LTD.\nMATCH RETAIL LTD is located\
-    \ in TEL AVIV-JAFFA, Israel and is part of the\nClothing Stores Industry. MATCH\
-    \ RETAIL LTD has 1,200 employees at this\nlocation and generates $121.49 million\
-    \ in sales (USD).\nMatch Retail LTD.  \n7 Ha' Omanim St.  \nTel-Aviv 67897  \n\
-    ISRAEL\n* * *\n## What\u2019s going to leak?\nDeadline is counting down\u2026\
-    \ 05/05/2021 \u23F3  \nAbout 110 GB of internal file server going to leak\u2026\
-    \n"
-  hmac: 716c0c66cf39eefb1df46a33b296a917a59895545c3f5df4d6d28ea3fa6b251e
+  data: "[Ecolog Engineering Ltd]\n[\nAbout Ecolog Engineering Ltd\nEcolog Engineering\
+    \ Ltd. (Ecolog) is a private consulting and design firm, established in 2002,\
+    \ specializing in the application of earth sciences and civil engineering on complex\
+    \ projects in the fields of infrastructures and environmental engineering. These\
+    \ unique capabilities of both earth sciences and engineering enables Ecolog to\
+    \ independently provide consulting and planning capability, to a wide range of\
+    \ projects in the following areas: water supply, environmental sciences, geophysics,\
+    \ geology, hydrogeology, civil engineering, surface water management, reservoirs\
+    \ design and more.\nEcolog closely collaborates in Israel with leading international\
+    \ companies in the fields of civil engineering, earth sciences and the environment.\
+    \ These collaborations assembles international capabilities and enables Ecolog\
+    \ to provide high-quality services that meet international standards.\nEcolog\
+    \ specializes in managing and performing projects that include environmental impact\
+    \ assessments, geotechnical investigations, geotechnical and geological surveys,\
+    \ risk assessments, geophysical surveys, hydrological, geochemical and engineering\
+    \ models, design and setup of integrated water supply systems, reservoirs and\
+    \ dams design, monitoring of pollutants in soil and groundwater, design, closure\
+    \ and remediation of landfills, statutory and regulatory support, preparation\
+    \ of master plans, regulatory and statutory clients representation.\nThe company\
+    \ is presently involved in a variety of projects in Israel and abroad.\nEcolog`s\
+    \ list of clients includes leading governmental, municipal and private agencies.\n\
+    Ecolog`s areas of expertise include:\n\u2013 Soil and groundwater pollution\n\u2013\
+    \ Subsurface mapping and imaging\n\u2013 Soil engineering\n\u2013 Geophysics\n\
+    \u2013 Geochemistry of water, soil and rock\n\u2013 Water resources investigation\
+    \ and supply\n\u2013 Groundwater - surface water interaction\n\u2013 Solid waste\n\
+    \u2013 Landfill gas for energy\n\u2013 Regulatory and statutory support\nOfficial\
+    \ Website\nWhat\u2019s going to leak?\nDeadline is counting down\u2026 05/07/2021\
+    \ \u23F3\nAbout 210 GB of internal file server going to leak\u2026 including project\
+    \ details, designs, financial documents\u2026\n]"
+  hmac: d67ebbcddf86cb44ae374dbe4dce73fdef9584b6bdead6f952feafd97ee7d90e
+  ltype: Shaming list
+  malware: Unknown
+  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/ecolog/
+  timestamp: 2021-05-05 00:03:30.939001
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/ecolog.png',
+    'http://www.ecolog.co.il/']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[HM Israel]\n[\nLeak package!\n\u26A0\uFE0F When you make the wrong decision...\n\
+    Deadline is over. HM israel, Match Retail internal documents going to leak.\n\u2B07\
+    \uFE0F HMisrael.7z\n15361 folders, 305281 files, 116381582580 bytes (109 GiB)\n\
+    About HM israel, Match Retail LTD.\nMATCH RETAIL LTD is located in TEL AVIV-JAFFA,\
+    \ Israel and is part of the Clothing Stores Industry. MATCH RETAIL LTD has 1,200\
+    \ employees at this location and generates $121.49 million in sales (USD).\nMatch\
+    \ Retail LTD.\n7 Ha' Omanim St.\nTel-Aviv 67897\nISRAEL\nWhat\u2019s going to\
+    \ leak?\nDeadline is counting down\u2026 05/05/2021 \u23F3\nAbout 110 GB of internal\
+    \ file server going to leak\u2026\n]"
+  hmac: 7d65f4f853875d65b037d986c44d64246567effc9addfc10bd1344a304823f8e
   ltype: Shaming list
   malware: Unknown
   source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/hm-israel/
-  timestamp: 2021-05-19 20:02:24.880634
-  title: HM Israel
-  url: !!set
-    ? !!python/tuple [HMisrael.7z, 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/HMisrael.7z']
-    : null
-- !!python/object:lib.darksuce_class.record
+  timestamp: 2021-05-05 00:03:32.087723
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/hm-published.png']
+- !!python/object:darksuce_class.record
   author: null
-  custom: !!set
-    ? !!python/tuple [victim, Veritas Logistics LTD]
-    : null
-  data: "\n![veritas-\npublished.png](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/veritas-\n\
-    published.png)\n## Leak package!\n\u26A0\uFE0F When you make the wrong decision...\n\
-    Deadline is over. Veritas Logistics internal documents going to leak.\n\u2B07\uFE0F\
-    \ Veritas.7z  \n5983 folders, 17540 files, 9278795680 bytes\n* * *\n## About Veritas\
-    \ Logistics LTD\nVeritas Group is one of the leading companies in the field of\
-    \ logistics chain,\nsupply chain management and until distribution to the end\
-    \ customer - ONE STOP\nSHOP.\nThe office building owned by the Veritas Group is\
-    \ located in the Lod Business\nPark, which includes all the departments of import,\
-    \ export, exhibitions and\nprojects.\nBranches located at Ben Gurion Airport,\
-    \ Ashdod and Haifa.\nVeritas Logistics has been active in the industry for decades\
-    \ and dominates\nall areas of the logistics supply chain:  \n\u2013 international\
-    \ shipping  \n\u2013 Customs clearance  \n\u2013 Advanced logistics services and\
-    \ outsourcing  \n\u2013 Land transport  \n\u2013 Communication and information\
-    \ systems  \n\u2013 Airline Representation  \n\u2013 Insurance Agents\nIn cooperation\
-    \ with the agents of the Veritas Group in the world, the\ncompany\u2019s customers,\
-    \ exporters and importers, receive an answer to every type\nof logistical activity\
-    \ and shipping: \u201Cfrom anywhere and to anywhere in the\nworld\u201D\nAt Veritas\
-    \ Group, the best professional team, we believe in personal service\n24 hours\
-    \ a day, recording goods, transport to Israel, customs clearance,\nstorage, integration\
-    \ and value-added work according to customer requirements\nwith accuracy, inventory\
-    \ reliability, QC quality control .\nAll information is transmitted to the customer\
-    \ in full transparency in\nadvanced information systems that connect all the factors\
-    \ in the supply chain,\nincluding alerts for any deviated managed deviation.\n\
-    The Veritas Group team, a winning group, that believes in personal,\nprofessional\
-    \ care, efficiency and customer savings.\nOur challenge is renewed every day to\
-    \ fulfill the impossible.\nOfficial Website\n* * *\n## What\u2019s going to leak?\n\
-    Deadline is counting down\u2026 05/03/2021 \u23F3  \nAbout 9 GB of internal file\
-    \ server going to leak\u2026\n"
-  hmac: 82a13ccdc73f3567831fb4baf4968e7c63982738b58e4841e4e713e1eaf2f6e6
+  data: "[Eitan Medical]\n[\nAbout Eitan Medical\nEitan Medical is a medical device\
+    \ company that develops infusion therapy technologies for hospital care and ambulatory\
+    \ settings, as well as wearable solutions for the self-administration of drugs\
+    \ for at-home treatment. Eitan Medical provides connected drug delivery and infusion\
+    \ solutions that are designed to improve patient and clinician quality of life\
+    \ across the continuum of care, including hospital, ambulatory, and home care\
+    \ environments.\nEitan Medical\u2019s flagship infusion solution is the Sapphire\
+    \ infusion family, which offers infusion solutions for hospital, ambulatory, and\
+    \ pre-hospital settings. The Avoset infusion line offers connected, dedicated\
+    \ infusion pumps for home care environments. The Sorrel wearable drug delivery\
+    \ platform is an on-body injector for the delivery of biologic treatments, designed\
+    \ for patient use at home.\nEitan Medical has offices in the United States, France,\
+    \ and the United Kingdom as well as local service providers around the globe to\
+    \ support its customers, distributors, and partners.\nEitan Medical is reimagining\
+    \ drug delivery with reliable innovation that puts patients at the center of care,\
+    \ making infusion easier and safer than ever before. Patient safety and care is\
+    \ only the starting point, as Eitan Medical goes beyond, delivering connected,\
+    \ intuitive infusion solutions that are designed to improve patients\u2019 and\
+    \ clinicians\u2019 quality of life across the continuum of care, including hospital,\
+    \ ambulatory care, and home care solutions. For over a decade, Eitan Medical and\
+    \ its global partners have provided safe, intuitive, and flexible infusion solutions\
+    \ that meet evolving drug delivery needs.\nOfficial Website\nWhat\u2019s going\
+    \ to leak?\nDeadline is counting down\u2026 05/24/2021 \u23F3\nAbout 1.1 TB of\
+    \ internal files going to leak\u2026\n-- TFS repositories, full source codes of\
+    \ projects. \u2139\uFE0F Total Size: 197.9 GiB\n\t+ QCore\n\t\t+ ALM_Platform/\n\
+    \t\t+ AR Projects/\n\t\t+ AVOSET/\n\t\t+ Audits/\n\t\t+ Automation_Platform/\n\
+    \t\t+ BusinessIntelligence/\n\t\t+ ComCradle/\n\t\t+ Core MRD/\n\t\t+ Dummy/\n\
+    \t\t+ FDA readiness/\n\t\t+ Finance/\n\t\t+ Foundation/\n\t\t+ Gravity Set Pump/\n\
+    \t\t+ Hardware/\n\t\t+ IT/\n\t\t+ Injector/\n\t\t+ Integration/\n\t\t+ LVP/\n\t\
+    \t+ Lego Team/\n\t\t+ NGPumps/\n\t\t+ PCTI/\n\t\t+ PCTP/\n\t\t+ Patch Pump/\n\t\
+    \t+ Product/\n\t\t+ QCoreDemo/\n\t\t+ SAPQCore/\n\t\t+ SDI/\n\t\t+ SW-QA/\n\t\t\
+    + Sapphire12/\n\t\t+ SapphireR11/\n\t\t+ Sorrel/\n\t\t+ System/\n\t\t+ TestTeamDudu/\n\
+    \t\t+ Tools/\n\t\t+ ap34/\n\t\t+ dummytest/\n\t\t+ sapphire/\n\t+ QCoreCollection\n\
+    \t\t+ Administration Platform (ADP)/\n\t\t+ Auto Testing Gen II/\n\t\t+ Box Tracker/\n\
+    \t\t+ CalibrationDateReset/\n\t\t+ DB Definition Generator/\n\t\t+ DB Objects\
+    \ Manager/\n\t\t+ Drug Library Editor/\n\t\t+ EVA Pump Gen I/\n\t\t+ EVA Pump\
+    \ Gen II/\n\t\t+ Fix DB File/\n\t\t+ Font Builder/\n\t\t+ LCM II Boot/\n\t\t+\
+    \ LCM II GUI/\n\t\t+ LCM II/\n\t\t+ Pump Boot Assistant II/\n\t\t+ Pump Boot Loader\
+    \ II/\n\t\t+ Pump GUI Builder II/\n\t\t+ QCProxy/\n\t\t+ QCore Server/\n\t\t+\
+    \ Shared/\n\t\t+ Team Build Test/\n\t\t+ Team Test/\n\t\t+ User.h/\n\t\t+ Watch\
+    \ Dog/\n\t\t+ WiFi Locator/\n\t\t+ Yearly Certification Kit/\n-- DATA file server.\
+    \ \u2139\uFE0F Total Size: 557.5 GiB\n\t+ RD\\Investigations\n\t+ RD\\Projects\n\
+    \t+ IT\\WIKI\n\t+ Company Documents\n\t+ HR\n\t+ Staff\n\t+ RA\n-- QUSR file server.\
+    \ \u2139\uFE0F Total Size: 413.4 GiB\n\t+ Private\n]"
+  hmac: d02ca630ff0747ba59843fbd3452c2a6df6bbb7299022dfc301e63d9d369139a
   ltype: Shaming list
   malware: Unknown
-  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/veritas/
-  timestamp: 2021-05-19 20:02:26.189203
-  title: Veritas Logistics LTD
-  url: !!set
-    ? !!python/tuple [Official Website, 'https://www.veritas.co.il/']
-    : null
-    ? !!python/tuple [Veritas.7z, 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/Veritas.7z']
-    : null
-- !!python/object:lib.darksuce_class.record
+  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/eitanmedical/
+  timestamp: 2021-05-19 18:05:09.996394
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/eitan.png',
+    'http://www.eitanmedical.com/']
+- !!python/object:darksuce_class.record
   author: null
-  custom: !!set
-    ? !!python/tuple [victim, Introduction to N3tw0rm]
-    : null
-  data: "\n![AboutN3tw0rm.png](http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/AboutN3tw0rm.png)\n\
-    ## What is Ransomware?\nRansomware is a type of malware from cryptovirology that\
-    \ threatens to publish\nthe victim's data or perpetually block access to it unless\
-    \ a ransom is paid.\nWhile some simple ransomware may lock the system so that\
-    \ it is not difficult\nfor a knowledgeable person to reverse, more advanced malware\
-    \ uses a technique\ncalled cryptoviral extortion. It encrypts the victim's files,\
-    \ making them\ninaccessible, and demands a ransom payment to decrypt them. In\
-    \ a properly\nimplemented cryptoviral extortion attack, recovering the files without\
-    \ the\ndecryption key is an intractable problem \u2013 and difficult to trace\
-    \ digital\ncurrencies such as paysafecard or Bitcoin and other cryptocurrencies\
-    \ are used\nfor the ransoms, making tracing and prosecuting the perpetrators difficult.\n\
-    Read more\u2026\n* * *\n## What about N3tw0rm?\n**N3tw0rm** provides enterprise-level\
-    \ of ransomware attacks!\n\u2013 **Gaining access**  \nas you should know every\
-    \ network could be hacked, or should be hacked! so\ndon\u2019t worry about your\
-    \ network because you\u2019re not the first and of course not\nthe last!\n\u2013\
-    \ **Privilege escalation**  \nI always looking for domain admins. Reserve it for\
-    \ me!\n\u2013 **Netowkr discovery**  \nNow I\u2019m going to discovering all your\
-    \ network spots!\n\u2013 **Dumping important information**  \nEverything is moves\
-    \ better when you have guarantee in your hands!\n\u2013 **Encrypting whole network**\
-    \  \nMost interesting part going to start and your entire network get encryptd.\
-    \ All\nWorkstations, Servers, Databases, File Servers, Shared Folders\u2026 it\u2019\
-    s really\nhurts!\n\u2013 **Payment and Recovering your data**  \n\u26A0 Red pill\
-    \ or Blue pill? Whats is your decision? choose wisely!\n\u2705 **Win-Win** : \
-    \ \nIdeal situation. At this point we have a success deal and you will receive\n\
-    your decryptor.  \nHow to gain? Easy as a piece of cake.  \nWhen you paid your\
-    \ network fee mentioned on your message before deadline.  \nWin-win outcomes occur\
-    \ when each side feels they have won.\n\u274C **Win-Lose** :  \nWorst situation\
-    \ ever!  \nBe careful what you choose, you may get this situation.  \nWhen you\
-    \ lose your time and deadline is over without any payment so we are on\nwin-lose!\
-    \  \nAt this point your data going to publish and you didn\u2019t able to decrypt\
-    \ your\nnetwork so you loses.  \nWin-lose situations result when only one side\
-    \ perceives the outcome as\npositive. I\u2019m always wins!\n* * *\n\u26A0 Don\u2019\
-    t try to change files by yourself, Don\u2019t use any third party software\nfor\
-    \ restoring your data or antivirus solutions.  \n\u26A0 Don\u2019t modify encrypted\
-    \ files or you can damage them and decryption will be\nimpossible!\n"
-  hmac: 6b57d93ba5f20637ae4edba14afdd864794c4bca4b52cab8cbc92ea3a0a5cf60
+  data: "[Eitan Medical]\n[\nLeak package!\n\u26A0\uFE0F When you make the wrong decision...\n\
+    Deadline is over. Eitan Medical files going to leak.\nDue to size of extracted\
+    \ data, preparing leak packages need more time\n\u2B07\uFE0F DATA.7z\n86710 folders,\
+    \ 586515 files, 598660497783 bytes (558 GiB)\nWill be adding soon\u2026\n\u2B07\
+    \uFE0F QUSR.7z\n51658 folders, 458902 files, 443920773922 bytes (414 GiB)\nWill\
+    \ be adding soon\u2026\n\u2B07\uFE0F TFS.7z]"
+  hmac: f961fd2bb59ae694544bf20a60fef20907449e8ff69c45b2591e12e5cdbec121
   ltype: Shaming list
   malware: Unknown
-  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/introduction-to-n3tw0rm/
-  timestamp: 2021-05-19 20:02:27.406448
-  title: Introduction to N3tw0rm
-  url: !!set
-    ? !!python/tuple ["Read more\u2026", 'https://en.wikipedia.org/wiki/Ransomware']
-    : null
+  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/eitanmedical/
+  timestamp: 2021-05-24 03:02:31.656947
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/eitan.png']
+- !!python/object:darksuce_class.record
+  author: null
+  data: "[Ecolog Engineering Ltd]\n[\nLeak package!\n\u26A0\uFE0F When you make the\
+    \ wrong decision...\nDeadline is over. Ecolog Engineering Ltd internal documents\
+    \ going to leak.\n\u2B07\uFE0F Ecolog.7z\nAbout Ecolog Engineering Ltd\nEcolog\
+    \ Engineering Ltd. (Ecolog) is a private consulting and design firm, established\
+    \ in 2002, specializing in the application of earth sciences and civil engineering\
+    \ on complex projects in the fields of infrastructures and environmental engineering.\
+    \ These unique capabilities of both earth sciences and engineering enables Ecolog\
+    \ to independently provide consulting and planning capability, to a wide range\
+    \ of projects in the following areas: water supply, environmental sciences, geophysics,\
+    \ geology, hydrogeology, civil engineering, surface water management, reservoirs\
+    \ design and more.\nEcolog closely collaborates in Israel with leading international\
+    \ companies in the fields of civil engineering, earth sciences and the environment.\
+    \ These collaborations assembles international capabilities and enables Ecolog\
+    \ to provide high-quality services that meet international standards.\nEcolog\
+    \ specializes in managing and performing projects that include environmental impact\
+    \ assessments, geotechnical investigations, geotechnical and geological surveys,\
+    \ risk assessments, geophysical surveys, hydrological, geochemical and engineering\
+    \ models, design and setup of integrated water supply systems, reservoirs and\
+    \ dams design, monitoring of pollutants in soil and groundwater, design, closure\
+    \ and remediation of landfills, statutory and regulatory support, preparation\
+    \ of master plans, regulatory and statutory clients representation.\nThe company\
+    \ is presently involved in a variety of projects in Israel and abroad.\nEcolog`s\
+    \ list of clients includes leading governmental, municipal and private agencies.\n\
+    Ecolog`s areas of expertise include:\n\u2013 Soil and groundwater pollution\n\u2013\
+    \ Subsurface mapping and imaging\n\u2013 Soil engineering\n\u2013 Geophysics\n\
+    \u2013 Geochemistry of water, soil and rock\n\u2013 Water resources investigation\
+    \ and supply\n\u2013 Groundwater - surface water interaction\n\u2013 Solid waste\n\
+    \u2013 Landfill gas for energy\n\u2013 Regulatory and statutory support\nOfficial\
+    \ Website\nWhat\u2019s going to leak?\nDeadline is counting down\u2026 05/07/2021\
+    \ \u23F3\nAbout 210 GB of internal file server going to leak\u2026 including project\
+    \ details, designs, financial documents\u2026\n]"
+  hmac: ad40cb5094c45a8b4b4f886432809941a2e514d50150605146f7f45ce6a78e27
+  ltype: Shaming list
+  malware: Unknown
+  source: http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/post/ecolog/
+  timestamp: 2021-05-24 03:02:32.975354
+  title: N3tWorm - Enterprise level ransomware
+  url: ['http://www.ecolog.co.il/', 'http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion/images/ecolog.png']

@@ -1,0 +1,90 @@
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "CD Projekt S.A. is a Polish video game developer, publisher and distributor\n\
+    based in Warsaw, founded in May 1994 by Marcin Iwi\u0144ski and Micha\u0142 Kici\u0144\
+    ski.\nIwi\u0144ski and Kici\u0144ski were video game retailers before they founded\
+    \ the\ncompany, which initially acted as a distributor of foreign video games\
+    \ for the\ndomestic\n\n"
+  hmac: 65eb9e6b0f4fad2474e49f035634c7c230dc9be3133de93f7a177eae8a504ff1
+  ltype: Shaming list
+  malware: Payload.bin
+  source: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/content/3
+  timestamp: 2021-07-11 12:13:06.760658
+  title: CD Projekt all Source Code
+  url: !!set {'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/LT.7z': null,
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/acam.7z': null,
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/cp.7z': null,
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/gwent.7z': null,
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/nintendo.7z': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'New blog
+
+
+    '
+  hmac: 2f6d16c991affbefe3cab8e0d6badb9e86b3cae1aa0e6f5f4d5225d79fcdcd42
+  ltype: Shaming list
+  malware: Payload.bin
+  source: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/content/5
+  timestamp: 2021-07-11 12:13:06.760689
+  title: Payload.bin - For press 1
+  url: !!set {'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion': null}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'Toyo Tanso USA is located in Troutdale, OR, United States and is part of
+    the
+
+    Electrical Products Manufacturing Industry. Toyo Tanso USA has 160 total
+
+    employees across all of its locations and generates $23.92 million in sales
+
+    (USD). (Sales figure is modelled). There are 29 companies in the Toyo Tanso
+
+    USA corporate family.
+
+
+    '
+  hmac: fde4bc89d07261c4528ade86e0c18dab0df92472fe2001e193a8e8fab4094e2a
+  ltype: Shaming list
+  malware: Payload.bin
+  source: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/content/4
+  timestamp: 2021-07-11 12:13:06.760698
+  title: Payload.bin - TOYO TANSO USA
+  url: !!set {}
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: 'New blog
+
+    '
+  hmac: e3a0eb5927285a6e3ff6d4975586a7610d1cd9fa854a8ba7e104572a2622e738
+  ltype: Shaming list
+  malware: Payload.bin
+  source: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/content/5
+  timestamp: 2021-07-11 12:13:06.760707
+  title: Payload.bin - For press 1
+  url: ['http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion']
+- !!python/object:darksuce_class.record
+  author: ''
+  custom: !!set {}
+  data: "CD Projekt S.A. is a Polish video game developer, publisher and distributor\n\
+    based in Warsaw, founded in May 1994 by Marcin Iwi\u0144ski and Micha\u0142 Kici\u0144\
+    ski.\nIwi\u0144ski and Kici\u0144ski were video game retailers before they founded\
+    \ the\ncompany, which initially acted as a distributor of foreign video games\
+    \ for the\ndomestic\n"
+  hmac: 836fbd1c7c354978a42f11d66959160f0e0a85a429d5200cc7a6b188c372020d
+  ltype: Shaming list
+  malware: Payload.bin
+  source: http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/content/3
+  timestamp: 2021-07-11 12:13:06.760714
+  title: Payload.bin - CD Projekt all Source Code
+  url: ['http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/rare.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/cp.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/ps5.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/LT.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/nintendo.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/acam.7z',
+    'http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion/cdproject/gwent.7z']

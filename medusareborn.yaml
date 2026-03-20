@@ -22,13 +22,12 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578024
+  timestamp: 2021-10-10 21:11:24.677623
   title: Data Leak Blog
-  url: ['https://drive.google.com/file/d/1QXEaPHKKy-ORuNAU9Rzj0VYbkwl-9pCi/view?usp=sharing',
-    'https://campusmccd-my.sharepoint.com/:t:/g/personal/bella_sollom_campus_mccd_edu/ES5_YNVuIC5Ph3BIoe43b9kBK1tB1Sf0NvB6JteRrt1oOA?e=DKgaRh',
+  url: ['https://i.imgur.com/J44MAqH.png', 'https://campusmccd-my.sharepoint.com/:t:/g/personal/bella_sollom_campus_mccd_edu/ES5_YNVuIC5Ph3BIoe43b9kBK1tB1Sf0NvB6JteRrt1oOA?e=DKgaRh',
     'https://drive.google.com/file/d/1jjmWTUHANMR2WQ68zC32P3iSFIaChVBI/view?usp=sharing',
-    'https://drive.google.com/file/d/1pQkyff7DD1gcE7BIWV5Xgj7wBb1Roi14/view?usp=sharing',
-    'https://i.imgur.com/J44MAqH.png', 'https://myrgroup.com/']
+    'https://drive.google.com/file/d/1QXEaPHKKy-ORuNAU9Rzj0VYbkwl-9pCi/view?usp=sharing',
+    'https://myrgroup.com/', 'https://drive.google.com/file/d/1pQkyff7DD1gcE7BIWV5Xgj7wBb1Roi14/view?usp=sharing']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
@@ -43,10 +42,10 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578065
+  timestamp: 2021-10-10 21:11:24.677706
   title: Data Leak Blog
-  url: ['https://mega.nz/file/lXgXgSYJ#CXe7sDB5E5vJfyEsvqdsFiZtVrl2K_gIbZfrHeONQFo',
-    'https://i.imgur.com/q6rOGBd.jpg', 'https://i.imgur.com/MM2b7G1.jpg', 'https://nspaincare.com']
+  url: ['https://nspaincare.com', 'https://i.imgur.com/MM2b7G1.jpg', 'https://i.imgur.com/q6rOGBd.jpg',
+    'https://mega.nz/file/lXgXgSYJ#CXe7sDB5E5vJfyEsvqdsFiZtVrl2K_gIbZfrHeONQFo']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
@@ -62,10 +61,9 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578074
+  timestamp: 2021-10-10 21:11:24.677717
   title: Data Leak Blog
-  url: ['https://mega.nz/file/gHQ01AAQ#CiT6drmKDdaR7I3snxWh6YDF3rbtWOYX8_3Yj1vFkrI',
-    'https://jamestan.co.uk']
+  url: ['https://jamestan.co.uk', 'https://mega.nz/file/gHQ01AAQ#CiT6drmKDdaR7I3snxWh6YDF3rbtWOYX8_3Yj1vFkrI']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
@@ -81,10 +79,10 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578081
+  timestamp: 2021-10-10 21:11:24.677726
   title: Data Leak Blog
-  url: ['https://mega.nz/file/IKAWjA7S#W4Z7PeSjZbmAWNi-8m67DoJ0X6hLnU8Yb9NBIxizqBw',
-    'http://asu-nvg.com/', 'https://i.imgur.com/dyeKv2Y.png']
+  url: ['https://i.imgur.com/dyeKv2Y.png', 'https://mega.nz/file/IKAWjA7S#W4Z7PeSjZbmAWNi-8m67DoJ0X6hLnU8Yb9NBIxizqBw',
+    'http://asu-nvg.com/']
 - !!python/object:darksuce_class.record
   author: null
   custom: !!set {}
@@ -99,7 +97,7 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578087
+  timestamp: 2021-10-10 21:11:24.677735
   title: Data Leak Blog
   url: ['https://gilmerisd.org']
 - !!python/object:darksuce_class.record
@@ -111,7 +109,7 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578093
+  timestamp: 2021-10-10 21:11:24.677744
   title: Data Leak Blog
   url: ['https://mega.nz/file/ZCpxyJQD#xlduI73aEaz-gJcfBSvSE5YHPb8qYg6DNpBU2Wc-Ojo']
 - !!python/object:darksuce_class.record
@@ -128,6 +126,69 @@
   ltype: Shaming list
   malware: Medusalocker, Ako
   source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
-  timestamp: 2021-06-03 20:26:45.578098
+  timestamp: 2021-10-10 21:11:24.677753
   title: Data Leak Blog
-  url: ['https://clarkpartington.com/', 'https://clarkpartington.com', 'https://mega.nz/#!0KwSkA7Z!goAby3MgA3X2lJdrL9E69IahW_kGnGKuSyEi3w4bmBw']
+  url: ['https://mega.nz/#!0KwSkA7Z!goAby3MgA3X2lJdrL9E69IahW_kGnGKuSyEi3w4bmBw',
+    'https://clarkpartington.com', 'https://clarkpartington.com/']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Hamilton-Brown | Creative design agency
+
+    Beep-beep, demo employees dump.
+
+    Site: https://hamilton-brown.com/
+
+    Stolen files: click(upd. Add more employees)
+
+    You have 7 days for contact us.'
+  hmac: fafcf81e26fd43624c5ddac50c0bbf2e7be598df718e62d1eea542cb421a7c9e
+  ltype: Shaming list
+  malware: Medusalocker, Ako
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-10-10 21:11:24.677762
+  title: Data Leak Blog
+  url: ['https://hamilton-brown.com/', 'https://we.tl/t-Tx8xreVFHE']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Bruns Building  Development
+
+    Site: http://www.brunsbuilding.com/
+
+    Stolen files: soon'
+  hmac: 055caa81ac21ac6666ce1872c1f2c55a91b92012ffe17355ed9abbe067ec4509
+  ltype: Shaming list
+  malware: Medusalocker, Ako
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-10-10 21:11:24.677771
+  title: Data Leak Blog
+  url: ['http://www.brunsbuilding.com/', 'https://i.imgur.com/5Yeqjlk.png']
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: 'Hidden company from Ottawa
+
+    Info about all patients.
+
+    Site: soon
+
+    Stolen files: soon'
+  hmac: 4f9428daa61249d4f1f6ebc3ca459b8ffe25fb1b76a195ee8ac2a4899b4e0dac
+  ltype: Shaming list
+  malware: Medusalocker, Ako
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-10-10 21:11:24.677780
+  title: Data Leak Blog
+  url: []
+- !!python/object:darksuce_class.record
+  author: null
+  custom: !!set {}
+  data: Reborn soon
+  hmac: 05c9c6b7ac41fa3c44f82630d6b57b7fcde57dcf44a088cb96528bda6061bbcd
+  ltype: Shaming list
+  malware: Medusalocker, Ako
+  source: http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion/
+  timestamp: 2021-10-10 21:11:24.677788
+  title: Data Leak Blog
+  url: []
